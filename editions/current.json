@@ -1,0 +1,704 @@
+{
+  "edition": "2026-11-05-pm",
+  "publishedAt": "2026-11-05T18:30:00+09:00",
+  "sourceCount": 8,
+  "articles": [
+    {
+      "key": "2026-11-05-pm-1",
+      "section": "money",
+      "title": "Hackers Steal Over $6 Billion From Crypto Exchange Binance",
+      "easyKo": "세계 최대급 가상화폐 거래소 바이낸스가 해킹당해 63억 달러가 넘는 돈이 털렸어요. 미국 FBI는 북한 군 해킹 부대가 한 일이라고 밝혔어요. 바이낸스는 고객이 잃은 코인을 거의 다 메워 줬다고 해요.",
+      "paragraphs": [
+        {
+          "en": "Binance, the world's largest crypto exchange, was hacked this week. Thieves took just over $6.3 billion in digital money. It took them only about 20 minutes.",
+          "ko": "세계 최대 가상화폐 거래소인 바이낸스가 이번 주 해킹을 당했어요. 해커들은 63억 달러가 조금 넘는 디지털 자산을 가져갔고, 걸린 시간은 약 20분뿐이었어요."
+        },
+        {
+          "en": "The FBI said on Saturday that North Korea was behind the attack. It said a hacking unit in the North Korean military did it. The same unit stole $1.5 billion from the exchange Bybit last year.",
+          "ko": "FBI는 토요일에 북한이 이번 공격의 배후라고 밝혔어요. 북한 군의 해킹 부대가 저질렀다는 거예요. 같은 부대가 지난해 거래소 바이비트에서 15억 달러를 훔쳤어요."
+        },
+        {
+          "en": "Binance and its partners froze about $3 billion of the stolen money. Binance said it had replaced nearly all the coins its customers lost. Critics say crypto exchanges face weaker rules than Wall Street firms.",
+          "ko": "바이낸스와 협력사들은 훔쳐 간 돈 가운데 약 30억 달러를 동결했어요. 바이낸스는 고객이 잃은 코인을 거의 다 채워 넣었다고 밝혔어요. 비판하는 쪽은 가상화폐 거래소가 월가 회사보다 느슨한 규칙을 받는다고 말해요."
+        }
+      ],
+      "keySentence": "The FBI said on Saturday that North Korea was behind the attack.",
+      "glosses": [
+        {
+          "text": "crypto exchange",
+          "meaning": "가상화폐(암호화폐)를 사고파는 거래소",
+          "level": 1
+        },
+        {
+          "text": "Binance",
+          "meaning": "바이낸스(가상화폐 거래소 이름)",
+          "level": 0
+        },
+        {
+          "text": "Bybit",
+          "meaning": "바이비트(가상화폐 거래소 이름)",
+          "level": 0
+        },
+        {
+          "text": "FBI",
+          "meaning": "미국 연방수사국",
+          "level": 1
+        },
+        {
+          "text": "North Korea",
+          "meaning": "북한",
+          "level": 0
+        },
+        {
+          "text": "hacking unit",
+          "meaning": "해킹을 맡은 부대",
+          "level": 2
+        },
+        {
+          "text": "froze",
+          "meaning": "(돈을) 동결했다, 못 쓰게 묶었다",
+          "level": 2
+        },
+        {
+          "text": "Wall Street",
+          "meaning": "월가, 미국 금융 중심가",
+          "level": 1
+        },
+        {
+          "text": "rules",
+          "meaning": "규칙, 규제",
+          "level": 1
+        },
+        {
+          "text": "exchange",
+          "meaning": "거래소",
+          "level": 1
+        },
+        {
+          "text": "stolen",
+          "meaning": "훔친, 도난당한",
+          "level": 1
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
+        }
+      ]
+    },
+    {
+      "key": "2026-11-05-pm-2",
+      "section": "tech",
+      "title": "Nearly Two-Thirds of US Teens Use AI Chatbots, Surveys Find",
+      "easyKo": "미국 10대와 그보다 어린 아이들의 3분의 2 가까이가 AI 챗봇을 쓴다는 조사가 나왔어요. 숙제에 많이 쓰지만 불안하거나 외로울 때도 찾는다고 해요. 연구자들은 챗봇이 정신 건강을 해치는지는 아직 분명하지 않다고 말해요.",
+      "paragraphs": [
+        {
+          "en": "Two new surveys show that nearly two-thirds of American tweens and teens use AI chatbots. Most use them for schoolwork. Many also turn to them when they feel stressed, lonely or anxious.",
+          "ko": "새 조사 두 건에 따르면 미국 10대 초중반과 10대의 3분의 2 가까이가 AI 챗봇을 써요. 대부분 학교 공부에 쓰고, 스트레스를 받거나 외롭거나 불안할 때 찾는 아이도 많아요."
+        },
+        {
+          "en": "Common Sense Media found that nearly half of children aged 9 to 12 have used a chatbot. By age 13, nearly three-quarters have. The JED Foundation surveyed 5,500 students aged 9 to 17, and 90% had used one.",
+          "ko": "커먼 센스 미디어는 9~12세 어린이의 절반 가까이가 챗봇을 써 봤다고 밝혔어요. 13세가 되면 4분의 3 가까이가 써 봤어요. JED 재단은 9~17세 학생 5,500명을 조사했는데 90%가 써 본 적이 있었어요."
+        },
+        {
+          "en": "Researchers say it is unclear whether chatbots hurt mental health or whether students in distress simply use them more. One study found that middle schoolers who used chatbots for company grew lonelier over time.",
+          "ko": "연구자들은 챗봇이 정신 건강을 해치는지, 아니면 힘든 학생이 챗봇을 더 많이 쓰는 것인지 분명하지 않다고 말해요. 한 연구에서는 친구처럼 챗봇을 쓴 중학생들이 시간이 갈수록 더 외로워졌어요."
+        }
+      ],
+      "keySentence": "Two new surveys show that nearly two-thirds of American tweens and teens use AI chatbots.",
+      "glosses": [
+        {
+          "text": "tweens",
+          "meaning": "10~12세 전후의 어린이",
+          "level": 3
+        },
+        {
+          "text": "AI chatbots",
+          "meaning": "AI 대화 프로그램(챗봇)",
+          "level": 1
+        },
+        {
+          "text": "Common Sense Media",
+          "meaning": "커먼 센스 미디어(미국 어린이 미디어 단체)",
+          "level": 0
+        },
+        {
+          "text": "JED Foundation",
+          "meaning": "JED 재단(청소년 정신 건강 단체)",
+          "level": 0
+        },
+        {
+          "text": "turn to",
+          "meaning": "~에 의지하다, 찾다",
+          "level": 2
+        },
+        {
+          "text": "in distress",
+          "meaning": "괴로운 상태에 있는",
+          "level": 3
+        },
+        {
+          "text": "for company",
+          "meaning": "말동무로, 친구 삼아",
+          "level": 2
+        },
+        {
+          "text": "middle schoolers",
+          "meaning": "중학생들",
+          "level": 1
+        },
+        {
+          "text": "mental health",
+          "meaning": "정신 건강",
+          "level": 1
+        },
+        {
+          "text": "surveys",
+          "meaning": "설문 조사",
+          "level": 1
+        },
+        {
+          "text": "anxious",
+          "meaning": "불안한",
+          "level": 2
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media"
+        }
+      ]
+    },
+    {
+      "key": "2026-11-05-pm-3",
+      "section": "world",
+      "title": "Indian Navy Frees Iranian Fishing Boat Hijacked Off Somalia",
+      "easyKo": "인도 해군이 소말리아 앞바다에서 납치된 이란 어선과 선원 20명을 구했어요. 48시간 넘게 이어진 작전이었고 인도 쪽은 사상자가 없었다고 밝혔어요. 다만 선원 수는 현지 관리 설명(21명)과 달라요. 이 지역에서는 소말리아 해적이 다시 늘고 있어요.",
+      "paragraphs": [
+        {
+          "en": "Indian naval forces freed an Iranian fishing boat called the Azini and its crew of 20. Pirates hijacked the boat off Somalia on Oct. 29. The rescue ended Monday in the Arabian Sea, more than 3,000 kilometers from Mumbai, India's Defense Ministry said.",
+          "ko": "인도 해군이 이란 어선 아지니호와 선원 20명을 구했어요. 이 배는 10월 29일 소말리아 앞바다에서 해적에게 납치됐어요. 인도 국방부는 구출이 월요일 아라비아해에서 끝났고, 뭄바이에서 3,000km 넘게 떨어진 곳이었다고 밝혔어요."
+        },
+        {
+          "en": "The operation lasted more than 48 hours and used a warship, a surveillance aircraft and marine commandos. The ministry reported no casualties, but it did not say whether that covered everyone aboard. An official in Somalia's Puntland region said Indian forces disarmed 12 suspected pirates and released them.",
+          "ko": "작전은 48시간 넘게 이어졌고 군함, 감시 항공기, 해병 특공대가 동원됐어요. 국방부는 작전에서 사상자가 없었다고 했지만, 모든 탑승자를 가리키는지는 분명하지 않아요. 소말리아 푼틀란드 지역 관리는 인도군이 해적 용의자 12명의 무기를 빼앗고 풀어 줬다고 말했어요."
+        },
+        {
+          "en": "The hijacking follows a return of Somali piracy in the Gulf of Aden and the western Indian Ocean. The Iran war has already made shipping routes in the region riskier.",
+          "ko": "이번 납치는 아덴만과 인도양 서부에서 소말리아 해적이 되살아난 가운데 일어났어요. 이란 전쟁 때문에 이 지역 뱃길은 이미 더 위험해진 상태예요."
+        }
+      ],
+      "keySentence": "Indian naval forces freed an Iranian fishing boat called the Azini and its crew of 20.",
+      "glosses": [
+        {
+          "text": "hijacked",
+          "meaning": "납치했다(배·비행기를)",
+          "level": 2
+        },
+        {
+          "text": "Azini",
+          "meaning": "아지니(배 이름)",
+          "level": 0
+        },
+        {
+          "text": "Arabian Sea",
+          "meaning": "아라비아해",
+          "level": 1
+        },
+        {
+          "text": "Defense Ministry",
+          "meaning": "국방부",
+          "level": 1
+        },
+        {
+          "text": "marine commandos",
+          "meaning": "해병 특공대",
+          "level": 3
+        },
+        {
+          "text": "surveillance aircraft",
+          "meaning": "감시용 항공기",
+          "level": 3
+        },
+        {
+          "text": "disarmed",
+          "meaning": "무기를 빼앗았다",
+          "level": 3
+        },
+        {
+          "text": "suspected pirates",
+          "meaning": "해적 혐의자들",
+          "level": 3
+        },
+        {
+          "text": "Puntland",
+          "meaning": "푼틀란드(소말리아 북동부 자치 지역)",
+          "level": 0
+        },
+        {
+          "text": "Gulf of Aden",
+          "meaning": "아덴만(소말리아 북쪽 바다)",
+          "level": 1
+        },
+        {
+          "text": "piracy",
+          "meaning": "해적 행위",
+          "level": 3
+        },
+        {
+          "text": "shipping routes",
+          "meaning": "배가 다니는 뱃길",
+          "level": 2
+        },
+        {
+          "text": "crew",
+          "meaning": "선원들",
+          "level": 1
+        },
+        {
+          "text": "Somalia",
+          "meaning": "소말리아",
+          "level": 0
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia"
+        }
+      ]
+    },
+    {
+      "key": "2026-11-05-pm-4",
+      "section": "campus",
+      "title": "Some US Colleges Let Students Live in Retirement Communities",
+      "easyKo": "미국 일부 대학은 학생이 기숙사 대신 노인 주거 단지에서 살게 해요. 학생은 매주 봉사를 하고 월세를 싸게 내요. 학생도 어르신도 덜 외로워졌다고 해요.",
+      "paragraphs": [
+        {
+          "en": "Some US universities let students live in retirement communities. At St. Camillus, a senior living community near Milwaukee, five students live beside older residents. Daija Holliday, a Ph.D. student at Marquette University, is one of them.",
+          "ko": "미국 일부 대학은 학생이 노인 주거 단지에서 살 수 있게 해요. 밀워키 근처 세인트 카밀러스에서는 학생 다섯 명이 어르신들 곁에서 살아요. 마켓대 박사과정 학생 다이자 홀리데이도 그중 한 명이에요."
+        },
+        {
+          "en": "Marquette began the program in 2022. The students volunteer at least eight hours a week with the residents. In return they pay about $600 a month for an apartment, well below market rate.",
+          "ko": "마켓대는 2022년에 이 프로그램을 시작했어요. 학생들은 주당 최소 8시간 어르신들과 봉사 활동을 해요. 그 대가로 아파트 월세를 약 600달러만 내는데, 시세보다 훨씬 싸요."
+        },
+        {
+          "en": "AARP estimates that at least 80 US universities work with retirement communities. The students say life in a new city feels less lonely, and the older residents say the same.",
+          "ko": "미국은퇴자협회(AARP)는 최소 80개 미국 대학이 노인 주거 단지와 함께한다고 추정해요. 학생들은 낯선 도시 생활이 덜 외롭다고 하고, 어르신들도 같은 말을 해요."
+        }
+      ],
+      "keySentence": "The students say life in a new city feels less lonely, and the older residents say the same.",
+      "glosses": [
+        {
+          "text": "retirement communities",
+          "meaning": "은퇴한 노인들이 모여 사는 주거 단지",
+          "level": 2
+        },
+        {
+          "text": "senior living community",
+          "meaning": "노인 주거 단지",
+          "level": 2
+        },
+        {
+          "text": "Ph.D. student",
+          "meaning": "박사과정 학생",
+          "level": 2
+        },
+        {
+          "text": "Marquette University",
+          "meaning": "마켓대학교(미국 위스콘신주)",
+          "level": 0
+        },
+        {
+          "text": "St. Camillus",
+          "meaning": "세인트 카밀러스(노인 주거 단지 이름)",
+          "level": 0
+        },
+        {
+          "text": "below market rate",
+          "meaning": "시세보다 싼",
+          "level": 3
+        },
+        {
+          "text": "AARP",
+          "meaning": "미국은퇴자협회",
+          "level": 1
+        },
+        {
+          "text": "volunteer",
+          "meaning": "봉사하다",
+          "level": 1
+        },
+        {
+          "text": "in return",
+          "meaning": "그 대가로",
+          "level": 2
+        },
+        {
+          "text": "estimates",
+          "meaning": "추정한다",
+          "level": 2
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities"
+        }
+      ]
+    },
+    {
+      "key": "2026-11-05-pm-5",
+      "section": "science",
+      "title": "Study Finds That Some Seabirds Seem to Get Jet Lag",
+      "easyKo": "맹크스슴새라는 바닷새가 시차 때문에 살짝 길을 잃는 것 같다는 연구가 나왔어요. 이 새는 해를 나침반처럼 쓰는 것으로 여겨지는데, 몸속 시계가 어긋나면 방향이 틀어져요. 오차는 아주 작아서 길이 거의 늘지 않았어요.",
+      "paragraphs": [
+        {
+          "en": "A new study in the journal Science says some birds seem to get jet lag. The birds are Manx shearwaters, seabirds common in the British Isles. They look a little like gulls but are closely related to the albatross.",
+          "ko": "과학 학술지 사이언스에 실린 새 연구는 일부 새도 시차증을 겪는 것 같다고 해요. 그 새는 영국 제도에 흔한 바닷새 맹크스슴새예요. 갈매기를 조금 닮았지만 알바트로스와 가까운 친척이에요."
+        },
+        {
+          "en": "The birds hunt fish and squid in the North Atlantic for up to two weeks. Then they rush home to their nests, often in about a day. Researchers think they use the sun as a compass, so they need to know the time of day.",
+          "ko": "이 새들은 북대서양에서 최대 2주 동안 물고기와 오징어를 사냥해요. 그런 다음 보통 하루쯤 걸려 둥지로 서둘러 돌아가요. 연구자들은 새가 해를 나침반으로 쓴다고 보는데, 그러려면 지금이 하루 중 언제인지 알아야 해요."
+        },
+        {
+          "en": "Patrick Lewin of the University of Oxford checked GPS data from 20 years of bird tracking. He found that the birds veered slightly off course on the way home. The biggest error was seven degrees, which added only about three miles to a 600-mile trip.",
+          "ko": "옥스퍼드대의 패트릭 루인은 20년 동안 새를 추적해 모은 GPS 자료를 살펴봤어요. 새들이 집으로 오는 길에 조금씩 길에서 벗어났다는 걸 발견했어요. 가장 큰 오차는 7도였고, 600마일 여행에서 겨우 3마일쯤 늘어난 정도였어요."
+        }
+      ],
+      "keySentence": "A new study in the journal Science says some birds seem to get jet lag.",
+      "glosses": [
+        {
+          "text": "jet lag",
+          "meaning": "시차증(시간대가 바뀌어 생기는 피로)",
+          "level": 2
+        },
+        {
+          "text": "Manx shearwaters",
+          "meaning": "맹크스슴새(바닷새 종류)",
+          "level": 0
+        },
+        {
+          "text": "seabirds",
+          "meaning": "바닷새",
+          "level": 2
+        },
+        {
+          "text": "British Isles",
+          "meaning": "영국 제도(영국·아일랜드 일대)",
+          "level": 2
+        },
+        {
+          "text": "albatross",
+          "meaning": "알바트로스(큰 바닷새)",
+          "level": 3
+        },
+        {
+          "text": "North Atlantic",
+          "meaning": "북대서양",
+          "level": 1
+        },
+        {
+          "text": "squid",
+          "meaning": "오징어",
+          "level": 2
+        },
+        {
+          "text": "compass",
+          "meaning": "나침반",
+          "level": 2
+        },
+        {
+          "text": "GPS",
+          "meaning": "위성 위치 확인 장치",
+          "level": 1
+        },
+        {
+          "text": "veered",
+          "meaning": "방향이 틀어졌다",
+          "level": 4
+        },
+        {
+          "text": "off course",
+          "meaning": "길에서 벗어난",
+          "level": 2
+        },
+        {
+          "text": "University of Oxford",
+          "meaning": "옥스퍼드대학교",
+          "level": 0
+        },
+        {
+          "text": "tracking",
+          "meaning": "추적",
+          "level": 2
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds"
+        }
+      ]
+    },
+    {
+      "key": "2026-11-05-pm-6",
+      "section": "money",
+      "title": "Kentucky Coal Country Hopes Data Centers Will Bring Money",
+      "easyKo": "켄터키주 동부는 석탄 산업이 무너진 뒤 데이터센터가 돈과 일자리를 가져오길 바라요. 전기 요금이 많이 올라 힘든 주민도 있어요. 업체가 전력 설비 비용을 내기로 해서 가정용 요금이 오르는 것을 막을 수 있을지 기대해요.",
+      "paragraphs": [
+        {
+          "en": "In eastern Kentucky, some towns want data centers. Coal mines and a steel mill have closed, and customers of Kentucky Power pay some of the highest electric bills in the state. People hope data centers can bring money and jobs.",
+          "ko": "켄터키주 동부의 일부 마을은 데이터센터를 원해요. 탄광과 제철소가 문을 닫았고, 켄터키 파워 고객은 주 안에서 전기 요금이 가장 높은 축에 들어요. 사람들은 데이터센터가 돈과 일자리를 가져오길 바라요."
+        },
+        {
+          "en": "Kentucky Power is building new power lines for a project called the Muskie Data Campus. The developer, TeraWulf, will pay for those upgrades instead of home customers. The company also agreed to pay for a new power plant.",
+          "ko": "켄터키 파워는 머스키 데이터 캠퍼스라는 사업을 위해 새 송전선을 짓고 있어요. 개발업체 테라울프가 가정 고객 대신 그 설비 비용을 낼 거예요. 이 회사는 새 발전소 비용도 내기로 했어요."
+        },
+        {
+          "en": "The city of Pikeville says it was open with the public and is offering no property tax breaks. A data center could replace some taxes lost from coal, though not all the jobs. A local food pantry says its power bill has more than doubled, to $2,000.",
+          "ko": "파이크빌 시는 시민들에게 투명하게 알렸고 재산세 감면도 주지 않는다고 해요. 데이터센터는 석탄으로 잃은 세금 일부를 메울 수 있지만 일자리를 모두 대신하지는 못해요. 한 지역 푸드 팬트리는 전기 요금이 두 배 넘게 올라 2,000달러가 됐다고 해요."
+        }
+      ],
+      "keySentence": "Kentucky Power is building new power lines for a project called the Muskie Data Campus.",
+      "glosses": [
+        {
+          "text": "data centers",
+          "meaning": "컴퓨터 서버를 모아 둔 대형 시설",
+          "level": 1
+        },
+        {
+          "text": "coal mines",
+          "meaning": "탄광",
+          "level": 1
+        },
+        {
+          "text": "steel mill",
+          "meaning": "제철소",
+          "level": 2
+        },
+        {
+          "text": "Kentucky Power",
+          "meaning": "켄터키 파워(전력 회사 이름)",
+          "level": 0
+        },
+        {
+          "text": "Muskie Data Campus",
+          "meaning": "머스키 데이터 캠퍼스(사업 이름)",
+          "level": 0
+        },
+        {
+          "text": "TeraWulf",
+          "meaning": "테라울프(데이터센터 개발 회사)",
+          "level": 0
+        },
+        {
+          "text": "power lines",
+          "meaning": "송전선, 전선",
+          "level": 2
+        },
+        {
+          "text": "power plant",
+          "meaning": "발전소",
+          "level": 2
+        },
+        {
+          "text": "property tax breaks",
+          "meaning": "재산세 감면",
+          "level": 3
+        },
+        {
+          "text": "Pikeville",
+          "meaning": "파이크빌(켄터키주 도시)",
+          "level": 0
+        },
+        {
+          "text": "food pantry",
+          "meaning": "식량을 나눠 주는 곳",
+          "level": 3
+        },
+        {
+          "text": "electric bills",
+          "meaning": "전기 요금 고지서",
+          "level": 2
+        },
+        {
+          "text": "upgrades",
+          "meaning": "설비 개선",
+          "level": 2
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/03/nx-s1-6022442/western-kentucky-welcomes-data-centers-in-hopes-they-make-up-for-coal-losses"
+        }
+      ]
+    },
+    {
+      "key": "2026-11-05-pm-7",
+      "section": "culture",
+      "title": "Bob Dylan Meets Pope Leo XIV at the Vatican",
+      "easyKo": "가수 밥 딜런이 수요일 바티칸에서 교황 레오 14세를 만났어요. 이탈리아 공연 사이에 짬을 내 만났고 만남은 짧았어요. 교황은 자신의 책에서 딜런의 옛 노랫말을 인용한 적이 있어요.",
+      "paragraphs": [
+        {
+          "en": "Singer Bob Dylan visited Pope Leo XIV at the Vatican on Wednesday, Nov. 4. He came during a break between concerts in Italy. The Vatican said the meeting was brief.",
+          "ko": "가수 밥 딜런이 11월 4일 수요일 바티칸에서 교황 레오 14세를 찾아갔어요. 이탈리아 공연 사이에 쉬는 날을 이용했어요. 바티칸은 만남이 짧았다고 밝혔어요."
+        },
+        {
+          "en": "The pope gave Dylan a rosary. Dylan gave the pope a copy of his book \"Chronicles: Volume One.\" Reports say the two talked in private for a few minutes.",
+          "ko": "교황은 딜런에게 묵주를 선물했고, 딜런은 교황에게 자신의 책 \"Chronicles: Volume One\"을 건넸어요. 두 사람은 몇 분 동안 단둘이 이야기를 나눴다고 해요."
+        },
+        {
+          "en": "Leo had quoted a protest song Dylan wrote in 1963, \"Go Away You Bomb,\" in his 2026 book. Dylan won the Nobel Prize in Literature in 2016. He played in Milan on Monday and plays in Rome on Thursday.",
+          "ko": "레오 교황은 2026년에 낸 책에서 딜런이 1963년에 쓴 저항 노래 \"Go Away You Bomb\"을 인용한 적이 있어요. 딜런은 2016년 노벨문학상을 받았어요. 월요일엔 밀라노에서, 목요일엔 로마에서 공연해요."
+        }
+      ],
+      "keySentence": "Singer Bob Dylan visited Pope Leo XIV at the Vatican on Wednesday, Nov. 4.",
+      "glosses": [
+        {
+          "text": "Pope Leo XIV",
+          "meaning": "교황 레오 14세",
+          "level": 0
+        },
+        {
+          "text": "Vatican",
+          "meaning": "바티칸(교황청)",
+          "level": 1
+        },
+        {
+          "text": "rosary",
+          "meaning": "묵주(기도할 때 쓰는 구슬 줄)",
+          "level": 3
+        },
+        {
+          "text": "protest song",
+          "meaning": "항의·반대의 뜻을 담은 노래",
+          "level": 3
+        },
+        {
+          "text": "Nobel Prize in Literature",
+          "meaning": "노벨문학상",
+          "level": 1
+        },
+        {
+          "text": "brief",
+          "meaning": "짧은",
+          "level": 2
+        },
+        {
+          "text": "in private",
+          "meaning": "단둘이, 비공개로",
+          "level": 2
+        },
+        {
+          "text": "break",
+          "meaning": "(일 사이의) 휴식",
+          "level": 1
+        },
+        {
+          "text": "quoted",
+          "meaning": "인용했다",
+          "level": 2
+        },
+        {
+          "text": "Chronicles: Volume One",
+          "meaning": "딜런의 자서전 제목",
+          "level": 0
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan"
+        }
+      ]
+    },
+    {
+      "key": "2026-11-05-pm-8",
+      "section": "culture",
+      "title": "Golden State Valkyries Win WNBA Title in Their Second Year",
+      "easyKo": "골든스테이트 발키리스가 창단 2년 만에 WNBA 우승을 차지했어요. 애틀랜타 드림과의 7차전에서 68대 63으로 이겼어요. 리그 30년 역사에서 가장 빠른 우승이에요.",
+      "paragraphs": [
+        {
+          "en": "The Golden State Valkyries won the WNBA championship in only their second year in the league. They beat the Atlanta Dream 68 to 63 in Game 7. No team has ever won the title faster in the WNBA's 30-year history.",
+          "ko": "골든스테이트 발키리스는 리그에 들어온 지 2년 만에 WNBA 챔피언이 됐어요. 7차전에서 애틀랜타 드림을 68대 63으로 꺾었어요. WNBA 30년 역사에서 이보다 빨리 우승한 팀은 없어요."
+        },
+        {
+          "en": "Gabby Williams was named the most valuable player. She scored 28 of her 30 points in the second half. More than 18,000 fans filled the arena in San Francisco.",
+          "ko": "개비 윌리엄스가 최우수선수(MVP)로 뽑혔어요. 그는 30점 가운데 28점을 후반전에 넣었어요. 샌프란시스코 경기장에는 1만 8천 명이 넘는 팬이 가득 찼어요."
+        },
+        {
+          "en": "The series also raised a complaint. Game 6 in Atlanta was moved to 12:30 p.m. Eastern, which one fan called disrespectful to women's basketball. This season the team became the first US women's pro team to pass $100 million in yearly revenue.",
+          "ko": "이번 시리즈는 불만도 낳았어요. 애틀랜타에서 열린 6차전이 동부 시각 낮 12시 30분으로 잡혀, 한 팬은 여자 농구를 존중하지 않는 일이라고 했어요. 이번 시즌 이 팀은 미국 여자 프로 팀 가운데 처음으로 연 매출 1억 달러를 넘겼어요."
+        }
+      ],
+      "keySentence": "They beat the Atlanta Dream 68 to 63 in Game 7.",
+      "glosses": [
+        {
+          "text": "Golden State Valkyries",
+          "meaning": "골든스테이트 발키리스(WNBA 팀)",
+          "level": 0
+        },
+        {
+          "text": "Atlanta Dream",
+          "meaning": "애틀랜타 드림(WNBA 팀)",
+          "level": 0
+        },
+        {
+          "text": "WNBA",
+          "meaning": "미국 여자 프로농구 리그",
+          "level": 1
+        },
+        {
+          "text": "title",
+          "meaning": "우승(타이틀)",
+          "level": 2
+        },
+        {
+          "text": "Game 7",
+          "meaning": "7차전, 마지막 승부",
+          "level": 2
+        },
+        {
+          "text": "most valuable player",
+          "meaning": "최우수선수(MVP)",
+          "level": 2
+        },
+        {
+          "text": "second half",
+          "meaning": "후반전",
+          "level": 2
+        },
+        {
+          "text": "revenue",
+          "meaning": "매출, 수입",
+          "level": 3
+        },
+        {
+          "text": "disrespectful",
+          "meaning": "존중하지 않는",
+          "level": 3
+        },
+        {
+          "text": "championship",
+          "meaning": "우승, 챔피언 결정전",
+          "level": 2
+        },
+        {
+          "text": "series",
+          "meaning": "(여러 경기로 겨루는) 시리즈",
+          "level": 2
+        }
+      ],
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6023355/golden-state-wins-wnba-title-in-just-their-second-year-in-the-league"
+        }
+      ]
+    }
+  ]
+}
