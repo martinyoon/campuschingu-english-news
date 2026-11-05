@@ -1,4 +1,4 @@
-// check-edition v3
+// check-edition v4
 // 캠퍼스친구 「나의 영어신문」 판 파일 검사 · 사용법: node scripts/check-edition.mjs editions/current.json
 import { readFileSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -14,7 +14,7 @@ const only = (o, req, where, opt = []) => { if (!isObj(o)) { bad(where + ': 객�
   for (const k of req) if (!(k in o)) bad(where + ': 칸 없음 ' + k); return true; };
 const str = (v, where, max) => { if (typeof v !== 'string' || !v.trim()) { bad(where + ': 글자 칸이 비었음'); return false; }
   if (max && v.length > max) bad(where + ': ' + max + '자 초과(' + v.length + ')'); return true; };
-const SECTIONS = ['world', 'money', 'tech', 'science', 'culture', 'campus'];
+const SECTIONS = ['jobs', 'tech', 'money', 'world', 'campus', 'culture'];
 const TAGS = ['모두의 화제', '한국에 직접', '생활에 바로', '의견 갈림', '파장 큼'];
 const numBox = (n, w) => { if (only(n, ['value', 'caption', 'source'], w)) { str(n.value, w + ' value', 24); str(n.caption, w + ' caption', 60); str(n.source, w + ' source', 60); } };
 if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '판')) {
@@ -26,7 +26,7 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
   if (!Array.isArray(d.articles) || d.articles.length < 8 || d.articles.length > 40) bad('기사는 8~40편');
   else d.articles.forEach((a, i) => {
     const w = '기사' + (i + 1);
-    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources', 'quiz'], w, ['tag', 'num', 'life', 'deep'])) return;
+    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources', 'quiz', 'job', 'talk'], w, ['tag', 'num', 'life', 'deep'])) return;
     if (a.key !== d.edition + '-' + (i + 1)) bad(w + ': key 는 ' + d.edition + '-' + (i + 1));
     if (!SECTIONS.includes(a.section)) bad(w + ': section');
     if ('tag' in a && !TAGS.includes(a.tag)) bad(w + ': tag');
@@ -58,6 +58,11 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
       else { x.choices.forEach((c, k) => str(c, qw + ' choice' + (k + 1), 120));
         if (new Set(x.choices.map((c) => String(c).trim().toLowerCase())).size !== 3) bad(qw + ': choices 가 서로 다르지 않음'); }
       if (!Number.isInteger(x.answer) || x.answer < 0 || x.answer > 2) bad(qw + ': answer 0~2'); });
+    str(a.job, w + ' job', 160);
+    if (only(a.talk, ['q', 'qKo', 'answer', 'answerKo', 'phrases'], w + ' talk')) {
+      str(a.talk.q, w + ' talk q', 200); str(a.talk.qKo, w + ' talk qKo', 160); str(a.talk.answer, w + ' talk answer', 700); str(a.talk.answerKo, w + ' talk answerKo', 500);
+      if (!Array.isArray(a.talk.phrases) || a.talk.phrases.length < 1 || a.talk.phrases.length > 3) bad(w + ': talk phrases 1~3개');
+      else a.talk.phrases.forEach((ph, j) => { if (only(ph, ['en', 'ko'], w + ' phrase' + (j + 1))) { str(ph.en, w + ' phrase en', 60); str(ph.ko, w + ' phrase ko', 60); } }); }
     if ('num' in a) numBox(a.num, w + ' num');
     if ('life' in a) str(a.life, w + ' life', 200);
     if ('deep' in a && only(a.deep, ['why', 'next', 'keyNumbers', 'views'], w + ' deep')) {
