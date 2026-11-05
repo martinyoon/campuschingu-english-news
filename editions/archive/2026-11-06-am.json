@@ -1,0 +1,3748 @@
+{
+ "edition": "2026-11-06-am",
+ "publishedAt": "2026-11-06T04:17:50+09:00",
+ "sourceCount": 36,
+ "numbers": [
+  {
+   "value": "$61.46 billion",
+   "caption": "9월 경상수지 흑자(월 기준 사상 최대)",
+   "source": "한국은행(The Korea Herald)"
+  },
+  {
+   "value": "5.28%",
+   "caption": "코스피 하락폭 (5,383.80 마감)",
+   "source": "Korea Herald"
+  },
+  {
+   "value": "4%",
+   "caption": "영국 기준금리(3.75%에서 올랐어요)",
+   "source": "BBC·The Guardian"
+  },
+  {
+   "value": "$2 billion",
+   "caption": "인베스트 코리아 서밋 투자 약속(행사 역대 최대)",
+   "source": "The Korea Herald"
+  },
+  {
+   "value": "69% → 55%",
+   "caption": "더 애쓰겠다는 영국 노동자의 비율(2015년→2025년)",
+   "source": "BBC(Resolution Foundation)"
+  },
+  {
+   "value": "$4.12",
+   "caption": "미국 휘발유 1갤런 평균 가격(1년 전보다 약 $1 비싸요)",
+   "source": "NPR(AAA 자료)"
+  }
+ ],
+ "articles": [
+  {
+   "section": "money",
+   "tag": "한국에 직접",
+   "title": "South Korea Posts a Record $61 Billion Surplus, and Asks if the Boom Can Last",
+   "easyKo": "9월 한국의 경상수지 흑자가 614억 6천만 달러로 한 달 기준 사상 최대였어요. 반도체 수출이 크게 늘어서예요. 재정경제부 장관은 이 호황을 오래 가는 성장으로 바꾸겠다고 했어요.",
+   "paragraphs": [
+    {
+     "en": "South Korea ran a current account surplus of $61.46 billion in September, the biggest monthly surplus ever, the Bank of Korea said on Thursday. The current account is a broad measure of money coming into and going out of a country through trade and other payments. The old record was $49.73 billion in June.",
+     "ko": "한국은행은 목요일, 9월 경상수지 흑자가 614억 6천만 달러로 한 달 기준 사상 최대라고 밝혔어요. 경상수지는 무역과 여러 대금으로 나라에 들어오고 나가는 돈을 넓게 재는 지표예요. 종전 기록은 6월의 497억 3천만 달러였어요."
+    },
+    {
+     "en": "Chips are the main reason. Exports jumped 92.4% from a year earlier to $130.72 billion, while imports rose 29.4% to $67.97 billion. In the first nine months of the year the surplus reached $340.66 billion, up from $83.89 billion in the same period last year.",
+     "ko": "가장 큰 이유는 반도체예요. 수출은 1년 전보다 92.4% 뛴 1,307억 2천만 달러였고, 수입은 29.4% 늘어 679억 7천만 달러였어요. 올해 1~9월 흑자는 3,406억 6천만 달러로, 작년 같은 기간의 838억 9천만 달러보다 크게 늘었어요."
+    },
+    {
+     "en": "The central bank expects this year's surplus to be above its forecast of $450 billion. An official said October should be the second-highest on record, and another record may come in December.",
+     "ko": "한국은행은 올해 흑자가 전망치인 4,500억 달러를 넘을 것으로 봐요. 한 관계자는 10월이 역대 두 번째로 높을 것이고 12월에 또 기록이 나올 수 있다고 했어요."
+    },
+    {
+     "en": "The country has reported a current account surplus every month since May 2023. Last year's surplus of $123.05 billion was the largest for a full year on record at the time. This year's third-quarter surplus of $149.65 billion has already passed that total.",
+     "ko": "한국은 2023년 5월부터 매달 경상수지 흑자를 냈어요. 작년 흑자 1,230억 5천만 달러는 연간 기준 당시 사상 최대였어요. 올해 3분기 흑자 1,496억 5천만 달러는 이미 그 합계를 넘었어요."
+    },
+    {
+     "en": "Not every number was good. The services account had a deficit of $3.35 billion, wider than in August, because of more travel spending abroad and payments for intellectual property. The secondary income account also had a small deficit of $590 million.",
+     "ko": "모든 숫자가 좋지는 않았어요. 서비스수지는 33억 5천만 달러 적자로 8월보다 커졌어요. 해외 여행 지출과 지식재산권 관련 대금이 늘어서예요. 이전소득수지도 5억 9천만 달러 적자였어요."
+    },
+    {
+     "en": "On the same day, Finance Minister Lee Hyoung-il met Fitch Ratings, a credit rating firm, in Seoul. He said Korea is likely to grow in the mid-3% range this year thanks to AI and chips. He also said the government wants to spread those gains to other industries and regions.",
+     "ko": "같은 날 이형일 재정경제부 장관은 서울에서 신용평가사 피치와 만났어요. 그는 AI와 반도체 덕에 올해 3%대 중반 성장이 가능하다고 했어요. 또 그 성과를 다른 산업과 지역으로 퍼뜨리겠다고 했어요."
+    },
+    {
+     "en": "Fitch was keenly interested in whether the boom can last beyond the chip cycle, the finance ministry said. The minister replied that Korea can lift productivity through large investments in facilities and by bringing AI to small and medium-sized businesses, despite a shrinking and ageing population.",
+     "ko": "재정경제부에 따르면 피치는 반도체 호황이 사이클이 끝난 뒤에도 이어질 수 있는지에 큰 관심을 보였어요. 장관은 인구가 줄고 늙어 가고 있지만 큰 설비 투자와 중소기업의 AI 활용으로 생산성을 높일 수 있다고 답했어요."
+    }
+   ],
+   "keySentence": "South Korea ran a current account surplus of $61.46 billion in September, the biggest monthly surplus ever, the Bank of Korea said on Thursday.",
+   "glosses": [
+    {
+     "text": "current account surplus",
+     "meaning": "경상수지 흑자(나라 밖으로 나간 돈보다 들어온 돈이 많음)",
+     "level": 2
+    },
+    {
+     "text": "Bank of Korea",
+     "meaning": "한국은행",
+     "level": 0
+    },
+    {
+     "text": "Exports",
+     "meaning": "수출(나라 밖으로 파는 것)",
+     "level": 1
+    },
+    {
+     "text": "imports",
+     "meaning": "수입(나라 밖에서 사 오는 것)",
+     "level": 1
+    },
+    {
+     "text": "services account",
+     "meaning": "서비스수지(여행·특허료 같은 서비스 거래 수지)",
+     "level": 3
+    },
+    {
+     "text": "Fitch Ratings",
+     "meaning": "피치(국가·기업 신용등급을 매기는 회사)",
+     "level": 0
+    },
+    {
+     "text": "intellectual property",
+     "meaning": "지식재산(특허·저작권 같은 것)",
+     "level": 2
+    },
+    {
+     "text": "productivity",
+     "meaning": "생산성(같은 일을 더 적은 자원으로 해내는 정도)",
+     "level": 2
+    },
+    {
+     "text": "Finance Minister",
+     "meaning": "재정경제부 장관",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10926827"
+    },
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261105010400320"
+    }
+   ],
+   "num": {
+    "value": "$61.46 billion",
+    "caption": "9월 경상수지 흑자(월 기준 사상 최대)",
+    "source": "한국은행(The Korea Herald)"
+   },
+   "life": "반도체 호황은 한국 기업의 실적과 채용 분위기에 닿아 있어요. 다만 한 산업에 쏠린 호황이 오래갈지를 묻는 소식이라, 취업 준비생이 산업 전망을 볼 때 참고할 수 있어요.",
+   "deep": {
+    "why": "반도체 수출이 나라 살림 전체를 끌어올리고 있어요. 이 호황이 다른 산업과 일자리로 퍼질지가 청년 취업에도 중요해요.",
+    "next": "10월과 12월 경상수지 기록, 올해 성장률 발표, 신용평가사의 평가를 봐요.",
+    "keyNumbers": "9월 흑자 614.6억 달러 · 1~9월 3,406.6억 달러 · 수출 92.4% 증가 · 올해 성장 3%대 중반 전망",
+    "views": [
+     {
+      "source": "The Korea Herald",
+      "view": "반도체 수출이 사상 최대 경상흑자를 이끌었고, 한은이 연간 흑자가 전망치를 넘을 것으로 본다고 전해요."
+     },
+     {
+      "source": "Yonhap News Agency",
+      "view": "장관이 호황을 지속 성장으로 바꾸겠다고 했고, 피치가 반도체 사이클 이후의 지속성에 관심을 보였다고 전해요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "How much was South Korea's current account surplus in September?",
+     "qKo": "9월 한국의 경상수지 흑자는 얼마였나요?",
+     "choices": [
+      "$49.73 billion",
+      "$61.46 billion",
+      "$340.66 billion"
+     ],
+     "answer": 1,
+     "why": "1문단: “$61.46 billion in September”"
+    },
+    {
+     "q": "What was the main reason for the record surplus?",
+     "qKo": "기록적인 흑자의 가장 큰 이유는 무엇인가요?",
+     "choices": [
+      "Chip exports",
+      "Travel spending abroad",
+      "Imports of oil"
+     ],
+     "answer": 0,
+     "why": "2문단: “Chips are the main reason”"
+    },
+    {
+     "q": "What did Fitch want to know?",
+     "qKo": "피치는 무엇을 알고 싶어 했나요?",
+     "choices": [
+      "Whether Korea will raise interest rates",
+      "Whether the boom can last beyond the chip cycle",
+      "Whether the won will rise against the dollar"
+     ],
+     "answer": 1,
+     "why": "6문단: “whether the boom can last beyond the chip cycle”"
+    }
+   ],
+   "job": "반도체 호황이 지속될지, 다른 산업으로 퍼질지 = 「한국 경제의 강점과 위험」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Do you think Korea can keep its economic boom after the chip cycle?",
+    "qKo": "반도체 사이클이 끝난 뒤에도 한국이 호황을 이어갈 수 있다고 생각하나요?",
+    "answer": "The article says chip exports pushed the surplus to a record, and the finance minister wants to spread AI to small and medium-sized businesses. That could help other industries grow. I think Korea needs more strong industries, so young people have more choices for jobs.",
+    "answerKo": "기사는 반도체 수출이 흑자를 기록으로 끌어올렸고, 장관이 중소기업에 AI를 퍼뜨리고 싶어 한다고 해요. 다른 산업이 크는 데 도움이 될 수 있어요. 청년이 일자리를 더 많이 고를 수 있도록 한국에 강한 산업이 더 필요하다고 생각해요.",
+    "phrases": [
+     {
+      "en": "small and medium-sized businesses",
+      "ko": "중소기업"
+     },
+     {
+      "en": "more strong industries",
+      "ko": "더 많은 강한 산업"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-1"
+  },
+  {
+   "section": "tech",
+   "tag": "파장 큼",
+   "title": "AI Stocks Fall Hard After Democrats Win the US Midterms",
+   "easyKo": "미국 중간선거에서 민주당이 크게 이기자, AI·반도체 주가가 크게 떨어졌어요. 데이터센터 규제가 세질까 봐 투자자들이 걱정했기 때문이에요. 서울 증시의 삼성전자와 SK하이닉스도 함께 내렸어요.",
+   "paragraphs": [
+    {
+     "en": "Technology and artificial intelligence stocks fell sharply on Thursday, one day after the Democratic Party won big in the US midterm elections. The Nasdaq Composite, an index full of tech firms, dropped by more than 5% at one point in early trading. The wider S&P 500 index was down 3.8% by lunchtime.",
+     "ko": "목요일 기술·인공지능 주식이 크게 떨어졌어요. 하루 전 미국 중간선거에서 민주당이 크게 이긴 뒤였어요. 기술 기업이 많은 나스닥 종합지수는 이른 거래에서 한때 5% 넘게 내렸고, 더 넓은 S&P 500 지수도 점심때까지 3.8% 내렸어요."
+    },
+    {
+     "en": "Investors fear that tougher scrutiny of data centres may be coming. Data centres are the huge buildings that hold the computers behind AI. Democrats won key data centre states, including Texas, where the governor-elect, Gina Hinojosa, campaigned against data centres and promised a pause on new construction.",
+     "ko": "투자자들은 데이터센터에 대한 감시가 더 엄해질까 걱정해요. 데이터센터는 AI를 돌리는 컴퓨터를 가득 채운 큰 건물이에요. 민주당은 텍사스 같은 주요 데이터센터 주에서 이겼고, 텍사스 주지사 당선인 지나 이노호사는 데이터센터에 반대하며 새 건설을 멈추겠다고 약속했어요."
+    },
+    {
+     "en": "Chip shares took heavy hits. Nvidia fell nearly 9%, AMD fell more than 14%, and Intel fell more than 7%. The Philadelphia Semiconductor Index, which tracks chip firms, had dropped by 10%. SpaceX shares were down more than 9%, and Tesla shares dropped more than 11%.",
+     "ko": "반도체 주식이 큰 타격을 입었어요. 엔비디아는 9% 가까이, AMD는 14% 넘게, 인텔은 7% 넘게 내렸어요. 반도체 기업을 따라가는 필라델피아 반도체지수는 10% 떨어졌고, 스페이스X는 9% 넘게, 테슬라는 11% 넘게 내렸어요."
+    },
+    {
+     "en": "The shock reached Seoul as well. South Korea's main stock index, the KOSPI, closed down 5.28% at 5,383.80. Samsung Electronics lost 7.57%, and SK hynix lost 9.46%. An analyst at Mirae Asset Securities said fears of tighter rules on AI data centres were pulling down chip-related shares.",
+     "ko": "충격은 서울에도 닿았어요. 코스피는 5.28% 내린 5,383.80에 마쳤어요. 삼성전자는 7.57%, SK하이닉스는 9.46% 내렸어요. 미래에셋증권의 한 분석가는 AI 데이터센터 규제가 세질 거라는 걱정이 반도체 관련주를 끌어내렸다고 말했어요."
+    },
+    {
+     "en": "Some tech leaders say the anger over data centres surprised them. Greg Brockman of OpenAI said that companies cannot simply post online that a project will be good for a town. They must meet the people who live there. Meta's president said the industry should tell the story of AI's benefits more loudly.",
+     "ko": "일부 기술 기업 리더는 데이터센터에 대한 반발이 뜻밖이었다고 말해요. 오픈AI의 그레그 브록먼은 사업이 마을에 좋을 거라고 온라인에 글만 올려서는 안 되고, 그곳 주민들을 직접 만나야 한다고 했어요. 메타 사장은 AI의 이로움을 더 크게 알려야 한다고 했어요."
+    },
+    {
+     "en": "There is also a deeper worry. Meta, Alphabet, Oracle, Amazon and Microsoft have committed to spend $800bn between them on AI in 2026, and some investors fear the payoff will be too small. One strategist said that fears about the vast sums poured into AI infrastructure are now colliding with a possible slowdown in data centre building. South Korea's finance minister and central bank chief said they would watch US AI and trade policy closely.",
+     "ko": "더 깊은 걱정도 있어요. 메타, 알파벳, 오라클, 아마존, 마이크로소프트가 2026년에 AI에 모두 8000억 달러를 쓰기로 했는데, 거기서 얻는 몫이 작을까 봐 걱정하는 투자자들이 있어요. 한 전략가는 AI 시설에 쏟은 막대한 돈에 대한 걱정이 데이터센터 건설 둔화 가능성과 맞부딪치고 있다고 말했어요. 한국의 경제 수장들은 미국의 AI·무역 정책을 면밀히 지켜보겠다고 했어요."
+    }
+   ],
+   "keySentence": "Investors fear that tougher scrutiny of data centres may be coming.",
+   "glosses": [
+    {
+     "text": "Nasdaq Composite",
+     "meaning": "미국 기술주가 많은 나스닥 시장의 종합 주가지수",
+     "level": 0
+    },
+    {
+     "text": "S&P 500 index",
+     "meaning": "미국 대기업 500곳의 주가를 묶은 지수",
+     "level": 1
+    },
+    {
+     "text": "data centres",
+     "meaning": "AI·인터넷 컴퓨터를 모아 둔 대형 시설",
+     "level": 1
+    },
+    {
+     "text": "scrutiny",
+     "meaning": "꼼꼼한 감시·조사",
+     "level": 2
+    },
+    {
+     "text": "Chip shares",
+     "meaning": "반도체 회사의 주식",
+     "level": 1
+    },
+    {
+     "text": "Philadelphia Semiconductor Index",
+     "meaning": "미국 반도체 기업 주가를 묶은 지수",
+     "level": 0
+    },
+    {
+     "text": "KOSPI",
+     "meaning": "한국 대표 주가지수(코스피)",
+     "level": 0
+    },
+    {
+     "text": "midterm elections",
+     "meaning": "대통령 임기 중간에 치르는 미국 의회 선거",
+     "level": 1
+    },
+    {
+     "text": "committed to spend",
+     "meaning": "쓰기로 약속했다",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo"
+    },
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927473"
+    },
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927256"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
+    }
+   ],
+   "num": {
+    "value": "5.28%",
+    "caption": "코스피 하락폭 (5,383.80 마감)",
+    "source": "Korea Herald"
+   },
+   "life": "삼성전자·SK하이닉스 같은 반도체 회사의 주가가 미국 선거 뒤 크게 내렸어요. 미국의 AI 정책 소식이 한국 증시와 반도체 업황에 바로 닿는다는 점을 보여 줘요.",
+   "deep": {
+    "why": "미국 정치 결과가 AI 투자와 반도체 주가를 하루 만에 흔들었어요. 한국 증시도 5% 넘게 내려, 한국 경제가 AI 반도체에 얼마나 기대는지 드러나요.",
+    "next": "새 의회가 1월에 시작한 뒤 데이터센터 규제가 실제로 나오는지, 빅테크의 AI 투자 계획이 바뀌는지 살펴봐요. 11월에 주가가 다시 오르는지도 봐요.",
+    "keyNumbers": "나스닥 한때 5% 넘게 하락 · S&P 500 3.8% 하락 · 코스피 5.28% 하락 · 빅테크 5곳 2026년 AI 투자 약속 8000억 달러",
+    "views": [
+     {
+      "source": "BBC News",
+      "view": "데이터센터와 AI 업계에 대한 감시가 세질 수 있다는 걱정과 AI 거품 우려가 겹쳐 AI 주식이 흔들렸다고 봐요."
+     },
+     {
+      "source": "Korea Herald",
+      "view": "민주당 압승이 AI 데이터센터 규제와 투자 둔화 걱정을 키워 서울 반도체주가 크게 내렸다고 봐요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "Why did investors worry about AI stocks after the vote?",
+     "qKo": "투표 뒤 투자자들이 AI 주식을 걱정한 까닭은 무엇인가요?",
+     "choices": [
+      "They feared tougher scrutiny of data centres.",
+      "They feared a ban on all computer chip sales.",
+      "They feared AI firms would stop paying workers."
+     ],
+     "answer": 0,
+     "why": "2문단: “Investors fear that tougher scrutiny of data centres may be coming.”"
+    },
+    {
+     "q": "What happened to Samsung Electronics shares in Seoul?",
+     "qKo": "서울에서 삼성전자 주가는 어떻게 되었나요?",
+     "choices": [
+      "They rose by 7.57%.",
+      "They lost 7.57%.",
+      "They lost 9.46%."
+     ],
+     "answer": 1,
+     "why": "4문단: “Samsung Electronics lost 7.57%”"
+    },
+    {
+     "q": "How much have five big tech firms committed to spend on AI in 2026?",
+     "qKo": "큰 기술 기업 다섯 곳은 2026년에 AI에 얼마를 쓰기로 했나요?",
+     "choices": [
+      "About $80bn between them",
+      "About $8tn between them",
+      "About $800bn between them"
+     ],
+     "answer": 2,
+     "why": "6문단: “committed to spend $800bn between them on AI in 2026”"
+    }
+   ],
+   "job": "미국 선거·규제가 AI 반도체 산업과 한국 증시에 미치는 영향 = 「글로벌 공급망·산업 전망」 면접 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why can a US election change the price of Korean chip stocks?",
+    "qKo": "미국 선거가 왜 한국 반도체 주가를 바꿀 수 있나요?",
+    "answer": "Korean chip shares fell after the election because investors feared tougher rules on data centres in the US. Samsung Electronics and SK hynix both lost a lot of value in one day. I think students should follow global news, because events far away can affect Korean companies.",
+    "answerKo": "미국 선거 뒤 투자자들이 미국의 데이터센터 규제가 세질까 걱정해서 한국 반도체 주식이 내렸어요. 삼성전자와 SK하이닉스는 하루 만에 값이 크게 빠졌어요. 먼 나라의 일이 한국 기업에 영향을 줄 수 있으니 학생도 세계 뉴스를 챙겨야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "tougher rules on data centres",
+      "ko": "데이터센터에 대한 더 엄한 규칙"
+     },
+     {
+      "en": "follow global news",
+      "ko": "세계 뉴스를 챙겨 보다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-2"
+  },
+  {
+   "section": "money",
+   "tag": "파장 큼",
+   "title": "Bank of England Raises Interest Rates to 4% as the Iran War Lifts Prices",
+   "easyKo": "영국 중앙은행이 3년여 만에 기준금리를 3.75%에서 4%로 올렸어요. 이란 전쟁으로 기름값이 올라 물가가 더 뛸 것을 걱정해서예요. 대출을 낀 사람은 부담이 커지고, 저축하는 사람은 이자를 더 받을 수 있어요.",
+   "paragraphs": [
+    {
+     "en": "The Bank of England raised its main interest rate on Thursday from 3.75% to 4%. It is the first increase in more than three years. Eight of the nine members of the rate-setting committee voted for the rise, and one member wanted a bigger step of half a point.",
+     "ko": "영국 중앙은행이 목요일 기준금리를 3.75%에서 4%로 올렸어요. 3년여 만의 첫 인상이에요. 금리를 정하는 위원 9명 중 8명이 찬성했고, 1명은 0.5%포인트 인상을 원했어요."
+    },
+    {
+     "en": "The reason is the war between the United States and Iran. The conflict has kept oil above $100 a barrel for months, because hopes of reopening the Strait of Hormuz have faded. The Bank now expects UK inflation to reach 4.9% in the middle of next year. In September it was 3.5%.",
+     "ko": "이유는 미국과 이란의 전쟁이에요. 호르무즈 해협을 다시 열 기대가 사라지면서 유가가 몇 달째 배럴당 100달러 위에 머물렀어요. 영국은행은 내년 중반 물가 상승률이 4.9%에 이를 것으로 봐요. 9월에는 3.5%였어요."
+    },
+    {
+     "en": "Governor Andrew Bailey said this should not be seen as the first of a long series of rises. But he added that, unless the conflict in the Middle East is resolved, another increase seems likely. Oil fell below $100 after the Democrats won in the US midterms, and Bailey welcomed that. He said the fall must last.",
+     "ko": "앤드루 베일리 총재는 이번 인상이 긴 인상 행진의 시작은 아니라고 했어요. 하지만 중동 갈등이 풀리지 않으면 또 오를 것 같다고 덧붙였어요. 미국 중간선거에서 민주당이 이긴 뒤 유가가 100달러 아래로 내려왔고, 총재는 반겼지만 이 하락이 이어져야 한다고 했어요."
+    },
+    {
+     "en": "Borrowers will feel the change. About 500,000 homeowners have a mortgage that follows the Bank's rate, and a typical loan will cost about £31 more a month. Most people, 87% of mortgage holders, have fixed deals, so they will see no change until the deal ends. One man in Brighton will see his payment rise from £1,420 to £1,680 a month in February.",
+     "ko": "대출받은 사람이 가장 먼저 느껴요. 약 50만 가구는 영국은행 금리를 따라가는 주택담보대출을 쓰고 있어서, 보통 대출이라면 매달 약 31파운드를 더 내요. 주택대출자의 87%는 고정금리라서 계약이 끝날 때까지는 변화가 없어요. 브라이턴의 한 남성은 2월부터 월 상환액이 1,420파운드에서 1,680파운드로 올라요."
+    },
+    {
+     "en": "Savers may gain, because savings rates often follow the Bank's rate. But firms say higher rates make it harder to hire people or raise pay. One factory boss warned that the result could be less employment and more robots.",
+     "ko": "저축하는 사람은 이익일 수 있어요. 예금 이자가 기준금리를 따라 오르는 경우가 많기 때문이에요. 하지만 기업들은 금리가 오르면 사람을 뽑거나 월급을 올리기 어렵다고 해요. 한 제조업체 대표는 고용이 줄고 로봇이 늘 수 있다고 경고했어요."
+    },
+    {
+     "en": "The Bank's next decision is on 17 December. Some analysts think another rise could come before Christmas. The committee also worries that workers may ask for big pay rises to keep up with higher prices, which could push inflation up even more.",
+     "ko": "다음 결정은 12월 17일이에요. 크리스마스 전에 또 올릴 수 있다고 보는 분석가도 있어요. 위원회는 노동자들이 물가를 따라잡으려고 큰 임금 인상을 요구할까 봐도 걱정해요. 그러면 물가가 더 오를 수 있어요."
+    }
+   ],
+   "keySentence": "The Bank of England raised its main interest rate on Thursday from 3.75% to 4%.",
+   "glosses": [
+    {
+     "text": "main interest rate",
+     "meaning": "기준금리(중앙은행이 정하는 가장 기본이 되는 금리)",
+     "level": 2
+    },
+    {
+     "text": "rate-setting committee",
+     "meaning": "금리를 정하는 위원회",
+     "level": 2
+    },
+    {
+     "text": "Strait of Hormuz",
+     "meaning": "호르무즈 해협(석유가 많이 지나는 바닷길)",
+     "level": 1
+    },
+    {
+     "text": "inflation",
+     "meaning": "물가 상승(물가가 계속 오르는 현상)",
+     "level": 1
+    },
+    {
+     "text": "mortgage",
+     "meaning": "주택담보대출",
+     "level": 1
+    },
+    {
+     "text": "fixed deals",
+     "meaning": "금리가 정해진 기간 동안 변하지 않는 대출 계약",
+     "level": 2
+    },
+    {
+     "text": "Bank of England",
+     "meaning": "영국 중앙은행",
+     "level": 0
+    },
+    {
+     "text": "Savers",
+     "meaning": "저축하는 사람들(save는 돈을 모으다)",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o"
+    }
+   ],
+   "num": {
+    "value": "4%",
+    "caption": "영국 기준금리(3.75%에서 올랐어요)",
+    "source": "BBC·The Guardian"
+   },
+   "life": "금리와 물가는 나라가 달라도 같은 원리로 움직여요. 대출 이자, 예금 이자, 기업의 채용 여력이 금리에 따라 어떻게 달라지는지 알아 두면 학자금·월세·취업 계획을 세울 때 도움이 돼요.",
+   "deep": {
+    "why": "유가가 물가를 밀어 올리면 중앙은행이 금리를 올리고, 그 여파가 대출·저축·기업 채용까지 이어져요. 금리와 물가가 어떻게 맞물리는지 보여 주는 사례예요.",
+    "next": "12월 17일 영국은행의 다음 결정과 중동 갈등, 유가가 100달러 아래에 머무는지를 봐요.",
+    "keyNumbers": "기준금리 3.75%에서 4% · 위원 9명 중 8명 찬성 · 내년 중반 물가 4.9% 전망 · 변동금리 대출 약 50만 가구",
+    "views": [
+     {
+      "source": "BBC",
+      "view": "인상이 대출자에게는 부담이고 저축자에게는 득일 수 있다고 풀고, 기업은 고용과 임금 인상이 어려워진다고 말한다고 전해요."
+     },
+     {
+      "source": "The Guardian",
+      "view": "위원들 사이에 인상 속도를 두고 의견이 갈렸고, 12월 추가 인상 가능성이 있다고 짚어요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "How did the Bank of England change its main interest rate?",
+     "qKo": "영국은행은 기준금리를 어떻게 바꿨나요?",
+     "choices": [
+      "It raised it from 3.75% to 4%",
+      "It cut it from 4.25% to 4%",
+      "It kept it at 3.75%"
+     ],
+     "answer": 0,
+     "why": "1문단: “from 3.75% to 4%”"
+    },
+    {
+     "q": "What does the Bank expect for UK inflation in the middle of next year?",
+     "qKo": "영국은행은 내년 중반 물가 상승률을 얼마로 보나요?",
+     "choices": [
+      "About 2%",
+      "About 3.5%",
+      "About 4.9%"
+     ],
+     "answer": 2,
+     "why": "2문단: “4.9% in the middle of next year”"
+    },
+    {
+     "q": "How many homeowners have a mortgage that follows the Bank's rate?",
+     "qKo": "영국은행 금리를 따라가는 주택담보대출을 쓰는 가구는 얼마나 되나요?",
+     "choices": [
+      "About 500,000",
+      "About 5 million",
+      "About 50,000"
+     ],
+     "answer": 0,
+     "why": "4문단: “About 500,000 homeowners”"
+    }
+   ],
+   "job": "금리 인상이 가계 대출과 기업 고용에 미치는 영향 = 「금리·물가와 고용」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "How can a higher interest rate affect young people looking for a first job?",
+    "qKo": "금리가 오르면 첫 직장을 구하는 청년에게 어떤 영향이 있을까요?",
+    "answer": "The article says firms find it harder to hire people when rates go up. That could make it harder for graduates to find a first job. I think young people should keep learning useful skills, so they stay strong even when money is tight.",
+    "answerKo": "기사는 금리가 오르면 기업이 사람을 뽑기 어렵다고 해요. 그러면 졸업생이 첫 직장을 찾기 더 어려울 수 있어요. 돈 사정이 빡빡할 때도 버티도록 쓸모 있는 기술을 계속 배워야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "harder to hire people",
+      "ko": "사람을 뽑기 더 어려운"
+     },
+     {
+      "en": "a first job",
+      "ko": "첫 직장"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-3"
+  },
+  {
+   "section": "jobs",
+   "tag": "한국에 직접",
+   "title": "Foreign Firms Promise a Record $2 Billion for Korea, Mostly Outside Seoul",
+   "easyKo": "서울에서 열린 인베스트 코리아 서밋에서 외국 기업 7곳이 20억 달러 투자를 약속했어요. 22년 역사상 가장 큰 금액이에요. 대부분 반도체 관련이고 서울 밖 지역에 쓰일 돈이에요.",
+   "paragraphs": [
+    {
+     "en": "South Korea won $2 billion in investment pledges from seven global companies at the Invest Korea Summit 2026 in Seoul on Wednesday. It is the largest amount in the event's 22-year history. More than 2,000 people took part, including investors from 267 overseas companies.",
+     "ko": "한국은 수요일 서울에서 열린 인베스트 코리아 서밋 2026에서 세계 기업 7곳으로부터 20억 달러 투자 약속을 받았어요. 행사 22년 역사에서 가장 큰 금액이에요. 해외 기업 267곳의 투자자를 포함해 2,000명이 넘게 참가했어요."
+    },
+    {
+     "en": "About 97% of the money, or $1.97 billion, is meant for projects outside the Seoul area, in line with the government's push for regional growth. Most of it goes to chips, especially advanced packaging used in AI chips and high-bandwidth memory, or HBM.",
+     "ko": "돈의 약 97%인 19억 7천만 달러는 서울 수도권 밖 사업에 쓰일 예정이에요. 지역 성장을 밀어 주려는 정부 방침과 맞아요. 대부분은 반도체, 특히 AI 칩과 고대역폭 메모리(HBM)에 쓰는 첨단 패키징에 가요."
+    },
+    {
+     "en": "France's Air Liquide plans to build specialty gas facilities in Yeosu and Cheongju, and US-based Amkor Technology will expand its packaging work in Gwangju. Germany's Henkel will set up a research centre for HBM packaging materials. Britain's Nscale plans an AI data centre.",
+     "ko": "프랑스 에어리퀴드는 여수와 청주에 특수 가스 시설을 짓고, 미국 앰코테크놀로지는 광주에서 패키징 사업을 넓혀요. 독일 헨켈은 HBM 패키징 소재 연구센터를 세워요. 영국 엔스케일은 AI 데이터센터를 계획해요."
+    },
+    {
+     "en": "Kim Tae-hyung, head of Invest Korea, said companies are rebuilding supply chains around security and geopolitics, and backup plans cost money. The trade minister outlined plans to ease rules for foreign investment.",
+     "ko": "인베스트 코리아의 김태형 대표는 기업들이 안보와 지정학을 고려해 공급망을 다시 짜고 있고, 대비책에는 돈이 든다고 말했어요. 통상 장관은 외국인 투자 규제를 완화할 계획을 밝혔어요."
+    }
+   ],
+   "keySentence": "South Korea won $2 billion in investment pledges from seven global companies at the Invest Korea Summit 2026 in Seoul on Wednesday.",
+   "glosses": [
+    {
+     "text": "investment pledges",
+     "meaning": "투자 약속",
+     "level": 2
+    },
+    {
+     "text": "advanced packaging",
+     "meaning": "첨단 패키징(반도체 칩을 포장·연결하는 기술)",
+     "level": 3
+    },
+    {
+     "text": "high-bandwidth memory",
+     "meaning": "고대역폭 메모리(AI 칩에 쓰는 빠른 메모리)",
+     "level": 2
+    },
+    {
+     "text": "supply chains",
+     "meaning": "공급망",
+     "level": 2
+    },
+    {
+     "text": "geopolitics",
+     "meaning": "지정학(지리와 국제 정치가 맞물린 문제)",
+     "level": 2
+    },
+    {
+     "text": "Invest Korea Summit",
+     "meaning": "인베스트 코리아 서밋(정부가 여는 외국인 투자 유치 행사)",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10925831"
+    }
+   ],
+   "num": {
+    "value": "$2 billion",
+    "caption": "인베스트 코리아 서밋 투자 약속(행사 역대 최대)",
+    "source": "The Korea Herald"
+   },
+   "life": "외국 기업의 투자는 반도체와 AI 분야 연구·생산 일자리와 이어질 수 있어요. 서울 밖 지역에 돈이 간다는 점이 지방 대학생의 취업 선택지와도 관련이 있어요.",
+   "quiz": [
+    {
+     "q": "How much did global companies pledge at the summit?",
+     "qKo": "세계 기업들은 서밋에서 얼마를 약속했나요?",
+     "choices": [
+      "$20 billion",
+      "$2 billion",
+      "$200 million"
+     ],
+     "answer": 1,
+     "why": "1문단: “$2 billion in investment pledges”"
+    },
+    {
+     "q": "What share of the money is for projects outside the Seoul area?",
+     "qKo": "돈의 몇 퍼센트가 서울 수도권 밖 사업에 쓰이나요?",
+     "choices": [
+      "About 97%",
+      "About 50%",
+      "About 27%"
+     ],
+     "answer": 0,
+     "why": "2문단: “About 97% of the money”"
+    },
+    {
+     "q": "Which company will expand packaging work in Gwangju?",
+     "qKo": "광주에서 패키징 사업을 넓히는 회사는 어디인가요?",
+     "choices": [
+      "Henkel",
+      "Air Liquide",
+      "Amkor Technology"
+     ],
+     "answer": 2,
+     "why": "3문단: “Amkor Technology will expand its packaging work in Gwangju”"
+    }
+   ],
+   "job": "외국인 투자와 지역 균형 발전, 반도체 공급망 = 「산업 전망과 지역 일자리」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do you think foreign firms want to invest in Korea?",
+    "qKo": "외국 기업이 한국에 투자하려는 이유가 무엇이라고 생각하나요?",
+    "answer": "The article says most of the money goes to chips and packaging. Korea's chip industry may be one reason firms want to work with it. I think this may also create jobs for engineers outside Seoul.",
+    "answerKo": "기사는 돈의 대부분이 반도체와 패키징에 간다고 해요. 한국의 반도체 산업이 기업들이 협력하고 싶어 하는 이유 중 하나일 수 있어요. 서울 밖 엔지니어 일자리도 생길 수 있다고 생각해요.",
+    "phrases": [
+     {
+      "en": "jobs for engineers",
+      "ko": "엔지니어를 위한 일자리"
+     },
+     {
+      "en": "outside Seoul",
+      "ko": "서울 밖"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-4"
+  },
+  {
+   "section": "jobs",
+   "title": "A Sixth Labor Union Is Being Formed at Samsung Electronics",
+   "easyKo": "삼성전자에서 여섯 번째 노동조합이 만들어지고 있어요. 기존 조합 안의 갈등 때문이라는 말이 있지만 해당 조합은 아니라고 했어요. 새 노조는 소비자가전·모바일 사업 쪽 직원을 중심으로 할 것으로 보여요.",
+   "paragraphs": [
+    {
+     "en": "Workers at Samsung Electronics are setting up a sixth labor union, labor officials said on Thursday. An application to set up the union was filed with the labor ministry on Wednesday.",
+     "ko": "삼성전자 직원들이 여섯 번째 노동조합을 만들고 있다고 노동계 관계자들이 목요일에 말했어요. 노조 설립 신고서는 수요일에 노동부에 제출됐어요."
+    },
+    {
+     "en": "The news came from Samsung's largest union, whose members are mostly workers in the chip division. It said the new union is being pushed by former and current leaders of the second-largest union, which represents workers in the device experience division. That division handles consumer electronics and mobile devices.",
+     "ko": "이 소식은 삼성의 최대 노조에서 나왔고, 조합원은 대부분 반도체 부문 직원이에요. 새 노조는 두 번째로 큰 노조의 전·현직 지도부가 추진하고 있다고 했어요. 이 노조는 가전·모바일을 맡는 디바이스경험 부문 직원을 대표해요."
+    },
+    {
+     "en": "A labor official, who did not give a name, said fights inside the smaller union had grown worse, and this may have led to the new group. The smaller union denied this and said the new union has nothing to do with internal disputes.",
+     "ko": "이름을 밝히지 않은 한 노동계 관계자는 작은 쪽 노조 안의 다툼이 심해졌고 그것이 새 조직으로 이어졌을 수 있다고 했어요. 그 노조는 이를 부인하며 새 노조는 내부 갈등과 관계가 없다고 말했어요."
+    },
+    {
+     "en": "The new union is expected to focus on workers in the device experience division. Its structure and activities have not yet been confirmed. The Korea Herald reported the news from the Yonhap News Agency.",
+     "ko": "새 노조는 디바이스경험 부문 직원에게 초점을 맞출 것으로 보여요. 조직 구조와 활동은 아직 확인되지 않았어요. 코리아헤럴드가 연합뉴스를 받아 이 소식을 전했어요."
+    }
+   ],
+   "keySentence": "Workers at Samsung Electronics are setting up a sixth labor union, labor officials said on Thursday.",
+   "glosses": [
+    {
+     "text": "labor union",
+     "meaning": "노동조합(노동자들이 권리를 위해 만든 단체)",
+     "level": 1
+    },
+    {
+     "text": "filed with",
+     "meaning": "~에 (서류를) 제출하다",
+     "level": 2
+    },
+    {
+     "text": "labor ministry",
+     "meaning": "노동부",
+     "level": 1
+    },
+    {
+     "text": "device experience division",
+     "meaning": "디바이스경험(DX) 부문(가전·모바일 담당)",
+     "level": 2
+    },
+    {
+     "text": "denied",
+     "meaning": "부인했다",
+     "level": 1
+    },
+    {
+     "text": "Samsung Electronics",
+     "meaning": "삼성전자",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927399"
+    }
+   ],
+   "life": "큰 기업에서 노동조합이 여러 개 생기고 나뉘는 모습은 취업 준비생이 기업의 노사 관계를 이해하는 데 참고가 돼요. 지원할 회사의 노사 소식을 살피는 습관을 들일 수 있어요.",
+   "quiz": [
+    {
+     "q": "Which number union is being formed at Samsung Electronics?",
+     "qKo": "삼성전자에서 몇 번째 노조가 만들어지고 있나요?",
+     "choices": [
+      "The fifth",
+      "The tenth",
+      "The sixth"
+     ],
+     "answer": 2,
+     "why": "1문단: “setting up a sixth labor union”"
+    },
+    {
+     "q": "Where was the application to set up the union filed?",
+     "qKo": "노조 설립 신고서는 어디에 제출됐나요?",
+     "choices": [
+      "With the labor ministry",
+      "With the Samsung board",
+      "With a court"
+     ],
+     "answer": 0,
+     "why": "1문단: “filed with the labor ministry on Wednesday”"
+    },
+    {
+     "q": "What did the smaller union say about the new union?",
+     "qKo": "작은 쪽 노조는 새 노조에 대해 뭐라고 했나요?",
+     "choices": [
+      "It will lead a strike",
+      "It has nothing to do with internal disputes",
+      "It was set up by the company"
+     ],
+     "answer": 1,
+     "why": "3문단: “nothing to do with internal disputes”"
+    }
+   ],
+   "job": "대기업 노사 관계와 노조의 역할 = 「노사 관계·직장 내 의견 조정」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do workers form labor unions?",
+    "qKo": "노동자들은 왜 노동조합을 만들까요?",
+    "answer": "The article says workers in different divisions of Samsung are forming different unions. I think unions help workers speak together about pay and working conditions. But many unions in one company may also make it harder to agree.",
+    "answerKo": "기사는 삼성 여러 부문의 직원들이 서로 다른 노조를 만들고 있다고 해요. 노조는 노동자들이 임금과 근무 환경에 대해 함께 목소리를 내도록 돕는다고 생각해요. 하지만 한 회사에 노조가 많으면 합의가 더 어려울 수도 있어요.",
+    "phrases": [
+     {
+      "en": "working conditions",
+      "ko": "근무 환경"
+     },
+     {
+      "en": "speak together",
+      "ko": "함께 목소리를 내다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-5"
+  },
+  {
+   "section": "jobs",
+   "tag": "한국에 직접",
+   "title": "Korean Job Site Jobplanet Talks With LinkedIn About AI and Hiring",
+   "easyKo": "한국의 채용 사이트 잡플래닛이 링크드인 임원들과 만나 한국 채용 시장과 AI 활용을 이야기했어요. 한국 기업은 여러 채용 방식을 동시에 쓰는 것이 특징이라고 설명했어요.",
+   "paragraphs": [
+    {
+     "en": "Jobplanet, a Korean job platform run by Worxphere, met leaders from LinkedIn at its Seoul office on Oct. 19. LinkedIn's group was led by Hari Srinivasan, its chief product officer for the ecosystem. The company announced the meeting on Wednesday.",
+     "ko": "Worxphere가 운영하는 한국 채용 플랫폼 잡플래닛이 10월 19일 서울 사무실에서 링크드인 임원진을 만났어요. 링크드인 쪽은 하리 스리니바산 최고제품책임자가 이끌었어요. 회사는 수요일 이 만남을 알렸어요."
+    },
+    {
+     "en": "Jobplanet explained what makes Korea different. Companies use open hiring, rolling hiring and performance-based hiring at the same time. Also, because the workforce is ageing, employers care more about finding the right people than about reaching many readers with a job posting.",
+     "ko": "잡플래닛은 한국 시장이 어떻게 다른지 설명했어요. 기업들은 공개 채용, 수시 채용, 성과 기반 채용을 동시에 써요. 또 일하는 사람이 고령화되면서 기업은 구인 공고를 많은 사람에게 알리는 것보다 맞는 사람을 찾는 데 더 신경 써요."
+    },
+    {
+     "en": "On AI, Worxphere said it trains its system on years of data from its services JobKorea and Albamon, to give better recommendations. It also imagines services that match what job seekers and employers expect from each other.",
+     "ko": "AI에 대해 Worxphere는 잡코리아와 알바몬에서 쌓은 여러 해의 자료로 시스템을 학습시켜 더 나은 추천을 한다고 했어요. 구직자와 기업이 서로에게 바라는 것을 맞춰 주는 서비스도 그리고 있어요."
+    },
+    {
+     "en": "Jobplanet has more than 10 million company reviews, and LinkedIn has more than 1 billion members. Jobplanet also works with about 90 universities, which helps it reach young users who are starting their careers.",
+     "ko": "잡플래닛에는 기업 후기가 1,000만 건 넘게 있고, 링크드인 회원은 10억 명이 넘어요. 잡플래닛은 약 90개 대학과도 협력해서 이제 막 커리어를 시작하는 젊은 이용자에게 닿아요."
+    }
+   ],
+   "keySentence": "Companies use open hiring, rolling hiring and performance-based hiring at the same time.",
+   "glosses": [
+    {
+     "text": "rolling hiring",
+     "meaning": "수시 채용(필요할 때마다 계속 뽑는 방식)",
+     "level": 2
+    },
+    {
+     "text": "performance-based hiring",
+     "meaning": "성과·실력 중심 채용",
+     "level": 2
+    },
+    {
+     "text": "job posting",
+     "meaning": "구인 공고",
+     "level": 2
+    },
+    {
+     "text": "job seekers",
+     "meaning": "구직자",
+     "level": 1
+    },
+    {
+     "text": "Jobplanet",
+     "meaning": "잡플래닛(한국 채용·기업 후기 플랫폼)",
+     "level": 0
+    },
+    {
+     "text": "ecosystem",
+     "meaning": "생태계(여기서는 링크드인의 여러 서비스와 관련자들)",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10925724"
+    }
+   ],
+   "life": "취업을 준비할 때 공개 채용과 수시 채용을 모두 살펴야 한다는 점을 알 수 있어요. 기업 후기와 면접 후기가 쌓인 플랫폼을 어떻게 쓸지 생각해 보는 계기가 돼요.",
+   "quiz": [
+    {
+     "q": "Where did the meeting take place?",
+     "qKo": "만남은 어디서 열렸나요?",
+     "choices": [
+      "At Jobplanet's Seoul office",
+      "At LinkedIn's headquarters",
+      "At a university in Busan"
+     ],
+     "answer": 0,
+     "why": "1문단: “at its Seoul office on Oct. 19”"
+    },
+    {
+     "q": "What types of hiring do Korean companies use at the same time?",
+     "qKo": "한국 기업은 어떤 채용 방식을 동시에 쓰나요?",
+     "choices": [
+      "Only open hiring",
+      "Open, rolling and performance-based hiring",
+      "Only hiring through universities"
+     ],
+     "answer": 1,
+     "why": "2문단: “open hiring, rolling hiring and performance-based hiring”"
+    },
+    {
+     "q": "About how many universities does Jobplanet work with?",
+     "qKo": "잡플래닛은 대략 몇 개 대학과 협력하나요?",
+     "choices": [
+      "About 10",
+      "About 900",
+      "About 90"
+     ],
+     "answer": 2,
+     "why": "4문단: “about 90 universities”"
+    }
+   ],
+   "job": "AI가 채용과 구직 방식을 어떻게 바꾸는지 = 「AI 시대의 채용」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Would you use an AI service to find a job? Why or why not?",
+    "qKo": "일자리를 찾을 때 AI 서비스를 쓰겠어요? 왜 그런가요?",
+    "answer": "The article says Jobplanet trains its AI on years of job seeker data to give better recommendations. I would use it to find ideas, because it can save time. But I would still read company reviews and make the final choice myself.",
+    "answerKo": "기사는 잡플래닛이 여러 해의 구직자 자료로 AI를 학습시켜 더 나은 추천을 한다고 해요. 시간을 아낄 수 있어서 아이디어를 얻는 데 쓰겠어요. 하지만 기업 후기를 읽고 마지막 선택은 직접 하겠어요.",
+    "phrases": [
+     {
+      "en": "company reviews",
+      "ko": "기업 후기"
+     },
+     {
+      "en": "save time",
+      "ko": "시간을 아끼다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-6"
+  },
+  {
+   "section": "jobs",
+   "tag": "모두의 화제",
+   "title": "Study: British Workers Are Less Willing to Go the Extra Mile",
+   "easyKo": "영국의 한 연구소는 일을 딱 맡은 만큼만 하는 '조용한 퇴사'가 경제에 영향을 줄 수 있다고 했어요. 더 열심히 일하겠다는 사람이 줄었어요. 연구자는 좋은 임금과 유연한 근무가 답이라고 말했어요.",
+   "paragraphs": [
+    {
+     "en": "A UK think tank, the Resolution Foundation, says \"quiet quitting\" may be hurting the economy. Quiet quitting means doing only what your job requires and nothing more. The idea became popular on social media after the pandemic.",
+     "ko": "영국 연구소 레졸루션 파운데이션은 '조용한 퇴사'가 경제에 해가 될 수 있다고 말해요. 조용한 퇴사는 일이 요구하는 것만 하고 그 이상은 하지 않는 것이에요. 이 말은 팬데믹 뒤 소셜미디어에서 유행했어요."
+    },
+    {
+     "en": "In a survey of 4,656 adults, the share who would go the extra mile for their employer fell from 69% in 2015 to 55% in 2025. The share who said their job is interesting fell from 74% to 63%.",
+     "ko": "성인 4,656명을 조사했더니 회사를 위해 더 애쓰겠다는 사람이 2015년 69%에서 2025년 55%로 줄었어요. 자기 일이 흥미롭다고 한 사람은 74%에서 63%로 줄었어요."
+    },
+    {
+     "en": "The think tank says this could be one reason why productivity, or output per worker, has been weak since the pandemic. It also found that workers now care more about pay, which is not surprising after a decade of flat living standards.",
+     "ko": "연구소는 이것이 팬데믹 뒤 생산성, 곧 노동자 한 명당 성과가 약한 이유 중 하나일 수 있다고 해요. 또 노동자들이 이제 임금에 더 신경 쓴다고 했는데, 10년 동안 생활 수준이 제자리였다면 놀랍지 않은 일이에요."
+    },
+    {
+     "en": "Professor John Curtice, co-editor of the report, said this does not mean young people have become lazy. He said employers who want engaged workers should offer jobs that are well paid and have flexible hours.",
+     "ko": "보고서 공동 편집자인 존 커티스 교수는 이것이 젊은 사람들이 게을러졌다는 뜻은 아니라고 했어요. 열의 있는 직원을 원하는 회사는 임금이 좋고 근무 시간이 유연한 일자리를 내놓아야 한다고 했어요."
+    }
+   ],
+   "keySentence": "Quiet quitting means doing only what your job requires and nothing more.",
+   "glosses": [
+    {
+     "text": "quiet quitting",
+     "meaning": "조용한 퇴사(맡은 일만 하고 그 이상은 안 하기)",
+     "level": 2
+    },
+    {
+     "text": "think tank",
+     "meaning": "정책·사회 문제를 연구하는 민간 연구소",
+     "level": 2
+    },
+    {
+     "text": "go the extra mile",
+     "meaning": "더 애쓰다, 요구 이상으로 노력하다",
+     "level": 2
+    },
+    {
+     "text": "productivity",
+     "meaning": "생산성",
+     "level": 2
+    },
+    {
+     "text": "flat living standards",
+     "meaning": "제자리인 생활 수준",
+     "level": 3
+    },
+    {
+     "text": "Resolution Foundation",
+     "meaning": "레졸루션 파운데이션(영국 연구소)",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo"
+    }
+   ],
+   "num": {
+    "value": "69% → 55%",
+    "caption": "더 애쓰겠다는 영국 노동자의 비율(2015년→2025년)",
+    "source": "BBC(Resolution Foundation)"
+   },
+   "life": "일과 삶의 균형, 임금, 유연 근무는 한국 청년도 일자리를 고를 때 보는 기준이에요. 내가 일에서 무엇을 중요하게 보는지 돌아볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "What does quiet quitting mean?",
+     "qKo": "조용한 퇴사는 무슨 뜻인가요?",
+     "choices": [
+      "Leaving a job without telling anyone",
+      "Taking a long holiday after work",
+      "Doing only what the job requires"
+     ],
+     "answer": 2,
+     "why": "1문단: “doing only what your job requires and nothing more”"
+    },
+    {
+     "q": "How did the share willing to go the extra mile change from 2015 to 2025?",
+     "qKo": "더 애쓰겠다는 사람의 비율은 2015년에서 2025년 사이 어떻게 변했나요?",
+     "choices": [
+      "It fell from 69% to 55%",
+      "It rose from 55% to 69%",
+      "It stayed at 63%"
+     ],
+     "answer": 0,
+     "why": "2문단: “fell from 69% in 2015 to 55% in 2025”"
+    },
+    {
+     "q": "What did Curtice say employers should offer?",
+     "qKo": "커티스는 회사가 무엇을 내놓아야 한다고 했나요?",
+     "choices": [
+      "Longer working weeks",
+      "Jobs with good pay and flexible hours",
+      "More social media training"
+     ],
+     "answer": 1,
+     "why": "4문단: “well paid and have flexible hours”"
+    }
+   ],
+   "job": "일의 몰입과 워라밸, 생산성 = 「직장 만족도와 생산성」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "What makes you want to work hard at a job?",
+    "qKo": "어떤 점이 일을 열심히 하고 싶게 만드나요?",
+    "answer": "The article says workers now care more about pay, and flexible hours may help keep them engaged. For me, fair pay and an interesting job both matter. I would work harder if my company trusted me and let me learn new things.",
+    "answerKo": "기사는 노동자들이 임금을 더 따지고, 유연한 근무 시간이 몰입을 높일 수 있다고 해요. 저에게는 공정한 임금과 흥미로운 일이 모두 중요해요. 회사가 저를 믿고 새로운 것을 배우게 해 주면 더 열심히 일하겠어요.",
+    "phrases": [
+     {
+      "en": "fair pay",
+      "ko": "공정한 임금"
+     },
+     {
+      "en": "an interesting job",
+      "ko": "흥미로운 일"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-7"
+  },
+  {
+   "section": "jobs",
+   "tag": "의견 갈림",
+   "title": "Eastern Kentucky Hopes Data Centers Can Replace Lost Coal Jobs and Taxes",
+   "easyKo": "미국 켄터키주 동부 마을 일부는 석탄 산업이 무너진 뒤 데이터센터를 환영해요. 전기요금 부담과 사라진 일자리, 세금을 메우려는 기대 때문이에요. 다만 일자리 수는 석탄만큼 되지 않을 수 있어요.",
+   "paragraphs": [
+    {
+     "en": "In eastern Kentucky, some towns want data centers instead of opposing them. They hope the centers can make up for the fall of the coal industry and help with rising electricity prices.",
+     "ko": "켄터키주 동부에서는 일부 마을이 데이터센터를 반대하지 않고 오히려 원해요. 석탄 산업의 몰락을 메우고 오르는 전기요금에 도움이 되길 바라요."
+    },
+    {
+     "en": "Coal mines and a steel mill have closed, and people are leaving the area. That means fewer customers share the cost of the power system, so bills are among the highest in the state. Trissia Scott, who runs a food pantry near Pikeville, says her pantry's bills have more than doubled to $2,000.",
+     "ko": "탄광과 제철소가 문을 닫았고 사람들이 떠나고 있어요. 전력 비용을 나눠 내는 고객이 줄어 요금이 주에서 가장 비싼 축에 들어요. 파이크빌 근처에서 푸드 팬트리를 운영하는 트리시아 스콧은 팬트리 요금이 두 배 넘게 올라 2,000달러가 됐다고 해요."
+    },
+    {
+     "en": "Kentucky Power says a data center project called the Muskie Data Campus could be a game changer. The developer, TeraWulf, will pay for new power lines instead of home customers and has agreed to pay for a new power plant, which would bring more jobs and tax money.",
+     "ko": "켄터키파워는 머스키 데이터 캠퍼스라는 데이터센터 사업이 판을 바꿀 수 있다고 해요. 개발사 테라울프가 가정 고객 대신 새 송전선 비용을 내고, 새 발전소 비용도 내기로 했어요. 발전소는 일자리와 세금을 더 가져올 거예요."
+    },
+    {
+     "en": "Pikeville's city manager, Reggie Hickman, said the city spoke openly with the public and offers no property tax breaks. Pike County lost 300 jobs earlier this year after a coal producer shut down. Hickman said a data center could replace some lost taxes, though not the same number of jobs.",
+     "ko": "파이크빌 시 지배인 레지 힉먼은 시가 시민과 공개적으로 이야기했고 재산세 감면도 주지 않는다고 했어요. 파이크 카운티는 올해 초 석탄 회사가 문을 닫은 뒤 일자리 300개를 잃었어요. 힉먼은 데이터센터가 잃은 세금 일부는 채울 수 있지만 일자리 수는 같지 않을 거라고 했어요."
+    }
+   ],
+   "keySentence": "Pike County lost 300 jobs earlier this year after a coal producer shut down.",
+   "glosses": [
+    {
+     "text": "data centers",
+     "meaning": "데이터센터(서버를 모아 둔 큰 건물)",
+     "level": 1
+    },
+    {
+     "text": "food pantry",
+     "meaning": "푸드 팬트리(어려운 이웃에게 식료품을 나눠 주는 곳)",
+     "level": 2
+    },
+    {
+     "text": "a game changer",
+     "meaning": "판을 바꾸는 것",
+     "level": 3
+    },
+    {
+     "text": "power lines",
+     "meaning": "송전선",
+     "level": 2
+    },
+    {
+     "text": "property tax breaks",
+     "meaning": "재산세 감면",
+     "level": 3
+    },
+    {
+     "text": "Kentucky Power",
+     "meaning": "켄터키파워(전력 회사)",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://text.npr.org/nx-s1-6022442"
+    }
+   ],
+   "num": {
+    "value": "300 jobs",
+    "caption": "올해 초 파이크 카운티가 잃은 일자리(석탄 회사 폐업)",
+    "source": "NPR"
+   },
+   "life": "AI 시대의 데이터센터가 지역 일자리와 세금, 전기요금에 어떤 득실을 주는지를 보여 주는 이야기예요. 산업이 바뀔 때 지역과 노동자가 어떤 선택을 하는지 생각해 볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "How many jobs did Pike County lose when a coal producer closed?",
+     "qKo": "석탄 회사가 문을 닫으며 파이크 카운티는 일자리 몇 개를 잃었나요?",
+     "choices": [
+      "300",
+      "30",
+      "3,000"
+     ],
+     "answer": 0,
+     "why": "4문단: “lost 300 jobs earlier this year”"
+    },
+    {
+     "q": "Who will pay for the new power lines?",
+     "qKo": "새 송전선 비용은 누가 내나요?",
+     "choices": [
+      "Home customers",
+      "The city of Pikeville",
+      "The developer TeraWulf"
+     ],
+     "answer": 2,
+     "why": "3문단: “TeraWulf, will pay for new power lines instead of home customers”"
+    },
+    {
+     "q": "What did Hickman say a data center could replace?",
+     "qKo": "힉먼은 데이터센터가 무엇을 대신할 수 있다고 했나요?",
+     "choices": [
+      "All the coal jobs",
+      "Some lost taxes",
+      "The steel mill"
+     ],
+     "answer": 1,
+     "why": "4문단: “could replace some lost taxes”"
+    }
+   ],
+   "job": "산업 전환기 지역 경제와 일자리 = 「지역 소멸·산업 전환」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Should towns welcome data centers if they bring few jobs?",
+    "qKo": "일자리가 적어도 마을은 데이터센터를 환영해야 할까요?",
+    "answer": "The article says a data center may replace some taxes but not the same number of jobs. That is a real trade-off. I think towns should ask clear questions about water, power and jobs before they decide.",
+    "answerKo": "기사는 데이터센터가 세금 일부는 메우지만 일자리 수까지 같지는 않을 수 있다고 해요. 이것은 현실적인 맞바꿈이에요. 마을은 물, 전기, 일자리에 대해 분명히 묻고 나서 결정해야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "a real trade-off",
+      "ko": "현실적인 맞바꿈"
+     },
+     {
+      "en": "ask clear questions",
+      "ko": "분명하게 묻다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-8"
+  },
+  {
+   "section": "money",
+   "tag": "생활에 바로",
+   "title": "Will Fuel Prices Fall Soon After the US Election? Experts Say Not Yet",
+   "easyKo": "이란 전쟁으로 미국의 기름값이 크게 올라 선거에서 큰 쟁점이 됐어요. 선거가 끝났어도 기름값이 바로 내리지는 않아요. 전쟁이 끝나는 합의가 나와도 휘발유값이 전쟁 전으로 돌아가려면 몇 달이 걸려요.",
+   "paragraphs": [
+    {
+     "en": "Many US voters were angry about high fuel prices, which rose because of the war in Iran. Before the war, about one fifth of the world's oil passed through the Strait of Hormuz. Now a barrel of Brent crude costs close to $95, up from about $70 in late February.",
+     "ko": "많은 미국 유권자가 이란 전쟁 때문에 오른 기름값에 화가 났어요. 전쟁 전에는 세계 석유의 약 5분의 1이 호르무즈 해협을 지났어요. 지금 브렌트유는 배럴당 95달러 가까이로, 2월 말의 약 70달러에서 올랐어요."
+    },
+    {
+     "en": "A gallon of gas costs $4.12 on average, about $1 more than a year ago. Diesel hit a record $6.52 a gallon in September, and it is still about $2.50 higher than last year.",
+     "ko": "휘발유 1갤런은 평균 4.12달러로 1년 전보다 약 1달러 비싸요. 경유는 9월에 갤런당 6.52달러로 사상 최고를 찍었고, 지금도 작년보다 약 2.50달러 높아요."
+    },
+    {
+     "en": "Will the election change this soon? Not yet. The new Congress will not take office until January, and lawmakers have limited power over the global oil price. They could make it harder to pay for new war spending, but the president still has his own powers.",
+     "ko": "선거가 이것을 곧 바꿀까요? 아직은 아니에요. 새 의회는 1월에야 시작하고, 국제 유가에 대한 의원들의 힘은 제한적이에요. 새 전쟁 비용을 대기 어렵게 만들 수는 있지만 대통령도 자신의 권한이 있어요."
+    },
+    {
+     "en": "One expert said that if a peace deal is announced, crude prices could fall by $15 to $20 a barrel within days. But gas and diesel would take longer. In the best case it could take three months to reach prewar levels, and other experts said it could take much longer.",
+     "ko": "한 전문가는 평화 합의가 발표되면 원유 가격이 며칠 안에 배럴당 15~20달러 내릴 수 있다고 했어요. 하지만 휘발유와 경유는 더 걸려요. 가장 좋은 경우에도 전쟁 전 수준까지 석 달이 걸릴 수 있고, 다른 전문가들은 훨씬 더 걸릴 수 있다고 했어요."
+    }
+   ],
+   "keySentence": "Will the election change this soon? Not yet.",
+   "glosses": [
+    {
+     "text": "Brent crude",
+     "meaning": "브렌트유(국제 유가의 기준이 되는 원유)",
+     "level": 1
+    },
+    {
+     "text": "Strait of Hormuz",
+     "meaning": "호르무즈 해협(석유가 많이 지나는 바닷길)",
+     "level": 1
+    },
+    {
+     "text": "diesel",
+     "meaning": "경유(트럭·버스 등에 쓰는 연료)",
+     "level": 1
+    },
+    {
+     "text": "Congress",
+     "meaning": "미국 의회",
+     "level": 0
+    },
+    {
+     "text": "a barrel",
+     "meaning": "배럴(원유 부피 단위)",
+     "level": 1
+    },
+    {
+     "text": "prewar levels",
+     "meaning": "전쟁 전 수준",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms"
+    }
+   ],
+   "num": {
+    "value": "$4.12",
+    "caption": "미국 휘발유 1갤런 평균 가격(1년 전보다 약 $1 비싸요)",
+    "source": "NPR(AAA 자료)"
+   },
+   "life": "국제 유가는 한국의 기름값과 물가, 교통비에도 이어져요. 원유값이 움직여도 소비자 가격이 바뀌기까지는 시간이 걸린다는 점을 알면 생활비 계획에 도움이 돼요.",
+   "quiz": [
+    {
+     "q": "How much does a barrel of Brent crude cost now?",
+     "qKo": "브렌트유 한 배럴은 지금 얼마인가요?",
+     "choices": [
+      "Close to $70",
+      "Close to $110",
+      "Close to $95"
+     ],
+     "answer": 2,
+     "why": "1문단: “close to $95”"
+    },
+    {
+     "q": "When did diesel hit a record price?",
+     "qKo": "경유는 언제 사상 최고 가격을 찍었나요?",
+     "choices": [
+      "In September",
+      "In February",
+      "In January"
+     ],
+     "answer": 0,
+     "why": "2문단: “Diesel hit a record $6.52 a gallon in September”"
+    },
+    {
+     "q": "When will the new Congress take office?",
+     "qKo": "새 의회는 언제 시작하나요?",
+     "choices": [
+      "In December",
+      "In January",
+      "In November"
+     ],
+     "answer": 1,
+     "why": "3문단: “not take office until January”"
+    }
+   ],
+   "job": "국제 유가와 물가·생활비의 관계 = 「에너지 가격과 경제」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "How do oil prices affect your daily life?",
+    "qKo": "유가는 여러분의 일상에 어떤 영향을 주나요?",
+    "answer": "The article says high fuel prices make life more expensive, because prices go up for many goods. In Korea, this can mean higher transport costs for students. I try to plan my budget for the month so I am not surprised by price changes.",
+    "answerKo": "기사는 기름값이 오르면 많은 물건 값이 올라 생활비가 늘어난다고 해요. 한국에서는 학생의 교통비가 늘 수 있어요. 저는 가격 변화에 놀라지 않도록 한 달 예산을 미리 짜 보려고 해요.",
+    "phrases": [
+     {
+      "en": "plan my budget",
+      "ko": "예산을 짜다"
+     },
+     {
+      "en": "higher transport costs",
+      "ko": "더 높은 교통비"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-9"
+  },
+  {
+   "section": "money",
+   "tag": "의견 갈림",
+   "title": "Fewer First-Time Homebuyers in the US, and More of Them Pay All Cash",
+   "easyKo": "미국에서 처음 집을 사는 사람의 비율이 사상 최저 수준이에요. 집을 사는 사람은 더 나이 들고 부유해졌고, 열 명 중 한 명은 현금으로 샀어요. 부모의 유산이 큰 역할을 해요.",
+   "paragraphs": [
+    {
+     "en": "A new report says first-time buyers are only 22% of US home buyers, close to a record low. A housing shortage and high prices keep many people out. The report comes from the National Association of Realtors.",
+     "ko": "새 보고서에 따르면 처음 집을 사는 사람은 미국 주택 구매자의 22%에 그쳐 사상 최저에 가까워요. 주택 부족과 높은 가격 때문에 많은 사람이 밀려나요. 보고서는 전미부동산중개인협회에서 나왔어요."
+    },
+    {
+     "en": "Those who do buy are older and richer than before. One in ten first-time buyers paid all cash, a record since the data began in 2003. The median age of first-time buyers is 40, also a record. For all-cash buyers it is 54.",
+     "ko": "집을 사는 사람은 예전보다 나이가 많고 부유해요. 처음 집을 산 사람 열 명 중 한 명이 현금으로 샀고, 2003년 자료 집계 이후 최고예요. 첫 구매자의 중간 나이는 40세로 이것도 기록이에요. 현금 구매자는 54세예요."
+    },
+    {
+     "en": "Inheritances are a big reason, said Jessica Lautz, deputy chief economist at the group. All-cash first-timers were more likely to use an inheritance than buyers who took a loan. Agents also say high mortgage rates push buyers to offer cash, and some families give money as an early inheritance.",
+     "ko": "유산이 큰 이유라고 협회의 제시카 라우츠 부수석 이코노미스트가 말했어요. 현금으로 산 첫 구매자는 대출 이용자보다 유산을 쓴 경우가 많았어요. 중개인들은 높은 대출금리 때문에 현금 제안을 하게 되고, 일부 가족은 미리 주는 유산처럼 돈을 건넨다고 해요."
+    },
+    {
+     "en": "This makes it harder for people without family money. A renter in Seattle who will soon turn 33 has student loans and a car payment, and says they may never buy a home. They are staying in their rental for now.",
+     "ko": "가족의 돈이 없는 사람에게는 더 어려워요. 곧 33세가 되는 시애틀의 세입자는 학자금 대출과 자동차 할부가 있고 집을 못 살 수도 있다고 말해요. 당분간은 지금 살고 있는 집에 머물러요."
+    }
+   ],
+   "keySentence": "One in ten first-time buyers paid all cash, a record since the data began in 2003.",
+   "glosses": [
+    {
+     "text": "first-time buyers",
+     "meaning": "생애 처음 집을 사는 사람",
+     "level": 1
+    },
+    {
+     "text": "all cash",
+     "meaning": "대출 없이 현금으로 전액 지불",
+     "level": 1
+    },
+    {
+     "text": "Inheritances",
+     "meaning": "유산(세상을 떠난 사람이 남긴 재산)",
+     "level": 1
+    },
+    {
+     "text": "mortgage rates",
+     "meaning": "주택담보대출 금리",
+     "level": 2
+    },
+    {
+     "text": "median age",
+     "meaning": "중간 나이(나이순으로 세웠을 때 가운데 값)",
+     "level": 2
+    },
+    {
+     "text": "National Association of Realtors",
+     "meaning": "전미부동산중개인협회",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer"
+    }
+   ],
+   "num": {
+    "value": "22%",
+    "caption": "미국 주택 구매자 중 처음 사는 사람의 비율(사상 최저 수준)",
+    "source": "NPR(전미부동산중개인협회)"
+   },
+   "life": "내 집 마련에 가족의 도움이 얼마나 큰 변수인지는 한국 청년에게도 낯설지 않은 이야기예요. 월세와 대출, 저축 계획을 함께 따져 보는 눈을 기를 수 있어요.",
+   "quiz": [
+    {
+     "q": "What share of US home buyers are first-time buyers?",
+     "qKo": "미국 주택 구매자 중 처음 사는 사람은 몇 퍼센트인가요?",
+     "choices": [
+      "22%",
+      "40%",
+      "10%"
+     ],
+     "answer": 0,
+     "why": "1문단: “only 22% of US home buyers”"
+    },
+    {
+     "q": "What is the median age of all first-time buyers?",
+     "qKo": "처음 집을 사는 사람 전체의 중간 나이는 몇 살인가요?",
+     "choices": [
+      "38",
+      "40",
+      "54"
+     ],
+     "answer": 1,
+     "why": "2문단: “The median age of first-time buyers is 40”"
+    },
+    {
+     "q": "What helped many all-cash first-time buyers?",
+     "qKo": "현금으로 산 첫 구매자들에게 많은 도움이 된 것은 무엇인가요?",
+     "choices": [
+      "A student loan",
+      "A bank bonus",
+      "An inheritance"
+     ],
+     "answer": 2,
+     "why": "3문단: “Inheritances are a big reason”"
+    }
+   ],
+   "job": "주거비와 세대 간 부의 이전이 청년에게 주는 영향 = 「주거 불평등·청년 자산」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "How can young people save for a home without family help?",
+    "qKo": "가족의 도움 없이 청년은 어떻게 집을 위해 저축할 수 있을까요?",
+    "answer": "The article says a housing shortage and high prices keep many first-time buyers out. Without family money, saving is slow. I think young people should start a small savings habit early, and learn how loans and rents work.",
+    "answerKo": "기사는 주택 부족과 높은 가격이 많은 첫 구매자를 밀어낸다고 해요. 가족의 돈이 없으면 저축이 느려요. 청년은 일찍 작은 저축 습관을 들이고 대출과 월세가 어떻게 돌아가는지 배워야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "a small savings habit",
+      "ko": "작은 저축 습관"
+     },
+     {
+      "en": "family money",
+      "ko": "가족의 돈"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-10"
+  },
+  {
+   "section": "tech",
+   "tag": "모두의 화제",
+   "title": "Little-Known Neocloud Firms Worry Investors in the AI Boom",
+   "easyKo": "CoreWeave 같은 「네오클라우드」 회사는 AI 기업에 컴퓨터를 빌려주는 데이터센터 회사예요. 빚이 많고 주가도 한 달 새 4분의 1이 빠져서, AI 거품이 터지면 먼저 다칠 거라는 걱정을 받고 있어요.",
+   "paragraphs": [
+    {
+     "en": "Some little-known data centre companies, called neocloud firms, are now in the spotlight. CoreWeave and Nebius are two examples. They are now the subject of one of the most heated debates in Silicon Valley. They run large warehouses full of costly computers and lease them to AI developers such as Anthropic, OpenAI and Meta.",
+     "ko": "네오클라우드라 불리는, 잘 알려지지 않은 데이터센터 회사들이 주목받고 있어요. 코어위브와 네비우스가 그 예예요. 이들은 실리콘밸리에서 가장 뜨거운 논쟁거리 중 하나가 됐어요. 이들은 값비싼 컴퓨터로 가득한 큰 창고를 운영하며 앤트로픽, 오픈AI, 메타 같은 AI 개발사에 빌려줘요."
+    },
+    {
+     "en": "These firms borrow a lot of money. They sign long contracts with big tech customers, then use those contracts and the AI chips they buy as collateral for loans. CoreWeave has built up $35.1bn in debt. Over the past month, its stock lost a quarter of its value, and other neocloud shares fell about as much.",
+     "ko": "이 회사들은 돈을 많이 빌려요. 큰 기술 기업과 긴 계약을 맺고, 그 계약과 사들인 AI 반도체를 담보로 대출을 받아요. 코어위브는 빚이 351억 달러까지 쌓였어요. 지난 한 달 동안 주가가 4분의 1 빠졌고, 다른 네오클라우드 주식도 비슷하게 내렸어요."
+    },
+    {
+     "en": "Several neocloud firms began in crypto mining, which uses similar equipment. CoreWeave started in 2017 by mining Ethereum. When AI exploded in 2022 with the arrival of ChatGPT, that equipment helped the firms move into AI. Now their fate depends on the big AI developers and on whether big tech keeps spending.",
+     "ko": "여러 네오클라우드 회사는 비슷한 장비를 쓰는 가상자산 채굴에서 출발했어요. 코어위브는 2017년에 이더리움 채굴로 시작했어요. 2022년 챗GPT와 함께 AI가 폭발하자 그 장비 덕에 AI로 옮겨 갈 수 있었어요. 이제 이들의 운명은 큰 AI 개발사와 빅테크의 투자 지속에 달려 있어요."
+    },
+    {
+     "en": "Big tech spending is under a spotlight. Meta, Alphabet, Oracle, Amazon and Microsoft have committed to spend $800bn between them in 2026. Alphabet's market value fell by more than $500bn in a day after it said AI summaries were hurting its search advertising revenue. Intel and Reddit also fell sharply.",
+     "ko": "빅테크의 지출에 눈길이 쏠려요. 메타, 알파벳, 오라클, 아마존, 마이크로소프트는 2026년에 모두 8000억 달러를 쓰기로 했어요. 알파벳은 AI 요약이 검색 광고 수입을 깎고 있다고 밝힌 뒤 하루 만에 시가총액이 5000억 달러 넘게 줄었어요. 인텔과 레딧도 크게 내렸어요."
+    },
+    {
+     "en": "Analysts are split. Gartner predicts that 80% of neocloud firms will stop operating on their own by 2030. Treasury Secretary Scott Bessent called them a small part of the whole system. CoreWeave's chief executive, Mike Intrator, said the market is acting irrationally.",
+     "ko": "분석가들 의견은 갈려요. 가트너는 2030년까지 네오클라우드 회사의 80%가 독립적으로 운영하지 못하게 될 거라고 내다봐요. 스콧 베선트 미국 재무장관은 이들이 전체 시스템의 작은 부분이라고 했어요. 코어위브 CEO 마이크 인트레이터는 시장이 비이성적으로 움직인다고 했어요."
+    },
+    {
+     "en": "There are other signs of stress. Microsoft cancelled a deal with a British neocloud firm, Nscale, because of power supply problems. Higher interest rates also make borrowing more costly. Anthropic and OpenAI are both expected to sell shares to the public in the months ahead. Still, analysts at Yorkville Ives say demand for computing power is bigger than supply.",
+     "ko": "다른 위험 신호도 있어요. 마이크로소프트는 전력 공급 문제 때문에 영국 네오클라우드 회사 엔스케일과의 계약을 취소했어요. 금리가 오르면 돈 빌리기도 더 비싸져요. 앤트로픽과 오픈AI는 앞으로 몇 달 안에 주식을 공개 판매할 걸로 예상돼요. 그래도 요크빌 아이브스 분석가들은 컴퓨팅 파워 수요가 공급보다 크다고 말해요."
+    }
+   ],
+   "keySentence": "Gartner predicts that 80% of neocloud firms will stop operating on their own by 2030.",
+   "glosses": [
+    {
+     "text": "neocloud firms",
+     "meaning": "AI용 컴퓨터를 빌려주는 신생 데이터센터 회사",
+     "level": 2
+    },
+    {
+     "text": "lease",
+     "meaning": "빌려주다(임대하다)",
+     "level": 2
+    },
+    {
+     "text": "collateral",
+     "meaning": "대출을 위한 담보",
+     "level": 3
+    },
+    {
+     "text": "debt",
+     "meaning": "빚",
+     "level": 1
+    },
+    {
+     "text": "stock",
+     "meaning": "주식",
+     "level": 1
+    },
+    {
+     "text": "crypto mining",
+     "meaning": "가상자산을 만들어 내는 채굴",
+     "level": 2
+    },
+    {
+     "text": "market value",
+     "meaning": "시장에서 평가된 회사 가치(시가총액)",
+     "level": 2
+    },
+    {
+     "text": "Treasury Secretary",
+     "meaning": "미국 재무장관",
+     "level": 1
+    },
+    {
+     "text": "chief executive",
+     "meaning": "최고경영자(CEO)",
+     "level": 1
+    },
+    {
+     "text": "CoreWeave",
+     "meaning": "미국의 대표적 네오클라우드 회사",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
+    }
+   ],
+   "num": {
+    "value": "$35.1bn",
+    "caption": "코어위브가 쌓은 빚",
+    "source": "BBC News"
+   },
+   "life": "AI 일자리가 늘어난다는 소식 뒤에는 빚으로 데이터센터를 짓는 회사들의 사정이 있어요. AI 분야로 취업을 생각한다면 회사의 재무 건전성도 함께 살펴보는 눈이 필요해요.",
+   "deep": {
+    "why": "AI 붐을 받치는 데이터센터 회사들이 빚에 크게 기대고 있어요. 빅테크 투자가 줄면 이들이 먼저 흔들릴 수 있어, AI 거품 논쟁의 약한 고리로 꼽혀요.",
+    "next": "오픈AI와 앤트로픽의 주식 시장 상장 계획, 금리 움직임, 빅테크의 투자 계획 변화가 네오클라우드 회사의 빚 부담에 어떤 영향을 주는지 봐요.",
+    "keyNumbers": "코어위브 빚 351억 달러 · 한 달 주가 약 25% 하락 · 가트너 2030년까지 80% 독립 운영 못 할 것 · 빅테크 5곳 2026년 8000억 달러 투자",
+    "views": [
+     {
+      "source": "BBC News",
+      "view": "네오클라우드가 재정이 튼튼한지에 의문을 던지는 한편, 컴퓨팅 수요가 여전히 공급보다 크다는 분석도 함께 전해요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "What do neocloud firms do?",
+     "qKo": "네오클라우드 회사는 무슨 일을 하나요?",
+     "choices": [
+      "They lease computers to AI developers.",
+      "They make smartphones for students.",
+      "They write news stories with AI."
+     ],
+     "answer": 0,
+     "why": "1문단: “lease them to AI developers such as Anthropic, OpenAI and Meta”"
+    },
+    {
+     "q": "How much debt has CoreWeave built up?",
+     "qKo": "코어위브는 빚이 얼마나 쌓였나요?",
+     "choices": [
+      "$3.5bn in debt",
+      "$35.1bn in debt",
+      "$351bn in debt"
+     ],
+     "answer": 1,
+     "why": "2문단: “CoreWeave has built up $35.1bn in debt”"
+    },
+    {
+     "q": "What does Gartner predict for neocloud firms by 2030?",
+     "qKo": "가트너는 2030년까지 네오클라우드 회사에 대해 무엇을 내다보나요?",
+     "choices": [
+      "Half of them will become banks.",
+      "Most of them will double in size.",
+      "Most of them will stop operating alone."
+     ],
+     "answer": 2,
+     "why": "5문단: “80% of neocloud firms will stop operating on their own by 2030”"
+    }
+   ],
+   "job": "AI 투자 열기와 부채·거품 위험 = 「산업 전망·리스크 관리」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Do you think AI companies are spending too much money?",
+    "qKo": "AI 회사들이 돈을 너무 많이 쓰고 있다고 생각하나요?",
+    "answer": "It is hard to say. Big tech firms plan to spend $800bn on AI in 2026, and some neocloud firms have a lot of debt. But demand for computing power is still high. I think investors should watch whether AI products really earn enough money.",
+    "answerKo": "말하기 어려워요. 빅테크는 2026년에 AI에 8000억 달러를 쓸 계획이고, 일부 네오클라우드는 빚이 많아요. 하지만 컴퓨팅 수요는 아직 높아요. AI 제품이 정말 충분한 돈을 버는지 투자자들이 지켜봐야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "a lot of debt",
+      "ko": "많은 빚"
+     },
+     {
+      "en": "demand for computing power",
+      "ko": "컴퓨팅 파워 수요"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-11"
+  },
+  {
+   "section": "tech",
+   "tag": "모두의 화제",
+   "title": "Apple's $2,000 Foldable iPhone Sells Out as Memory Costs Jump",
+   "easyKo": "애플의 접는 아이폰 「듀오」가 나온 지 일주일 만에 다 팔렸어요. 애플은 언제 다시 채울지 모른다고 했어요. AI 데이터센터 때문에 메모리 반도체 값이 크게 올랐다는 말도 했어요.",
+   "paragraphs": [
+    {
+     "en": "Apple says it does not know when it will have more of its new foldable phone, the iPhone Duo, back in stock. The phone sold out just over a week after its launch. It costs nearly $2,000, which makes it Apple's most expensive smartphone.",
+     "ko": "애플은 새 접는 폰 아이폰 듀오를 언제 다시 재고로 채울지 모른다고 했어요. 이 폰은 출시 일주일 조금 넘어 다 팔렸어요. 값이 2000달러에 가까워 애플의 가장 비싼 스마트폰이에요."
+    },
+    {
+     "en": "Apple's new chief executive, John Ternus, took over from Tim Cook in September. He said the company faces an \"unprecedented\" rise in the price of memory, because AI companies are spending billions of dollars on data centres. Apple also said some screens cracked along the fold, and it will replace affected phones.",
+     "ko": "애플의 새 CEO 존 터너스는 9월에 팀 쿡의 뒤를 이었어요. 그는 AI 기업들이 데이터센터에 수십억 달러를 쓰는 탓에 메모리 값이 「전례 없이」 오르고 있다고 말했어요. 접히는 부분에서 화면이 갈라진 사례가 있어, 영향받은 폰은 바꿔 주겠다고도 했어요."
+    },
+    {
+     "en": "Apple's results for July to September were strong. Sales rose from $102bn to $114bn, and iPhone revenue rose 17% to $57bn. Mac sales hit a record $10.7bn. But sales of iPads and wearable products, such as watches, fell by 10% and 7%.",
+     "ko": "7~9월 애플의 실적은 좋았어요. 매출은 1020억 달러에서 1140억 달러로 늘었고, 아이폰 매출은 17% 올라 570억 달러가 됐어요. 맥 매출은 107억 달러로 최고 기록이었어요. 하지만 아이패드와 시계 같은 웨어러블 매출은 10%, 7% 줄었어요."
+    },
+    {
+     "en": "Chief operating officer Sabih Khan said many Apple devices still face supply limits, partly because advanced chips are hard to get. Most of those chips are made by TSMC in Taiwan. He said the problem is expected to continue into next year.",
+     "ko": "최고운영책임자 사비 칸은 많은 애플 기기가 여전히 공급 제약을 겪는다고 했어요. 고급 반도체를 충분히 구하기 어렵기 때문이기도 해요. 그 반도체 대부분은 대만의 TSMC가 만들어요. 문제는 내년까지 이어질 걸로 보여요."
+    }
+   ],
+   "keySentence": "He said the company faces an \"unprecedented\" rise in the price of memory, because AI companies are spending billions of dollars on data centres.",
+   "glosses": [
+    {
+     "text": "foldable phone",
+     "meaning": "접을 수 있는 스마트폰",
+     "level": 1
+    },
+    {
+     "text": "back in stock",
+     "meaning": "다시 재고가 채워진",
+     "level": 2
+    },
+    {
+     "text": "sold out",
+     "meaning": "다 팔렸다",
+     "level": 1
+    },
+    {
+     "text": "unprecedented",
+     "meaning": "전례 없는",
+     "level": 3
+    },
+    {
+     "text": "memory",
+     "meaning": "저장·기억을 맡는 메모리 반도체",
+     "level": 2
+    },
+    {
+     "text": "revenue",
+     "meaning": "매출·수입",
+     "level": 1
+    },
+    {
+     "text": "wearable products",
+     "meaning": "시계·이어폰처럼 몸에 지니는 기기",
+     "level": 2
+    },
+    {
+     "text": "chief operating officer",
+     "meaning": "최고운영책임자(COO)",
+     "level": 2
+    },
+    {
+     "text": "supply limits",
+     "meaning": "공급이 모자라는 제약",
+     "level": 2
+    },
+    {
+     "text": "TSMC",
+     "meaning": "대만의 세계적 반도체 위탁생산 회사",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko"
+    }
+   ],
+   "num": {
+    "value": "$2,000",
+    "caption": "접는 아이폰 듀오의 값(약)",
+    "source": "BBC News"
+   },
+   "life": "AI 때문에 메모리 반도체 값이 오르면 삼성전자·SK하이닉스 같은 한국 회사에는 기회가 될 수 있고, 스마트폰·노트북을 사는 학생에게는 값 부담이 될 수 있어요. 어디까지나 풀이일 뿐 이 기사가 한국 영향을 말한 것은 아니에요.",
+   "quiz": [
+    {
+     "q": "What is the main problem for the iPhone Duo?",
+     "qKo": "아이폰 듀오의 가장 큰 문제는 무엇인가요?",
+     "choices": [
+      "It sold out and Apple cannot say when more will arrive.",
+      "It was too cheap, so Apple lost money on it.",
+      "It was banned in Taiwan, so Apple stopped selling it."
+     ],
+     "answer": 0,
+     "why": "1문단: “does not know when it will have more of its new foldable phone, the iPhone Duo, back in stock”"
+    },
+    {
+     "q": "Why did Ternus say memory prices are rising?",
+     "qKo": "터너스는 메모리 값이 왜 오른다고 했나요?",
+     "choices": [
+      "Fewer people are buying phones.",
+      "AI companies are spending on data centres.",
+      "Taiwan has stopped making chips."
+     ],
+     "answer": 1,
+     "why": "2문단: “because AI companies are spending billions of dollars on data centres”"
+    },
+    {
+     "q": "How much did iPhone revenue rise in the latest quarter?",
+     "qKo": "최근 분기 아이폰 매출은 얼마나 올랐나요?",
+     "choices": [
+      "It rose 7% to $10.7bn.",
+      "It rose 10% to $102bn.",
+      "It rose 17% to $57bn."
+     ],
+     "answer": 2,
+     "why": "3문단: “iPhone revenue rose 17% to $57bn”"
+    }
+   ],
+   "job": "AI 붐이 반도체·메모리 가격과 기업 실적에 주는 영향 = 「공급망·산업 동향」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Would you buy a very expensive foldable phone? Why or why not?",
+    "qKo": "아주 비싼 접는 폰을 사겠어요? 왜 그런가요?",
+    "answer": "I would not buy one right now. The iPhone Duo costs nearly $2,000, and some buyers reported cracked screens. I would wait until the price is lower and the design is proven. A phone is a tool for me, not a status symbol.",
+    "answerKo": "지금은 사지 않겠어요. 아이폰 듀오는 거의 2000달러이고, 일부 구매자는 화면이 갈라졌다고 했어요. 값이 내리고 디자인이 검증될 때까지 기다리겠어요. 제게 폰은 과시용이 아니라 도구예요.",
+    "phrases": [
+     {
+      "en": "nearly $2,000",
+      "ko": "2000달러에 가까운"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-12"
+  },
+  {
+   "section": "tech",
+   "tag": "한국에 직접",
+   "title": "Court Backs a $315 Million Privacy Fine on Coupang",
+   "easyKo": "서울의 한 법원이 쿠팡이 낸 신청을 받아들이지 않았어요. 쿠팡은 개인정보 유출로 약 4230억 원 과징금을 받았는데, 그걸 막아 달라고 했거든요. 이 과징금은 한 회사에 매겨진 것 중 가장 커요.",
+   "paragraphs": [
+    {
+     "en": "A Seoul court on Thursday rejected a request from Coupang to stop a fine of about 423 billion won, or $315 million. The state data protection agency set the fine in June. The court said there is no need to cancel it.",
+     "ko": "목요일 서울의 한 법원은 약 4230억 원(3억 1500만 달러) 과징금을 막아 달라는 쿠팡의 신청을 받아들이지 않았어요. 국가 개인정보 보호 기관이 6월에 이 과징금을 매겼어요. 법원은 과징금을 취소할 필요가 없다고 했어요."
+    },
+    {
+     "en": "It is the largest fine the regulator has ever given to one company. The fine is linked to a data leak that affected more than 37 million users. The leaked details included names, phone numbers and delivery information. Coupang told the public about the leak late, last November.",
+     "ko": "규제 기관이 한 회사에 매긴 과징금 중 가장 커요. 이 과징금은 3700만 명이 넘는 이용자에게 영향을 준 정보 유출과 관련돼 있어요. 새어 나간 정보에는 이름, 전화번호, 배송 정보가 들어 있었어요. 쿠팡은 지난해 11월에 유출을 늦게 알렸어요."
+    },
+    {
+     "en": "Under the law, a company with a leak can be fined up to 3% of its yearly sales, although sales unrelated to the violation can be left out. Coupang's yearly sales have averaged about 36 trillion won over the past three years.",
+     "ko": "법에 따르면 정보가 새어 나간 회사는 연매출의 최대 3%까지 과징금을 낼 수 있어요. 다만 위반과 관계없는 사업의 매출은 뺄 수 있어요. 쿠팡의 연매출은 지난 3년 평균 약 36조 원이에요."
+    },
+    {
+     "en": "The case also caused friction between Seoul and Washington. Some US officials and lawmakers asked whether the Korean unit of Coupang, which is listed in the US, was being treated unfairly in the investigation.",
+     "ko": "이 일은 서울과 워싱턴 사이에 마찰도 일으켰어요. 일부 미국 관리와 의원이, 미국에 상장된 쿠팡의 한국 법인이 조사에서 부당하게 대우받는 것은 아닌지 물었어요."
+    }
+   ],
+   "keySentence": "It is the largest fine the regulator has ever given to one company.",
+   "glosses": [
+    {
+     "text": "cancel",
+     "meaning": "취소하다",
+     "level": 1
+    },
+    {
+     "text": "fine",
+     "meaning": "벌금·과징금",
+     "level": 1
+    },
+    {
+     "text": "data protection agency",
+     "meaning": "개인정보를 지키는 일을 맡은 기관",
+     "level": 2
+    },
+    {
+     "text": "data leak",
+     "meaning": "정보 유출",
+     "level": 1
+    },
+    {
+     "text": "regulator",
+     "meaning": "규제 기관",
+     "level": 2
+    },
+    {
+     "text": "yearly sales",
+     "meaning": "연매출",
+     "level": 1
+    },
+    {
+     "text": "friction",
+     "meaning": "마찰·갈등",
+     "level": 2
+    },
+    {
+     "text": "listed",
+     "meaning": "주식시장에 상장된",
+     "level": 2
+    },
+    {
+     "text": "unit",
+     "meaning": "(회사의) 지사·법인",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261105010600320"
+    }
+   ],
+   "num": {
+    "value": "423억 원",
+    "caption": "쿠팡이 받은 과징금(약 4230억 원)",
+    "source": "Yonhap News Agency"
+   },
+   "life": "온라인 쇼핑 앱을 쓰는 학생이라면 내 이름·전화번호·주소가 어떻게 지켜지는지 알아 둘 만해요. 개인정보가 새면 기업이 큰 과징금을 물 수 있다는 걸 보여 줘요.",
+   "quiz": [
+    {
+     "q": "What did the Seoul court do on Thursday?",
+     "qKo": "목요일 서울의 법원은 무엇을 했나요?",
+     "choices": [
+      "It rejected Coupang's request to stop the fine.",
+      "It cancelled the fine against Coupang.",
+      "It raised the fine against Coupang."
+     ],
+     "answer": 0,
+     "why": "1문단: “rejected a request from Coupang to stop a fine”"
+    },
+    {
+     "q": "How many users were affected by the data leak?",
+     "qKo": "정보 유출은 몇 명의 이용자에게 영향을 주었나요?",
+     "choices": [
+      "More than 3.7 million",
+      "More than 370 million",
+      "More than 37 million"
+     ],
+     "answer": 2,
+     "why": "2문단: “affected more than 37 million users”"
+    },
+    {
+     "q": "What can a company with a leak be fined, under the law?",
+     "qKo": "법에 따르면 정보가 샌 회사는 얼마까지 과징금을 낼 수 있나요?",
+     "choices": [
+      "Up to 1% of yearly sales",
+      "Up to 3% of yearly sales",
+      "Up to 30% of yearly sales"
+     ],
+     "answer": 1,
+     "why": "3문단: “fined up to 3% of its yearly sales”"
+    }
+   ],
+   "job": "기업의 개인정보 보호 책임과 규제 = 「기업 윤리·위기 대응」 면접 질문에 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "What should a company do after a data leak?",
+    "qKo": "정보 유출이 생기면 회사는 어떻게 해야 하나요?",
+    "answer": "A company should tell users quickly and clearly. In this case, Coupang reported the leak late, and the court did not cancel the large fine. I think honest and fast communication helps rebuild trust.",
+    "answerKo": "회사는 이용자에게 빠르고 분명하게 알려야 해요. 이 사례에서 쿠팡은 유출을 늦게 알렸고, 법원은 큰 과징금을 취소하지 않았어요. 솔직하고 빠른 소통이 신뢰를 되찾는 데 도움이 된다고 생각해요.",
+    "phrases": [
+     {
+      "en": "tell users quickly and clearly",
+      "ko": "이용자에게 빠르고 분명하게 알리다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-13"
+  },
+  {
+   "section": "tech",
+   "tag": "생활에 바로",
+   "title": "Nearly Two in Three Teens and Tweens Use AI Chatbots",
+   "easyKo": "미국 어린이·청소년 두 조사에서 거의 3분의 2가 AI 챗봇을 써요. 대부분 공부에 쓰지만 말동무로도 써요. 연구자들은 일부 쓰임이 외로움이나 나쁜 마음 건강과 이어질 수 있다고 조심스럽게 말해요.",
+   "paragraphs": [
+    {
+     "en": "Two new surveys show that nearly two-thirds of American tweens and teens use AI chatbots. Most use them for schoolwork, but many also use them for company and emotional support.",
+     "ko": "새 조사 두 건에서 미국 10대 초중반·10대의 거의 3분의 2가 AI 챗봇을 써요. 대부분 학교 과제에 쓰지만, 많은 아이가 말동무나 마음의 위로로도 써요."
+    },
+    {
+     "en": "One survey, by the group Common Sense Media, found that use starts early. Nearly half of children aged 9 to 12 have used an AI chatbot or companion, even though most popular chatbots set the minimum age at 13. By age 13, nearly three in four have tried one.",
+     "ko": "한 조사(커먼센스미디어)는 사용이 일찍 시작된다고 밝혔어요. 9~12살 어린이의 거의 절반이 AI 챗봇이나 동반자 앱을 써 봤어요. 인기 챗봇 대부분은 최소 나이를 13살로 두는데도요. 13살이 되면 거의 4명 중 3명이 써 봤어요."
+    },
+    {
+     "en": "The other survey, by the JED Foundation, asked 5,500 young people aged 9 to 17. It found that 90% had used a chatbot. A 15-year-old in Texas said he uses it to practise sample test questions and to understand ideas from outside class.",
+     "ko": "다른 조사(JED 재단)는 9~17살 5,500명에게 물었어요. 90%가 챗봇을 써 봤다고 했어요. 텍사스의 15살 학생은 예상 시험 문제를 연습하고 수업 밖 개념을 이해하는 데 쓴다고 했어요."
+    },
+    {
+     "en": "Researchers warn that some uses may carry risks. In the JED survey, students who used AI while upset were more likely to report poor mental health. But one researcher said the data do not show a cause. The data cannot tell us whether AI use causes the problems, or whether students already in distress simply turn to AI.",
+     "ko": "연구자들은 일부 쓰임에 위험이 있을 수 있다고 경고해요. JED 조사에서 속상할 때 AI를 쓴 학생은 마음 건강이 나쁘다고 답할 가능성이 더 컸어요. 하지만 한 연구자는 이 자료가 원인을 보여 주지는 않는다고 했어요. 이 자료만으로는 AI 때문에 문제가 생기는지, 이미 힘든 학생이 AI를 찾는지 알 수 없어요."
+    },
+    {
+     "en": "A researcher at the University of North Carolina found that middle school students who used chatbots for company grew lonelier over time. One idea is that AI eases stress in the moment, but stops young people from learning to handle daily stress themselves.",
+     "ko": "노스캐롤라이나대 연구자는 말동무로 챗봇을 쓴 중학생이 시간이 지나며 더 외로워졌다고 밝혔어요. 한 가지 설명은, AI가 그 순간의 스트레스를 덜어 주지만 젊은이가 일상의 스트레스를 스스로 다루는 법을 배우지 못하게 한다는 거예요."
+    }
+   ],
+   "keySentence": "The data cannot tell us whether AI use causes the problems, or whether students already in distress simply turn to AI.",
+   "glosses": [
+    {
+     "text": "tweens",
+     "meaning": "10~12살 안팎의 아이들",
+     "level": 2
+    },
+    {
+     "text": "chatbots",
+     "meaning": "대화로 답하는 AI 프로그램",
+     "level": 1
+    },
+    {
+     "text": "survey",
+     "meaning": "설문 조사",
+     "level": 1
+    },
+    {
+     "text": "emotional support",
+     "meaning": "마음의 위로·정서적 도움",
+     "level": 2
+    },
+    {
+     "text": "companion",
+     "meaning": "말동무·동반자",
+     "level": 2
+    },
+    {
+     "text": "minimum age",
+     "meaning": "최소 나이",
+     "level": 1
+    },
+    {
+     "text": "mental health",
+     "meaning": "마음 건강",
+     "level": 1
+    },
+    {
+     "text": "in distress",
+     "meaning": "괴로운 상태인",
+     "level": 3
+    },
+    {
+     "text": "eases",
+     "meaning": "덜어 준다·누그러뜨린다",
+     "level": 3
+    },
+    {
+     "text": "JED Foundation",
+     "meaning": "미국 청소년 정신 건강 단체",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media"
+    }
+   ],
+   "num": {
+    "value": "90%",
+    "caption": "9~17살 중 챗봇을 써 본 비율(JED 조사)",
+    "source": "NPR"
+   },
+   "life": "기사는 미국 어린 학생의 이야기지만, 공부에 AI를 쓰는 대학생도 AI를 공부 도우미로 쓰되 마음의 의지처로 지나치게 기대지 않는 균형을 생각해 볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "How much of the JED survey group had used an AI chatbot?",
+     "qKo": "JED 조사 대상 중 AI 챗봇을 써 본 비율은 얼마인가요?",
+     "choices": [
+      "About 9%",
+      "About 50%",
+      "About 90%"
+     ],
+     "answer": 2,
+     "why": "3문단: “It found that 90% had used a chatbot.”"
+    },
+    {
+     "q": "What is the minimum age on most popular chatbots?",
+     "qKo": "인기 챗봇 대부분의 최소 나이는 몇 살인가요?",
+     "choices": [
+      "13",
+      "9",
+      "18"
+     ],
+     "answer": 0,
+     "why": "2문단: “set the minimum age at 13”"
+    },
+    {
+     "q": "What did the researcher say about the data?",
+     "qKo": "연구자는 이 자료에 대해 무엇이라고 했나요?",
+     "choices": [
+      "It proves that AI harms every student.",
+      "It does not show a cause.",
+      "It shows AI makes every student happy."
+     ],
+     "answer": 1,
+     "why": "4문단: “the data do not show a cause”"
+    }
+   ],
+   "job": "AI 시대의 학습과 세대별 기술 사용 = 「디지털 리터러시·교육」 질문에 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "How do you use AI for study, and what limits do you set?",
+    "qKo": "공부에 AI를 어떻게 쓰고, 어떤 한계를 두나요?",
+    "answer": "I use AI to practise sample questions and to understand hard ideas. But I write my own answers first. I think AI is a good helper for study, but I should talk to real friends when I feel stressed.",
+    "answerKo": "저는 AI로 예상 문제를 연습하고 어려운 개념을 이해해요. 하지만 답은 먼저 제 힘으로 써요. AI는 공부에 좋은 도우미지만, 스트레스를 받을 땐 진짜 친구와 이야기해야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "practise sample questions",
+      "ko": "예상 문제를 연습하다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-14"
+  },
+  {
+   "section": "world",
+   "tag": "모두의 화제",
+   "title": "Hoax Bomb Threats Hit Flights Across Europe Again",
+   "easyKo": "목요일 유럽 곳곳의 비행기와 공항에 폭탄을 심었다는 가짜 협박이 또 이어졌어요. 폭발물은 나오지 않았지만 비행기가 군 비행장에 내리고 전투기가 따라붙었어요. 서로 이어진 일인지는 아직 몰라요.",
+   "paragraphs": [
+    {
+     "en": "Bomb threats targeted at least 21 aircraft and several airports across Europe on Thursday, the second such wave this week. The UK called them a \"malicious hoax\". No explosives have been found. Flights linked to eight countries were affected: Austria, Belgium, Bulgaria, the Czech Republic, France, Italy, Poland and Romania.",
+     "ko": "목요일 유럽 곳곳에서 적어도 항공기 21대와 여러 공항이 폭탄 협박의 표적이 됐어요. 이번 주 두 번째 물결이에요. 영국은 이를 「악의적인 장난」이라고 불렀고, 폭발물은 발견되지 않았어요. 오스트리아, 벨기에, 불가리아, 체코, 프랑스, 이탈리아, 폴란드, 루마니아행 비행기가 영향을 받았어요."
+    },
+    {
+     "en": "The first case to become public was an Aer Lingus plane flying from Dublin to Rome. It was diverted to a military air base at Evreux in France and landed safely. A passenger told the BBC the crew first spoke of a technical problem and later of a security issue. Passengers stayed on board for two and a half hours while police and soldiers searched the plane.",
+     "ko": "먼저 알려진 것은 더블린에서 로마로 가던 에어링구스 비행기였어요. 프랑스 에브뢰의 군 비행장으로 돌려져 안전하게 내렸어요. 한 승객은 BBC에 승무원이 처음엔 기술 문제를, 나중엔 보안 문제를 말했다고 했어요. 승객들은 경찰과 군인이 비행기를 살피는 두 시간 반 동안 기내에 있었어요."
+    },
+    {
+     "en": "Fighter jets escorted other flights. Italian jets escorted a Finnair flight from Helsinki to Rome, and Bulgarian jets escorted three Ryanair flights that landed in Bulgaria. In Prague, police met flights from Newcastle and Glasgow as a precaution, and passengers got off the planes normally.",
+     "ko": "전투기가 다른 비행기들을 따라붙었어요. 이탈리아 전투기는 헬싱키에서 로마로 가는 핀에어 비행기를, 불가리아 전투기는 불가리아에 내린 라이언에어 비행기 세 대를 호위했어요. 프라하에서는 경찰이 뉴캐슬과 글래스고발 비행기를 미리 맞았고, 승객들은 평소처럼 내렸어요."
+    },
+    {
+     "en": "Rome's airport authority said the threats against two flights came by email. The emails were signed by a group calling itself \"Fighters of the Male State\". The BBC said the name likely refers to a Russian ultra-right group banned in 2021. But it is unclear whether the emails are real or whether the incidents are linked.",
+     "ko": "로마 공항 당국은 비행기 두 대에 대한 협박이 이메일로 왔다고 했어요. 이메일에는 「남자 나라의 전사들」이라는 이름이 적혀 있었어요. BBC는 이 이름이 2021년에 금지된 러시아의 극우 단체를 가리키는 것 같다고 했어요. 하지만 이메일이 진짜인지, 사건들이 서로 이어졌는지는 분명하지 않아요."
+    },
+    {
+     "en": "Officials urged calm. The EU transport commissioner, Apostolos Tzitzikostas, said threats against civilians are unacceptable and that it is too early to say whether the incidents are linked. National investigations are continuing. Heathrow and Birmingham airports also received threats, but they were judged not credible.",
+     "ko": "당국자들은 침착하라고 했어요. 유럽연합 교통 담당 집행위원 아포스톨로스 치치코스타스는 민간인에 대한 협박은 받아들일 수 없다며, 사건들이 이어졌는지 말하기엔 이르다고 했어요. 각국 수사가 이어지고 있어요. 히스로와 버밍엄 공항도 협박을 받았지만 믿을 만하지 않다고 판단됐어요."
+    },
+    {
+     "en": "DW noted that the threats came at the same time as apparent cyberattacks on supermarket freezers and French blood banks. It said the cases are still unclear but could be hybrid attacks, which cause great disruption with little effort. An aviation security professor told the BBC that a flight is diverted only when the threat looks credible.",
+     "ko": "독일 방송 DW는 이 협박이 슈퍼마켓 냉동고와 프랑스 혈액 보관소에 대한 사이버 공격으로 보이는 일들과 같은 때 일어났다고 짚었어요. 아직 분명하지 않지만, 적은 노력으로 큰 혼란을 만드는 「하이브리드 공격」일 수 있다고 했어요. 항공 보안 교수는 BBC에 위협이 믿을 만해 보일 때만 비행기가 돌려진다고 말했어요."
+    }
+   ],
+   "keySentence": "But it is unclear whether the emails are real or whether the incidents are linked.",
+   "glosses": [
+    {
+     "text": "malicious hoax",
+     "meaning": "악의를 가진 가짜 협박·장난",
+     "level": 2
+    },
+    {
+     "text": "targeted",
+     "meaning": "~을 표적으로 삼았다",
+     "level": 1
+    },
+    {
+     "text": "diverted",
+     "meaning": "(계획된 곳이 아닌) 다른 곳으로 돌려졌다",
+     "level": 2
+    },
+    {
+     "text": "air base",
+     "meaning": "군 비행장",
+     "level": 1
+    },
+    {
+     "text": "escorted",
+     "meaning": "호위했다·따라붙었다",
+     "level": 2
+    },
+    {
+     "text": "as a precaution",
+     "meaning": "만약을 대비해",
+     "level": 2
+    },
+    {
+     "text": "Aer Lingus",
+     "meaning": "아일랜드 항공사 에어링구스",
+     "level": 0
+    },
+    {
+     "text": "Fighters of the Male State",
+     "meaning": "협박 이메일에 적힌 단체 이름",
+     "level": 0
+    },
+    {
+     "text": "not credible",
+     "meaning": "믿을 만하지 않은",
+     "level": 2
+    },
+    {
+     "text": "hybrid attacks",
+     "meaning": "사이버·허위정보 등 여러 수단을 섞은 공격",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
+    },
+    {
+     "name": "DW",
+     "url": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216"
+    }
+   ],
+   "num": {
+    "value": "21대",
+    "caption": "이날 폭탄 협박을 받은 항공기 수(최소)",
+    "source": "BBC News"
+   },
+   "life": "유럽 여행이나 교환학생·어학연수를 준비하는 학생은 이런 일로 비행기가 늦거나 다른 곳에 내릴 수 있다는 걸 알아 두면 좋아요.",
+   "deep": {
+    "why": "가짜 협박만으로도 항공기 다수가 돌려지고 군 전투기가 나서요. 적은 힘으로 큰 혼란을 만드는 위협이 유럽 안보의 새 걱정거리가 되고 있어요.",
+    "next": "각국 수사로 협박 이메일의 출처가 밝혀지는지, 이번 주 사건들과 냉동고·혈액 보관소 사이버 공격이 이어져 있는지 지켜봐요.",
+    "keyNumbers": "항공기 최소 21대 협박 · 이번 주 두 번째 물결 · 에어링구스 승객 두 시간 반 기내 대기 · 폭발물 발견 0건",
+    "views": [
+     {
+      "source": "BBC News",
+      "view": "영국 정부의 「악의적 장난」 평가를 전하며, 협박 이메일이 진짜여도 범인을 찾을 단서는 되기 어렵다고 봐요."
+     },
+     {
+      "source": "DW",
+      "view": "냉동고·혈액 보관소 사이버 공격과 같은 때 일어난 점을 짚으며 하이브리드 공격일 수 있다고 조심스럽게 봐요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "How many aircraft were targeted by bomb threats on Thursday?",
+     "qKo": "목요일 폭탄 협박을 받은 항공기는 몇 대인가요?",
+     "choices": [
+      "At least 11",
+      "At least 21",
+      "At least 31"
+     ],
+     "answer": 1,
+     "why": "1문단: “at least 21 aircraft”"
+    },
+    {
+     "q": "Where did the Aer Lingus plane land after the threat?",
+     "qKo": "협박 뒤 에어링구스 비행기는 어디에 내렸나요?",
+     "choices": [
+      "At a military air base in France",
+      "At Heathrow Airport in London",
+      "At Fiumicino Airport in Rome"
+     ],
+     "answer": 0,
+     "why": "2문단: “diverted to a military air base at Evreux in France”"
+    },
+    {
+     "q": "What did the EU transport commissioner say?",
+     "qKo": "유럽연합 교통 담당 집행위원은 무엇이라고 했나요?",
+     "choices": [
+      "The incidents are surely linked.",
+      "All flights should be stopped.",
+      "It is too early to say if they are linked."
+     ],
+     "answer": 2,
+     "why": "5문단: “it is too early to say whether the incidents are linked”"
+    }
+   ],
+   "job": "항공·안보 위협에 정부와 기업이 어떻게 대응하는가 = 「위기 관리·안전」 면접 질문에 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "If your flight were diverted because of a threat, what would you do?",
+    "qKo": "위협 때문에 비행기가 다른 곳에 내리면 어떻게 하겠어요?",
+    "answer": "I would stay calm and follow the crew. In this news, passengers waited for two and a half hours while police checked the plane. I think the best choice is to trust the safety checks, and to keep my phone charged to contact my family.",
+    "answerKo": "저는 침착하게 승무원 말을 따르겠어요. 이 뉴스에서 승객들은 경찰이 비행기를 확인하는 두 시간 반 동안 기다렸어요. 안전 점검을 믿고, 가족과 연락하도록 휴대폰을 충전해 두는 게 가장 좋은 선택이라고 생각해요.",
+    "phrases": [
+     {
+      "en": "stay calm and follow the crew",
+      "ko": "침착하게 승무원 말을 따르다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-15"
+  },
+  {
+   "section": "world",
+   "tag": "모두의 화제",
+   "title": "Over 600,000 March in France Over the Cost of Living",
+   "easyKo": "목요일 프랑스에서 노동조합 다섯 곳이 함께한 큰 시위가 열렸어요. 내무부는 60만 명 넘게 참여했다고 했어요. 사람들은 월급을 올리고 공공 서비스에 돈을 더 쓰라고 요구해요.",
+   "paragraphs": [
+    {
+     "en": "More than 600,000 people joined rallies across France on Thursday, according to the interior ministry. Five unions joined a day of action to ask for higher wages and more money for public services. The CGT union said 1.57 million people took part.",
+     "ko": "내무부에 따르면 목요일 프랑스 곳곳의 집회에 60만 명 넘게 참여했어요. 노조 다섯 곳이 함께한 행동의 날로, 더 높은 임금과 공공 서비스 예산을 요구했어요. CGT 노조는 157만 명이 참여했다고 했어요."
+    },
+    {
+     "en": "The protests began in September over poor conditions in high schools. They then spread to universities, workers and a revived \"yellow-vest\" movement against high prices. The unions especially want a higher minimum wage, which is now 12.31 euros an hour.",
+     "ko": "시위는 9월에 고등학교의 열악한 환경 문제로 시작됐어요. 이어 대학, 노동자, 높은 물가에 맞서는 되살아난 「노란 조끼」 운동으로 퍼졌어요. 노조는 특히 지금 시간당 12.31유로인 최저임금을 올리라고 해요."
+    },
+    {
+     "en": "The government sent 70,000 police. Some unrest was reported: a car was set on fire in Lyon, and tear gas was used in Bordeaux. But the trouble was smaller than on 17 October, when more than 2,000 stores were looted.",
+     "ko": "정부는 경찰 7만 명을 보냈어요. 일부 소란도 있었어요. 리옹에서는 차에 불이 났고 보르도에서는 최루탄이 쓰였어요. 하지만 2,000곳 넘는 가게가 약탈당한 10월 17일보다는 규모가 작았어요."
+    },
+    {
+     "en": "Schools, hospitals and public transport were disrupted, and the Eiffel Tower and some rooms of the Louvre closed. Prime Minister Sebastien Lecornu said he would hold a \"social conference\" with unions and employers next Monday. But the government has little room to act, because it must find tens of billions of euros in savings to cut the budget deficit to 5% of GDP.",
+     "ko": "학교, 병원, 대중교통이 차질을 빚었고 에펠탑과 루브르 일부 전시실이 문을 닫았어요. 세바스티앵 르코르뉴 총리는 다음 월요일에 노조·고용주와 「사회 회의」를 열겠다고 했어요. 하지만 정부는 재정 적자를 GDP의 5%로 줄이려 수백억 유로를 아껴야 해서 움직일 여지가 적어요."
+    }
+   ],
+   "keySentence": "More than 600,000 people joined rallies across France on Thursday, according to the interior ministry.",
+   "glosses": [
+    {
+     "text": "rallies",
+     "meaning": "집회",
+     "level": 1
+    },
+    {
+     "text": "unions",
+     "meaning": "노동조합",
+     "level": 1
+    },
+    {
+     "text": "day of action",
+     "meaning": "여러 곳이 함께 벌이는 시위·파업의 날",
+     "level": 2
+    },
+    {
+     "text": "minimum wage",
+     "meaning": "최저임금",
+     "level": 1
+    },
+    {
+     "text": "yellow-vest",
+     "meaning": "물가에 항의해 노란 조끼를 입는 프랑스 운동",
+     "level": 2
+    },
+    {
+     "text": "tear gas",
+     "meaning": "최루탄 가스",
+     "level": 2
+    },
+    {
+     "text": "looted",
+     "meaning": "약탈당했다",
+     "level": 3
+    },
+    {
+     "text": "budget deficit",
+     "meaning": "재정 적자",
+     "level": 2
+    },
+    {
+     "text": "interior ministry",
+     "meaning": "내무부",
+     "level": 1
+    },
+    {
+     "text": "Prime Minister",
+     "meaning": "총리",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+    }
+   ],
+   "num": {
+    "value": "60만 명+",
+    "caption": "프랑스 내무부가 밝힌 시위 참가자",
+    "source": "BBC News"
+   },
+   "life": "물가와 임금, 학생 환경 문제로 사람들이 거리로 나선 사례예요. 한국 대학생이 알바 시급과 물가 부담을 이야기할 때 다른 나라 청년·노동자의 목소리와 견주어 볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "How many people joined the rallies, according to the interior ministry?",
+     "qKo": "내무부에 따르면 집회에 몇 명이 참여했나요?",
+     "choices": [
+      "More than 160,000",
+      "More than 600,000",
+      "More than 1.57 million"
+     ],
+     "answer": 1,
+     "why": "1문단: “More than 600,000 people joined rallies across France”"
+    },
+    {
+     "q": "What do the unions especially want?",
+     "qKo": "노조가 특히 바라는 것은 무엇인가요?",
+     "choices": [
+      "A higher minimum wage",
+      "A shorter school year",
+      "A new national holiday"
+     ],
+     "answer": 0,
+     "why": "2문단: “The unions especially want a higher minimum wage”"
+    },
+    {
+     "q": "Why does the government have little room to act?",
+     "qKo": "정부가 움직일 여지가 적은 까닭은 무엇인가요?",
+     "choices": [
+      "It has no police to send.",
+      "The president has left the country.",
+      "It must find billions of euros in savings."
+     ],
+     "answer": 2,
+     "why": "4문단: “it must find tens of billions of euros in savings”"
+    }
+   ],
+   "job": "물가·임금과 사회적 대화 = 「노동·복지 정책」 논술이나 면접에서 해외 사례로 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do people protest about the cost of living?",
+    "qKo": "사람들은 왜 생활비 문제로 시위를 하나요?",
+    "answer": "When prices go up faster than wages, daily life becomes harder. In France, five unions asked for higher wages and more money for public services. I think talking with unions and employers is a good first step.",
+    "answerKo": "물가가 임금보다 빨리 오르면 일상이 더 힘들어져요. 프랑스에서는 노조 다섯 곳이 임금 인상과 공공 서비스 예산을 요구했어요. 노조와 고용주가 함께 이야기하는 것이 좋은 첫걸음이라고 생각해요.",
+    "phrases": [
+     {
+      "en": "higher wages",
+      "ko": "더 높은 임금"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-16"
+  },
+  {
+   "section": "world",
+   "tag": "파장 큼",
+   "title": "Paraguay's President Resigns After a Bank Collapse",
+   "easyKo": "파라과이의 산티아고 페냐 대통령이 물러난다고 밝혔어요. 한 은행이 무너져 사람들이 돈을 찾지 못하자 그가 이 은행과 얽혔다는 비판이 컸어요. 페냐 대통령은 잘못이 없다고 해요.",
+   "paragraphs": [
+    {
+     "en": "Paraguay's president, Santiago Pena, said he will step down after a political crisis. He won the 2023 election for the ruling conservative Colorado Party. The trouble began when Ueno Bank was put into an insolvency process, and its business was frozen.",
+     "ko": "파라과이의 산티아고 페냐 대통령이 정치 위기 끝에 사임한다고 밝혔어요. 페냐는 2023년 선거에서 집권 보수 콜로라도당 후보로 이겼어요. 위기는 우에노 은행이 지급 불능 절차에 들어가면서 모든 영업이 멈추며 시작됐어요."
+    },
+    {
+     "en": "Ueno Bank says it has about three million customers. That is around 60% of Paraguay's adults. The bank held pensions and some public money. After it failed this week, the central bank took control of the digital lender. Millions could not use their accounts, and people went into the streets to protest.",
+     "ko": "우에노 은행은 고객이 약 300만 명, 곧 파라과이 성인의 약 60%라고 해요. 연금과 일부 공공 자금도 맡고 있었어요. 은행이 무너진 뒤 중앙은행이 이 디지털 은행을 넘겨받았어요. 수백만 명이 계좌에 접근하지 못했고 사람들이 거리에서 시위했어요."
+    },
+    {
+     "en": "Lawmakers said Pena, who held shares in the bank's owner until last year, had conflicts of interest and had committed misconduct. He denies any wrongdoing. Before he quit, the lower house voted to go ahead with an impeachment trial.",
+     "ko": "의원들은 작년까지 이 은행을 가진 회사의 주주였던 페냐 대통령이 이해 충돌과 부정행위를 했다고 비난했어요. 그는 잘못이 없다고 해요. 사임 전에 하원은 탄핵 재판을 진행하자고 의결했어요."
+    },
+    {
+     "en": "In a video message, Pena apologised and said he was leaving to protect stability and democratic institutions. The central bank has a new president, and Congress approved a process to pay depositors.",
+     "ko": "페냐 대통령은 영상 메시지에서 사과하며, 안정과 민주적 제도를 지키려고 물러난다고 했어요. 중앙은행에는 새 총재가 임명됐고, 의회는 예금자에게 돈을 돌려주는 절차를 승인했어요."
+    }
+   ],
+   "keySentence": "The trouble began when Ueno Bank was put into an insolvency process, and its business was frozen.",
+   "glosses": [
+    {
+     "text": "insolvency process",
+     "meaning": "지급 불능에 빠진 회사를 정리하는 법적 절차",
+     "level": 3
+    },
+    {
+     "text": "frozen",
+     "meaning": "(활동을) 멈췄다·동결했다",
+     "level": 2
+    },
+    {
+     "text": "pensions",
+     "meaning": "연금",
+     "level": 2
+    },
+    {
+     "text": "conflicts of interest",
+     "meaning": "이해 충돌",
+     "level": 3
+    },
+    {
+     "text": "misconduct",
+     "meaning": "부정행위·비위",
+     "level": 3
+    },
+    {
+     "text": "impeachment trial",
+     "meaning": "탄핵 재판",
+     "level": 3
+    },
+    {
+     "text": "lower house",
+     "meaning": "(양원제 의회의) 하원",
+     "level": 2
+    },
+    {
+     "text": "depositors",
+     "meaning": "예금자",
+     "level": 3
+    },
+    {
+     "text": "shares",
+     "meaning": "주식·지분",
+     "level": 1
+    },
+    {
+     "text": "Ueno Bank",
+     "meaning": "파라과이의 디지털 은행",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo"
+    }
+   ],
+   "num": {
+    "value": "60%",
+    "caption": "우에노 은행 고객이 파라과이 성인에서 차지하는 비율(은행 설명)",
+    "source": "BBC News"
+   },
+   "life": "은행이 무너지면 예금과 연금에 곧바로 영향이 간다는 걸 보여 줘요. 한국 학생이 예금자 보호나 금융 안정이 왜 중요한지 생각해 보는 계기가 돼요.",
+   "quiz": [
+    {
+     "q": "What caused the political crisis in Paraguay?",
+     "qKo": "파라과이 정치 위기는 무엇 때문에 시작됐나요?",
+     "choices": [
+      "A bank entered an insolvency process.",
+      "A president lost an election.",
+      "A new tax was passed by Congress."
+     ],
+     "answer": 0,
+     "why": "1문단: “Ueno Bank was put into an insolvency process”"
+    },
+    {
+     "q": "How many customers does Ueno Bank say it has?",
+     "qKo": "우에노 은행은 고객이 몇 명이라고 하나요?",
+     "choices": [
+      "About 30,000",
+      "About three million",
+      "About 300 million"
+     ],
+     "answer": 1,
+     "why": "2문단: “about three million customers”"
+    },
+    {
+     "q": "What did the lower house vote to do?",
+     "qKo": "하원은 무엇을 하기로 의결했나요?",
+     "choices": [
+      "Close the bank for good",
+      "Ask the president to stay in office",
+      "Go ahead with an impeachment trial"
+     ],
+     "answer": 2,
+     "why": "3문단: “the lower house voted to go ahead with an impeachment trial”"
+    }
+   ],
+   "job": "금융 위기와 공직자의 이해 충돌 = 「공직 윤리·금융 안정」 질문에 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "Why is trust in banks so important?",
+    "qKo": "은행에 대한 믿음은 왜 그렇게 중요한가요?",
+    "answer": "People keep savings and pensions in banks, so they need to trust them. In Paraguay, millions could not reach their accounts after the collapse, and people protested. I think clear rules and honest leaders are important to protect depositors.",
+    "answerKo": "사람들은 저축과 연금을 은행에 맡기므로 은행을 믿어야 해요. 파라과이에서는 은행이 무너진 뒤 수백만 명이 계좌에 접근하지 못했고 사람들이 시위했어요. 예금자를 지키려면 분명한 규칙과 정직한 지도자가 중요하다고 생각해요.",
+    "phrases": [
+     {
+      "en": "could not reach their accounts",
+      "ko": "계좌에 접근하지 못했다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-17"
+  },
+  {
+   "section": "world",
+   "tag": "모두의 화제",
+   "title": "Brazil Publishes a First Global Plan for Moving Away From Fossil Fuels",
+   "easyKo": "브라질이 석탄·석유·가스에서 벗어나는 길을 담은 첫 「세계 로드맵」을 내놓았어요. 지켜야 할 시한이나 법적 힘은 없고, 나라마다 사정에 맞게 고르게 해요. 전문가는 속도를 정하지 않았다고 아쉬워해요.",
+   "paragraphs": [
+    {
+     "en": "Brazil, which hosted last year's UN climate conference, published the first global \"roadmap\" for phasing out fossil fuels on Tuesday. It says every country can start to cut its use of coal, oil and gas now, without waiting for new technology.",
+     "ko": "지난해 유엔 기후 회의를 연 브라질이 화요일에 화석연료를 단계적으로 없애는 첫 세계 「로드맵」을 발표했어요. 새 기술을 기다리지 않고도 모든 나라가 지금부터 석탄·석유·가스 사용을 줄이기 시작할 수 있다고 해요."
+    },
+    {
+     "en": "The plan is not binding and has no deadlines. Each country should check how much it depends on fossil fuels, and then choose its own steps. Brazil's COP30 president, Andre Correa do Lago, called the roadmaps \"documents of implementation\". The aim is to move from negotiating to acting.",
+     "ko": "이 계획은 구속력이 없고 시한도 없어요. 나라마다 화석연료에 얼마나 기대는지 살핀 뒤 자기 단계를 고르면 돼요. 브라질의 COP30 의장 안드레 코헤아 두 라고는 이 로드맵을 「실행 문서」라고 불렀어요. 협상에서 실천으로 옮겨 가자는 뜻이에요."
+    },
+    {
+     "en": "Suggested steps include cutting the flaring and venting of gas at oil and gas sites, reducing subsidies for fossil fuels, and building more renewable power. Methane is a greenhouse gas 80 times more powerful than carbon dioxide.",
+     "ko": "제안된 조치에는 석유·가스 시설에서 가스를 태우거나 내보내는 일을 줄이기, 화석연료 보조금 줄이기, 재생 전력 늘리기가 들어 있어요. 메탄은 이산화탄소보다 80배 강한 온실가스예요."
+    },
+    {
+     "en": "A second roadmap covers forests. It says about $300bn a year will be needed for forests by 2030, but only about $85bn a year is available now.",
+     "ko": "두 번째 로드맵은 숲을 다뤄요. 2030년까지 숲을 위해 해마다 약 3000억 달러가 필요하지만, 지금은 해마다 약 850억 달러만 쓸 수 있다고 해요."
+    },
+    {
+     "en": "A climate scientist, Joeri Rogelj of Imperial College London, said the roadmaps are a step forward but limited, because they set no timeline. The next summit, COP31, takes place in Antalya, Turkey, this month.",
+     "ko": "런던 임페리얼 칼리지의 기후 과학자 요에리 로헬리는 로드맵이 한 걸음 나아간 것이지만 시간표가 없어 한계가 있다고 했어요. 다음 회의인 COP31은 이달 튀르키예 안탈리아에서 열려요."
+    }
+   ],
+   "keySentence": "The plan is not binding and has no deadlines.",
+   "glosses": [
+    {
+     "text": "roadmap",
+     "meaning": "목표에 이르는 길을 적은 계획표",
+     "level": 2
+    },
+    {
+     "text": "phasing out",
+     "meaning": "단계적으로 없애기",
+     "level": 2
+    },
+    {
+     "text": "fossil fuels",
+     "meaning": "석탄·석유·가스 같은 화석연료",
+     "level": 1
+    },
+    {
+     "text": "binding",
+     "meaning": "법적으로 지켜야 하는",
+     "level": 3
+    },
+    {
+     "text": "deadlines",
+     "meaning": "마감·시한",
+     "level": 1
+    },
+    {
+     "text": "subsidies",
+     "meaning": "보조금",
+     "level": 2
+    },
+    {
+     "text": "renewable power",
+     "meaning": "재생에너지로 만든 전기",
+     "level": 2
+    },
+    {
+     "text": "greenhouse gas",
+     "meaning": "온실가스",
+     "level": 1
+    },
+    {
+     "text": "COP30",
+     "meaning": "30번째 유엔 기후변화 당사국총회",
+     "level": 0
+    },
+    {
+     "text": "timeline",
+     "meaning": "시간표",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels"
+    }
+   ],
+   "num": {
+    "value": "$85bn",
+    "caption": "숲을 위해 지금 해마다 쓸 수 있는 돈(필요액 $300bn)",
+    "source": "The Guardian"
+   },
+   "life": "탄소 감축과 재생에너지 흐름은 에너지·건설·제조업 일자리와 기업 채용에 영향을 줄 수 있어요. 풀이이며 기사에 한국 이야기는 없어요.",
+   "quiz": [
+    {
+     "q": "What did Brazil publish on Tuesday?",
+     "qKo": "브라질은 화요일에 무엇을 발표했나요?",
+     "choices": [
+      "A treaty with a binding deadline",
+      "A first global roadmap on fossil fuels",
+      "A new tax on all oil exports"
+     ],
+     "answer": 1,
+     "why": "1문단: “published the first global \"roadmap\" for phasing out fossil fuels”"
+    },
+    {
+     "q": "How much money a year does the forest roadmap say is needed by 2030?",
+     "qKo": "숲 로드맵은 2030년까지 해마다 얼마가 필요하다고 하나요?",
+     "choices": [
+      "About $300bn a year",
+      "About $85bn a year",
+      "About $3bn a year"
+     ],
+     "answer": 0,
+     "why": "4문단: “about $300bn a year will be needed for forests by 2030”"
+    },
+    {
+     "q": "Why did the scientist say the roadmaps are limited?",
+     "qKo": "과학자는 로드맵이 왜 한계가 있다고 했나요?",
+     "choices": [
+      "They cover only Brazil.",
+      "They were written by oil firms.",
+      "They set no timeline."
+     ],
+     "answer": 2,
+     "why": "5문단: “because they set no timeline”"
+    }
+   ],
+   "job": "기후 정책과 기업의 탈탄소 전략 = 「ESG·에너지 전환」 질문에 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "Is a plan without deadlines useful for fighting climate change?",
+    "qKo": "시한이 없는 계획도 기후 변화에 도움이 될까요?",
+    "answer": "It can be useful, because each country can choose steps that fit its own situation. But a scientist said the roadmaps set no timeline. I think clear dates would help countries act faster.",
+    "answerKo": "나라마다 자기 상황에 맞는 조치를 고를 수 있어서 쓸모가 있을 수 있어요. 하지만 한 과학자는 시간표가 없다고 했어요. 분명한 날짜가 있으면 나라들이 더 빨리 움직일 거라고 생각해요.",
+    "phrases": [
+     {
+      "en": "set no timeline",
+      "ko": "시간표를 정하지 않다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-18"
+  },
+  {
+   "section": "world",
+   "tag": "모두의 화제",
+   "title": "Kenya Hopes to Contain Ebola After Nine Cases",
+   "easyKo": "케냐에서 에볼라 환자가 아홉 명 나왔고 두 명이 숨졌어요. 정부는 더 퍼지지 않으면 두 달 안에 유행이 끝났다고 선언할 수 있다고 봐요. 이웃 콩고민주공화국에서는 유행이 훨씬 커요.",
+   "paragraphs": [
+    {
+     "en": "Kenya announced its first Ebola case three weeks ago and has since had eight more. So far there are nine cases and two deaths. The government hopes to avoid wider spread, while the outbreak in neighbouring DR Congo grows.",
+     "ko": "케냐는 3주 전 첫 에볼라 환자를 발표했고 그 뒤 여덟 명이 더 나왔어요. 지금까지 환자 9명, 사망 2명이에요. 정부는 이웃 콩고민주공화국의 유행이 커지는 가운데 더 퍼지지 않기를 바라요."
+    },
+    {
+     "en": "Kenya released the first 20 people who came into contact with its first patient from quarantine, which the government called a \"milestone worth celebrating\". Another 98 people are still in quarantine and are due to be freed next week.",
+     "ko": "케냐는 첫 환자와 접촉한 사람 20명을 격리에서 풀어 주었고, 정부는 이를 「축하할 만한 이정표」라고 불렀어요. 다른 98명은 아직 격리 중이며 다음 주 풀려날 예정이에요."
+    },
+    {
+     "en": "An outbreak can be declared over only 42 days after the last confirmed patient twice tests negative. The government expects this in less than two months, if there are no more cases.",
+     "ko": "유행은 마지막 확진자가 두 번 음성이 나온 뒤 42일이 지나야 끝났다고 선언할 수 있어요. 정부는 새 환자가 없다면 두 달이 안 돼 그렇게 될 걸로 기대해요."
+    },
+    {
+     "en": "In DR Congo, nearly 5,000 people have died since Ebola was confirmed in May, and there are more than 10,000 cases. It is the second most deadly outbreak of the disease. The virus is the rare Bundibugyo species, with no approved vaccine or treatment, though trials are under way.",
+     "ko": "콩고민주공화국에서는 5월에 에볼라가 확인된 뒤 5,000명 가까이 숨졌고 환자는 1만 명이 넘어요. 이 병의 유행 가운데 두 번째로 치명적이에요. 바이러스는 드문 분디부지오 종으로, 승인된 백신과 치료제가 없지만 시험이 진행 중이에요."
+    },
+    {
+     "en": "Kenya now screens travellers from 10 high-risk countries, who must fill in a digital form and show a QR code. A doctors' union says border points and the main airport do not have enough staff.",
+     "ko": "케냐는 이제 위험이 높은 10개국에서 오는 여행자를 검사해요. 이들은 전자 양식을 쓰고 QR 코드를 보여 줘야 해요. 의사 노조는 국경 지점과 주요 공항에 직원이 부족하다고 말해요."
+    }
+   ],
+   "keySentence": "An outbreak can be declared over only 42 days after the last confirmed patient twice tests negative.",
+   "glosses": [
+    {
+     "text": "outbreak",
+     "meaning": "(전염병의) 집단 발생·유행",
+     "level": 2
+    },
+    {
+     "text": "quarantine",
+     "meaning": "격리",
+     "level": 2
+    },
+    {
+     "text": "milestone",
+     "meaning": "중요한 단계·이정표",
+     "level": 2
+    },
+    {
+     "text": "declared over",
+     "meaning": "끝났다고 공식 선언된",
+     "level": 3
+    },
+    {
+     "text": "tests negative",
+     "meaning": "검사 결과가 음성으로 나오다",
+     "level": 2
+    },
+    {
+     "text": "species",
+     "meaning": "(생물의) 종",
+     "level": 2
+    },
+    {
+     "text": "approved",
+     "meaning": "(당국이) 승인한",
+     "level": 2
+    },
+    {
+     "text": "screens",
+     "meaning": "검사·선별한다",
+     "level": 2
+    },
+    {
+     "text": "DR Congo",
+     "meaning": "콩고민주공화국",
+     "level": 0
+    },
+    {
+     "text": "Ebola",
+     "meaning": "에볼라(치명적인 출혈열 바이러스병)",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo"
+    }
+   ],
+   "num": {
+    "value": "42일",
+    "caption": "유행 종료 선언에 필요한 기간(마지막 환자 두 번 음성 뒤)",
+    "source": "BBC News"
+   },
+   "life": "해외여행·교환학생을 계획하는 학생은 감염병 소식과 입국 검사 규칙을 미리 확인하는 습관이 필요해요. 이 기사에 한국 이야기는 없어요.",
+   "quiz": [
+    {
+     "q": "How many Ebola cases has Kenya confirmed so far?",
+     "qKo": "케냐가 지금까지 확인한 에볼라 환자는 몇 명인가요?",
+     "choices": [
+      "Two",
+      "Nine",
+      "Ninety-eight"
+     ],
+     "answer": 1,
+     "why": "1문단: “nine cases and two deaths”"
+    },
+    {
+     "q": "How long after the last patient tests negative can an outbreak be declared over?",
+     "qKo": "마지막 환자가 음성이 된 뒤 며칠이 지나야 유행 종료를 선언할 수 있나요?",
+     "choices": [
+      "42 days",
+      "20 days",
+      "98 days"
+     ],
+     "answer": 0,
+     "why": "3문단: “only 42 days after the last confirmed patient twice tests negative”"
+    },
+    {
+     "q": "What is true about the Bundibugyo virus in this news?",
+     "qKo": "이 기사에서 분디부지오 바이러스에 대해 맞는 것은 무엇인가요?",
+     "choices": [
+      "It was first found in Kenya.",
+      "It already has a safe cure.",
+      "It has no approved vaccine or treatment."
+     ],
+     "answer": 2,
+     "why": "4문단: “no approved vaccine or treatment”"
+    }
+   ],
+   "job": "감염병 대응과 국경 방역 = 「공공 보건·위기 관리」 질문에 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "What can countries do to stop a disease from spreading across borders?",
+    "qKo": "나라들은 병이 국경을 넘어 퍼지지 않게 무엇을 할 수 있나요?",
+    "answer": "Countries can screen travellers and keep contacts in quarantine. Kenya now checks people from 10 high-risk countries with a digital form and a QR code. I think good staff and clear information are also important.",
+    "answerKo": "나라들은 여행자를 검사하고 접촉자를 격리할 수 있어요. 케냐는 위험이 높은 10개국 사람들을 전자 양식과 QR 코드로 확인해요. 충분한 인력과 분명한 정보도 중요하다고 생각해요.",
+    "phrases": [
+     {
+      "en": "screen travellers",
+      "ko": "여행자를 검사하다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-19"
+  },
+  {
+   "section": "campus",
+   "tag": "모두의 화제",
+   "title": "French Students Block High Schools Again as Strikes Are Planned",
+   "easyKo": "프랑스 고등학생들이 학교 시설과 교사 부족에 항의해 학교 정문을 다시 막았어요. 교육부 장관은 수업을 못 받은 학생들의 시험이 위험하다고 말했어요. 노조는 목요일 전국 파업도 예고했어요.",
+   "paragraphs": [
+    {
+     "en": "Dozens of high schools across France were blocked again on Monday. Students came back from a two-week holiday and ignored President Emmanuel Macron's call to end the protests. The blockades have been going on since September.",
+     "ko": "월요일 프랑스 곳곳의 고등학교 수십 곳이 다시 막혔어요. 학생들은 2주 방학 뒤 돌아와서도 시위를 멈추라는 마크롱 대통령의 요청을 따르지 않았어요. 봉쇄는 9월부터 이어지고 있어요."
+    },
+    {
+     "en": "The students want more replacement teachers and repairs to old school buildings. In Paris and other cities, they put wheelie bins in front of school gates. Police tried to move the bins and made some arrests.",
+     "ko": "학생들은 대체 교사를 늘리고 낡은 학교 건물을 고치라고 요구해요. 파리 등에서는 학교 문 앞에 쓰레기통을 쌓았어요. 경찰은 쓰레기통을 치우려 했고 일부를 체포했어요."
+    },
+    {
+     "en": "Education Minister Édouard Geffray said the blockades are illegal. He also said that hundreds of thousands of students who will take the baccalauréat exam have had no classes for four or five weeks, counting holidays. For them, he said, the school year is at risk.",
+     "ko": "에두아르 제프레 교육부 장관은 봉쇄가 불법이라고 했어요. 또 바칼로레아 시험을 치를 수십만 명이 방학을 포함해 4~5주간 수업을 못 받았고, 이들의 학년이 위험하다고 말했어요."
+    },
+    {
+     "en": "The ministry said 41 high schools were blocked, about 1% of all schools. Student unions said the number was 150. A student union leader said the government's offer to cap some class sizes and review the university application platform was not enough.",
+     "ko": "교육부는 막힌 고교가 41곳, 전체의 약 1%라고 했어요. 학생 노조는 150곳이라고 했어요. 학생 노조 대표는 일부 학급 인원 제한과 대학 지원 플랫폼 검토라는 정부 제안이 부족하다고 말했어요."
+    },
+    {
+     "en": "Trade unions plan a large strike on Thursday, and teachers, rail workers and private-sector employees may join. Prime Minister Sébastien Lecornu said he will meet the student unions again next week.",
+     "ko": "노동조합은 목요일 대규모 파업을 예고했고 교사, 철도 노동자, 민간 직원이 참여할 수 있어요. 세바스티앵 르코르뉘 총리는 다음 주 학생 노조를 다시 만나겠다고 했어요."
+    }
+   ],
+   "keySentence": "He also said that hundreds of thousands of students who will take the baccalauréat exam have had no classes for four or five weeks, counting holidays.",
+   "glosses": [
+    {
+     "text": "blockade",
+     "meaning": "출입구를 막는 봉쇄",
+     "level": 1
+    },
+    {
+     "text": "wheelie bins",
+     "meaning": "바퀴 달린 대형 쓰레기통",
+     "level": 2
+    },
+    {
+     "text": "replacement teachers",
+     "meaning": "결원을 채우는 대체 교사",
+     "level": 1
+    },
+    {
+     "text": "baccalauréat",
+     "meaning": "프랑스의 대입 자격시험(바칼로레아)",
+     "level": 0
+    },
+    {
+     "text": "student unions",
+     "meaning": "학생 노조(학생 단체)",
+     "level": 1
+    },
+    {
+     "text": "cap",
+     "meaning": "(인원 등을) 제한하다",
+     "level": 2
+    },
+    {
+     "text": "private-sector",
+     "meaning": "민간 부문의",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests"
+    }
+   ],
+   "num": {
+    "value": "41곳 vs 150곳",
+    "caption": "월요일 막힌 고교 수: 교육부 vs 학생 노조 주장",
+    "source": "The Guardian"
+   },
+   "life": "입시 제도와 학교 환경 문제를 학생이 직접 목소리로 낸 사례예요. 한국 대학생도 학생회·청원 같은 방식으로 학교 환경에 의견을 내는 일과 견주어 볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "How many high schools did the ministry say were blocked?",
+     "qKo": "교육부는 몇 곳의 고교가 막혔다고 했나요?",
+     "choices": [
+      "41",
+      "150",
+      "400"
+     ],
+     "answer": 0,
+     "why": "4문단: “41 high schools were blocked”"
+    },
+    {
+     "q": "What do the students want?",
+     "qKo": "학생들은 무엇을 원하나요?",
+     "choices": [
+      "Longer school holidays",
+      "Free university places",
+      "More replacement teachers and repairs to school buildings"
+     ],
+     "answer": 2,
+     "why": "2문단: “more replacement teachers and repairs to old school buildings”"
+    },
+    {
+     "q": "What will Prime Minister Lecornu do next week?",
+     "qKo": "르코르뉘 총리는 다음 주 무엇을 하겠다고 했나요?",
+     "choices": [
+      "Close all schools",
+      "Meet the student unions again",
+      "Join the Thursday strike"
+     ],
+     "answer": 1,
+     "why": "5문단: “he will meet the student unions again next week”"
+    }
+   ],
+   "job": "학생 시위와 정부의 대응 = 「교육 환경·청년 참여」를 다루는 논술에서 사실 중심의 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "What is a good way for students to ask their school to change?",
+    "qKo": "학생이 학교에 변화를 요구하는 좋은 방법은 무엇일까요?",
+    "answer": "In France, students blocked schools, but the minister said this is illegal and puts exams at risk. I think students should speak up, and talking with school leaders is a safer way. A clear list of requests also helps.",
+    "answerKo": "프랑스 학생들은 학교를 막았지만 장관은 불법이고 시험을 위태롭게 한다고 했어요. 학생이 목소리를 내야 하되 학교 책임자와의 대화가 더 안전하다고 생각해요. 분명한 요구 목록도 도움이 돼요.",
+    "phrases": [
+     {
+      "en": "speak up",
+      "ko": "목소리를 내다"
+     },
+     {
+      "en": "a clear list of requests",
+      "ko": "분명한 요구 목록"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-20"
+  },
+  {
+   "section": "campus",
+   "tag": "생활에 바로",
+   "title": "Some US Students Live in Retirement Homes for Cheaper Rent",
+   "easyKo": "미국 일부 대학이 학생이 노인 주거 단지에 사는 프로그램을 운영해요. 학생은 매주 봉사를 하고 월세를 싸게 내요. 외로움도 줄었다고 해요.",
+   "paragraphs": [
+    {
+     "en": "Housing at college usually means a dorm or an apartment off campus. But some US universities offer a third choice: living in a retirement community with older people. The group AARP thinks at least 80 US universities now partner with such communities.",
+     "ko": "대학 주거는 보통 기숙사나 학교 밖 아파트예요. 하지만 미국 일부 대학은 노인과 함께 사는 주거 단지라는 세 번째 선택을 줘요. AARP는 적어도 80개 대학이 이런 단지와 협력한다고 추정해요."
+    },
+    {
+     "en": "Marquette University began its program in 2022 at St. Camillus, a senior living community near Milwaukee. Five students live there now. They volunteer at least eight hours a week with the residents. Their rent for an apartment is about $600 a month, much lower than the usual market rate.",
+     "ko": "마켓대학은 2022년 밀워키 근처 노인 주거 단지 세인트 카밀루스에서 이 프로그램을 시작했어요. 지금 학생 다섯 명이 살아요. 이들은 주민과 함께 주 8시간 이상 봉사하고, 대신 아파트에 월 약 600달러만 내요. 시세보다 훨씬 낮아요."
+    },
+    {
+     "en": "The students lead activities such as trips to the zoo, yoga, brain games and stand-up comedy. Ph.D. student Daija Holliday said she liked the quieter lifestyle, because she grew up with her grandparents.",
+     "ko": "학생들은 동물원 나들이, 요가, 두뇌 게임, 스탠드업 코미디 같은 활동을 이끌어요. 박사과정 다이자 홀리데이는 조부모와 자라서 더 조용한 생활이 맞는다고 말했어요."
+    },
+    {
+     "en": "A professor who leads the program said many studies show that contact between generations is helpful. Students said that living there made moving to a new city less lonely, and older residents said the same.",
+     "ko": "프로그램을 이끄는 교수는 세대 간 교류가 도움이 된다는 연구가 많다고 했어요. 학생들은 새 도시로 옮겨 온 외로움이 줄었다고 했고, 노인 주민들도 같은 말을 했어요."
+    }
+   ],
+   "keySentence": "Their rent for an apartment is about $600 a month, much lower than the usual market rate.",
+   "glosses": [
+    {
+     "text": "retirement community",
+     "meaning": "은퇴한 노인을 위한 주거 단지",
+     "level": 1
+    },
+    {
+     "text": "off campus",
+     "meaning": "학교 밖의",
+     "level": 1
+    },
+    {
+     "text": "AARP",
+     "meaning": "미국 은퇴자 단체",
+     "level": 0
+    },
+    {
+     "text": "Marquette University",
+     "meaning": "미국 위스콘신주의 대학",
+     "level": 0
+    },
+    {
+     "text": "volunteer",
+     "meaning": "자원봉사를 하다",
+     "level": 2
+    },
+    {
+     "text": "market rate",
+     "meaning": "시세(시장 가격)",
+     "level": 2
+    },
+    {
+     "text": "generations",
+     "meaning": "세대",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities"
+    }
+   ],
+   "num": {
+    "value": "월 약 600달러",
+    "caption": "마켓대 학생이 노인 주거 단지 아파트에 내는 월세",
+    "source": "NPR"
+   },
+   "life": "비싼 월세와 외로움은 한국 대학생에게도 낯설지 않은 문제예요. 이 기사는 봉사와 맞바꿔 주거비를 낮추는 방식이 있다는 해외 사례로 읽을 수 있어요.",
+   "quiz": [
+    {
+     "q": "How many hours a week must the students volunteer?",
+     "qKo": "학생은 주당 몇 시간 봉사해야 하나요?",
+     "choices": [
+      "At least two",
+      "At least eight",
+      "At least twenty"
+     ],
+     "answer": 1,
+     "why": "2문단: “at least eight hours a week”"
+    },
+    {
+     "q": "When did Marquette start its program?",
+     "qKo": "마켓대는 프로그램을 언제 시작했나요?",
+     "choices": [
+      "In 2012",
+      "In 2018",
+      "In 2022"
+     ],
+     "answer": 2,
+     "why": "2문단: “began its program in 2022”"
+    },
+    {
+     "q": "How many universities does AARP think work with such communities?",
+     "qKo": "AARP는 몇 개 대학이 이런 단지와 협력한다고 보나요?",
+     "choices": [
+      "At least 80",
+      "At least 8",
+      "At least 800"
+     ],
+     "answer": 0,
+     "why": "1문단: “at least 80 US universities”"
+    }
+   ],
+   "job": "주거비와 외로움 문제를 푸는 새로운 대학 프로그램 = 「청년 주거·세대 공존」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Would you live in a retirement community to save money? Why or why not?",
+    "qKo": "돈을 아끼려고 노인 주거 단지에서 살겠어요?",
+    "answer": "I think I would try it. Students pay only about $600 a month, and they say they feel less lonely. But I would also need quiet time to study.",
+    "answerKo": "저는 해 볼 것 같아요. 학생은 월 600달러 정도만 내고 외로움도 덜 느낀다고 해요. 다만 공부할 조용한 시간도 필요해요.",
+    "phrases": [
+     {
+      "en": "feel less lonely",
+      "ko": "덜 외롭게 느끼다"
+     },
+     {
+      "en": "quiet time to study",
+      "ko": "공부할 조용한 시간"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-21"
+  },
+  {
+   "section": "campus",
+   "tag": "의견 갈림",
+   "title": "UK Regulator Names Ways to Check Ages Before Under-16 Social Media Ban",
+   "easyKo": "영국은 내년 3월부터 16세 미만의 주요 소셜미디어 이용을 막을 계획이에요. 규제 기관 오프컴은 나이를 확인하는 효과적인 방법 네 가지를 내놓았어요. 아이들이 우회할 수 있다는 점은 오프컴도 인정해요.",
+   "paragraphs": [
+    {
+     "en": "Ofcom, the UK regulator, has named the best ways to check which social media users are over 16. Under the planned ban, due in March next year, people under 16 would not be able to use ten of the biggest platforms. They include Instagram, TikTok and Snapchat.",
+     "ko": "영국 규제 기관 오프컴이 16세 이상 이용자를 가려낼 가장 좋은 방법을 내놓았어요. 내년 3월 시행 예정인 금지안에 따르면 16세 미만은 인스타그램, 틱톡, 스냅챗 등 10개 큰 플랫폼을 쓸 수 없어요."
+    },
+    {
+     "en": "Ofcom recommended four methods that it calls highly effective. They are photo ID matching, bank-based checks, face age estimation and digital ID services. Many adults may also have to prove that they are not under age.",
+     "ko": "오프컴은 매우 효과적이라고 본 네 방법을 추천했어요. 사진 신분증 대조, 은행 정보 확인, 얼굴 나이 추정, 디지털 신분 서비스예요. 성인도 미성년자가 아님을 증명해야 할 수 있어요."
+    },
+    {
+     "en": "It will be up to the tech companies to choose how they carry out the checks. Meta said that checks could be done on the phone itself, through app stores, so people would not need to prove their age again and again. Ofcom said the social networks must still do their own checks.",
+     "ko": "어떤 방식으로 확인할지는 기술 기업이 정해야 해요. 메타는 앱스토어를 통해 기기에서 확인하면 계속 나이를 증명하지 않아도 된다고 했어요. 오프컴은 그래도 소셜 네트워크가 자체 확인을 해야 한다고 했어요."
+    },
+    {
+     "en": "Ofcom accepts that the risk of getting around the rules cannot be fully removed. A similar ban started in Australia last year, and many children there found ways to get round it. Child safety groups welcomed the guidance but said the UK should learn from Australia.",
+     "ko": "오프컴은 규칙을 피할 위험을 완전히 없앨 수 없다고 인정해요. 호주에서는 작년 비슷한 금지가 시작됐지만 많은 아이가 우회했어요. 아동 안전 단체들은 지침을 환영하면서도 호주에서 배워야 한다고 했어요."
+    },
+    {
+     "en": "Ofcom's report will now go to the government, which will decide by the end of the year.",
+     "ko": "오프컴 보고서는 이제 정부로 넘어가고, 정부는 올해 안에 결정해요."
+    }
+   ],
+   "keySentence": "Ofcom accepts that the risk of getting around the rules cannot be fully removed.",
+   "glosses": [
+    {
+     "text": "regulator",
+     "meaning": "규제 기관",
+     "level": 1
+    },
+    {
+     "text": "Ofcom",
+     "meaning": "영국의 통신·방송 규제 기관",
+     "level": 0
+    },
+    {
+     "text": "highly effective",
+     "meaning": "매우 효과적인",
+     "level": 1
+    },
+    {
+     "text": "face age estimation",
+     "meaning": "얼굴로 나이를 추정하는 기술",
+     "level": 2
+    },
+    {
+     "text": "digital ID",
+     "meaning": "디지털 신분 증명",
+     "level": 1
+    },
+    {
+     "text": "app stores",
+     "meaning": "앱을 내려받는 가게(앱스토어)",
+     "level": 1
+    },
+    {
+     "text": "get round",
+     "meaning": "(규칙 등을) 피해 가다",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo"
+    }
+   ],
+   "num": {
+    "value": "10개",
+    "caption": "금지 대상에 오르는 큰 플랫폼 수",
+    "source": "BBC News"
+   },
+   "life": "대학생에게도 나이·신분 확인이 요구되는 서비스가 늘고 있어요. 이 기사는 나이 확인 방식과 개인정보 보호 사이의 균형을 이해하는 데 도움이 돼요.",
+   "quiz": [
+    {
+     "q": "When is the UK ban due to start?",
+     "qKo": "영국의 금지는 언제 시작될 예정인가요?",
+     "choices": [
+      "In March next year",
+      "In June this year",
+      "In December this year"
+     ],
+     "answer": 0,
+     "why": "1문단: “due in March next year”"
+    },
+    {
+     "q": "How many age-check methods did Ofcom call highly effective?",
+     "qKo": "오프컴이 매우 효과적이라고 한 방법은 몇 가지인가요?",
+     "choices": [
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "answer": 2,
+     "why": "2문단: “four methods that it calls highly effective”"
+    },
+    {
+     "q": "What did Ofcom admit about the rules?",
+     "qKo": "오프컴은 규칙에 대해 무엇을 인정했나요?",
+     "choices": [
+      "The risk of getting around them cannot be fully removed",
+      "Adults will never need checks",
+      "Australia's ban worked perfectly"
+     ],
+     "answer": 0,
+     "why": "4문단: “the risk of getting around the rules cannot be fully removed”"
+    }
+   ],
+   "job": "청소년 SNS 규제와 나이 확인 기술 = 「기술 규제·개인정보와 안전의 균형」 질문에 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "Do you think age checks can keep young children off social media?",
+    "qKo": "나이 확인이 어린 아이들의 SNS 이용을 막을 수 있다고 생각하나요?",
+    "answer": "Ofcom says the risk of getting around the rules cannot be removed, and many children in Australia found ways to do it. So I think checks can help, but they are not enough alone. Parents and schools also have a role.",
+    "answerKo": "오프컴은 우회 위험을 없앨 수 없다고 하고 호주 아이들도 방법을 찾았어요. 그래서 확인이 도움은 되지만 그것만으론 부족하다고 생각해요. 부모와 학교의 역할도 있어요.",
+    "phrases": [
+     {
+      "en": "can help",
+      "ko": "도움이 될 수 있다"
+     },
+     {
+      "en": "not enough alone",
+      "ko": "그것만으론 부족하다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-22"
+  },
+  {
+   "section": "culture",
+   "tag": "파장 큼",
+   "title": "LIV Golf Says It Will Wind Down After Investor Pulls Out",
+   "easyKo": "사우디 돈으로 만든 골프 리그 LIV가 문을 닫는 절차에 들어간다고 밝혔어요. 새 투자자가 선수가 충분히 모이지 않았다는 이유로 빠졌기 때문이에요. 골프계를 뒤흔든 5년이 이렇게 끝나가요.",
+   "paragraphs": [
+    {
+     "en": "LIV Golf said on Thursday that it plans to wind down its business. The league started in 2021, and its first season was the next year. LIV's lawyer told a bankruptcy court that the company is not going ahead with a new version, called LIV 2.0.",
+     "ko": "LIV 골프는 목요일 사업을 정리하겠다고 밝혔어요. 리그는 2021년에 시작했고 첫 시즌은 이듬해였어요. LIV 변호사는 파산 법원에서 'LIV 2.0'이라는 새 버전을 추진하지 않겠다고 말했어요."
+    },
+    {
+     "en": "The new version needed money from BC Partners Credit, which had offered as much as $300 million. The investor pulled out on Wednesday, mainly because not enough players had signed up. LIV was thought to have up to 30 players willing to stay, but it had little star power.",
+     "ko": "새 버전은 최대 3억 달러를 내놓겠다던 BC 파트너스 크레딧의 돈이 필요했어요. 이 투자자는 수요일, 주로 선수가 충분히 서명하지 않아 빠졌어요. LIV에 남을 선수가 최대 30명으로 알려졌지만 스타가 부족했어요."
+    },
+    {
+     "en": "Saudi Arabia's Public Investment Fund, or PIF, had paid for the league. It spent more than $5 billion and attracted major winners such as Jon Rahm and Bryson DeChambeau with big contracts. In April, the fund said it would stop paying, and the league asked for bankruptcy protection in September.",
+     "ko": "사우디 공공투자기금(PIF)이 리그에 돈을 댔어요. 50억 달러 넘게 쓰며 욘 람, 브라이슨 디섐보 같은 메이저 우승자를 큰 계약으로 데려왔어요. 4월 기금은 지원을 멈추겠다고 했고, 리그는 9월 파산 보호를 신청했어요."
+    },
+    {
+     "en": "In recent weeks, Rahm and Sergio Garcia walked away from the league. The European tour also warned that anyone who joined LIV 2.0 would lose membership of the DP World Tour. That would make European players unable to play in the Ryder Cup.",
+     "ko": "최근 몇 주 사이 람과 세르히오 가르시아가 리그를 떠났어요. 유럽 투어도 LIV 2.0에 가입하면 DP 월드 투어 회원 자격을 잃는다고 경고했어요. 그러면 유럽 선수는 라이더컵에 나갈 수 없게 돼요."
+    },
+    {
+     "en": "PIF's lawyer said the fund respects the decision and hopes for an orderly wind-down by the end of the year. LIV's lawyer said the company could look at the choice again if the facts change. A wind-down plan will be filed by 9 November.",
+     "ko": "PIF 변호사는 기금이 결정을 존중하며 연말까지 질서 있는 정리를 바란다고 했어요. LIV 변호사는 사정이 바뀌면 결정을 다시 살필 수 있다고 했어요. 정리 계획서는 11월 9일까지 내야 해요."
+    }
+   ],
+   "keySentence": "The investor pulled out on Wednesday, mainly because not enough players had signed up.",
+   "glosses": [
+    {
+     "text": "wind down",
+     "meaning": "사업을 서서히 정리하다",
+     "level": 1
+    },
+    {
+     "text": "bankruptcy court",
+     "meaning": "파산 법원",
+     "level": 2
+    },
+    {
+     "text": "Public Investment Fund",
+     "meaning": "사우디아라비아의 국부펀드",
+     "level": 1
+    },
+    {
+     "text": "pulled out",
+     "meaning": "(투자 등에서) 손을 떼다",
+     "level": 1
+    },
+    {
+     "text": "signed up",
+     "meaning": "계약·참가에 서명하다",
+     "level": 2
+    },
+    {
+     "text": "star power",
+     "meaning": "스타 선수의 인기와 영향력",
+     "level": 2
+    },
+    {
+     "text": "Ryder Cup",
+     "meaning": "미국과 유럽이 겨루는 골프 대항전",
+     "level": 0
+    },
+    {
+     "text": "DP World Tour",
+     "meaning": "유럽 프로 골프 투어의 상업 이름",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no"
+    },
+    {
+     "name": "The Korea Herald (AP)",
+     "url": "https://www.koreaherald.com/article/10926503"
+    }
+   ],
+   "num": {
+    "value": "50억 달러+",
+    "caption": "사우디 PIF가 LIV에 쓴 돈(AP 보도 기준)",
+    "source": "The Korea Herald (AP)"
+   },
+   "life": "스포츠 리그도 결국 돈과 사람이 맞아야 굴러간다는 사례예요. 큰 투자가 끊기면 기업이 얼마나 빨리 흔들리는지 보여 줘 경영·마케팅 수업의 예로 쓸 수 있어요.",
+   "deep": {
+    "why": "한 나라의 국부펀드가 골프계 판을 뒤흔들었다가 5년 만에 물러났어요. 스포츠 산업에서 큰 투자와 선수 계약이 얼마나 불안정한지 보여 줘요.",
+    "next": "11월 9일까지 낼 정리 계획서와 연말까지 이어질 정리 과정, 그리고 LIV 선수들이 어느 투어로 돌아가는지 볼 만해요.",
+    "keyNumbers": "2021년 출범 · 50억 달러 넘게 지출 · 새 투자 최대 3억 달러 · 남을 선수 약 30명 · 계획서 11월 9일",
+    "views": [
+     {
+      "source": "BBC Sport",
+      "view": "LIV는 골프 역사에서 가장 혼란스러운 사건 중 하나로, 한때 골프계를 둘로 찢을 뻔했다고 본다."
+     },
+     {
+      "source": "The Korea Herald (AP)",
+      "view": "새 버전은 스타 선수가 모자랐고, 유럽 투어의 자격 박탈 경고도 부담이었다고 짚는다."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "Why did BC Partners Credit pull out?",
+     "qKo": "BC 파트너스 크레딧은 왜 빠졌나요?",
+     "choices": [
+      "The league lost a court case",
+      "Not enough players had signed up",
+      "The Ryder Cup was cancelled"
+     ],
+     "answer": 1,
+     "why": "2문단: “mainly because not enough players had signed up”"
+    },
+    {
+     "q": "How much money had BC Partners Credit offered?",
+     "qKo": "BC 파트너스 크레딧은 얼마를 내놓겠다고 했나요?",
+     "choices": [
+      "As much as $30 million",
+      "As much as $3 billion",
+      "As much as $300 million"
+     ],
+     "answer": 2,
+     "why": "2문단: “as much as $300 million”"
+    },
+    {
+     "q": "When will the wind-down plan be filed?",
+     "qKo": "정리 계획서는 언제까지 내나요?",
+     "choices": [
+      "By 9 November",
+      "By 31 December",
+      "By 18 March"
+     ],
+     "answer": 0,
+     "why": "5문단: “A wind-down plan will be filed by 9 November.”"
+    }
+   ],
+   "job": "후원 자금이 끊긴 스포츠 리그가 무너진 이야기 = 「지속 가능한 사업 모델·투자 위험」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "What can a company learn from the end of LIV Golf?",
+    "qKo": "LIV 골프의 끝에서 회사는 무엇을 배울 수 있을까요?",
+    "answer": "LIV spent more than $5 billion, but it depended on one big investor. When that money stopped, the league could not survive. I think a business needs more than one source of support.",
+    "answerKo": "LIV는 50억 달러 넘게 썼지만 큰 투자자 하나에 기댔어요. 그 돈이 끊기자 리그는 버티지 못했어요. 사업에는 지원 창구가 하나 이상 필요하다고 생각해요.",
+    "phrases": [
+     {
+      "en": "one big investor",
+      "ko": "큰 투자자 한 곳"
+     },
+     {
+      "en": "source of support",
+      "ko": "지원의 원천"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-23"
+  },
+  {
+   "section": "culture",
+   "tag": "생활에 바로",
+   "title": "Only About 14% of Teens Worldwide Get an Hour of Exercise Daily",
+   "easyKo": "새 국제 연구에 따르면 하루 한 시간 운동을 하는 청소년은 세계에서 약 14%뿐이에요. 여학생이 남학생보다 덜 움직이는 경향도 있어요. 15년 동안 이 추세는 거의 변하지 않았어요.",
+   "paragraphs": [
+    {
+     "en": "The World Health Organization says teenagers should exercise hard enough to sweat for at least one hour a day. A new study in The Lancet Global Health shows that very few do. One in four teens said they did not reach 60 minutes of this exercise on any day of the week.",
+     "ko": "세계보건기구는 청소년이 땀이 날 정도로 하루 최소 한 시간 운동하라고 권해요. 랜싯 글로벌 헬스의 새 연구는 이를 지키는 청소년이 매우 적다고 보여 줘요. 4명 중 1명은 일주일 내내 하루도 60분을 채우지 못했다고 답했어요."
+    },
+    {
+     "en": "The report used surveys of more than 3 million teenagers in 140 countries over 15 years. Only about 14% said they got an hour of exercise every day. On average, teens were active on fewer than three days a week. A top WHO expert said the trend has been flat for 15 years.",
+     "ko": "보고서는 15년간 140개국 300만 명 넘는 청소년 조사를 썼어요. 매일 한 시간 운동한다고 한 비율은 약 14%뿐이었어요. 평균적으로 일주일에 사흘이 안 되게 활동했어요. WHO 전문가는 15년간 추세가 제자리라고 했어요."
+    },
+    {
+     "en": "Girls were less active than boys in almost every country. Almost 30% of girls had no exercise in a whole week, while the share of boys was 22%. Daily activity was reported by only 11% of girls and 17% of boys.",
+     "ko": "거의 모든 나라에서 여학생이 남학생보다 덜 활동적이었어요. 여학생의 거의 30%가 한 주 동안 전혀 운동하지 않았고 남학생은 22%였어요. 매일 활동하는 비율은 여학생 11%, 남학생 17%였어요."
+    },
+    {
+     "en": "Teens in low- and middle-income countries were less active than teens in richer Western countries. Experts named causes such as cities that are hard to walk in, fears about safety, air pollution and time in front of screens.",
+     "ko": "저소득·중소득 나라의 청소년이 부유한 서구 나라보다 덜 활동적이었어요. 전문가들은 걷기 어려운 도시, 안전 걱정, 대기오염, 화면 앞에서 보내는 시간 등을 원인으로 꼽았어요."
+    },
+    {
+     "en": "Many experts say schools are a practical place to start. Countries with more adolescent exercise tend to have more organised sport during or after the school day.",
+     "ko": "많은 전문가는 학교가 현실적인 출발점이라고 해요. 청소년 운동이 많은 나라는 수업 중이나 방과 후에 체계적인 운동 시간이 더 많은 경향이 있어요."
+    }
+   ],
+   "keySentence": "Only about 14% said they got an hour of exercise every day.",
+   "glosses": [
+    {
+     "text": "World Health Organization",
+     "meaning": "세계보건기구(WHO)",
+     "level": 0
+    },
+    {
+     "text": "The Lancet Global Health",
+     "meaning": "영국의 의학 학술지",
+     "level": 0
+    },
+    {
+     "text": "adolescent",
+     "meaning": "청소년의",
+     "level": 2
+    },
+    {
+     "text": "low- and middle-income countries",
+     "meaning": "저소득·중소득 나라",
+     "level": 2
+    },
+    {
+     "text": "on average",
+     "meaning": "평균적으로",
+     "level": 1
+    },
+    {
+     "text": "organised sport",
+     "meaning": "체계적으로 운영되는 운동 활동",
+     "level": 2
+    },
+    {
+     "text": "flat",
+     "meaning": "(수치가) 변화 없는",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap"
+    }
+   ],
+   "num": {
+    "value": "약 14%",
+    "caption": "하루 한 시간 운동한다고 답한 전 세계 청소년 비율",
+    "source": "NPR (Lancet Global Health)"
+   },
+   "life": "이 연구는 청소년 이야기지만, 운동 습관은 어른이 되어서도 이어지기 쉽다고 전문가들이 말해요. 시험 기간에도 짧게라도 몸을 움직이는 습관을 점검해 볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "What share of teens said they got an hour of exercise every day?",
+     "qKo": "매일 한 시간 운동한다고 한 청소년은 얼마나 되나요?",
+     "choices": [
+      "About 14%",
+      "About 40%",
+      "About 64%"
+     ],
+     "answer": 0,
+     "why": "2문단: “Only about 14% said they got an hour of exercise every day.”"
+    },
+    {
+     "q": "How many countries did the surveys cover?",
+     "qKo": "조사는 몇 개 나라를 다뤘나요?",
+     "choices": [
+      "40 countries",
+      "140 countries",
+      "240 countries"
+     ],
+     "answer": 1,
+     "why": "2문단: “more than 3 million teenagers in 140 countries”"
+    },
+    {
+     "q": "What did the study find about girls and boys?",
+     "qKo": "연구는 여학생과 남학생에 대해 무엇을 밝혔나요?",
+     "choices": [
+      "Boys were usually less active than girls",
+      "Girls and boys were equally active",
+      "Girls were usually less active than boys"
+     ],
+     "answer": 2,
+     "why": "3문단: “Girls were less active than boys in almost every country”"
+    }
+   ],
+   "job": "청소년 운동 부족과 성별 격차 = 「공공 보건·교육 정책」 질문에 통계를 들어 쓸 수 있어요.",
+   "talk": {
+    "q": "How can schools help teenagers exercise more?",
+    "qKo": "학교는 청소년이 더 운동하도록 어떻게 도울 수 있을까요?",
+    "answer": "The article says only about 14% of teens exercise for an hour every day. I think schools can add more sport time during or after class. They should also make it fun for girls and boys.",
+    "answerKo": "기사는 매일 한 시간 운동하는 청소년이 약 14%라고 해요. 학교가 수업 중이나 후에 운동 시간을 늘릴 수 있다고 생각해요. 여학생과 남학생 모두에게 즐거운 활동이어야 해요.",
+    "phrases": [
+     {
+      "en": "sport time",
+      "ko": "운동 시간"
+     },
+     {
+      "en": "make it fun",
+      "ko": "재미있게 만들다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-24"
+  },
+  {
+   "section": "culture",
+   "tag": "한국에 직접",
+   "title": "Korea's Sewol School Archive and Old Cookbooks Join a UNESCO Regional List",
+   "easyKo": "세월호 참사를 기록한 단원고 기록물과 옛 한국 요리책이 유네스코 아시아·태평양 기록유산 목록에 올랐어요. 한국은 이 지역 목록에 모두 8건을 갖게 됐어요.",
+   "paragraphs": [
+    {
+     "en": "An archive about the 2014 Sewol ferry sinking and old Korean cookbooks were added on Thursday to a regional list of UNESCO's Memory of the World program. The decision came at a meeting of the UNESCO committee for Asia and the Pacific in Jakarta.",
+     "ko": "2014년 세월호 침몰 기록과 옛 한국 요리책이 목요일 유네스코 세계기록유산 아시아·태평양 지역 목록에 올랐어요. 결정은 자카르타에서 열린 유네스코 아시아·태평양 위원회 총회에서 나왔어요."
+    },
+    {
+     "en": "The first archive is called the Danwon High School 4.16 Archive. It has 235,220 pieces of records. They show the disaster of 16 April 2014 and the later work of citizens, families and survivors to recover. The Korea Heritage Service said it captures the wounds of people and communities and their efforts to heal.",
+     "ko": "첫 기록물은 '단원고 4.16 기록'이에요. 기록이 23만 5,220건이에요. 2014년 4월 16일의 참사와, 시민과 유가족, 생존자들이 이후 회복하려 한 활동이 담겨 있어요. 국가유산청은 이 기록이 사람과 공동체의 상처와 치유 노력을 담았다고 밝혔어요."
+    },
+    {
+     "en": "The archive includes items from the school, such as a classroom calendar for April 2014. A mother of one of the student victims said she hopes the archive will be used to teach the next generation about the sinking.",
+     "ko": "기록물에는 2014년 4월 교실 달력 같은 학교 자료도 있어요. 희생 학생의 어머니 한 분은 이 기록이 다음 세대에게 참사를 가르치는 데 쓰이길 바란다고 말했어요."
+    },
+    {
+     "en": "The second submission is a set of community archives of traditional Korean cooking knowledge. With these two additions, South Korea's total on the regional list is now eight inscriptions. Countries can send three applications every two years.",
+     "ko": "두 번째는 한국 전통 조리 지식을 담은 공동체 기록물이에요. 두 건이 더해져 한국은 이 지역 목록에 모두 8건을 올렸어요. 각국은 2년마다 세 건을 신청할 수 있어요."
+    }
+   ],
+   "keySentence": "With these two additions, South Korea's total on the regional list is now eight inscriptions.",
+   "glosses": [
+    {
+     "text": "Memory of the World",
+     "meaning": "유네스코 세계기록유산 사업",
+     "level": 0
+    },
+    {
+     "text": "regional list",
+     "meaning": "지역 단위 등재 목록",
+     "level": 1
+    },
+    {
+     "text": "archive",
+     "meaning": "기록물 모음",
+     "level": 2
+    },
+    {
+     "text": "inscription",
+     "meaning": "(목록에) 올림, 등재",
+     "level": 2
+    },
+    {
+     "text": "Korea Heritage Service",
+     "meaning": "한국의 국가유산청",
+     "level": 0
+    },
+    {
+     "text": "submission",
+     "meaning": "신청한 안건(제출물)",
+     "level": 2
+    },
+    {
+     "text": "generation",
+     "meaning": "세대",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261105010800315"
+    },
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927693"
+    }
+   ],
+   "num": {
+    "value": "8건",
+    "caption": "한국이 갖게 된 아시아·태평양 기록유산 등재 수",
+    "source": "Yonhap"
+   },
+   "life": "대학생에게 기록물 등재는 역사 수업에서 접하는 기록 보존의 의미를 생각해 볼 기회예요. 한국의 전통 음식 기록이 인정받은 점은 문화 콘텐츠·관광 분야 이야기로도 이어져요.",
+   "quiz": [
+    {
+     "q": "Where was the UNESCO committee meeting held?",
+     "qKo": "유네스코 위원회 총회는 어디서 열렸나요?",
+     "choices": [
+      "In Seoul",
+      "In Jakarta",
+      "In Tokyo"
+     ],
+     "answer": 1,
+     "why": "1문단: “a meeting of the UNESCO committee for Asia and the Pacific in Jakarta”"
+    },
+    {
+     "q": "How many pieces of records does the Danwon archive have?",
+     "qKo": "단원고 기록물은 몇 건인가요?",
+     "choices": [
+      "2,352",
+      "23,520",
+      "235,220"
+     ],
+     "answer": 2,
+     "why": "2문단: “It has 235,220 pieces of records.”"
+    },
+    {
+     "q": "How many inscriptions does South Korea now have on the regional list?",
+     "qKo": "한국은 지역 목록에 이제 몇 건을 올렸나요?",
+     "choices": [
+      "Eight",
+      "Three",
+      "Eighteen"
+     ],
+     "answer": 0,
+     "why": "4문단: “South Korea's total on the regional list is now eight”"
+    }
+   ],
+   "job": "문화유산과 기록 보존의 가치 = 「기록유산·국가 이미지·공공 기억」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why is it important to keep records of difficult events?",
+    "qKo": "힘든 사건의 기록을 남기는 것은 왜 중요할까요?",
+    "answer": "A mother in the story hopes the archive will teach the next generation. I think records help people remember what happened and learn from it. They also show how communities try to heal.",
+    "answerKo": "기사 속 어머니는 기록이 다음 세대를 가르치길 바란다고 해요. 기록은 일어난 일을 기억하고 배우게 한다고 생각해요. 공동체가 치유하려는 노력도 보여 줘요.",
+    "phrases": [
+     {
+      "en": "learn from it",
+      "ko": "그로부터 배우다"
+     },
+     {
+      "en": "try to heal",
+      "ko": "치유하려 하다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-25"
+  },
+  {
+   "section": "culture",
+   "tag": "모두의 화제",
+   "title": "Lions and Wiz Tied 1-1 in Korean Series After a 12-Inning Game",
+   "easyKo": "프로야구 한국시리즈에서 삼성 라이온즈가 KT 위즈를 연장 12회 끝에 3-2로 이겨 시리즈를 1승 1패로 맞췄어요. 이제 대구에서 3경기가 이어져요.",
+   "paragraphs": [
+    {
+     "en": "The Samsung Lions beat the KT Wiz 3-2 in extra innings on Wednesday. The game was in Suwon, and the win made the Korean Series one game each. It took 12 innings, and the crowd of 17,700 filled the stadium.",
+     "ko": "삼성 라이온즈가 수요일 수원에서 KT 위즈를 연장 끝에 3-2로 이겼어요. 이 승리로 한국시리즈는 1승 1패가 됐어요. 경기는 12회까지 갔고 관중 17,700명이 구장을 채웠어요."
+    },
+    {
+     "en": "The Lions scored the winning run on an error by Wiz second baseman Oh Yoon-suk in the top of the 12th. Lewin Diaz scored on that play. Diaz had four hits in five at-bats and was one home run short of the first cycle in Korean postseason history.",
+     "ko": "라이온즈는 12회초 위즈 2루수 오윤석의 실책으로 결승점을 냈어요. 그 플레이에서 르윈 디아즈가 홈을 밟았어요. 디아즈는 5타수 4안타를 쳤고, 한국 포스트시즌 첫 사이클링 히트에 홈런 하나가 모자랐어요."
+    },
+    {
+     "en": "Both starting pitchers did well, so runs were hard to get. The score was 1-1 for a long time. The Lions led 2-1 in the 10th, but the Wiz tied the game after an error by Diaz.",
+     "ko": "두 선발 투수가 모두 잘 던져 점수가 나기 어려웠어요. 점수는 오랫동안 1-1이었어요. 라이온즈가 10회 2-1로 앞섰지만 디아즈의 실책 뒤 위즈가 동점을 만들었어요."
+    },
+    {
+     "en": "The best-of-seven series now moves to Daegu for the next three games. Game 3 is on Friday at 6:30 p.m., Game 4 on Saturday at 2 p.m., and Game 5 on Sunday at 2 p.m.",
+     "ko": "7전 4선승제 시리즈는 이제 대구로 옮겨 다음 세 경기를 해요. 3차전은 금요일 오후 6시 30분, 4차전은 토요일 오후 2시, 5차전은 일요일 오후 2시예요."
+    }
+   ],
+   "keySentence": "The Lions scored the winning run on an error by Wiz second baseman Oh Yoon-suk in the top of the 12th.",
+   "glosses": [
+    {
+     "text": "Korean Series",
+     "meaning": "KBO 프로야구 챔피언 결정전",
+     "level": 0
+    },
+    {
+     "text": "extra innings",
+     "meaning": "연장 이닝",
+     "level": 2
+    },
+    {
+     "text": "error",
+     "meaning": "실책(수비 실수)",
+     "level": 2
+    },
+    {
+     "text": "second baseman",
+     "meaning": "2루수",
+     "level": 1
+    },
+    {
+     "text": "at-bats",
+     "meaning": "타수",
+     "level": 2
+    },
+    {
+     "text": "cycle",
+     "meaning": "사이클링 히트(한 경기에서 단타·2루타·3루타·홈런을 모두 침)",
+     "level": 2
+    },
+    {
+     "text": "starting pitchers",
+     "meaning": "선발 투수",
+     "level": 1
+    },
+    {
+     "text": "best-of-seven",
+     "meaning": "7전 4선승제의",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261104011451315"
+    }
+   ],
+   "num": {
+    "value": "17,700명",
+    "caption": "수원 KT 위즈 파크의 매진 관중",
+    "source": "Yonhap"
+   },
+   "life": "가을야구는 대학가 응원 문화와 친구들과의 모임으로 이어지기 쉬워요. 3차전부터 금요일 저녁에 열리니 일정을 확인해 볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "What was the final score of Game 2?",
+     "qKo": "2차전의 최종 점수는 얼마였나요?",
+     "choices": [
+      "3-2",
+      "5-4",
+      "2-1"
+     ],
+     "answer": 0,
+     "why": "1문단: “beat the KT Wiz 3-2 in extra innings”"
+    },
+    {
+     "q": "How many innings did Game 2 take?",
+     "qKo": "2차전은 몇 회까지 갔나요?",
+     "choices": [
+      "Nine",
+      "Ten",
+      "Twelve"
+     ],
+     "answer": 2,
+     "why": "1문단: “It took 12 innings”"
+    },
+    {
+     "q": "Where will the next three games be played?",
+     "qKo": "다음 세 경기는 어디서 열리나요?",
+     "choices": [
+      "In Suwon",
+      "In Daegu",
+      "In Busan"
+     ],
+     "answer": 1,
+     "why": "4문단: “now moves to Daegu for the next three games”"
+    }
+   ],
+   "job": "스포츠 경기와 팬 문화 = 「스포츠 산업·지역 연고 마케팅」 질문에 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do you think sports games bring people together?",
+    "qKo": "스포츠 경기는 왜 사람들을 하나로 모을까요?",
+    "answer": "A sellout crowd of 17,700 came to see the Korean Series game. I think people enjoy cheering together for the same team. It is also a good way to make friends.",
+    "answerKo": "한국시리즈 경기에 매진 관중 17,700명이 왔어요. 같은 팀을 함께 응원하는 일이 즐거워서라고 생각해요. 친구를 사귀는 좋은 방법이기도 해요.",
+    "phrases": [
+     {
+      "en": "cheering together",
+      "ko": "함께 응원하기"
+     },
+     {
+      "en": "make friends",
+      "ko": "친구를 사귀다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-26"
+  },
+  {
+   "section": "culture",
+   "tag": "의견 갈림",
+   "title": "Scientists Make a Fluoride-Free Gel That May Regrow Tooth Enamel",
+   "easyKo": "영국 노팅엄대 연구진이 망가진 치아 법랑질을 다시 만들도록 돕는 새 젤을 개발했어요. 불소가 없고 치과에서 불소 처치처럼 바를 수 있다고 해요. 아직은 연구 발표 단계예요.",
+   "paragraphs": [
+    {
+     "en": "Scientists have made a new gel that could help regrow damaged tooth enamel. Enamel is the hard outer layer of a tooth. Once it is lost, the body cannot grow it back, which is different from bone.",
+     "ko": "과학자들이 손상된 치아 법랑질이 다시 자라도록 도울 수 있는 새 젤을 만들었어요. 법랑질은 치아의 단단한 바깥층이에요. 뼈와 달리 한번 잃으면 스스로 다시 자라지 않아요."
+    },
+    {
+     "en": "The work comes from the University of Nottingham in the UK. The idea came from the way enamel forms in early childhood. The gel uses a protein-based material that imitates the natural proteins steering enamel growth.",
+     "ko": "이 연구는 영국 노팅엄대에서 나왔어요. 젤은 어린 시절 법랑질이 만들어지는 과정에서 영감을 얻었어요. 법랑질 성장을 이끄는 자연 단백질의 중요한 특징을 흉내 낸 단백질 기반 물질로 만들었어요."
+    },
+    {
+     "en": "A dentist could apply the gel to teeth, much like a fluoride treatment today. This gel, however, has no fluoride. The researchers say it makes a thin coating that fills tiny cracks and gives a base for rebuilding the mineral structure of enamel.",
+     "ko": "치과의사가 지금의 불소 처치와 비슷한 방식으로 젤을 치아에 바를 수 있어요. 많은 제품과 달리 이 젤에는 불소가 없어요. 연구진은 얇은 막이 작은 틈을 메우고 법랑질의 무기질 구조를 다시 세우도록 돕는다고 해요."
+    },
+    {
+     "en": "The results appeared in Nature Communications and may point to a promising new kind of dental care. For now it is early research, not a product you can buy.",
+     "ko": "결과는 네이처 커뮤니케이션즈에 실렸어요. 새로운 종류의 치과 치료로 이어질 수 있어요. 보도는 젤이 유망하다고만 설명하므로 아직 살 수 있는 제품은 아니에요."
+    }
+   ],
+   "keySentence": "A dentist could apply the gel to teeth, much like a fluoride treatment today.",
+   "glosses": [
+    {
+     "text": "tooth enamel",
+     "meaning": "치아 법랑질(에나멜)",
+     "level": 1
+    },
+    {
+     "text": "fluoride",
+     "meaning": "충치 예방에 쓰는 불소",
+     "level": 1
+    },
+    {
+     "text": "University of Nottingham",
+     "meaning": "영국의 대학",
+     "level": 0
+    },
+    {
+     "text": "Nature Communications",
+     "meaning": "과학 학술지 이름",
+     "level": 0
+    },
+    {
+     "text": "coating",
+     "meaning": "표면에 입히는 얇은 막",
+     "level": 2
+    },
+    {
+     "text": "mineral structure",
+     "meaning": "무기질로 이루어진 구조",
+     "level": 2
+    },
+    {
+     "text": "fills",
+     "meaning": "(틈 등을) 메우다",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm"
+    }
+   ],
+   "life": "치과 치료는 학생 보험이나 용돈에서 부담이 큰 항목이에요. 다만 이 젤은 아직 연구 결과 단계라서 당장 치료법이 바뀌는 건 아니에요.",
+   "quiz": [
+    {
+     "q": "Where does the research come from?",
+     "qKo": "연구는 어디서 나왔나요?",
+     "choices": [
+      "University of Oxford",
+      "University of Tokyo",
+      "University of Nottingham"
+     ],
+     "answer": 2,
+     "why": "2문단: “The work comes from the University of Nottingham in the UK.”"
+    },
+    {
+     "q": "What is different about this gel compared with fluoride products?",
+     "qKo": "이 젤은 불소 제품과 무엇이 다른가요?",
+     "choices": [
+      "It has no fluoride",
+      "It has no protein",
+      "It must be swallowed"
+     ],
+     "answer": 0,
+     "why": "3문단: “This gel, however, has no fluoride.”"
+    },
+    {
+     "q": "Where were the results published?",
+     "qKo": "결과는 어디에 실렸나요?",
+     "choices": [
+      "The Lancet",
+      "Nature Communications",
+      "Science Daily News"
+     ],
+     "answer": 1,
+     "why": "4문단: “appeared in Nature Communications”"
+    }
+   ],
+   "job": "새 의료·소재 기술의 가능성과 한계 = 「과학 기술의 상용화」 질문에 쓸 수 있어요. 아직 연구 단계라는 점을 같이 말해야 해요.",
+   "talk": {
+    "q": "Would you try a new dental treatment like this? Why or why not?",
+    "qKo": "이런 새 치과 치료를 받아 보겠어요?",
+    "answer": "I would try it after more tests. The article says it is promising, but it is not a product yet. I want to know it is safe first.",
+    "answerKo": "더 많은 시험 뒤에 해 볼 것 같아요. 기사는 유망하다고만 하고 아직 제품이 아니에요. 먼저 안전한지 알고 싶어요.",
+    "phrases": [
+     {
+      "en": "after more tests",
+      "ko": "더 많은 시험 뒤에"
+     },
+     {
+      "en": "it is safe",
+      "ko": "안전하다"
+     }
+    ]
+   },
+   "key": "2026-11-06-am-27"
+  }
+ ]
+}
