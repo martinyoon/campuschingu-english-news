@@ -1,35 +1,44 @@
+// check-edition v2
 // 캠퍼스친구 「나의 영어신문」 판 파일 검사 · 사용법: node scripts/check-edition.mjs editions/current.json
-import { readFileSync } from 'node:fs';
+import { readFileSync, existsSync } from 'node:fs';
+import { dirname, join } from 'node:path';
 const errs = [];
 const bad = (m) => errs.push(m);
+const file = process.argv[2] ?? 'editions/current.json';
 let d;
-try { d = JSON.parse(readFileSync(process.argv[2] ?? 'editions/current.json', 'utf8')); }
+try { d = JSON.parse(readFileSync(file, 'utf8')); }
 catch (e) { console.log('JSON을 읽을 수 없음: ' + e.message); process.exit(1); }
 const isObj = (o) => o && typeof o === 'object' && !Array.isArray(o);
-const only = (o, keys, where) => { if (!isObj(o)) { bad(where + ': 객체가 아님'); return false; }
-  for (const k of Object.keys(o)) if (!keys.includes(k)) bad(where + ': 모르는 칸 ' + k);
-  for (const k of keys) if (!(k in o)) bad(where + ': 칸 없음 ' + k); return true; };
+const only = (o, req, where, opt = []) => { if (!isObj(o)) { bad(where + ': 객체가 아님'); return false; }
+  for (const k of Object.keys(o)) if (!req.includes(k) && !opt.includes(k)) bad(where + ': 모르는 칸 ' + k);
+  for (const k of req) if (!(k in o)) bad(where + ': 칸 없음 ' + k); return true; };
 const str = (v, where, max) => { if (typeof v !== 'string' || !v.trim()) { bad(where + ': 글자 칸이 비었음'); return false; }
   if (max && v.length > max) bad(where + ': ' + max + '자 초과(' + v.length + ')'); return true; };
 const SECTIONS = ['world', 'money', 'tech', 'science', 'culture', 'campus'];
-if (only(d, ['edition', 'publishedAt', 'sourceCount', 'articles'], '판')) {
+const TAGS = ['모두의 화제', '한국에 직접', '생활에 바로', '의견 갈림', '파장 큼'];
+const numBox = (n, w) => { if (only(n, ['value', 'caption', 'source'], w)) { str(n.value, w + ' value', 24); str(n.caption, w + ' caption', 60); str(n.source, w + ' source', 60); } };
+if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '판')) {
   if (!/^\d{4}-\d{2}-\d{2}-(am|pm)$/.test(d.edition)) bad('edition 꼴');
   if (typeof d.publishedAt !== 'string' || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2}(\.\d+)?)?(Z|[+-]\d{2}:\d{2})$/.test(d.publishedAt) || isNaN(Date.parse(d.publishedAt))) bad('publishedAt 은 시간대 붙은 ISO 시각');
   if (!Number.isInteger(d.sourceCount) || d.sourceCount < 1 || d.sourceCount > 999) bad('sourceCount 정수 1~999');
-  if (!Array.isArray(d.articles) || d.articles.length !== 8) bad('기사는 정확히 8편');
+  if (!Array.isArray(d.numbers) || d.numbers.length > 6) bad('numbers 는 6칸 이하 배열');
+  else d.numbers.forEach((n, i) => numBox(n, 'numbers' + (i + 1)));
+  if (!Array.isArray(d.articles) || d.articles.length < 8 || d.articles.length > 40) bad('기사는 8~40편');
   else d.articles.forEach((a, i) => {
     const w = '기사' + (i + 1);
-    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources'], w)) return;
+    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources'], w, ['tag', 'num', 'life', 'deep'])) return;
     if (a.key !== d.edition + '-' + (i + 1)) bad(w + ': key 는 ' + d.edition + '-' + (i + 1));
     if (!SECTIONS.includes(a.section)) bad(w + ': section');
+    if ('tag' in a && !TAGS.includes(a.tag)) bad(w + ': tag');
     str(a.title, w + ' title', 120); str(a.easyKo, w + ' easyKo', 300); str(a.keySentence, w + ' keySentence', 300);
     let all = '', ok = false;
-    if (!Array.isArray(a.paragraphs) || a.paragraphs.length < 2 || a.paragraphs.length > 6) bad(w + ': 문단 2~6개');
+    if (!Array.isArray(a.paragraphs) || a.paragraphs.length < 2 || a.paragraphs.length > 8) bad(w + ': 문단 2~8개');
     else a.paragraphs.forEach((p, j) => { if (!only(p, ['en', 'ko'], w + ' 문단' + (j + 1))) return;
       if (str(p.en, w + ' en', 900)) { all += ' ' + p.en; if (typeof a.keySentence === 'string' && p.en.includes(a.keySentence)) ok = true; }
       str(p.ko, w + ' ko', 600); });
     const wc = (all.match(/[A-Za-z]+/g) || []).length;
-    if (wc < 80 || wc > 260) bad(w + ': 영어 낱말 수 ' + wc + ' (80~260)');
+    const max = a.deep ? 480 : 300;
+    if (wc < 80 || wc > max) bad(w + ': 영어 낱말 수 ' + wc + ' (80~' + max + ')');
     if (!ok) bad(w + ': keySentence 가 본문 en 안에 없음');
     if (!Array.isArray(a.glosses) || a.glosses.length > 80) bad(w + ': glosses 80개 이하');
     else a.glosses.forEach((g, j) => { const gw = w + ' gloss' + (j + 1);
@@ -37,11 +46,24 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'articles'], '판')) {
       if (str(g.text, gw + ' text', 40) && !all.toLowerCase().includes(g.text.toLowerCase())) bad(gw + ': text 가 본문에 없음 (' + g.text + ')');
       str(g.meaning, gw + ' meaning', 60);
       if (!Number.isInteger(g.level) || g.level < 0 || g.level > 4) bad(gw + ': level 0~4'); });
-    if (!Array.isArray(a.sources) || a.sources.length < 1 || a.sources.length > 5) bad(w + ': sources 1~5개');
+    if (!Array.isArray(a.sources) || a.sources.length < 1 || a.sources.length > 8) bad(w + ': sources 1~8개');
     else a.sources.forEach((s, j) => { const sw = w + ' source' + (j + 1);
       if (!only(s, ['name', 'url'], sw)) return; str(s.name, sw + ' name', 60);
       if (typeof s.url !== 'string' || !/^https:\/\/\S+$/.test(s.url)) bad(sw + ': url 은 https 만'); });
+    if ('num' in a) numBox(a.num, w + ' num');
+    if ('life' in a) str(a.life, w + ' life', 200);
+    if ('deep' in a && only(a.deep, ['why', 'next', 'keyNumbers', 'views'], w + ' deep')) {
+      str(a.deep.why, w + ' why', 200); str(a.deep.next, w + ' next', 200); str(a.deep.keyNumbers, w + ' keyNumbers', 200);
+      if (!Array.isArray(a.deep.views) || a.deep.views.length < 1 || a.deep.views.length > 5) bad(w + ': views 1~5줄');
+      else a.deep.views.forEach((v, j) => { if (only(v, ['source', 'view'], w + ' view' + (j + 1))) { str(v.source, w + ' view source', 60); str(v.view, w + ' view', 160); } }); }
   });
+}
+const idx = join(dirname(file), 'index.json');
+if (existsSync(idx)) {
+  try { const x = JSON.parse(readFileSync(idx, 'utf8'));
+    if (!Array.isArray(x) || x.length > 200) bad('index.json 은 200줄 이하 배열');
+    else x.forEach((r, i) => { if (only(r, ['edition', 'publishedAt', 'lead'], 'index' + (i + 1))) { str(r.edition, 'index edition'); str(r.publishedAt, 'index publishedAt'); str(r.lead, 'index lead', 120); } });
+  } catch (e) { bad('index.json 읽기 실패: ' + e.message); }
 }
 if (errs.length) { console.log(errs.join('\n')); process.exit(1); }
 console.log('OK');
