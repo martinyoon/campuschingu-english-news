@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-05-pm",
- "publishedAt": "2026-11-05T19:30:00+09:00",
+ "publishedAt": "2026-11-05T20:50:06+09:00",
  "sourceCount": 36,
  "numbers": [
   {
@@ -173,7 +173,42 @@
       "view": "밴스 부통령과 트럼프는 이란 전쟁이 연료값을 올려 공화당에 타격이 됐다는 점을 대체로 인정했어요."
      }
     ]
-   }
+   },
+   "quiz": [
+    {
+     "q": "Which party won control of both chambers of Congress?",
+     "qKo": "어느 정당이 의회 양원을 모두 장악했나요?",
+     "choices": [
+      "The Republican Party",
+      "The Democratic Party",
+      "The Green Party"
+     ],
+     "answer": 1,
+     "why": "1문단: “The Democratic Party won control of both chambers of the US Congress”"
+    },
+    {
+     "q": "What did a French paper call the election result?",
+     "qKo": "프랑스 신문은 선거 결과를 무엇이라 불렀나요?",
+     "choices": [
+      "a red storm",
+      "a green shift",
+      "a blue wave"
+     ],
+     "answer": 2,
+     "why": "2문단: “A French paper called it a blue wave”"
+    },
+    {
+     "q": "Why were many voters unhappy before the election?",
+     "qKo": "선거 전 많은 유권자가 불만이었던 이유는 무엇이었나요?",
+     "choices": [
+      "The war with Iran raised fuel prices",
+      "A new tax raised the price of rent",
+      "A trade deal with China cut many jobs"
+     ],
+     "answer": 0,
+     "why": "4문단: “the war with Iran, which pushed up fuel prices”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-2",
@@ -313,7 +348,42 @@
       "view": "전문가들은 투자 합의는 유지되겠지만 조선·에너지·반도체 사업은 의회의 더 꼼꼼한 검토를 받을 수 있다고 봤어요."
      }
     ]
-   }
+   },
+   "quiz": [
+    {
+     "q": "What did Prime Minister Han say about relations with the US?",
+     "qKo": "한 총리는 미국과의 관계에 대해 뭐라고 말했나요?",
+     "choices": [
+      "She expects the alliance to end soon",
+      "She expects no big changes",
+      "She expects a new trade war"
+     ],
+     "answer": 1,
+     "why": "1문단: “she expects no big changes in relations with the United States”"
+    },
+    {
+     "q": "How large is South Korea's US investment plan?",
+     "qKo": "한국의 대미 투자 계획 규모는 얼마인가요?",
+     "choices": [
+      "$350 billion",
+      "$250 billion",
+      "$450 billion"
+     ],
+     "answer": 0,
+     "why": "5문단: “South Korea's $350 billion investment plan”"
+    },
+    {
+     "q": "Why would undoing Trump's tariffs be hard?",
+     "qKo": "트럼프의 관세를 되돌리기 어려운 이유는 무엇인가요?",
+     "choices": [
+      "Courts have banned any changes",
+      "Trump alone owns the trade law",
+      "Democrats lack votes to beat a veto"
+     ],
+     "answer": 2,
+     "why": "6문단: “undoing the tariffs would be hard without enough votes to beat a veto”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-3",
@@ -453,7 +523,42 @@
       "view": "키움증권 분석가는 거부권과 AI 경쟁력 때문에 전국 단위의 강한 규제는 어려울 것이라고 봤어요."
      }
     ]
-   }
+   },
+   "quiz": [
+    {
+     "q": "Where did the KOSPI index close on Thursday?",
+     "qKo": "목요일 코스피는 어느 수준에서 마감했나요?",
+     "choices": [
+      "4,383.80",
+      "5,383.80",
+      "6,383.80"
+     ],
+     "answer": 1,
+     "why": "1문단: “closed at 5,383.80”"
+    },
+    {
+     "q": "Why were investors worried on Thursday?",
+     "qKo": "목요일에 투자자들이 걱정한 이유는 무엇인가요?",
+     "choices": [
+      "Oil prices might rise sharply",
+      "Korea might ban chip exports",
+      "Rules for AI data centers could get tougher"
+     ],
+     "answer": 2,
+     "why": "1문단: “the Democrats' big win could lead to tougher rules for AI data centers”"
+    },
+    {
+     "q": "How much US data center capacity is Texas expected to hold by 2030?",
+     "qKo": "2030년까지 텍사스가 보유할 미국 데이터센터 용량은 얼마로 예상되나요?",
+     "choices": [
+      "25 to 30 percent",
+      "10 to 15 percent",
+      "40 to 45 percent"
+     ],
+     "answer": 0,
+     "why": "6문단: “25 to 30 percent of the US data center capacity”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-4",
@@ -602,7 +707,42 @@
       "view": "안전을 최우선으로 하겠다는 조직위의 다짐과 최대 3.2조 원의 경제 효과 추산을 함께 보도했어요."
      }
     ]
-   }
+   },
+   "quiz": [
+    {
+     "q": "When will World Youth Day Seoul 2027 be held?",
+     "qKo": "서울 세계청년대회는 언제 열리나요?",
+     "choices": [
+      "Oct. 3 to 8 next year",
+      "Aug. 10 to 15 next year",
+      "Aug. 3 to 8 next year"
+     ],
+     "answer": 2,
+     "why": "1문단: “from Aug. 3 to 8 next year”"
+    },
+    {
+     "q": "Where will the opening Mass take place?",
+     "qKo": "개막 미사는 어디에서 열리나요?",
+     "choices": [
+      "Seoul World Cup Stadium",
+      "Myeongdong Cathedral",
+      "Seoul City Hall Plaza"
+     ],
+     "answer": 0,
+     "why": "3문단: “will take place at Seoul World Cup Stadium”"
+    },
+    {
+     "q": "Why did organizers choose Seoul Air Base for the vigil and closing Mass?",
+     "qKo": "주최 측이 철야 기도와 폐막 미사 장소로 서울공항을 고른 이유는 무엇인가요?",
+     "choices": [
+      "To save money on stadium rental",
+      "To limit traffic problems for residents",
+      "To stay close to the pope's hotel"
+     ],
+     "answer": 1,
+     "why": "3문단: “Organizers chose it to limit traffic problems for residents”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-5",
@@ -753,7 +893,42 @@
       "view": "해커들이 가짜 면접과 침해된 내부 AI 도구를 썼다는 바이낸스 설명과, 미국 기관들이 북한을 지목하고 북한이 부인한 상황을 전해요."
      }
     ]
-   }
+   },
+   "quiz": [
+    {
+     "q": "How much did hackers steal from Binance?",
+     "qKo": "해커들은 바이낸스에서 얼마를 훔쳤나요?",
+     "choices": [
+      "$2.3 billion",
+      "$6.3 billion",
+      "$9.3 billion"
+     ],
+     "answer": 1,
+     "why": "1문단: “Hackers stole a record $6.3 billion from Binance”"
+    },
+    {
+     "q": "How did the hackers reach the engineers' computers?",
+     "qKo": "해커들은 어떻게 엔지니어의 컴퓨터에 접근했나요?",
+     "choices": [
+      "By stealing a password by phone",
+      "By sending a fake bank email",
+      "By sending malware as a job assignment"
+     ],
+     "answer": 2,
+     "why": "2문단: “download an assignment that was really malware”"
+    },
+    {
+     "q": "How long did Binance suspend withdrawals around the world?",
+     "qKo": "바이낸스는 전 세계 출금을 얼마나 중단했나요?",
+     "choices": [
+      "Until Sunday",
+      "Until next Friday",
+      "Until the end of May"
+     ],
+     "answer": 0,
+     "why": "3문단: “suspended withdrawals around the world until Sunday”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-6",
@@ -880,7 +1055,42 @@
       "view": "태권도를 선제적으로 추진했어야 한다는 비판 속에서 남북 공동 등재 가능성은 낮다고 전했어요."
      }
     ]
-   }
+   },
+   "quiz": [
+    {
+     "q": "What is hanji made from?",
+     "qKo": "한지는 무엇으로 만들어지나요?",
+     "choices": [
+      "Rice straw and water",
+      "Pine tree wood",
+      "Mulberry tree bark"
+     ],
+     "answer": 2,
+     "why": "2문단: “Hanji is made from the bark of mulberry trees”"
+    },
+    {
+     "q": "How many hanji-making masters does the Korea Heritage Service recognize?",
+     "qKo": "한국 국가유산청은 몇 명의 한지 장인을 인정하나요?",
+     "choices": [
+      "Two artisans",
+      "Four artisans",
+      "Nine artisans"
+     ],
+     "answer": 1,
+     "why": "3문단: “recognizes four artisans as hanji-making masters”"
+    },
+    {
+     "q": "When is the final UNESCO decision expected?",
+     "qKo": "유네스코의 최종 결정은 언제 나올 것으로 예상되나요?",
+     "choices": [
+      "Between Nov. 30 and Dec. 5",
+      "Between Jan. 10 and 15",
+      "Between Mar. 1 and 5"
+     ],
+     "answer": 0,
+     "why": "6문단: “between Nov. 30 and Dec. 5”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-7",
@@ -974,7 +1184,42 @@
      "url": "https://www.koreatimes.co.kr/world/20261105/after-midterm-loss-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-debacle"
     }
    ],
-   "life": "이란 전쟁이 이어지면 기름값과 물가가 오를 수 있어서, 통학비와 생활비 걱정으로 이어질 수 있어요."
+   "life": "이란 전쟁이 이어지면 기름값과 물가가 오를 수 있어서, 통학비와 생활비 걱정으로 이어질 수 있어요.",
+   "quiz": [
+    {
+     "q": "How old is the war with Iran?",
+     "qKo": "이란과의 전쟁은 얼마나 오래되었나요?",
+     "choices": [
+      "Two months old",
+      "Eight months old",
+      "Three years old"
+     ],
+     "answer": 1,
+     "why": "1문단: “The war is eight months old and unpopular”"
+    },
+    {
+     "q": "What is happening in the Strait of Hormuz now?",
+     "qKo": "호르무즈 해협에서는 지금 무슨 일이 일어나고 있나요?",
+     "choices": [
+      "The strait is fully closed to tankers",
+      "Iran has taken over all tanker escorts",
+      "Oil flows again with US Navy escorts"
+     ],
+     "answer": 2,
+     "why": "3문단: “Oil is flowing again through the Strait of Hormuz”"
+    },
+    {
+     "q": "Where has the fighting spread to?",
+     "qKo": "전투는 어디로 확산되었나요?",
+     "choices": [
+      "The Red Sea",
+      "The Black Sea",
+      "The Baltic Sea"
+     ],
+     "answer": 0,
+     "why": "3문단: “the fighting has spread to the Red Sea”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-8",
@@ -1072,7 +1317,42 @@
     "caption": "지난달 적도 태평양 해수면 온도가 평소보다 4도 높아 1949년 이후 최고예요.",
     "source": "BBC"
    },
-   "life": "이 기사는 태풍이 동아시아의 항공편과 농작물에 큰 피해를 줬다고 전해요. 한국도 같은 지역이라 이런 기후 소식은 눈여겨볼 만해요."
+   "life": "이 기사는 태풍이 동아시아의 항공편과 농작물에 큰 피해를 줬다고 전해요. 한국도 같은 지역이라 이런 기후 소식은 눈여겨볼 만해요.",
+   "quiz": [
+    {
+     "q": "How fast were the winds of Typhoon Champi?",
+     "qKo": "태풍 참피의 풍속은 얼마였나요?",
+     "choices": [
+      "195 kilometers an hour",
+      "295 kilometers an hour",
+      "395 kilometers an hour"
+     ],
+     "answer": 1,
+     "why": "2문단: “winds of 295 kilometers an hour”"
+    },
+    {
+     "q": "How often does El Niño happen?",
+     "qKo": "엘니뇨는 얼마나 자주 발생하나요?",
+     "choices": [
+      "Every two to seven years",
+      "Every year",
+      "Every twenty years"
+     ],
+     "answer": 0,
+     "why": "3문단: “It happens every two to seven years”"
+    },
+    {
+     "q": "Until when is this year's El Niño likely to last?",
+     "qKo": "올해 엘니뇨는 언제까지 이어질 가능성이 높나요?",
+     "choices": [
+      "Until next July",
+      "Until this December",
+      "Until February or March"
+     ],
+     "answer": 2,
+     "why": "4문단: “It is likely to last until February or March”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-9",
@@ -1170,7 +1450,42 @@
      "url": "https://text.npr.org/g-s1-151238"
     }
    ],
-   "life": "전쟁 뉴스는 멀게 느껴지지만, 에너지·곡물 가격과 국제 정세를 통해 우리 생활과 이어져요."
+   "life": "전쟁 뉴스는 멀게 느껴지지만, 에너지·곡물 가격과 국제 정세를 통해 우리 생활과 이어져요.",
+   "quiz": [
+    {
+     "q": "Who arranged the truce in Ukraine?",
+     "qKo": "우크라이나 휴전을 중재한 사람은 누구인가요?",
+     "choices": [
+      "The UN and Turkey's leader",
+      "Ukraine's and Russia's generals",
+      "Melania Trump and Pope Leo XIV"
+     ],
+     "answer": 2,
+     "why": "1문단: “a truce, arranged by Melania Trump and Pope Leo XIV”"
+    },
+    {
+     "q": "Since when have Russian troops hunted people in Kherson with drones?",
+     "qKo": "러시아군은 언제부터 드론으로 헤르손 주민을 노렸나요?",
+     "choices": [
+      "Since 2024",
+      "Since 2019",
+      "Since 2021"
+     ],
+     "answer": 0,
+     "why": "4문단: “Since 2024, Russian troops across the river have hunted people in Kherson with drones”"
+    },
+    {
+     "q": "How long did the truce last?",
+     "qKo": "휴전은 얼마 동안 이어졌나요?",
+     "choices": [
+      "From October 27 to November 9",
+      "From October 27 to November 1",
+      "From October 20 to November 1"
+     ],
+     "answer": 1,
+     "why": "6문단: “The truce lasted from October 27 to November 1”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-10",
@@ -1273,7 +1588,42 @@
     "caption": "연 250만 원 넘는 가상자산 수익에 22% 세금이 붙어요.",
     "source": "Yonhap News Agency"
    },
-   "life": "코인에 투자하는 대학생이라면 과세 시기가 2029년으로 미뤄질 수 있다는 소식이에요. 다만 아직 국회를 통과해야 하는 계획이에요."
+   "life": "코인에 투자하는 대학생이라면 과세 시기가 2029년으로 미뤄질 수 있다는 소식이에요. 다만 아직 국회를 통과해야 하는 계획이에요.",
+   "quiz": [
+    {
+     "q": "When does South Korea want to delay the crypto gains tax until?",
+     "qKo": "한국은 가상자산 과세를 언제로 미루려고 하나요?",
+     "choices": [
+      "Until 2029",
+      "Until 2028",
+      "Until 2031"
+     ],
+     "answer": 0,
+     "why": "1문단: “from 2027 to 2029”"
+    },
+    {
+     "q": "How many times has the tax already been delayed?",
+     "qKo": "이 세금은 이미 몇 번 연기되었나요?",
+     "choices": [
+      "Twice",
+      "Three times",
+      "Five times"
+     ],
+     "answer": 1,
+     "why": "2문단: “the tax has already been delayed three times”"
+    },
+    {
+     "q": "Why could taxing earlier be a problem?",
+     "qKo": "더 일찍 과세하면 왜 문제가 될 수 있나요?",
+     "choices": [
+      "It could hurt the domestic market",
+      "It could raise bank interest rates",
+      "It could stop information sharing"
+     ],
+     "answer": 0,
+     "why": "3문단: “Taxing earlier could put the domestic market at a disadvantage.”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-11",
@@ -1371,7 +1721,42 @@
     "caption": "영국 기준금리가 이 정도로 오를 것으로 분석가들이 예상해요.",
     "source": "BBC"
    },
-   "life": "영국 소식이지만, 기름값 때문에 오른 물가가 금리 인상으로 이어지는 흐름은 한국에서도 대출 이자와 저축에 비슷하게 닿을 수 있어요."
+   "life": "영국 소식이지만, 기름값 때문에 오른 물가가 금리 인상으로 이어지는 흐름은 한국에서도 대출 이자와 저축에 비슷하게 닿을 수 있어요.",
+   "quiz": [
+    {
+     "q": "What is the Bank of England expected to do on Thursday?",
+     "qKo": "영국 중앙은행은 목요일에 무엇을 할 것으로 예상되나요?",
+     "choices": [
+      "Raise interest rates",
+      "Cut interest rates",
+      "Keep rates unchanged"
+     ],
+     "answer": 0,
+     "why": "1문단: “is expected to raise interest rates on Thursday”"
+    },
+    {
+     "q": "How high was UK inflation in the year to September?",
+     "qKo": "9월까지 1년간 영국의 물가 상승률은 얼마였나요?",
+     "choices": [
+      "2 percent",
+      "3.5 percent",
+      "5.25 percent"
+     ],
+     "answer": 1,
+     "why": "4문단: “Inflation was 3.5 percent in the year to September”"
+    },
+    {
+     "q": "What has raised fuel and energy costs?",
+     "qKo": "무엇이 연료와 에너지 비용을 올렸나요?",
+     "choices": [
+      "A new fuel tax",
+      "Bad winter weather",
+      "The Iran war"
+     ],
+     "answer": 2,
+     "why": "4문단: “The Iran war has raised fuel and energy costs.”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-12",
@@ -1478,7 +1863,42 @@
     "caption": "LG에너지솔루션과 삼성SDI의 북미 ESS 배터리 점유율(올해 1~9월)이에요.",
     "source": "Korea Herald"
    },
-   "life": "한국 배터리 기업의 성장은 이공계 취업 시장 소식으로도 이어질 수 있어요. 다만 이 기사는 점유율 변화만 다루고 채용은 말하지 않아요."
+   "life": "한국 배터리 기업의 성장은 이공계 취업 시장 소식으로도 이어질 수 있어요. 다만 이 기사는 점유율 변화만 다루고 채용은 말하지 않아요.",
+   "quiz": [
+    {
+     "q": "What share did LG and Samsung SDI hold in the first nine months?",
+     "qKo": "LG와 삼성SDI는 올해 1~9월에 시장 점유율이 얼마였나요?",
+     "choices": [
+      "13.4 percent",
+      "37 percent",
+      "20.9 percent"
+     ],
+     "answer": 2,
+     "why": "2문단: “held 20.9 percent of the market”"
+    },
+    {
+     "q": "Which company led North America's market with a 37 percent share?",
+     "qKo": "37% 점유율로 북미 시장 1위를 한 회사는 어디인가요?",
+     "choices": [
+      "CATL",
+      "Hithium",
+      "CALB"
+     ],
+     "answer": 0,
+     "why": "5문단: “China's CATL still led with a 37 percent share”"
+    },
+    {
+     "q": "How much did worldwide energy storage battery shipments rise?",
+     "qKo": "전 세계 에너지저장 배터리 출하량은 얼마나 늘었나요?",
+     "choices": [
+      "17 percent",
+      "68 percent",
+      "73 percent"
+     ],
+     "answer": 2,
+     "why": "7문단: “rose 73 percent to 779.9 gigawatt-hours”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-13",
@@ -1609,7 +2029,42 @@
       "view": "전 영국 사이버보안센터장은 제조사가 안전한 기기를 만들어야 한다고 말하고, 한 연구자는 장비 보안을 누가 책임지는지가 핵심이라고 말해요."
      }
     ]
-   }
+   },
+   "quiz": [
+    {
+     "q": "What did the cyber-attacks reach in France?",
+     "qKo": "프랑스에서 사이버 공격은 무엇에 영향을 미쳤나요?",
+     "choices": [
+      "Blood storage cold rooms",
+      "Hospital computer systems",
+      "Airport power systems"
+     ],
+     "answer": 0,
+     "why": "1문단: “cold rooms for donated blood were affected”"
+    },
+    {
+     "q": "Who claimed to have hacked Danfoss?",
+     "qKo": "누가 Danfoss를 해킹했다고 주장했나요?",
+     "choices": [
+      "Two Iranian groups",
+      "Two Russian groups",
+      "Some teenagers"
+     ],
+     "answer": 1,
+     "why": "3문단: “Two Russian groups claimed they hacked Danfoss”"
+    },
+    {
+     "q": "What did researchers find linked to British stores?",
+     "qKo": "연구자들은 영국 매장과 연결된 무엇을 발견했나요?",
+     "choices": [
+      "Over 80 hacked stores",
+      "Over 8,000 weak passwords",
+      "Over 800 reachable systems"
+     ],
+     "answer": 2,
+     "why": "6문단: “found more than 800 refrigeration and building-control systems”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-14",
@@ -1704,7 +2159,42 @@
      "url": "https://www.koreaherald.com/article/10927161"
     }
    ],
-   "life": "한국 반도체 회사가 미국 AI 시장에 직접 투자하면 반도체 업계 일자리와 채용 소식에도 영향을 줄 수 있어요. 졸업 후 진로로 반도체를 보는 학생이라면 눈여겨볼 만해요."
+   "life": "한국 반도체 회사가 미국 AI 시장에 직접 투자하면 반도체 업계 일자리와 채용 소식에도 영향을 줄 수 있어요. 졸업 후 진로로 반도체를 보는 학생이라면 눈여겨볼 만해요.",
+   "quiz": [
+    {
+     "q": "What is the new name of SK hynix's US AI investment arm?",
+     "qKo": "SK하이닉스의 미국 AI 투자 법인의 새 이름은 무엇인가요?",
+     "choices": [
+      "Solidigm Corp",
+      "AI Co",
+      "Hyaico Corp"
+     ],
+     "answer": 2,
+     "why": "1문단: “named its US-based AI investment arm Hyaico Corp”"
+    },
+    {
+     "q": "Who will serve as CEO of Hyaico?",
+     "qKo": "누가 Hyaico의 CEO를 맡나요?",
+     "choices": [
+      "Song Hyun-jong",
+      "Chey Tae-won",
+      "Lee Hyoung-il"
+     ],
+     "answer": 0,
+     "why": "2문단: “SK hynix President Song Hyun-jong will serve as CEO”"
+    },
+    {
+     "q": "How will investors give money to the fund?",
+     "qKo": "투자자들은 어떻게 펀드에 돈을 넣나요?",
+     "choices": [
+      "All at once at the start",
+      "Through capital calls",
+      "By buying public shares"
+     ],
+     "answer": 1,
+     "why": "4문단: “The fund will use capital calls”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-15",
@@ -1803,7 +2293,42 @@
     "caption": "3분기 세계 D램 점유율: 삼성전자 38%, SK하이닉스 29%",
     "source": "The Korea Times"
    },
-   "life": "한국 수출과 취업 시장에서 메모리 반도체 비중이 커서, 이 순위는 대학생 진로와도 가까운 이야기예요. 점유율이 어떻게 변하는지 보면 업계 분위기를 읽기 쉬워요."
+   "life": "한국 수출과 취업 시장에서 메모리 반도체 비중이 커서, 이 순위는 대학생 진로와도 가까운 이야기예요. 점유율이 어떻게 변하는지 보면 업계 분위기를 읽기 쉬워요.",
+   "quiz": [
+    {
+     "q": "What share of the DRAM market did Samsung have in the third quarter?",
+     "qKo": "삼성전자의 3분기 D램 시장 점유율은 얼마였나요?",
+     "choices": [
+      "29 percent",
+      "38 percent",
+      "21 percent"
+     ],
+     "answer": 1,
+     "why": "1문단: “Its share of revenue was 38 percent”"
+    },
+    {
+     "q": "Which company ranked third with 21 percent?",
+     "qKo": "21%로 3위를 한 회사는 어디인가요?",
+     "choices": [
+      "CXMT",
+      "SK hynix",
+      "Micron Technology"
+     ],
+     "answer": 2,
+     "why": "3문단: “Micron Technology ranked third with 21 percent”"
+    },
+    {
+     "q": "Why are Samsung and SK hynix enjoying an earnings boom?",
+     "qKo": "삼성과 SK하이닉스가 실적 호황을 누리는 이유는 무엇인가요?",
+     "choices": [
+      "Memory prices are rising",
+      "Chinese rivals left the market",
+      "Labor costs have dropped"
+     ],
+     "answer": 0,
+     "why": "4문단: “memory prices are rising amid supply bottlenecks”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-16",
@@ -1921,7 +2446,42 @@
     "caption": "서머타임이 1년 내내 이어질 때 늘어나는 어두운 등교 횟수(최소)",
     "source": "ScienceDaily"
    },
-   "life": "한국은 서머타임을 쓰지 않지만, 아침 햇빛이 수면 리듬을 돕는다는 점은 1교시나 이른 출근이 있는 대학생에게도 그대로 해당돼요. 아침에 잠깐이라도 밖의 빛을 쬐는 습관을 생각해 볼 만해요."
+   "life": "한국은 서머타임을 쓰지 않지만, 아침 햇빛이 수면 리듬을 돕는다는 점은 1교시나 이른 출근이 있는 대학생에게도 그대로 해당돼요. 아침에 잠깐이라도 밖의 빛을 쬐는 습관을 생각해 볼 만해요.",
+   "quiz": [
+    {
+     "q": "How many more dark school trips would permanent daylight saving time cause?",
+     "qKo": "상시 서머타임은 어두운 등굣길을 얼마나 늘리나요?",
+     "choices": [
+      "At least 2 billion",
+      "About 2 million",
+      "About 71 million"
+     ],
+     "answer": 0,
+     "why": "1문단: “at least 2 billion more school trips in the dark”"
+    },
+    {
+     "q": "Which state would see the largest rise in dark trips?",
+     "qKo": "어두운 등교가 가장 많이 늘어날 주는 어디인가요?",
+     "choices": [
+      "Washington",
+      "Mississippi",
+      "Georgia"
+     ],
+     "answer": 2,
+     "why": "3문단: “Georgia would see the largest rise, about 71 million.”"
+    },
+    {
+     "q": "How much more likely were fatal pedestrian crashes on dark mornings?",
+     "qKo": "어두운 아침에 보행자 사망 사고는 얼마나 더 잦았나요?",
+     "choices": [
+      "Roughly twice as likely",
+      "Roughly three times",
+      "Roughly ten percent more"
+     ],
+     "answer": 0,
+     "why": "5문단: “roughly twice as likely on dark mornings”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-17",
@@ -2030,7 +2590,42 @@
     "caption": "NASA 분석에서 허블이 대기권으로 다시 들어올 가능성이 큰 때",
     "source": "ScienceDaily"
    },
-   "life": "우리가 교과서와 뉴스에서 보는 우주 사진 상당수가 허블에서 나왔어요. 정부와 민간 기업이 함께 우주 장비를 고치는 시대가 온다는 점이 우주·공학 전공 학생에게 흥미로운 진로 힌트가 될 수 있어요."
+   "life": "우리가 교과서와 뉴스에서 보는 우주 사진 상당수가 허블에서 나왔어요. 정부와 민간 기업이 함께 우주 장비를 고치는 시대가 온다는 점이 우주·공학 전공 학생에게 흥미로운 진로 힌트가 될 수 있어요.",
+   "quiz": [
+    {
+     "q": "Until when can companies reply to NASA's request?",
+     "qKo": "기업들은 언제까지 NASA의 요청에 답할 수 있나요?",
+     "choices": [
+      "October 29",
+      "November 30",
+      "December 31"
+     ],
+     "answer": 1,
+     "why": "1문단: “Companies can reply until November 30.”"
+    },
+    {
+     "q": "Why is Hubble's orbit slowly shrinking?",
+     "qKo": "허블의 궤도는 왜 서서히 줄어들고 있나요?",
+     "choices": [
+      "Its engine is failing",
+      "Solar storms push it down",
+      "A thin layer of air drags on it"
+     ],
+     "answer": 2,
+     "why": "2문단: “A thin layer of air still exists high above Earth and drags on the telescope.”"
+    },
+    {
+     "q": "By when would a mission to boost Hubble need to launch?",
+     "qKo": "허블을 끌어올리는 임무는 늦어도 언제까지 발사해야 하나요?",
+     "choices": [
+      "By 2032",
+      "By 2030",
+      "By 2034"
+     ],
+     "answer": 0,
+     "why": "3문단: “A mission to boost it would need to launch by 2032.”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-18",
@@ -2144,7 +2739,42 @@
     "caption": "이번에 신호를 잡은 세계가 원자보다 작은 정도",
     "source": "BBC News"
    },
-   "life": "대학원 진학이나 해외 연구를 꿈꾸는 학생에게는 연구비가 연구자의 일터와 나라를 정한다는 사실을 보여 줘요. 세계 곳곳의 과학 예산 소식이 나중에 내 선택지로도 이어질 수 있어요."
+   "life": "대학원 진학이나 해외 연구를 꿈꾸는 학생에게는 연구비가 연구자의 일터와 나라를 정한다는 사실을 보여 줘요. 세계 곳곳의 과학 예산 소식이 나중에 내 선택지로도 이어질 수 있어요.",
+   "quiz": [
+    {
+     "q": "How much smaller than an atom is the scale scientists explored?",
+     "qKo": "과학자들이 탐사한 규모는 원자보다 얼마나 작나요?",
+     "choices": [
+      "1 million times",
+      "100 billion times",
+      "1 trillion times"
+     ],
+     "answer": 1,
+     "why": "1문단: “It is 100 billion times smaller than an atom.”"
+    },
+    {
+     "q": "Which particle did the team study?",
+     "qKo": "연구팀은 어떤 입자를 연구했나요?",
+     "choices": [
+      "The beauty quark",
+      "The Higgs boson",
+      "The electron"
+     ],
+     "answer": 0,
+     "why": "2문단: “They studied the beauty quark”"
+    },
+    {
+     "q": "What did UKRI do about the upgrade money?",
+     "qKo": "UKRI는 업그레이드 자금에 대해 무엇을 했나요?",
+     "choices": [
+      "It doubled its share",
+      "It delayed its vote",
+      "It withdrew its share"
+     ],
+     "answer": 2,
+     "why": "5문단: “UKRI withdrew its share of the money”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-19",
@@ -2263,7 +2893,42 @@
     "caption": "13년간 916개 과제에 쓴 삼성 연구 지원 사업 지원금",
     "source": "The Korea Times"
    },
-   "life": "대학원이나 연구실 진학을 생각하는 학생에게 기업 지원 연구 과제와 멘토링이 어떤 모습인지 보여 줘요. 같은 대학 교수님들의 연구 주제를 살펴보는 계기가 될 수 있어요."
+   "life": "대학원이나 연구실 진학을 생각하는 학생에게 기업 지원 연구 과제와 멘토링이 어떤 모습인지 보여 줘요. 같은 대학 교수님들의 연구 주제를 살펴보는 계기가 될 수 있어요.",
+   "quiz": [
+    {
+     "q": "How many completed projects did the ten winners come from?",
+     "qKo": "열 명의 수상자는 몇 개의 완료된 프로젝트 중에서 뽑혔나요?",
+     "choices": [
+      "916 projects",
+      "644 projects",
+      "450 projects"
+     ],
+     "answer": 1,
+     "why": "2문단: “chosen from 644 completed projects”"
+    },
+    {
+     "q": "What else will the winners get besides the award?",
+     "qKo": "수상자들은 상 외에 또 무엇을 받게 되나요?",
+     "choices": [
+      "Free university tuition",
+      "Seats on a company board",
+      "Mentoring and product help"
+     ],
+     "answer": 2,
+     "why": "5문단: “Winners will also get mentoring and help with turning research into products”"
+    },
+    {
+     "q": "What did some winners share research on at the forum?",
+     "qKo": "일부 수상자들은 포럼에서 무엇에 대한 연구를 공유했나요?",
+     "choices": [
+      "The stability of black holes",
+      "The history of ancient maths",
+      "Ways to grow food in space"
+     ],
+     "answer": 0,
+     "why": "4문단: “the mathematical stability of black holes”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-20",
@@ -2363,7 +3028,42 @@
     "caption": "'스윔'은 BTS의 일곱 번째 빌보드 핫 100 1위곡이에요",
     "source": "Korea JoongAng Daily"
    },
-   "life": "K팝 소식을 자주 보는 학생이라면, 인기곡이 표절 논란에 휘말렸을 때 재판이 어떻게 흘러가는지 알아 두는 정도로 읽을 수 있어요."
+   "life": "K팝 소식을 자주 보는 학생이라면, 인기곡이 표절 논란에 휘말렸을 때 재판이 어떻게 흘러가는지 알아 두는 정도로 읽을 수 있어요.",
+   "quiz": [
+    {
+     "q": "Who did the songwriters' lawsuit target?",
+     "qKo": "작곡가들의 소송은 누구를 대상으로 했나요?",
+     "choices": [
+      "HYBE and producer Ryan Tedder",
+      "The BTS members themselves",
+      "The magazine Billboard"
+     ],
+     "answer": 0,
+     "why": "3문단: “It targeted the label HYBE, its subsidiaries, producer Ryan Tedder”"
+    },
+    {
+     "q": "When was the case filed?",
+     "qKo": "이 소송은 언제 제기되었나요?",
+     "choices": [
+      "About one year ago",
+      "About two weeks ago",
+      "About four months ago"
+     ],
+     "answer": 2,
+     "why": "1문단: “The case was filed about four months ago”"
+    },
+    {
+     "q": "What did the songwriters say they did with their demo?",
+     "qKo": "작곡가들은 데모로 무엇을 했다고 말했나요?",
+     "choices": [
+      "Sent it directly to BTS",
+      "Shared it with industry contacts",
+      "Posted it free online"
+     ],
+     "answer": 1,
+     "why": "2문단: “shared an unreleased demo with music industry contacts”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-21",
@@ -2457,7 +3157,42 @@
      "url": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2"
     }
    ],
-   "life": "어릴 때 하던 게임이 다시 나오면 추억과 새 버전 사이에서 비교하게 되는데, 이 리뷰는 그 마음을 잘 보여 줘서 게임을 좋아하는 학생이 읽어 볼 만해요."
+   "life": "어릴 때 하던 게임이 다시 나오면 추억과 새 버전 사이에서 비교하게 되는데, 이 리뷰는 그 마음을 잘 보여 줘서 게임을 좋아하는 학생이 읽어 볼 만해요.",
+   "quiz": [
+    {
+     "q": "What is the new quest log in the game called?",
+     "qKo": "게임의 새 퀘스트 기록은 무엇이라고 불리나요?",
+     "choices": [
+      "Threads of Time",
+      "Hyrule Journal",
+      "Fairy Notes"
+     ],
+     "answer": 0,
+     "why": "2문단: “A new quest log called Threads of Time”"
+    },
+    {
+     "q": "How much can upgrades from the Great Fairies cost?",
+     "qKo": "대요정의 업그레이드는 최대 얼마까지 드나요?",
+     "choices": [
+      "Up to 50 rupees",
+      "Up to 5,000 rupees",
+      "Up to 500 rupees"
+     ],
+     "answer": 2,
+     "why": "4문단: “can cost up to 500 rupees”"
+    },
+    {
+     "q": "How was the character Mido changed?",
+     "qKo": "캐릭터 미도는 어떻게 바뀌었나요?",
+     "choices": [
+      "He became a hero's rival",
+      "He became a well-meaning boss",
+      "He became a fairy guide"
+     ],
+     "answer": 1,
+     "why": "3문단: “Mido is now a well-meaning boss rather than a bully”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-22",
@@ -2552,7 +3287,42 @@
     "caption": "올해 서울 한옥 주간 방문객. 지난해보다 15% 늘었어요",
     "source": "The Korea Times"
    },
-   "life": "한옥 체험은 프로그램 신청이 몰릴 만큼 인기라서, 서울시가 계획대로 시간과 프로그램을 늘리면 데이트나 외국인 친구 안내 코스로 알아볼 수 있어요."
+   "life": "한옥 체험은 프로그램 신청이 몰릴 만큼 인기라서, 서울시가 계획대로 시간과 프로그램을 늘리면 데이트나 외국인 친구 안내 코스로 알아볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "How many programs did the festival run this year?",
+     "qKo": "올해 축제에서는 몇 개의 프로그램이 운영되었나요?",
+     "choices": [
+      "82 programs",
+      "90 programs",
+      "180 programs"
+     ],
+     "answer": 0,
+     "why": "2문단: “ran a record 82 programs”"
+    },
+    {
+     "q": "How many people visited the new exhibition in six public hanok?",
+     "qKo": "공공 한옥 여섯 곳의 새 전시에는 몇 명이 방문했나요?",
+     "choices": [
+      "About 9,000",
+      "About 17,000",
+      "About 85,000"
+     ],
+     "answer": 1,
+     "why": "3문단: “drew about 17,000 visitors”"
+    },
+    {
+     "q": "What did visitors ask for after the tea and liquor sessions?",
+     "qKo": "방문객들은 무엇을 요청했나요?",
+     "choices": [
+      "Lower ticket prices",
+      "Smaller crowds in Bukchon",
+      "More sessions and longer hours"
+     ],
+     "answer": 2,
+     "why": "4문단: “Visitors asked for more sessions and longer hours”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-23",
@@ -2636,7 +3406,42 @@
      "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261105/hungarian-calligraphers-reinterpret-hangeul-in-new-seoul-exhibition"
     }
    ],
-   "life": "멀리 헝가리 사람들이 한글을 예술로 배우는 모습을 보면, 한국어를 배우는 외국인 친구나 교환학생에게 11월 14일까지 열리는 전시를 소개해 볼 수 있어요."
+   "life": "멀리 헝가리 사람들이 한글을 예술로 배우는 모습을 보면, 한국어를 배우는 외국인 친구나 교환학생에게 11월 14일까지 열리는 전시를 소개해 볼 수 있어요.",
+   "quiz": [
+    {
+     "q": "Until what date does the calligraphy show run?",
+     "qKo": "서예 전시는 며칠까지 열리나요?",
+     "choices": [
+      "Nov. 4",
+      "Nov. 14",
+      "Nov. 24"
+     ],
+     "answer": 1,
+     "why": "2문단: “The show runs through Nov. 14”"
+    },
+    {
+     "q": "How did the Hungarian group begin?",
+     "qKo": "헝가리 그룹은 어떻게 시작되었나요?",
+     "choices": [
+      "From classes at a cultural center",
+      "From a school art contest",
+      "From a museum workshop in Seoul"
+     ],
+     "answer": 0,
+     "why": "3문단: “from Korean calligraphy classes at the Korean Cultural Center in Hungary”"
+    },
+    {
+     "q": "How many Hungarian members have works in the show?",
+     "qKo": "전시에는 몇 명의 헝가리 회원의 작품이 있나요?",
+     "choices": [
+      "Eight members",
+      "Fifteen members",
+      "Twelve members"
+     ],
+     "answer": 2,
+     "why": "2문단: “15 works by 12 Hungarian members”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-24",
@@ -2731,7 +3536,42 @@
     "caption": "2027학년도 수능 시험일이에요",
     "source": "The Korea Herald"
    },
-   "life": "수능을 앞둔 수험생과 가족은 시험장에서 스마트 안경을 쓰면 형사 고발될 수 있다는 점을 알아 둬야 하고, 대학생도 학교 시험의 기기 규정이 달라질 수 있어요."
+   "life": "수능을 앞둔 수험생과 가족은 시험장에서 스마트 안경을 쓰면 형사 고발될 수 있다는 점을 알아 둬야 하고, 대학생도 학교 시험의 기기 규정이 달라질 수 있어요.",
+   "quiz": [
+    {
+     "q": "Where did the two suspected smart-glasses cases happen in October?",
+     "qKo": "10월 스마트 안경 의심 사례 두 건은 어디서 일어났나요?",
+     "choices": [
+      "At Yonsei and the University of Seoul",
+      "At KAIST and POSTECH",
+      "At Seoul National and Korea University"
+     ],
+     "answer": 0,
+     "why": "2문단: “during early-admission essay exams at Yonsei University and the University of Seoul”"
+    },
+    {
+     "q": "How long will the ban on retaking the exam be for cheating?",
+     "qKo": "부정행위 시 재응시 금지 기간은 얼마가 되나요?",
+     "choices": [
+      "Two years",
+      "Three years",
+      "Five years"
+     ],
+     "answer": 1,
+     "why": "3문단: “extend the ban on retaking the exam for cheating from one year to three years”"
+    },
+    {
+     "q": "How will the ministry try to spot the devices at exam sites?",
+     "qKo": "교육부는 시험장에서 기기를 어떻게 찾아내려 하나요?",
+     "choices": [
+      "Metal detectors at each door",
+      "Police officers in every room",
+      "One staff member at each site"
+     ],
+     "answer": 2,
+     "why": "3문단: “One staff member will be placed at each exam site to spot the devices”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-25",
@@ -2877,7 +3717,42 @@
       "view": "인구 감소가 대학의 재정 위기로 번지고 있고, 특히 작은 사립대는 문을 닫을 수 있다고 봐요."
      }
     ]
-   }
+   },
+   "quiz": [
+    {
+     "q": "Why do U.S. colleges want students to feel welcome?",
+     "qKo": "미국 대학들은 왜 학생들이 환영받는다고 느끼길 원하나요?",
+     "choices": [
+      "Fewer students are applying",
+      "Tuition has fallen sharply",
+      "Exams have been banned"
+     ],
+     "answer": 0,
+     "why": "1문단: “Because fewer students are applying”"
+    },
+    {
+     "q": "What share of high school graduates went to college in 2024?",
+     "qKo": "2024년에 고등학교 졸업생 중 몇 퍼센트가 대학에 갔나요?",
+     "choices": [
+      "73%",
+      "63%",
+      "53%"
+     ],
+     "answer": 1,
+     "why": "3문단: “fell from 70% in 2016 to 63% in 2024”"
+    },
+    {
+     "q": "Which college announced that it would close after the fall semester?",
+     "qKo": "가을 학기 후 문을 닫겠다고 발표한 대학은 어디인가요?",
+     "choices": [
+      "Skidmore College",
+      "Syracuse University",
+      "Hampshire College"
+     ],
+     "answer": 2,
+     "why": "6문단: “Hampshire College announced in April that it would close after the fall semester”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-26",
@@ -2972,7 +3847,42 @@
      "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o"
     }
    ],
-   "life": "공부 앱의 코인과 순위가 오래 쓰게 만드는 장치일 수 있다는 논쟁이라, 학습 앱이나 어학 앱을 쓰는 대학생이 자기 이용 시간을 돌아보는 계기로 읽을 수 있어요."
+   "life": "공부 앱의 코인과 순위가 오래 쓰게 만드는 장치일 수 있다는 논쟁이라, 학습 앱이나 어학 앱을 쓰는 대학생이 자기 이용 시간을 돌아보는 계기로 읽을 수 있어요.",
+   "quiz": [
+    {
+     "q": "What did Emily Darlington say the app rewards?",
+     "qKo": "에밀리 달링턴은 앱이 무엇에 보상을 준다고 말했나요?",
+     "choices": [
+      "The time children spend online",
+      "The quality of children's answers",
+      "The number of friends invited"
+     ],
+     "answer": 0,
+     "why": "1문단: “it rewards children for the length of time they spend online”"
+    },
+    {
+     "q": "What will every school have from 24 November?",
+     "qKo": "11월 24일부터 모든 학교에는 무엇이 생기나요?",
+     "choices": [
+      "A weekly prize for top pupils",
+      "A daily time limit and a curfew",
+      "A new set of outfits"
+     ],
+     "answer": 1,
+     "why": "3문단: “every school will have a daily time limit and a curfew”"
+    },
+    {
+     "q": "On how many days did a typical child play in September?",
+     "qKo": "9월에 일반적인 아이는 며칠 동안 플레이했나요?",
+     "choices": [
+      "Every day",
+      "Ten days",
+      "Three days"
+     ],
+     "answer": 2,
+     "why": "3문단: “a typical child played on three days in September”"
+    }
+   ]
   },
   {
    "key": "2026-11-05-pm-27",
@@ -3058,7 +3968,42 @@
     "caption": "제48회 국제기능올림픽에서 한국 대표팀의 순위예요",
     "source": "Yonhap News Agency"
    },
-   "life": "대학 진학만이 길이 아니라는 이야기가 나오는 만큼, 기술로 인정받는 진로와 지원 정책이 어떻게 달라질지 취업을 고민하는 청년이 지켜볼 만해요."
+   "life": "대학 진학만이 길이 아니라는 이야기가 나오는 만큼, 기술로 인정받는 진로와 지원 정책이 어떻게 달라질지 취업을 고민하는 청년이 지켜볼 만해요.",
+   "quiz": [
+    {
+     "q": "Where was the 48th WorldSkills Competition held?",
+     "qKo": "제48회 월드스킬스 대회는 어디에서 열렸나요?",
+     "choices": [
+      "Tokyo",
+      "Shanghai",
+      "Berlin"
+     ],
+     "answer": 1,
+     "why": "1문단: “held in Shanghai in September”"
+    },
+    {
+     "q": "What did Lee urge the team members to do?",
+     "qKo": "이 대통령은 팀원들에게 무엇을 하라고 당부했나요?",
+     "choices": [
+      "Pursue bigger dreams",
+      "Start their own companies",
+      "Study abroad"
+     ],
+     "answer": 0,
+     "why": "2문단: “urged them to pursue bigger dreams”"
+    },
+    {
+     "q": "What did Lee say was a major reason Korea became a manufacturing powerhouse?",
+     "qKo": "이 대통령은 한국이 제조 강국이 된 큰 이유가 무엇이라고 했나요?",
+     "choices": [
+      "Cheap energy imports",
+      "Large foreign investment",
+      "Skilled vocational workers"
+     ],
+     "answer": 2,
+     "why": "3문단: “people who built up vocational skills were a major reason”"
+    }
+   ]
   }
  ]
 }

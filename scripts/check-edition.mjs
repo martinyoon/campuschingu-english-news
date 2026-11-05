@@ -1,4 +1,4 @@
-// check-edition v2
+// check-edition v3
 // 캠퍼스친구 「나의 영어신문」 판 파일 검사 · 사용법: node scripts/check-edition.mjs editions/current.json
 import { readFileSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -26,7 +26,7 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
   if (!Array.isArray(d.articles) || d.articles.length < 8 || d.articles.length > 40) bad('기사는 8~40편');
   else d.articles.forEach((a, i) => {
     const w = '기사' + (i + 1);
-    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources'], w, ['tag', 'num', 'life', 'deep'])) return;
+    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources', 'quiz'], w, ['tag', 'num', 'life', 'deep'])) return;
     if (a.key !== d.edition + '-' + (i + 1)) bad(w + ': key 는 ' + d.edition + '-' + (i + 1));
     if (!SECTIONS.includes(a.section)) bad(w + ': section');
     if ('tag' in a && !TAGS.includes(a.tag)) bad(w + ': tag');
@@ -50,6 +50,14 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
     else a.sources.forEach((s, j) => { const sw = w + ' source' + (j + 1);
       if (!only(s, ['name', 'url'], sw)) return; str(s.name, sw + ' name', 60);
       if (typeof s.url !== 'string' || !/^https:\/\/\S+$/.test(s.url)) bad(sw + ': url 은 https 만'); });
+    if (!Array.isArray(a.quiz) || a.quiz.length !== 3) bad(w + ': quiz 는 정확히 3문제');
+    else a.quiz.forEach((x, j) => { const qw = w + ' quiz' + (j + 1);
+      if (!only(x, ['q', 'qKo', 'choices', 'answer', 'why'], qw)) return;
+      str(x.q, qw + ' q', 160); str(x.qKo, qw + ' qKo', 120); str(x.why, qw + ' why', 200);
+      if (!Array.isArray(x.choices) || x.choices.length !== 3) bad(qw + ': choices 정확히 3개');
+      else { x.choices.forEach((c, k) => str(c, qw + ' choice' + (k + 1), 120));
+        if (new Set(x.choices.map((c) => String(c).trim().toLowerCase())).size !== 3) bad(qw + ': choices 가 서로 다르지 않음'); }
+      if (!Number.isInteger(x.answer) || x.answer < 0 || x.answer > 2) bad(qw + ': answer 0~2'); });
     if ('num' in a) numBox(a.num, w + ' num');
     if ('life' in a) str(a.life, w + ' life', 200);
     if ('deep' in a && only(a.deep, ['why', 'next', 'keyNumbers', 'views'], w + ' deep')) {
