@@ -1,704 +1,3064 @@
 {
-  "edition": "2026-11-05-pm",
-  "publishedAt": "2026-11-05T18:30:00+09:00",
-  "sourceCount": 8,
-  "articles": [
+ "edition": "2026-11-05-pm",
+ "publishedAt": "2026-11-05T19:30:00+09:00",
+ "sourceCount": 36,
+ "numbers": [
+  {
+   "value": "500,000 people",
+   "caption": "내년 서울 세계청년대회에 올 것으로 보는 참가자 수예요",
+   "source": "The Korea Herald"
+  },
+  {
+   "value": "-5.28%",
+   "caption": "코스피가 300포인트 내려 5,383.80에 마감했어요.",
+   "source": "Korea Herald"
+  },
+  {
+   "value": "$6.3bn",
+   "caption": "바이낸스에서 털린 돈, 가상화폐 역사상 최대 규모",
+   "source": "BBC News"
+  },
+  {
+   "value": "3.75% to 4%",
+   "caption": "영국 기준금리가 이 정도로 오를 것으로 분석가들이 예상해요.",
+   "source": "BBC"
+  },
+  {
+   "value": "38% / 29%",
+   "caption": "3분기 세계 D램 점유율: 삼성전자 38%, SK하이닉스 29%",
+   "source": "The Korea Times"
+  },
+  {
+   "value": "20.9%",
+   "caption": "LG에너지솔루션과 삼성SDI의 북미 ESS 배터리 점유율(올해 1~9월)이에요.",
+   "source": "Korea Herald"
+  }
+ ],
+ "articles": [
+  {
+   "key": "2026-11-05-pm-1",
+   "section": "world",
+   "tag": "모두의 화제",
+   "title": "The World Reacts to the Democrats' Big Win in the US Midterms",
+   "easyKo": "미국 중간선거에서 민주당이 상원과 하원을 모두 차지하자, 세계 각국이 저마다 다르게 반응했어요. 우크라이나는 기대를, 러시아는 걱정을 드러냈고, 영국과 독일은 물가와 전쟁 문제에 눈을 돌렸어요.",
+   "paragraphs": [
     {
-      "key": "2026-11-05-pm-1",
-      "section": "money",
-      "title": "Hackers Steal Over $6 Billion From Crypto Exchange Binance",
-      "easyKo": "세계 최대급 가상화폐 거래소 바이낸스가 해킹당해 63억 달러가 넘는 돈이 털렸어요. 미국 FBI는 북한 군 해킹 부대가 한 일이라고 밝혔어요. 바이낸스는 고객이 잃은 코인을 거의 다 메워 줬다고 해요.",
-      "paragraphs": [
-        {
-          "en": "Binance, the world's largest crypto exchange, was hacked this week. Thieves took just over $6.3 billion in digital money. It took them only about 20 minutes.",
-          "ko": "세계 최대 가상화폐 거래소인 바이낸스가 이번 주 해킹을 당했어요. 해커들은 63억 달러가 조금 넘는 디지털 자산을 가져갔고, 걸린 시간은 약 20분뿐이었어요."
-        },
-        {
-          "en": "The FBI said on Saturday that North Korea was behind the attack. It said a hacking unit in the North Korean military did it. The same unit stole $1.5 billion from the exchange Bybit last year.",
-          "ko": "FBI는 토요일에 북한이 이번 공격의 배후라고 밝혔어요. 북한 군의 해킹 부대가 저질렀다는 거예요. 같은 부대가 지난해 거래소 바이비트에서 15억 달러를 훔쳤어요."
-        },
-        {
-          "en": "Binance and its partners froze about $3 billion of the stolen money. Binance said it had replaced nearly all the coins its customers lost. Critics say crypto exchanges face weaker rules than Wall Street firms.",
-          "ko": "바이낸스와 협력사들은 훔쳐 간 돈 가운데 약 30억 달러를 동결했어요. 바이낸스는 고객이 잃은 코인을 거의 다 채워 넣었다고 밝혔어요. 비판하는 쪽은 가상화폐 거래소가 월가 회사보다 느슨한 규칙을 받는다고 말해요."
-        }
-      ],
-      "keySentence": "The FBI said on Saturday that North Korea was behind the attack.",
-      "glosses": [
-        {
-          "text": "crypto exchange",
-          "meaning": "가상화폐(암호화폐)를 사고파는 거래소",
-          "level": 1
-        },
-        {
-          "text": "Binance",
-          "meaning": "바이낸스(가상화폐 거래소 이름)",
-          "level": 0
-        },
-        {
-          "text": "Bybit",
-          "meaning": "바이비트(가상화폐 거래소 이름)",
-          "level": 0
-        },
-        {
-          "text": "FBI",
-          "meaning": "미국 연방수사국",
-          "level": 1
-        },
-        {
-          "text": "North Korea",
-          "meaning": "북한",
-          "level": 0
-        },
-        {
-          "text": "hacking unit",
-          "meaning": "해킹을 맡은 부대",
-          "level": 2
-        },
-        {
-          "text": "froze",
-          "meaning": "(돈을) 동결했다, 못 쓰게 묶었다",
-          "level": 2
-        },
-        {
-          "text": "Wall Street",
-          "meaning": "월가, 미국 금융 중심가",
-          "level": 1
-        },
-        {
-          "text": "rules",
-          "meaning": "규칙, 규제",
-          "level": 1
-        },
-        {
-          "text": "exchange",
-          "meaning": "거래소",
-          "level": 1
-        },
-        {
-          "text": "stolen",
-          "meaning": "훔친, 도난당한",
-          "level": 1
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
-        }
-      ]
+     "en": "The Democratic Party won control of both chambers of the US Congress in the midterm elections. Newspapers around the world ran headlines about the result.",
+     "ko": "민주당이 중간선거에서 미국 의회 상원과 하원을 모두 차지했어요. 세계 신문들이 이 결과를 헤드라인으로 다뤘어요."
     },
     {
-      "key": "2026-11-05-pm-2",
-      "section": "tech",
-      "title": "Nearly Two-Thirds of US Teens Use AI Chatbots, Surveys Find",
-      "easyKo": "미국 10대와 그보다 어린 아이들의 3분의 2 가까이가 AI 챗봇을 쓴다는 조사가 나왔어요. 숙제에 많이 쓰지만 불안하거나 외로울 때도 찾는다고 해요. 연구자들은 챗봇이 정신 건강을 해치는지는 아직 분명하지 않다고 말해요.",
-      "paragraphs": [
-        {
-          "en": "Two new surveys show that nearly two-thirds of American tweens and teens use AI chatbots. Most use them for schoolwork. Many also turn to them when they feel stressed, lonely or anxious.",
-          "ko": "새 조사 두 건에 따르면 미국 10대 초중반과 10대의 3분의 2 가까이가 AI 챗봇을 써요. 대부분 학교 공부에 쓰고, 스트레스를 받거나 외롭거나 불안할 때 찾는 아이도 많아요."
-        },
-        {
-          "en": "Common Sense Media found that nearly half of children aged 9 to 12 have used a chatbot. By age 13, nearly three-quarters have. The JED Foundation surveyed 5,500 students aged 9 to 17, and 90% had used one.",
-          "ko": "커먼 센스 미디어는 9~12세 어린이의 절반 가까이가 챗봇을 써 봤다고 밝혔어요. 13세가 되면 4분의 3 가까이가 써 봤어요. JED 재단은 9~17세 학생 5,500명을 조사했는데 90%가 써 본 적이 있었어요."
-        },
-        {
-          "en": "Researchers say it is unclear whether chatbots hurt mental health or whether students in distress simply use them more. One study found that middle schoolers who used chatbots for company grew lonelier over time.",
-          "ko": "연구자들은 챗봇이 정신 건강을 해치는지, 아니면 힘든 학생이 챗봇을 더 많이 쓰는 것인지 분명하지 않다고 말해요. 한 연구에서는 친구처럼 챗봇을 쓴 중학생들이 시간이 갈수록 더 외로워졌어요."
-        }
-      ],
-      "keySentence": "Two new surveys show that nearly two-thirds of American tweens and teens use AI chatbots.",
-      "glosses": [
-        {
-          "text": "tweens",
-          "meaning": "10~12세 전후의 어린이",
-          "level": 3
-        },
-        {
-          "text": "AI chatbots",
-          "meaning": "AI 대화 프로그램(챗봇)",
-          "level": 1
-        },
-        {
-          "text": "Common Sense Media",
-          "meaning": "커먼 센스 미디어(미국 어린이 미디어 단체)",
-          "level": 0
-        },
-        {
-          "text": "JED Foundation",
-          "meaning": "JED 재단(청소년 정신 건강 단체)",
-          "level": 0
-        },
-        {
-          "text": "turn to",
-          "meaning": "~에 의지하다, 찾다",
-          "level": 2
-        },
-        {
-          "text": "in distress",
-          "meaning": "괴로운 상태에 있는",
-          "level": 3
-        },
-        {
-          "text": "for company",
-          "meaning": "말동무로, 친구 삼아",
-          "level": 2
-        },
-        {
-          "text": "middle schoolers",
-          "meaning": "중학생들",
-          "level": 1
-        },
-        {
-          "text": "mental health",
-          "meaning": "정신 건강",
-          "level": 1
-        },
-        {
-          "text": "surveys",
-          "meaning": "설문 조사",
-          "level": 1
-        },
-        {
-          "text": "anxious",
-          "meaning": "불안한",
-          "level": 2
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media"
-        }
-      ]
+     "en": "A French paper called it a blue wave, and a British paper used the words \"blue tsunami.\" In Ukraine, one newspaper hoped the win could bring more help for its country. An Iranian paper named the vote \"Operation Midterms Hammer.\"",
+     "ko": "프랑스 신문은 '푸른 물결'이라 불렀고, 영국 신문은 '푸른 쓰나미'라고 했어요. 우크라이나의 한 신문은 이번 승리가 자국에 더 많은 도움이 될 수 있다고 기대했어요. 이란 신문은 '중간선거 해머 작전'이라는 이름을 붙였어요."
     },
     {
-      "key": "2026-11-05-pm-3",
-      "section": "world",
-      "title": "Indian Navy Frees Iranian Fishing Boat Hijacked Off Somalia",
-      "easyKo": "인도 해군이 소말리아 앞바다에서 납치된 이란 어선과 선원 20명을 구했어요. 48시간 넘게 이어진 작전이었고 인도 쪽은 사상자가 없었다고 밝혔어요. 다만 선원 수는 현지 관리 설명(21명)과 달라요. 이 지역에서는 소말리아 해적이 다시 늘고 있어요.",
-      "paragraphs": [
-        {
-          "en": "Indian naval forces freed an Iranian fishing boat called the Azini and its crew of 20. Pirates hijacked the boat off Somalia on Oct. 29. The rescue ended Monday in the Arabian Sea, more than 3,000 kilometers from Mumbai, India's Defense Ministry said.",
-          "ko": "인도 해군이 이란 어선 아지니호와 선원 20명을 구했어요. 이 배는 10월 29일 소말리아 앞바다에서 해적에게 납치됐어요. 인도 국방부는 구출이 월요일 아라비아해에서 끝났고, 뭄바이에서 3,000km 넘게 떨어진 곳이었다고 밝혔어요."
-        },
-        {
-          "en": "The operation lasted more than 48 hours and used a warship, a surveillance aircraft and marine commandos. The ministry reported no casualties, but it did not say whether that covered everyone aboard. An official in Somalia's Puntland region said Indian forces disarmed 12 suspected pirates and released them.",
-          "ko": "작전은 48시간 넘게 이어졌고 군함, 감시 항공기, 해병 특공대가 동원됐어요. 국방부는 작전에서 사상자가 없었다고 했지만, 모든 탑승자를 가리키는지는 분명하지 않아요. 소말리아 푼틀란드 지역 관리는 인도군이 해적 용의자 12명의 무기를 빼앗고 풀어 줬다고 말했어요."
-        },
-        {
-          "en": "The hijacking follows a return of Somali piracy in the Gulf of Aden and the western Indian Ocean. The Iran war has already made shipping routes in the region riskier.",
-          "ko": "이번 납치는 아덴만과 인도양 서부에서 소말리아 해적이 되살아난 가운데 일어났어요. 이란 전쟁 때문에 이 지역 뱃길은 이미 더 위험해진 상태예요."
-        }
-      ],
-      "keySentence": "Indian naval forces freed an Iranian fishing boat called the Azini and its crew of 20.",
-      "glosses": [
-        {
-          "text": "hijacked",
-          "meaning": "납치했다(배·비행기를)",
-          "level": 2
-        },
-        {
-          "text": "Azini",
-          "meaning": "아지니(배 이름)",
-          "level": 0
-        },
-        {
-          "text": "Arabian Sea",
-          "meaning": "아라비아해",
-          "level": 1
-        },
-        {
-          "text": "Defense Ministry",
-          "meaning": "국방부",
-          "level": 1
-        },
-        {
-          "text": "marine commandos",
-          "meaning": "해병 특공대",
-          "level": 3
-        },
-        {
-          "text": "surveillance aircraft",
-          "meaning": "감시용 항공기",
-          "level": 3
-        },
-        {
-          "text": "disarmed",
-          "meaning": "무기를 빼앗았다",
-          "level": 3
-        },
-        {
-          "text": "suspected pirates",
-          "meaning": "해적 혐의자들",
-          "level": 3
-        },
-        {
-          "text": "Puntland",
-          "meaning": "푼틀란드(소말리아 북동부 자치 지역)",
-          "level": 0
-        },
-        {
-          "text": "Gulf of Aden",
-          "meaning": "아덴만(소말리아 북쪽 바다)",
-          "level": 1
-        },
-        {
-          "text": "piracy",
-          "meaning": "해적 행위",
-          "level": 3
-        },
-        {
-          "text": "shipping routes",
-          "meaning": "배가 다니는 뱃길",
-          "level": 2
-        },
-        {
-          "text": "crew",
-          "meaning": "선원들",
-          "level": 1
-        },
-        {
-          "text": "Somalia",
-          "meaning": "소말리아",
-          "level": 0
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia"
-        }
-      ]
+     "en": "Russia saw it differently. A state-run Russian paper wrote that Trump's anger would now fall on Europe. A Kremlin spokesman said Moscow still counts on Trump's peace efforts in Ukraine.",
+     "ko": "러시아는 다르게 봤어요. 러시아 국영 신문은 트럼프의 분노가 이제 유럽으로 향할 것이라고 썼어요. 크렘린 대변인은 우크라이나 평화 노력을 계속하길 바란다고 했어요."
     },
     {
-      "key": "2026-11-05-pm-4",
-      "section": "campus",
-      "title": "Some US Colleges Let Students Live in Retirement Communities",
-      "easyKo": "미국 일부 대학은 학생이 기숙사 대신 노인 주거 단지에서 살게 해요. 학생은 매주 봉사를 하고 월세를 싸게 내요. 학생도 어르신도 덜 외로워졌다고 해요.",
-      "paragraphs": [
-        {
-          "en": "Some US universities let students live in retirement communities. At St. Camillus, a senior living community near Milwaukee, five students live beside older residents. Daija Holliday, a Ph.D. student at Marquette University, is one of them.",
-          "ko": "미국 일부 대학은 학생이 노인 주거 단지에서 살 수 있게 해요. 밀워키 근처 세인트 카밀러스에서는 학생 다섯 명이 어르신들 곁에서 살아요. 마켓대 박사과정 학생 다이자 홀리데이도 그중 한 명이에요."
-        },
-        {
-          "en": "Marquette began the program in 2022. The students volunteer at least eight hours a week with the residents. In return they pay about $600 a month for an apartment, well below market rate.",
-          "ko": "마켓대는 2022년에 이 프로그램을 시작했어요. 학생들은 주당 최소 8시간 어르신들과 봉사 활동을 해요. 그 대가로 아파트 월세를 약 600달러만 내는데, 시세보다 훨씬 싸요."
-        },
-        {
-          "en": "AARP estimates that at least 80 US universities work with retirement communities. The students say life in a new city feels less lonely, and the older residents say the same.",
-          "ko": "미국은퇴자협회(AARP)는 최소 80개 미국 대학이 노인 주거 단지와 함께한다고 추정해요. 학생들은 낯선 도시 생활이 덜 외롭다고 하고, 어르신들도 같은 말을 해요."
-        }
-      ],
-      "keySentence": "The students say life in a new city feels less lonely, and the older residents say the same.",
-      "glosses": [
-        {
-          "text": "retirement communities",
-          "meaning": "은퇴한 노인들이 모여 사는 주거 단지",
-          "level": 2
-        },
-        {
-          "text": "senior living community",
-          "meaning": "노인 주거 단지",
-          "level": 2
-        },
-        {
-          "text": "Ph.D. student",
-          "meaning": "박사과정 학생",
-          "level": 2
-        },
-        {
-          "text": "Marquette University",
-          "meaning": "마켓대학교(미국 위스콘신주)",
-          "level": 0
-        },
-        {
-          "text": "St. Camillus",
-          "meaning": "세인트 카밀러스(노인 주거 단지 이름)",
-          "level": 0
-        },
-        {
-          "text": "below market rate",
-          "meaning": "시세보다 싼",
-          "level": 3
-        },
-        {
-          "text": "AARP",
-          "meaning": "미국은퇴자협회",
-          "level": 1
-        },
-        {
-          "text": "volunteer",
-          "meaning": "봉사하다",
-          "level": 1
-        },
-        {
-          "text": "in return",
-          "meaning": "그 대가로",
-          "level": 2
-        },
-        {
-          "text": "estimates",
-          "meaning": "추정한다",
-          "level": 2
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities"
-        }
-      ]
+     "en": "Many voters were unhappy about the war with Iran, which pushed up fuel prices. Vice President JD Vance blamed the war for the defeat. Trump agreed in part but said he would do it again.",
+     "ko": "많은 유권자가 이란과의 전쟁으로 연료 가격이 오른 것에 불만이었어요. JD 밴스 부통령은 패배의 원인으로 전쟁을 꼽았어요. 트럼프도 일부 인정했지만 다시 해도 같은 결정을 하겠다고 했어요."
     },
     {
-      "key": "2026-11-05-pm-5",
-      "section": "science",
-      "title": "Study Finds That Some Seabirds Seem to Get Jet Lag",
-      "easyKo": "맹크스슴새라는 바닷새가 시차 때문에 살짝 길을 잃는 것 같다는 연구가 나왔어요. 이 새는 해를 나침반처럼 쓰는 것으로 여겨지는데, 몸속 시계가 어긋나면 방향이 틀어져요. 오차는 아주 작아서 길이 거의 늘지 않았어요.",
-      "paragraphs": [
-        {
-          "en": "A new study in the journal Science says some birds seem to get jet lag. The birds are Manx shearwaters, seabirds common in the British Isles. They look a little like gulls but are closely related to the albatross.",
-          "ko": "과학 학술지 사이언스에 실린 새 연구는 일부 새도 시차증을 겪는 것 같다고 해요. 그 새는 영국 제도에 흔한 바닷새 맹크스슴새예요. 갈매기를 조금 닮았지만 알바트로스와 가까운 친척이에요."
-        },
-        {
-          "en": "The birds hunt fish and squid in the North Atlantic for up to two weeks. Then they rush home to their nests, often in about a day. Researchers think they use the sun as a compass, so they need to know the time of day.",
-          "ko": "이 새들은 북대서양에서 최대 2주 동안 물고기와 오징어를 사냥해요. 그런 다음 보통 하루쯤 걸려 둥지로 서둘러 돌아가요. 연구자들은 새가 해를 나침반으로 쓴다고 보는데, 그러려면 지금이 하루 중 언제인지 알아야 해요."
-        },
-        {
-          "en": "Patrick Lewin of the University of Oxford checked GPS data from 20 years of bird tracking. He found that the birds veered slightly off course on the way home. The biggest error was seven degrees, which added only about three miles to a 600-mile trip.",
-          "ko": "옥스퍼드대의 패트릭 루인은 20년 동안 새를 추적해 모은 GPS 자료를 살펴봤어요. 새들이 집으로 오는 길에 조금씩 길에서 벗어났다는 걸 발견했어요. 가장 큰 오차는 7도였고, 600마일 여행에서 겨우 3마일쯤 늘어난 정도였어요."
-        }
-      ],
-      "keySentence": "A new study in the journal Science says some birds seem to get jet lag.",
-      "glosses": [
-        {
-          "text": "jet lag",
-          "meaning": "시차증(시간대가 바뀌어 생기는 피로)",
-          "level": 2
-        },
-        {
-          "text": "Manx shearwaters",
-          "meaning": "맹크스슴새(바닷새 종류)",
-          "level": 0
-        },
-        {
-          "text": "seabirds",
-          "meaning": "바닷새",
-          "level": 2
-        },
-        {
-          "text": "British Isles",
-          "meaning": "영국 제도(영국·아일랜드 일대)",
-          "level": 2
-        },
-        {
-          "text": "albatross",
-          "meaning": "알바트로스(큰 바닷새)",
-          "level": 3
-        },
-        {
-          "text": "North Atlantic",
-          "meaning": "북대서양",
-          "level": 1
-        },
-        {
-          "text": "squid",
-          "meaning": "오징어",
-          "level": 2
-        },
-        {
-          "text": "compass",
-          "meaning": "나침반",
-          "level": 2
-        },
-        {
-          "text": "GPS",
-          "meaning": "위성 위치 확인 장치",
-          "level": 1
-        },
-        {
-          "text": "veered",
-          "meaning": "방향이 틀어졌다",
-          "level": 4
-        },
-        {
-          "text": "off course",
-          "meaning": "길에서 벗어난",
-          "level": 2
-        },
-        {
-          "text": "University of Oxford",
-          "meaning": "옥스퍼드대학교",
-          "level": 0
-        },
-        {
-          "text": "tracking",
-          "meaning": "추적",
-          "level": 2
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds"
-        }
-      ]
+     "en": "British Prime Minister Andy Burnham said the world should now unite around the cost of living. Spain's leader Pedro Sánchez said American voters had rejected policies that only make people poorer.",
+     "ko": "영국 총리 앤디 버넘은 이제 세계가 생활비 문제를 중심으로 힘을 모아야 한다고 했어요. 스페인 총리 페드로 산체스는 미국 유권자가 사람들을 가난하게 만드는 정책을 거부했다고 말했어요."
     },
     {
-      "key": "2026-11-05-pm-6",
-      "section": "money",
-      "title": "Kentucky Coal Country Hopes Data Centers Will Bring Money",
-      "easyKo": "켄터키주 동부는 석탄 산업이 무너진 뒤 데이터센터가 돈과 일자리를 가져오길 바라요. 전기 요금이 많이 올라 힘든 주민도 있어요. 업체가 전력 설비 비용을 내기로 해서 가정용 요금이 오르는 것을 막을 수 있을지 기대해요.",
-      "paragraphs": [
-        {
-          "en": "In eastern Kentucky, some towns want data centers. Coal mines and a steel mill have closed, and customers of Kentucky Power pay some of the highest electric bills in the state. People hope data centers can bring money and jobs.",
-          "ko": "켄터키주 동부의 일부 마을은 데이터센터를 원해요. 탄광과 제철소가 문을 닫았고, 켄터키 파워 고객은 주 안에서 전기 요금이 가장 높은 축에 들어요. 사람들은 데이터센터가 돈과 일자리를 가져오길 바라요."
-        },
-        {
-          "en": "Kentucky Power is building new power lines for a project called the Muskie Data Campus. The developer, TeraWulf, will pay for those upgrades instead of home customers. The company also agreed to pay for a new power plant.",
-          "ko": "켄터키 파워는 머스키 데이터 캠퍼스라는 사업을 위해 새 송전선을 짓고 있어요. 개발업체 테라울프가 가정 고객 대신 그 설비 비용을 낼 거예요. 이 회사는 새 발전소 비용도 내기로 했어요."
-        },
-        {
-          "en": "The city of Pikeville says it was open with the public and is offering no property tax breaks. A data center could replace some taxes lost from coal, though not all the jobs. A local food pantry says its power bill has more than doubled, to $2,000.",
-          "ko": "파이크빌 시는 시민들에게 투명하게 알렸고 재산세 감면도 주지 않는다고 해요. 데이터센터는 석탄으로 잃은 세금 일부를 메울 수 있지만 일자리를 모두 대신하지는 못해요. 한 지역 푸드 팬트리는 전기 요금이 두 배 넘게 올라 2,000달러가 됐다고 해요."
-        }
-      ],
-      "keySentence": "Kentucky Power is building new power lines for a project called the Muskie Data Campus.",
-      "glosses": [
-        {
-          "text": "data centers",
-          "meaning": "컴퓨터 서버를 모아 둔 대형 시설",
-          "level": 1
-        },
-        {
-          "text": "coal mines",
-          "meaning": "탄광",
-          "level": 1
-        },
-        {
-          "text": "steel mill",
-          "meaning": "제철소",
-          "level": 2
-        },
-        {
-          "text": "Kentucky Power",
-          "meaning": "켄터키 파워(전력 회사 이름)",
-          "level": 0
-        },
-        {
-          "text": "Muskie Data Campus",
-          "meaning": "머스키 데이터 캠퍼스(사업 이름)",
-          "level": 0
-        },
-        {
-          "text": "TeraWulf",
-          "meaning": "테라울프(데이터센터 개발 회사)",
-          "level": 0
-        },
-        {
-          "text": "power lines",
-          "meaning": "송전선, 전선",
-          "level": 2
-        },
-        {
-          "text": "power plant",
-          "meaning": "발전소",
-          "level": 2
-        },
-        {
-          "text": "property tax breaks",
-          "meaning": "재산세 감면",
-          "level": 3
-        },
-        {
-          "text": "Pikeville",
-          "meaning": "파이크빌(켄터키주 도시)",
-          "level": 0
-        },
-        {
-          "text": "food pantry",
-          "meaning": "식량을 나눠 주는 곳",
-          "level": 3
-        },
-        {
-          "text": "electric bills",
-          "meaning": "전기 요금 고지서",
-          "level": 2
-        },
-        {
-          "text": "upgrades",
-          "meaning": "설비 개선",
-          "level": 2
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/03/nx-s1-6022442/western-kentucky-welcomes-data-centers-in-hopes-they-make-up-for-coal-losses"
-        }
-      ]
+     "en": "German Chancellor Friedrich Merz said little will change, because Trump has mostly ruled without Congress. Japan said its alliance with the US stays the cornerstone of its security policy.",
+     "ko": "독일 총리 프리드리히 메르츠는 트럼프가 대체로 의회 없이 나라를 운영해 왔기 때문에 크게 달라지지 않을 것이라고 했어요. 일본은 미국과의 동맹이 안보 정책의 초석이라고 밝혔어요."
     },
     {
-      "key": "2026-11-05-pm-7",
-      "section": "culture",
-      "title": "Bob Dylan Meets Pope Leo XIV at the Vatican",
-      "easyKo": "가수 밥 딜런이 수요일 바티칸에서 교황 레오 14세를 만났어요. 이탈리아 공연 사이에 짬을 내 만났고 만남은 짧았어요. 교황은 자신의 책에서 딜런의 옛 노랫말을 인용한 적이 있어요.",
-      "paragraphs": [
-        {
-          "en": "Singer Bob Dylan visited Pope Leo XIV at the Vatican on Wednesday, Nov. 4. He came during a break between concerts in Italy. The Vatican said the meeting was brief.",
-          "ko": "가수 밥 딜런이 11월 4일 수요일 바티칸에서 교황 레오 14세를 찾아갔어요. 이탈리아 공연 사이에 쉬는 날을 이용했어요. 바티칸은 만남이 짧았다고 밝혔어요."
-        },
-        {
-          "en": "The pope gave Dylan a rosary. Dylan gave the pope a copy of his book \"Chronicles: Volume One.\" Reports say the two talked in private for a few minutes.",
-          "ko": "교황은 딜런에게 묵주를 선물했고, 딜런은 교황에게 자신의 책 \"Chronicles: Volume One\"을 건넸어요. 두 사람은 몇 분 동안 단둘이 이야기를 나눴다고 해요."
-        },
-        {
-          "en": "Leo had quoted a protest song Dylan wrote in 1963, \"Go Away You Bomb,\" in his 2026 book. Dylan won the Nobel Prize in Literature in 2016. He played in Milan on Monday and plays in Rome on Thursday.",
-          "ko": "레오 교황은 2026년에 낸 책에서 딜런이 1963년에 쓴 저항 노래 \"Go Away You Bomb\"을 인용한 적이 있어요. 딜런은 2016년 노벨문학상을 받았어요. 월요일엔 밀라노에서, 목요일엔 로마에서 공연해요."
-        }
-      ],
-      "keySentence": "Singer Bob Dylan visited Pope Leo XIV at the Vatican on Wednesday, Nov. 4.",
-      "glosses": [
-        {
-          "text": "Pope Leo XIV",
-          "meaning": "교황 레오 14세",
-          "level": 0
-        },
-        {
-          "text": "Vatican",
-          "meaning": "바티칸(교황청)",
-          "level": 1
-        },
-        {
-          "text": "rosary",
-          "meaning": "묵주(기도할 때 쓰는 구슬 줄)",
-          "level": 3
-        },
-        {
-          "text": "protest song",
-          "meaning": "항의·반대의 뜻을 담은 노래",
-          "level": 3
-        },
-        {
-          "text": "Nobel Prize in Literature",
-          "meaning": "노벨문학상",
-          "level": 1
-        },
-        {
-          "text": "brief",
-          "meaning": "짧은",
-          "level": 2
-        },
-        {
-          "text": "in private",
-          "meaning": "단둘이, 비공개로",
-          "level": 2
-        },
-        {
-          "text": "break",
-          "meaning": "(일 사이의) 휴식",
-          "level": 1
-        },
-        {
-          "text": "quoted",
-          "meaning": "인용했다",
-          "level": 2
-        },
-        {
-          "text": "Chronicles: Volume One",
-          "meaning": "딜런의 자서전 제목",
-          "level": 0
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan"
-        }
-      ]
+     "en": "Israeli newspapers asked what the win means for American support. Democrat Abdul El-Sayed won the Michigan Senate race, and the headlines focused on his criticism of Israel. Norway's prime minister called the result a powerful signal of a change of course among American voters. South Africa's president, Cyril Ramaphosa, hoped for a new era in world relations.",
+     "ko": "이스라엘 신문들은 이번 승리가 미국의 지원에 어떤 뜻인지 물었어요. 민주당 압둘 엘사예드가 미시간 상원의원 선거에서 이겼고, 헤드라인은 이스라엘에 비판적인 그의 입장에 주목했어요. 노르웨이 총리는 이번 결과가 미국 유권자들이 방향을 바꿨다는 강한 신호라고 했어요. 남아공 대통령 시릴 라마포사는 세계 관계의 새 시대를 기대한다고 했어요."
     },
     {
-      "key": "2026-11-05-pm-8",
-      "section": "culture",
-      "title": "Golden State Valkyries Win WNBA Title in Their Second Year",
-      "easyKo": "골든스테이트 발키리스가 창단 2년 만에 WNBA 우승을 차지했어요. 애틀랜타 드림과의 7차전에서 68대 63으로 이겼어요. 리그 30년 역사에서 가장 빠른 우승이에요.",
-      "paragraphs": [
-        {
-          "en": "The Golden State Valkyries won the WNBA championship in only their second year in the league. They beat the Atlanta Dream 68 to 63 in Game 7. No team has ever won the title faster in the WNBA's 30-year history.",
-          "ko": "골든스테이트 발키리스는 리그에 들어온 지 2년 만에 WNBA 챔피언이 됐어요. 7차전에서 애틀랜타 드림을 68대 63으로 꺾었어요. WNBA 30년 역사에서 이보다 빨리 우승한 팀은 없어요."
-        },
-        {
-          "en": "Gabby Williams was named the most valuable player. She scored 28 of her 30 points in the second half. More than 18,000 fans filled the arena in San Francisco.",
-          "ko": "개비 윌리엄스가 최우수선수(MVP)로 뽑혔어요. 그는 30점 가운데 28점을 후반전에 넣었어요. 샌프란시스코 경기장에는 1만 8천 명이 넘는 팬이 가득 찼어요."
-        },
-        {
-          "en": "The series also raised a complaint. Game 6 in Atlanta was moved to 12:30 p.m. Eastern, which one fan called disrespectful to women's basketball. This season the team became the first US women's pro team to pass $100 million in yearly revenue.",
-          "ko": "이번 시리즈는 불만도 낳았어요. 애틀랜타에서 열린 6차전이 동부 시각 낮 12시 30분으로 잡혀, 한 팬은 여자 농구를 존중하지 않는 일이라고 했어요. 이번 시즌 이 팀은 미국 여자 프로 팀 가운데 처음으로 연 매출 1억 달러를 넘겼어요."
-        }
-      ],
-      "keySentence": "They beat the Atlanta Dream 68 to 63 in Game 7.",
-      "glosses": [
-        {
-          "text": "Golden State Valkyries",
-          "meaning": "골든스테이트 발키리스(WNBA 팀)",
-          "level": 0
-        },
-        {
-          "text": "Atlanta Dream",
-          "meaning": "애틀랜타 드림(WNBA 팀)",
-          "level": 0
-        },
-        {
-          "text": "WNBA",
-          "meaning": "미국 여자 프로농구 리그",
-          "level": 1
-        },
-        {
-          "text": "title",
-          "meaning": "우승(타이틀)",
-          "level": 2
-        },
-        {
-          "text": "Game 7",
-          "meaning": "7차전, 마지막 승부",
-          "level": 2
-        },
-        {
-          "text": "most valuable player",
-          "meaning": "최우수선수(MVP)",
-          "level": 2
-        },
-        {
-          "text": "second half",
-          "meaning": "후반전",
-          "level": 2
-        },
-        {
-          "text": "revenue",
-          "meaning": "매출, 수입",
-          "level": 3
-        },
-        {
-          "text": "disrespectful",
-          "meaning": "존중하지 않는",
-          "level": 3
-        },
-        {
-          "text": "championship",
-          "meaning": "우승, 챔피언 결정전",
-          "level": 2
-        },
-        {
-          "text": "series",
-          "meaning": "(여러 경기로 겨루는) 시리즈",
-          "level": 2
-        }
-      ],
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-6023355/golden-state-wins-wnba-title-in-just-their-second-year-in-the-league"
-        }
-      ]
+     "en": "Germany's foreign minister hoped both parties in Congress could find ways to support Ukraine together. Germany's finance minister said the result inspires confidence. China called the vote an internal affair of the United States. Trump has said he will work with the Democrats, but he also plans to use his veto power when needed.",
+     "ko": "독일 외무장관은 의회 양당이 함께 우크라이나를 지원할 방법을 찾길 바란다고 했어요. 독일 재무장관은 이번 결과가 믿음을 준다고 했어요. 중국은 이번 선거가 미국 내정이라고 했어요. 트럼프는 민주당과 일하겠다고 했지만, 필요하면 거부권도 쓰겠다는 계획이에요."
     }
-  ]
+   ],
+   "keySentence": "Many voters were unhappy about the war with Iran, which pushed up fuel prices.",
+   "glosses": [
+    {
+     "text": "midterm elections",
+     "meaning": "대통령 임기 중간에 치르는 미국 의회 선거",
+     "level": 2
+    },
+    {
+     "text": "Senate race",
+     "meaning": "상원의원 자리를 두고 벌이는 선거 경쟁",
+     "level": 3
+    },
+    {
+     "text": "chambers",
+     "meaning": "의회를 이루는 두 원(상원·하원)",
+     "level": 3
+    },
+    {
+     "text": "Congress",
+     "meaning": "미국 의회(상원과 하원)",
+     "level": 2
+    },
+    {
+     "text": "blue wave",
+     "meaning": "민주당(상징색 파랑)의 압승을 뜻하는 말",
+     "level": 3
+    },
+    {
+     "text": "state-run",
+     "meaning": "정부가 운영하는, 국영의",
+     "level": 3
+    },
+    {
+     "text": "Kremlin",
+     "meaning": "러시아 대통령궁, 곧 러시아 정부",
+     "level": 3
+    },
+    {
+     "text": "Vice President",
+     "meaning": "부통령",
+     "level": 1
+    },
+    {
+     "text": "cost of living",
+     "meaning": "생활비, 물가 부담",
+     "level": 2
+    },
+    {
+     "text": "cornerstone",
+     "meaning": "가장 기본이 되는 토대, 초석",
+     "level": 3
+    },
+    {
+     "text": "internal affair",
+     "meaning": "한 나라 안의 일, 내정",
+     "level": 3
+    },
+    {
+     "text": "veto power",
+     "meaning": "의회가 통과시킨 법을 대통령이 막는 권한",
+     "level": 3
+    },
+    {
+     "text": "Chancellor",
+     "meaning": "독일 등의 총리",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections"
+    },
+    {
+     "name": "Korea Times (AP)",
+     "url": "https://www.koreatimes.co.kr/world/20261105/after-midterm-loss-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-debacle"
+    }
+   ],
+   "num": {
+    "value": "2 chambers",
+    "caption": "민주당이 미국 의회 상원과 하원 모두의 통제권을 가져갔어요.",
+    "source": "NPR"
+   },
+   "life": "미국 정치가 바뀌면 환율, 수출, 물가 같은 우리 생활 경제에도 영향이 갈 수 있어서 세계가 이렇게 지켜보는 거예요.",
+   "deep": {
+    "why": "미국 의회 권력이 바뀌면 전쟁, 관세, 대외 지원 등 세계 정세에 영향을 줘요. 각국이 이번 결과를 자기 이익에 맞게 읽고 있어요.",
+    "next": "트럼프가 이란 전쟁을 어떻게 이어갈지, 다음 주 아부다비에서 열릴 3자 회담이 어떻게 될지 지켜봐야 해요.",
+    "keyNumbers": "의회 2곳(상원·하원) 모두 민주당 승리. 이란 전쟁은 올 2월 다시 시작됐어요.",
+    "views": [
+     {
+      "source": "NPR",
+      "view": "대부분의 나라가 직접 논평을 피하던 중간선거에 이번엔 여러 지도자가 입장을 냈어요."
+     },
+     {
+      "source": "Korea Times (AP)",
+      "view": "밴스 부통령과 트럼프는 이란 전쟁이 연료값을 올려 공화당에 타격이 됐다는 점을 대체로 인정했어요."
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-05-pm-2",
+   "section": "world",
+   "tag": "한국에 직접",
+   "title": "Korea Says Its US Alliance Will Not Change Much After the Midterms",
+   "easyKo": "한국 총리는 미국 중간선거에서 트럼프의 공화당이 크게 졌지만 한미 관계에 큰 변화는 없을 거라고 말했어요. 대통령실도 동맹은 선거 결과에 흔들리지 않는다고 했어요.",
+   "paragraphs": [
+    {
+     "en": "South Korea's Prime Minister Han Seong-sook said on Thursday that she expects no big changes in relations with the United States. She spoke after the Republican Party lost badly in the midterm elections.",
+     "ko": "한성숙 국무총리는 목요일 미국과의 관계에 큰 변화가 없을 것이라고 말했어요. 공화당이 중간선거에서 크게 진 뒤에 나온 발언이에요."
+    },
+    {
+     "en": "Han said both the Democratic and Republican parties have treated the alliance as important. She added that the Democrats' win was stronger than Seoul had expected. She spoke at a parliamentary budget committee meeting. She said each ministry is now reviewing which parts need careful study and which parts need extra measures.",
+     "ko": "한 총리는 민주당과 공화당 모두 동맹을 중요하게 여겨 왔다고 했어요. 민주당의 승리가 예상보다 컸다고도 덧붙였어요. 총리는 국회 예산결산위원회 회의에서 말했어요. 각 부처가 어떤 부분을 자세히 분석하고 어떤 부분에 추가 조치가 필요한지 검토 중이라고 했어요."
+    },
+    {
+     "en": "The presidential office said the alliance has grown for more than 70 years with support from both US parties. It said the result of one election is unlikely to affect it.",
+     "ko": "대통령실은 동맹이 70년 넘게 미국 양당의 지지 속에 발전해 왔다고 했어요. 선거 한 번의 결과가 동맹에 영향을 줄 가능성은 낮다고 말했어요."
+    },
+    {
+     "en": "Spokesperson Kang Yu-jung said Seoul will keep close contact with both the US administration and Congress. Seoul will also continue its investment projects in the US under its agreement with the Trump government.",
+     "ko": "강유정 대변인은 정부가 미국 행정부뿐 아니라 의회와도 긴밀히 소통하겠다고 했어요. 트럼프 정부와의 합의에 따른 대미 투자 사업도 계속하겠다고 했어요."
+    },
+    {
+     "en": "She said the details of those investments will be checked under the principles of national interests first, business sense and the proper procedures. The Korea Herald reported that experts see bipartisan support for South Korea's $350 billion investment plan. That plan includes $200 billion for strategic industries and $150 billion for shipbuilding.",
+     "ko": "그는 투자의 세부 내용을 국익 우선, 상업적 합리성, 관련 절차라는 원칙에 따라 검토하겠다고 말했어요. 코리아헤럴드는 전문가들이 한국의 3,500억 달러 투자 계획에 양당 지지가 있다고 본다고 전했어요. 이 계획에는 전략 산업 2,000억 달러와 조선 1,500억 달러가 들어 있어요."
+    },
+    {
+     "en": "Many of Trump's trade measures rely on US trade law. Democrats could look more closely at how those powers are used, but undoing the tariffs would be hard without enough votes to beat a veto.",
+     "ko": "트럼프의 많은 무역 조치는 미국 무역법에 기대고 있어요. 민주당이 그 권한이 어떻게 쓰이는지 더 자세히 살필 수는 있지만, 거부권을 이길 표가 없으면 관세를 되돌리기 어려워요."
+    },
+    {
+     "en": "A House defense bill also limits the use of defense money for foreign-built warships. One professor said this could make it harder to build US warships in Korean shipyards.",
+     "ko": "하원 국방 법안은 외국에서 만든 군함에 국방 예산을 쓰는 것도 제한해요. 한 교수는 이 때문에 한국 조선소에서 미국 군함을 짓기 더 어려워질 수 있다고 했어요."
+    },
+    {
+     "en": "But the experts warn of closer checks on shipbuilding, energy and chip projects. One example is the Alaska LNG project, which could be harder to push if Democrats object on environmental grounds. Experts expect the overall framework to survive changes in congressional control.",
+     "ko": "하지만 전문가들은 조선, 에너지, 반도체 사업은 더 꼼꼼한 검토를 받을 수 있다고 경고했어요. 알래스카 LNG 사업이 한 예로, 민주당이 환경 문제로 반대하면 추진이 더 어려울 수 있어요. 전문가들은 전체 틀은 의회 권력이 바뀌어도 유지될 것으로 봐요."
+    }
+   ],
+   "keySentence": "The presidential office said the alliance has grown for more than 70 years with support from both US parties.",
+   "glosses": [
+    {
+     "text": "Prime Minister",
+     "meaning": "국무총리",
+     "level": 1
+    },
+    {
+     "text": "Republican Party",
+     "meaning": "미국 공화당(트럼프가 속한 정당)",
+     "level": 1
+    },
+    {
+     "text": "midterm elections",
+     "meaning": "대통령 임기 중간에 치르는 미국 의회 선거",
+     "level": 2
+    },
+    {
+     "text": "alliance",
+     "meaning": "동맹, 여기서는 한미 군사·외교 동맹",
+     "level": 2
+    },
+    {
+     "text": "budget committee",
+     "meaning": "국회에서 예산을 심사하는 위원회",
+     "level": 2
+    },
+    {
+     "text": "presidential office",
+     "meaning": "대통령실",
+     "level": 1
+    },
+    {
+     "text": "Spokesperson",
+     "meaning": "정부나 기관을 대신해 말하는 대변인",
+     "level": 2
+    },
+    {
+     "text": "administration",
+     "meaning": "행정부, 정부",
+     "level": 3
+    },
+    {
+     "text": "Congress",
+     "meaning": "미국 의회",
+     "level": 2
+    },
+    {
+     "text": "national interests",
+     "meaning": "나라의 이익, 국익",
+     "level": 2
+    },
+    {
+     "text": "Democratic",
+     "meaning": "미국 민주당의",
+     "level": 2
+    },
+    {
+     "text": "tariffs",
+     "meaning": "수입품에 붙이는 세금, 관세",
+     "level": 2
+    },
+    {
+     "text": "warships",
+     "meaning": "전투용 군함",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261105005351315"
+    },
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10925899"
+    }
+   ],
+   "num": {
+    "value": "70+ years",
+    "caption": "대통령실은 한미 동맹이 70년 넘게 미국 양당 지지로 발전했다고 말했어요.",
+    "source": "Yonhap News Agency"
+   },
+   "life": "한미 관계는 환율, 수출, 투자 소식으로 이어지기 때문에 취업 시장과 물가를 볼 때도 알아 두면 좋은 배경이에요.",
+   "deep": {
+    "why": "한국은 안보와 무역 모두 미국에 크게 기대고 있어서, 미국 의회 권력 변화가 한국 정책과 기업 투자에 영향을 줄 수 있어요.",
+    "next": "한국 정부의 대미 외교 전략 보완과, 의회가 한국 기업 투자 사업을 얼마나 꼼꼼히 따지는지 지켜봐야 해요.",
+    "keyNumbers": "동맹 70년 이상, 한국의 대미 투자 약속 3,500억 달러(2,000억 전략산업+1,500억 조선).",
+    "views": [
+     {
+      "source": "Yonhap News Agency",
+      "view": "총리와 대통령실은 동맹이 양당 지지를 받아 선거 결과에 흔들리지 않을 것이라고 강조했어요."
+     },
+     {
+      "source": "Korea Herald",
+      "view": "전문가들은 투자 합의는 유지되겠지만 조선·에너지·반도체 사업은 의회의 더 꼼꼼한 검토를 받을 수 있다고 봤어요."
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-05-pm-3",
+   "section": "money",
+   "tag": "파장 큼",
+   "title": "Seoul Stocks Plunge Over 5% After the US Midterms",
+   "easyKo": "미국 중간선거에서 민주당이 이기자 AI 데이터센터 규제가 강해질까 걱정돼 코스피가 5% 넘게 떨어졌어요. 삼성전자와 SK하이닉스 주가도 크게 내렸어요.",
+   "paragraphs": [
+    {
+     "en": "South Korean stocks fell by more than 5 percent on Thursday. Investors worried that the Democrats' big win could lead to tougher rules for AI data centers. The main index, KOSPI, lost 300 points, or 5.28 percent, and closed at 5,383.80. The stock exchange stopped program trading for five minutes at 10:16 a.m.",
+     "ko": "목요일 한국 주식이 5% 넘게 떨어졌어요. 투자자들은 민주당의 큰 승리가 AI 데이터센터에 대한 더 엄격한 규제로 이어질까 걱정했어요. 주요 지수인 코스피는 300포인트, 즉 5.28% 내려 5,383.80에 마감했어요. 거래소는 오전 10시 16분에 프로그램 매매를 5분간 멈췄어요."
+    },
+    {
+     "en": "Foreign investors sold a net 3.39 trillion won of shares. Samsung Electronics fell 7.57 percent, and SK hynix dropped 9.46 percent to 1.26 million won. The Korea Times said the same fear hit US tech stocks on Wednesday. CoreWeave fell 9.9 percent, and Micron dropped 7 percent.",
+     "ko": "외국인 투자자는 순매도로 3조 3,900억 원어치 주식을 팔았어요. 삼성전자는 7.57%, SK하이닉스는 9.46% 내려 126만 원이 됐어요. 코리아타임스는 같은 걱정이 수요일 미국 기술주도 흔들었다고 전했어요. 코어위브는 9.9%, 마이크론은 7% 떨어졌어요."
+    },
+    {
+     "en": "Democratic governors-elect in Texas, Ohio and Georgia have promised to pause or limit data center building. One analyst expects ten percent of data centers will not happen now.",
+     "ko": "텍사스, 오하이오, 조지아의 민주당 당선인들은 데이터센터 건설을 멈추거나 제한하겠다고 약속했어요. 한 분석가는 데이터센터의 10%가 무산될 것으로 봐요."
+    },
+    {
+     "en": "Other chip names suffered too. Hanmi Semiconductor fell 9.13 percent, and Samsung Electro-Mechanics dived 15.34 percent. Losers beat winners on the market by 534 to 344.",
+     "ko": "다른 반도체 관련주도 흔들렸어요. 한미반도체는 9.13%, 삼성전기는 15.34% 내렸어요. 하락한 종목이 오른 종목보다 534대 344로 많았어요."
+    },
+    {
+     "en": "Oil refiners and defense firms also fell, as hopes grew for peace in the Middle East and Eastern Europe. SK Innovation sank 7.68 percent, and Hanwha Aerospace lost 7.48 percent.",
+     "ko": "중동과 동유럽에서 평화 기대가 커지면서 정유와 방산 기업도 내렸어요. SK이노베이션은 7.68%, 한화에어로스페이스는 7.48% 떨어졌어요."
+    },
+    {
+     "en": "Texas matters because it is expected to hold 25 to 30 percent of the US data center capacity due to come online by 2030. Its new governor, Gina Hinojosa, promised to halt construction until the state sets safeguards. Governors-elect in Ohio and Georgia made similar promises to slow data center building.",
+     "ko": "텍사스는 2030년까지 새로 가동될 미국 데이터센터 용량의 25~30%를 차지할 것으로 예상돼서 중요해요. 새 주지사 지나 히노호사는 주가 안전장치를 마련할 때까지 건설을 멈추겠다고 약속했어요. 오하이오와 조지아 당선인도 데이터센터 건설을 늦추겠다고 비슷하게 약속했어요."
+    },
+    {
+     "en": "Mirae Asset analyst Kim Seok-hwan said the blue wave hit KOSPI and caused a foreign sell-off. Trading was light, at 256.8 million shares worth 22.6 trillion won, about $16.8 billion.",
+     "ko": "미래에셋증권 김석환 애널리스트는 푸른 물결이 코스피를 때려 외국인 매도를 불렀다고 했어요. 거래량은 2억 5,680만 주, 22조 6천억 원으로 많지 않았어요."
+    },
+    {
+     "en": "Some experts say a full stop is unlikely, because Trump can use his veto. Other stocks rose: Hyundai Motor gained 3.53 percent, and Naver jumped 8.26 percent. The Korean won also weakened a little, at 1,342.1 won to the US dollar. Analysts say the AI investment trend is unlikely to change, but its speed may slow.",
+     "ko": "일부 전문가는 트럼프가 거부권을 쓸 수 있어서 완전한 중단은 어렵다고 해요. 다른 종목은 올랐어요. 현대차는 3.53%, 네이버는 8.26% 올랐어요. 원화도 조금 약해져 달러당 1,342.1원이 됐어요. 분석가들은 AI 투자의 큰 흐름은 바뀌지 않겠지만 속도는 느려질 수 있다고 해요."
+    }
+   ],
+   "keySentence": "South Korean stocks fell by more than 5 percent on Thursday.",
+   "glosses": [
+    {
+     "text": "stocks",
+     "meaning": "주식",
+     "level": 2
+    },
+    {
+     "text": "blue wave",
+     "meaning": "민주당(상징색 파랑)의 압승을 뜻하는 말",
+     "level": 3
+    },
+    {
+     "text": "data centers",
+     "meaning": "서버를 모아 두고 인터넷·AI 서비스를 돌리는 큰 시설",
+     "level": 2
+    },
+    {
+     "text": "KOSPI",
+     "meaning": "한국 대표 주가지수(코스피)",
+     "level": 2
+    },
+    {
+     "text": "index",
+     "meaning": "여러 주식의 값을 묶어 보여 주는 지수",
+     "level": 3
+    },
+    {
+     "text": "stock exchange",
+     "meaning": "주식을 사고파는 거래소",
+     "level": 2
+    },
+    {
+     "text": "program trading",
+     "meaning": "컴퓨터 프로그램이 자동으로 하는 주식 거래",
+     "level": 4
+    },
+    {
+     "text": "net",
+     "meaning": "판 것과 산 것을 뺀 순(純) 금액",
+     "level": 3
+    },
+    {
+     "text": "Samsung Electronics",
+     "meaning": "삼성전자",
+     "level": 0
+    },
+    {
+     "text": "SK hynix",
+     "meaning": "SK하이닉스(한국 반도체 회사)",
+     "level": 0
+    },
+    {
+     "text": "governors-elect",
+     "meaning": "당선됐지만 아직 취임하지 않은 주지사들",
+     "level": 4
+    },
+    {
+     "text": "veto",
+     "meaning": "대통령이 법안에 반대해 막는 권한(거부권)",
+     "level": 3
+    },
+    {
+     "text": "won",
+     "meaning": "한국의 돈 단위(원)",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927473"
+    },
+    {
+     "name": "Korea Times",
+     "url": "https://www.koreatimes.co.kr/business/tech-science/20261105/us-midterm-blue-wave-puts-pressure-on-memory-chip-demand"
+    }
+   ],
+   "num": {
+    "value": "-5.28%",
+    "caption": "코스피가 300포인트 내려 5,383.80에 마감했어요.",
+    "source": "Korea Herald"
+   },
+   "life": "주식이나 펀드에 투자하는 대학생이라면 평가금액이 크게 흔들렸을 수 있고, 환율 변화는 해외여행·유학 비용에도 영향을 줘요.",
+   "deep": {
+    "why": "한국 증시는 삼성전자와 SK하이닉스 같은 반도체 기업 비중이 커서, 미국 AI 정책 걱정이 바로 주가에 반영돼요.",
+    "next": "새 의회가 1월에 시작한 뒤 데이터센터 규제가 실제로 어떻게 나오는지, 외국인 매도가 이어지는지 볼 필요가 있어요.",
+    "keyNumbers": "코스피 -5.28%(5,383.80), 외국인 순매도 3.39조 원, SK하이닉스 -9.46%, 삼성전자 -7.57%.",
+    "views": [
+     {
+      "source": "Korea Herald",
+      "view": "미래에셋증권 애널리스트는 '푸른 물결'이 반도체 관련주를 끌어내렸다고 설명했어요."
+     },
+     {
+      "source": "Korea Times",
+      "view": "키움증권 분석가는 거부권과 AI 경쟁력 때문에 전국 단위의 강한 규제는 어려울 것이라고 봤어요."
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-05-pm-4",
+   "section": "campus",
+   "tag": "한국에 직접",
+   "title": "Seoul Prepares for 500,000 Young Pilgrims in 2027",
+   "easyKo": "내년 8월 서울에서 세계 가톨릭 청년 대회가 열려요. 교황이 처음 한국을 찾고, 약 50만 명이 올 것으로 보여요. 숙소와 폭염·안전 대책이 가장 큰 숙제예요.",
+   "paragraphs": [
+    {
+     "en": "South Korea is preparing to welcome about half a million young Catholics for World Youth Day Seoul 2027. It will be held from Aug. 3 to 8 next year. Pope Leo XIV is expected to visit Korea for the first time since taking office. It will be the first time the event takes place in a country where Christians are not the majority.",
+     "ko": "한국이 2027 서울 세계청년대회에 가톨릭 청년 약 50만 명을 맞을 준비를 하고 있어요. 내년 8월 3일부터 8일까지 열려요. 교황 레오 14세가 취임 뒤 처음 한국을 찾을 예정이에요. 기독교인이 다수가 아닌 나라에서 열리는 첫 대회예요."
+    },
+    {
+     "en": "The organizing committee expects about 400,000 pilgrims from some 190 countries and about 100,000 from Korea. By Thursday, nearly 82,000 people had registered. Registration opened in late October and closes May 31. About 20,000 volunteers are also expected to take part.",
+     "ko": "조직위는 약 190개국에서 40만 명, 국내에서 10만 명쯤 올 것으로 봐요. 목요일까지 8만 2천 명 가까이 등록했어요. 등록은 10월 말에 시작해 5월 31일에 끝나요. 자원봉사자도 약 2만 명이 참여할 것으로 예상해요."
+    },
+    {
+     "en": "The opening Mass and the welcome ceremony for the pope will take place at Seoul World Cup Stadium. The overnight vigil and closing Mass will be held at Seoul Air Base, which could hold up to 1 million people. Organizers chose it to limit traffic problems for residents.",
+     "ko": "개막 미사와 교황 환영식은 서울월드컵경기장에서 열려요. 밤샘 기도회와 폐막 미사는 서울공항에서 열리고 최대 100만 명이 모일 수 있어요. 주민의 교통 불편을 줄이려고 이곳을 골랐어요."
+    },
+    {
+     "en": "Lodging is the biggest task. The Archdiocese of Seoul plans to host 270,000 pilgrims in 217 parishes and with homestay families. Schools, public facilities and other dioceses will host another 230,000. The Korea Times reported that the dates were also chosen so that university facilities stay available for lodging.",
+     "ko": "숙박이 가장 큰 일이에요. 서울대교구는 217개 본당과 민박 가정에서 27만 명을 맞을 계획이고, 학교, 공공시설, 다른 교구가 23만 명을 더 맞아요. 코리아타임스는 대학 시설을 숙소로 쓸 수 있도록 날짜도 골랐다고 전했어요."
+    },
+    {
+     "en": "Safety is the other priority in midsummer. Organizers plan shade, drinking water, air-conditioned rest areas and AI analysis of camera footage to spot dangerous crowds. Medical teams led by the Catholic Medical Center will staff emergency facilities at the main venues. Before the main event, 15 dioceses across the country will host foreign pilgrims from July 29 to Aug. 2.",
+     "ko": "한여름 안전이 또 하나의 우선순위예요. 그늘, 식수, 냉방 휴게 공간을 마련하고 카메라 영상을 AI로 분석해 위험한 인파를 찾아내요. 주요 행사장에는 의료팀이 응급 시설을 운영하고, 본행사 전에는 전국 15개 교구가 7월 29일부터 8월 2일까지 해외 순례자를 맞아요."
+    },
+    {
+     "en": "Archbishop Peter Chung Soon-taick said young people today face constant comparison and competition. He called for the courage to meet and welcome others, and said a person's worth is not defined by wealth or social position. Organizers say the event is open to everyone regardless of religion and free to attend. It could bring up to 3.2 trillion won in economic output, according to the Korea MICE Association.",
+     "ko": "정순택 대주교는 요즘 청년이 끊임없는 비교와 경쟁에 놓여 있다며 서로 만나고 환대하는 용기를 말했어요. 주최 측은 종교와 관계없이 누구나 무료로 참여할 수 있다고 해요. 한국MICE협회는 경제 효과를 최대 3조 2천억 원으로 추산했어요."
+    }
+   ],
+   "keySentence": "The organizing committee expects about 400,000 pilgrims from some 190 countries and about 100,000 from Korea.",
+   "glosses": [
+    {
+     "text": "World Youth Day",
+     "meaning": "세계 가톨릭 청년 대회",
+     "level": 0
+    },
+    {
+     "text": "Pope Leo XIV",
+     "meaning": "교황 레오 14세",
+     "level": 0
+    },
+    {
+     "text": "organizing committee",
+     "meaning": "행사 준비를 맡은 조직위원회",
+     "level": 3
+    },
+    {
+     "text": "pilgrims",
+     "meaning": "순례자, 성지를 찾는 신자",
+     "level": 3
+    },
+    {
+     "text": "registered",
+     "meaning": "등록했다",
+     "level": 2
+    },
+    {
+     "text": "opening Mass",
+     "meaning": "개막 미사(가톨릭 예배)",
+     "level": 3
+    },
+    {
+     "text": "overnight vigil",
+     "meaning": "밤샘 기도회",
+     "level": 4
+    },
+    {
+     "text": "Seoul Air Base",
+     "meaning": "서울공항(성남 군 비행장)",
+     "level": 0
+    },
+    {
+     "text": "Lodging",
+     "meaning": "숙박, 잘 곳",
+     "level": 3
+    },
+    {
+     "text": "Archdiocese of Seoul",
+     "meaning": "천주교 서울대교구",
+     "level": 0
+    },
+    {
+     "text": "parishes",
+     "meaning": "성당 본당들",
+     "level": 4
+    },
+    {
+     "text": "homestay",
+     "meaning": "가정집에서 묵는 민박",
+     "level": 3
+    },
+    {
+     "text": "economic output",
+     "meaning": "경제적 생산 효과",
+     "level": 3
+    },
+    {
+     "text": "Korea MICE Association",
+     "meaning": "한국MICE협회(전시·행사 산업 단체)",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927304"
+    },
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/korea/organizing-committee-of-world-youth-day-2027-vows-to-prioritize-safety/12957753"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261105/seoul-gears-up-to-welcome-1-mil-pilgrims-for-2027-world-youth-day"
+    },
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261105006400315"
+    }
+   ],
+   "num": {
+    "value": "500,000 people",
+    "caption": "내년 서울 세계청년대회에 올 것으로 보는 참가자 수예요",
+    "source": "The Korea Herald"
+   },
+   "life": "행사 숙소로 대학 시설이 쓰일 수 있고 자원봉사자도 약 2만 명 필요하다고 해요. 관심 있는 학생은 내년 여름 참여 기회를 알아볼 수 있어요.",
+   "deep": {
+    "why": "청년 약 50만 명과 교황이 한국에 오는 큰 국제 행사라 숙박, 교통, 폭염 안전이 한꺼번에 걸려 있고, 대학 시설과 자원봉사로 대학생 생활에도 닿아요.",
+    "next": "5월 31일 등록 마감 뒤 나올 숙소 배정, 폭염과 인파 안전 대책이 어떻게 갖춰지는지 지켜볼 만해요.",
+    "keyNumbers": "행사 8월 3~8일 · 예상 50만 명(해외 40만, 국내 10만) · 등록 약 8만 2천 명 · 자원봉사 약 2만 명 · 경제 효과 최대 3.2조 원",
+    "views": [
+     {
+      "source": "The Korea Herald",
+      "view": "주최 측은 종교와 관계없이 누구나 무료로 참여할 수 있고 교세를 넓힐 뜻은 없다고 밝혔다고 전했어요."
+     },
+     {
+      "source": "The Korea Times",
+      "view": "대주교가 단절의 시대에 청년이 겪는 비교와 경쟁을 짚으며 만나고 환대하는 용기를 강조했다고 전했어요."
+     },
+     {
+      "source": "Korea JoongAng Daily",
+      "view": "안전을 최우선으로 하겠다는 조직위의 다짐과 최대 3.2조 원의 경제 효과 추산을 함께 보도했어요."
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-05-pm-5",
+   "section": "tech",
+   "tag": "파장 큼",
+   "title": "Hackers Used Fake Job Interviews to Steal $6.3 Billion From Binance",
+   "easyKo": "세계 최대 가상화폐 거래소 바이낸스에서 63억 달러가 털렸어요. 해커들은 가짜 면접으로 직원을 속여 악성 프로그램을 깔게 했다고 회사가 밝혔어요. 이번 일로 가상화폐 거래소가 얼마나 약한지에 대한 논란도 커졌어요.",
+   "paragraphs": [
+    {
+     "en": "Hackers stole a record $6.3 billion from Binance, the world's largest cryptocurrency exchange. The company says the attackers used fake job interviews and a hacked internal AI tool. Binance apologized and said the incident should not have happened.",
+     "ko": "해커들이 세계 최대 가상화폐 거래소 바이낸스에서 사상 최대인 63억 달러를 훔쳤어요. 회사는 공격자들이 가짜 면접과 해킹된 내부 AI 도구를 썼다고 밝혔어요. 바이낸스는 사과하며 이런 일이 있어서는 안 됐다고 말했어요."
+    },
+    {
+     "en": "Binance says one engineer was contacted through a real job-hunting website and invited to bogus interviews. In a second interview, he was told to download an assignment that was really malware. Hackers then used his computer and an internal AI tool to take control of two other engineers' laptops.",
+     "ko": "바이낸스에 따르면 한 엔지니어가 실제 구직 사이트를 통해 연락을 받고 가짜 면접에 초대됐어요. 두 번째 면접에서 '과제'라며 받은 파일은 사실 악성 프로그램이었어요. 해커들은 그의 컴퓨터와 내부 AI 도구로 다른 엔지니어 두 명의 노트북까지 장악했어요."
+    },
+    {
+     "en": "The firm suspended withdrawals around the world until Sunday. After the service reopened, customers took out billions of dollars. Binance says it set aside more than 100 percent of the funds needed to cover the loss. By Saturday, 98 percent of the affected token assets had been replaced.",
+     "ko": "회사는 일요일까지 전 세계 출금을 멈췄어요. 서비스가 다시 열리자 고객들이 수십억 달러를 빼 갔어요. 바이낸스는 손실을 메우는 데 필요한 돈의 100% 넘게 따로 마련했고, 토요일까지 피해 토큰 자산의 98%를 채웠다고 말해요."
+    },
+    {
+     "en": "Binance says it will now invest more in AI tools that detect threats. It will also ask outside cyber experts to review the whole incident and create a security research fund. A similar hack of the exchange Bybit in 2025 took $1.5 billion.",
+     "ko": "바이낸스는 위협을 찾아내는 AI 도구에 더 투자하고, 외부 보안 전문가에게 사건 전체 점검을 맡기고, 보안 연구 기금도 만들겠다고 해요. 2025년 거래소 바이비트에서 비슷한 해킹으로 15억 달러가 털린 적도 있어요."
+    },
+    {
+     "en": "US agencies, including the FBI, say the hack looked like the work of North Korea. Binance quoted the FBI in its own post. North Korea denied it, and a top official, Kim Yo Jong, called the claims a sinister attempt by the US to damage her country's image.",
+     "ko": "FBI를 포함한 미국 기관들은 이번 해킹이 북한의 소행으로 보인다고 해요. 바이낸스도 자사 글에서 FBI 발표를 인용했어요. 북한은 부인했고, 김여정은 미국이 북한 이미지를 깎으려는 불순한 시도라고 주장했어요."
+    },
+    {
+     "en": "Critics say the case shows weak points in the crypto industry. At an exchange, you can trade coins and also keep them in an account there. Amanda Fischer of Better Markets says stock investors usually keep money with a broker, which is audited and regulated.",
+     "ko": "비판하는 쪽은 이번 일이 가상화폐 업계의 약한 고리를 보여 준다고 말해요. 거래소에서는 코인을 사고팔 뿐 아니라 거기에 계정을 두고 보관할 수도 있어요. 시민단체 베터 마켓츠의 어맨다 피셔는 주식 투자자는 보통 감사와 규제를 받는 증권사에 돈을 맡긴다고 말해요."
+    },
+    {
+     "en": "NPR reports that Binance froze about $3 billion of the stolen crypto and promised to repay lost money. NPR also says it is too early to know whether Binance's security had flaws. NPR says big changes are unlikely, since the Trump administration promised lighter regulation.",
+     "ko": "NPR에 따르면 바이낸스는 훔친 코인 약 30억 달러를 동결했고 손실을 갚겠다고 약속했어요. 바이낸스의 보안에 결함이 있었는지는 아직 말하기 이르다고도 해요. 트럼프 행정부가 규제를 가볍게 하겠다고 약속해서 큰 변화는 어려울 거라고 해요."
+    }
+   ],
+   "keySentence": "Hackers stole a record $6.3 billion from Binance, the world's largest cryptocurrency exchange.",
+   "glosses": [
+    {
+     "text": "cryptocurrency exchange",
+     "meaning": "가상화폐를 사고파는 거래소",
+     "level": 2
+    },
+    {
+     "text": "fake",
+     "meaning": "가짜의",
+     "level": 1
+    },
+    {
+     "text": "internal",
+     "meaning": "회사 안에서 쓰는",
+     "level": 2
+    },
+    {
+     "text": "bogus",
+     "meaning": "가짜의, 엉터리의",
+     "level": 3
+    },
+    {
+     "text": "malware",
+     "meaning": "컴퓨터를 해치는 악성 프로그램",
+     "level": 3
+    },
+    {
+     "text": "take control of",
+     "meaning": "~을 장악하다",
+     "level": 3
+    },
+    {
+     "text": "suspended",
+     "meaning": "잠시 멈췄다",
+     "level": 3
+    },
+    {
+     "text": "withdrawals",
+     "meaning": "출금(돈이나 코인을 빼 가는 것)",
+     "level": 2
+    },
+    {
+     "text": "set aside",
+     "meaning": "따로 떼어 놓다",
+     "level": 3
+    },
+    {
+     "text": "token assets",
+     "meaning": "토큰 자산(코인으로 가진 재산)",
+     "level": 3
+    },
+    {
+     "text": "FBI",
+     "meaning": "미국 연방수사국",
+     "level": 0
+    },
+    {
+     "text": "North Korea",
+     "meaning": "북한",
+     "level": 0
+    },
+    {
+     "text": "Better Markets",
+     "meaning": "미국의 금융 소비자 보호 시민단체",
+     "level": 0
+    },
+    {
+     "text": "audited",
+     "meaning": "회계 감사를 받는",
+     "level": 3
+    },
+    {
+     "text": "froze",
+     "meaning": "동결했다(못 쓰게 묶었다)",
+     "level": 3
+    },
+    {
+     "text": "regulation",
+     "meaning": "규제",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/10/31/nx-s1-6023330/wild-west-crypto-staggering-binance-heist-exposes-sector-fragility"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o"
+    }
+   ],
+   "num": {
+    "value": "$6.3bn",
+    "caption": "바이낸스에서 털린 돈, 가상화폐 역사상 최대 규모",
+    "source": "BBC News"
+   },
+   "life": "가상화폐 거래소에 코인을 맡겨 둔 대학생이라면 거래소가 털릴 수 있다는 점을 떠올릴 만해요. 구직 사이트의 가짜 면접 제안이나 '과제 파일' 다운로드도 조심해야 한다는 교훈이에요.",
+   "deep": {
+    "why": "가상화폐 사상 최대 해킹이고, 가짜 면접과 사내 AI 도구라는 새 수법이 쓰여서 누구나 구직·업무 중 속을 수 있다는 걸 보여 줘요.",
+    "next": "바이낸스의 외부 전문가 전체 점검 결과와 북한 연루 여부 수사, 그리고 거래소 규제 논의가 달라질지 볼 만해요.",
+    "keyNumbers": "63억 달러 도난 · 약 30억 달러 동결 · 피해 토큰의 98% 보충 · 북한은 관여 부인",
+    "views": [
+     {
+      "source": "NPR",
+      "view": "거래소가 거래와 보관을 함께 하는 구조가 위험하고, 월가 회사만큼의 규칙을 따르지 않는다고 비판하는 목소리를 전해요."
+     },
+     {
+      "source": "BBC News",
+      "view": "해커들이 가짜 면접과 침해된 내부 AI 도구를 썼다는 바이낸스 설명과, 미국 기관들이 북한을 지목하고 북한이 부인한 상황을 전해요."
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-05-pm-6",
+   "section": "culture",
+   "tag": "한국에 직접",
+   "title": "UNESCO Likely to Add Korean Paper Hanji to Its Heritage List",
+   "easyKo": "유네스코 심사 기구가 한국 전통 종이 '한지' 제작 지식과 기술을 무형문화유산으로 올리라고 권고했어요. 최종 결정은 이달 말에서 다음 달 초 사이에 나와요. 같은 기구가 북한의 태권도 신청도 권고해 남북 공동 등재는 어려워 보여요.",
+   "paragraphs": [
+    {
+     "en": "UNESCO is likely to add hanji, traditional Korean paper, to its list of intangible cultural heritage. A UNESCO body has recommended the listing, according to a document released on Wednesday in France. Items that get this advice are usually accepted by the final committee.",
+     "ko": "유네스코가 한국 전통 종이 한지를 무형문화유산 목록에 올릴 가능성이 커요. 유네스코 심사 기구가 수요일(프랑스 시간) 공개한 문서에서 등재를 권고했어요. 이런 권고를 받은 항목은 보통 최종 위원회에서 받아들여져요."
+    },
+    {
+     "en": "Hanji is made from the bark of mulberry trees, and the tradition is about a thousand years old. Making it takes many steps, such as cutting, steaming, boiling and peeling the bark. Many people in a community work together. UNESCO said the practice is based on cooperation, shared responsibility and care for nature.",
+     "ko": "한지는 뽕나무 껍질로 만들고 전통은 약 천 년이에요. 껍질을 자르고 찌고 삶고 벗기는 여러 단계가 있고, 공동체가 함께 일해요. 유네스코는 이 일이 협력, 공동 책임, 자연을 돌보는 마음에 바탕을 둔다고 했어요."
+    },
+    {
+     "en": "Hanji is used for writing, printing and crafts. Today it is also used for eco-friendly building, household products and art. The masters' skills have passed down through generations. Right now, the Korea Heritage Service recognizes four artisans as hanji-making masters. UNESCO said the practice also strengthens community identity through public events.",
+     "ko": "한지는 글쓰기, 인쇄, 공예에 쓰이고 요즘은 친환경 건축, 생활용품, 미술에도 쓰여요. 장인들의 기술은 세대를 거쳐 이어졌어요. 유네스코는 공동체가 행사를 통해 정체성을 다진다고도 했어요. 지금 국가유산청이 한지 장인으로 인정한 사람은 네 명이에요."
+    },
+    {
+     "en": "The same UNESCO body also recommended North Korea's solo bid for taekwondo. North Korea applied in 2024, and South Korea followed this year. Some people hoped for a joint listing, as with ssireum, or traditional wrestling, in 2018. That now looks unlikely.",
+     "ko": "같은 유네스코 기구는 북한이 단독으로 낸 태권도 신청도 권고했어요. 북한이 2024년에 신청했고 한국이 올해 뒤따랐어요. 2018년 씨름처럼 공동 등재를 바란 사람도 있었지만 이제는 가능성이 낮아 보여요."
+    },
+    {
+     "en": "Some critics say Seoul should have moved first on taekwondo. The heritage service replied that it had talked with the unification and foreign ministries and met UNESCO officials. Its head, Huh Min, said UNESCO does not give one country exclusive rights just because it applied first. Seoul will keep seeking to extend the listing.",
+     "ko": "한국이 태권도를 먼저 서둘렀어야 한다는 비판이 있어요. 국가유산청은 통일부, 외교부와 협의하고 유네스코 관계자도 만났다고 답했어요. 허민 청장은 먼저 신청했다고 한 나라가 독점권을 갖지는 않는다고 했고, 한국은 등재 확대를 계속 추진할 거예요."
+    },
+    {
+     "en": "The final decision is expected between Nov. 30 and Dec. 5, when the committee meets in the Chinese city of Xiamen. If hanji is approved, it will be South Korea's 24th entry on the list. The last one was the culture of making jang, a fermented soybean sauce, in 2024.",
+     "ko": "최종 결정은 11월 30일~12월 5일 중국 샤먼에서 열리는 위원회에서 나올 거예요. 한지가 승인되면 한국의 24번째 등재가 돼요. 직전 등재는 2024년 장(발효 콩 양념) 담그기 문화였어요."
+    }
+   ],
+   "keySentence": "A UNESCO body has recommended the listing, according to a document released on Wednesday in France.",
+   "glosses": [
+    {
+     "text": "intangible cultural heritage",
+     "meaning": "무형문화유산. 기술·공연처럼 형태가 없는 문화 유산",
+     "level": 3
+    },
+    {
+     "text": "traditional Korean paper",
+     "meaning": "한지. 한국 전통 종이",
+     "level": 1
+    },
+    {
+     "text": "mulberry trees",
+     "meaning": "뽕나무",
+     "level": 3
+    },
+    {
+     "text": "Korea Heritage Service",
+     "meaning": "국가유산청",
+     "level": 0
+    },
+    {
+     "text": "bid",
+     "meaning": "여기서는 등재 신청(입찰 아님)",
+     "level": 3
+    },
+    {
+     "text": "joint listing",
+     "meaning": "공동 등재. 두 나라가 함께 올리는 것",
+     "level": 2
+    },
+    {
+     "text": "ssireum",
+     "meaning": "씨름",
+     "level": 0
+    },
+    {
+     "text": "exclusive rights",
+     "meaning": "독점권. 한 나라만 갖는 권리",
+     "level": 3
+    },
+    {
+     "text": "approved",
+     "meaning": "승인되다",
+     "level": 2
+    },
+    {
+     "text": "entry",
+     "meaning": "여기서는 목록에 오른 항목",
+     "level": 3
+    },
+    {
+     "text": "jang",
+     "meaning": "장. 간장·된장 같은 한국 발효 콩 양념",
+     "level": 1
+    },
+    {
+     "text": "recommended",
+     "meaning": "권고했다. 올리라고 추천했다",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261104010452315"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/lifestyle/20261105/unesco-likely-to-list-traditional-korean-paper-hanji-as-cultural-heritage"
+    }
+   ],
+   "num": {
+    "value": "24th entry",
+    "caption": "한지가 등재되면 한국의 24번째 유네스코 무형유산이 돼요",
+    "source": "Yonhap News Agency"
+   },
+   "life": "한지는 한국 전통 공예·건축·미술에 쓰이는 소재라, 이번 권고가 확정되면 전통문화 전공이나 공예 동아리 학생에게 소개할 거리가 하나 늘어요.",
+   "deep": {
+    "why": "한국 전통 종이 기술이 세계 무형유산으로 인정받게 되고, 같은 날 북한 태권도 신청도 권고돼 남북 문화유산 문제가 함께 떠올랐어요.",
+    "next": "11월 30일~12월 5일 샤먼 위원회의 최종 결정과, 한국이 태권도 등재 확대를 어떻게 추진하는지 볼 만해요.",
+    "keyNumbers": "한지 전통 약 1000년 · 국가유산청 인정 장인 4명 · 등재 시 한국 24번째 · 직전 등재 2024년 장 문화",
+    "views": [
+     {
+      "source": "Yonhap News Agency",
+      "view": "국가유산청은 먼저 신청했다고 한 나라가 독점권을 갖지 않는다며 태권도 등재 확대를 계속 추진하겠다고 했어요."
+     },
+     {
+      "source": "The Korea Times",
+      "view": "태권도를 선제적으로 추진했어야 한다는 비판 속에서 남북 공동 등재 가능성은 낮다고 전했어요."
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-05-pm-7",
+   "section": "world",
+   "tag": "파장 큼",
+   "title": "After the Midterm Loss, Trump Must Decide What to Do About the Iran War",
+   "easyKo": "중간선거에서 진 트럼프는 인기가 낮은 이란 전쟁을 어떻게 할지 정해야 해요. 전문가들은 지금처럼 유지하거나, 한 번 더 강하게 공격한 뒤 협상하거나, 더 크게 확대하는 길이 있다고 봐요.",
+   "paragraphs": [
+    {
+     "en": "After his party's heavy loss in the midterms, President Trump must now decide what to do about the war with Iran. The war is eight months old and unpopular.",
+     "ko": "당의 중간선거 참패 뒤, 트럼프 대통령은 이란과의 전쟁을 어떻게 할지 정해야 해요. 전쟁은 8개월째이고 인기가 없어요."
+    },
+    {
+     "en": "For weeks, Trump has threatened to bomb Iran much harder if Tehran does not accept a deal on his terms. On Wednesday he said the war drove gasoline prices up a little.",
+     "ko": "트럼프는 몇 주째 이란이 자신이 원하는 조건의 합의를 받아들이지 않으면 훨씬 강하게 폭격하겠다고 위협해 왔어요. 수요일에는 전쟁이 휘발유값을 조금 올렸다고 말했어요."
+    },
+    {
+     "en": "Oil is flowing again through the Strait of Hormuz with the help of US Navy escorts for tankers. But the fighting has spread to the Red Sea, where Houthi rebels are active.",
+     "ko": "미 해군이 유조선을 호위하면서 호르무즈 해협으로 석유가 다시 흐르고 있어요. 하지만 싸움은 후티 반군이 활동하는 홍해로 번졌어요."
+    },
+    {
+     "en": "Former CIA analyst Brian Haggerty said Trump may feel less restrained now. He said Trump could keep the current approach, with defensive strikes and a naval blockade on Iranian oil.",
+     "ko": "전 CIA 분석관 브라이언 해거티는 트럼프가 이제 덜 조심스러울 수 있다고 말했어요. 현재처럼 방어적 공습과 이란 석유 해상 봉쇄를 이어갈 수도 있다고 했어요."
+    },
+    {
+     "en": "Another option is to strike Pickaxe Mountain, a deep underground site linked to Iran's nuclear program. Former diplomat David Schenker said Trump could then walk away and seek a loose deal.",
+     "ko": "또 다른 선택은 이란 핵 프로그램과 관련된 깊은 지하 시설 '곡괭이 산'을 공격하는 거예요. 전직 외교관 데이비드 솅커는 그 뒤 트럼프가 발을 빼고 느슨한 합의를 찾을 수 있다고 했어요."
+    }
+   ],
+   "keySentence": "After his party's heavy loss in the midterms, President Trump must now decide what to do about the war with Iran.",
+   "glosses": [
+    {
+     "text": "midterms",
+     "meaning": "대통령 임기 중간에 치르는 미국 의회 선거",
+     "level": 2
+    },
+    {
+     "text": "Tehran",
+     "meaning": "이란의 수도, 여기서는 이란 정부",
+     "level": 2
+    },
+    {
+     "text": "Strait of Hormuz",
+     "meaning": "페르시아만 입구의 좁은 바닷길, 석유 수송 길목",
+     "level": 3
+    },
+    {
+     "text": "US Navy",
+     "meaning": "미국 해군",
+     "level": 0
+    },
+    {
+     "text": "escorts",
+     "meaning": "배를 지켜 주며 함께 가는 호위",
+     "level": 3
+    },
+    {
+     "text": "Red Sea",
+     "meaning": "아프리카와 아라비아 사이의 바다(홍해)",
+     "level": 2
+    },
+    {
+     "text": "Houthi",
+     "meaning": "예멘의 이란 지원 무장 세력",
+     "level": 3
+    },
+    {
+     "text": "blockade",
+     "meaning": "배나 물자가 드나들지 못하게 막는 봉쇄",
+     "level": 3
+    },
+    {
+     "text": "Pickaxe Mountain",
+     "meaning": "이란 핵 프로그램과 연결된 지하 시설 이름(곡괭이 산)",
+     "level": 3
+    },
+    {
+     "text": "strike",
+     "meaning": "군사 공습, 타격(여기서는 파업 아님)",
+     "level": 2
+    },
+    {
+     "text": "drove",
+     "meaning": "원인이 되어 ~을 올렸다(drive의 과거형)",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "Korea Times (AP)",
+     "url": "https://www.koreatimes.co.kr/world/20261105/after-midterm-loss-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-debacle"
+    }
+   ],
+   "life": "이란 전쟁이 이어지면 기름값과 물가가 오를 수 있어서, 통학비와 생활비 걱정으로 이어질 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-8",
+   "section": "world",
+   "tag": "모두의 화제",
+   "title": "El Niño Makes East Asia's Typhoon Season Extreme",
+   "easyKo": "올해 엘니뇨가 매우 강해서 동아시아에 강한 태풍이 줄줄이 몰려오고 있어요. 바다 온도가 기록적으로 높아져서 앞으로도 걱정이 크다고 해요.",
+   "paragraphs": [
+    {
+     "en": "Storms made worse by El Niño have killed dozens of people and closed major airports across East Asia in recent months. They have also destroyed crops and buildings.",
+     "ko": "엘니뇨 때문에 더 강해진 폭풍이 최근 몇 달간 동아시아에서 수십 명의 목숨을 앗아가고 주요 공항을 닫게 했어요. 농작물과 건물도 크게 망가졌어요."
+    },
+    {
+     "en": "In October, Typhoon Champi came close to Taiwan with winds of 295 kilometers an hour. It did not hit land, but hundreds of flights were cancelled in Hong Kong, Taiwan and Japan.",
+     "ko": "10월에 태풍 참피는 시속 295킬로미터의 바람으로 대만 가까이 다가왔어요. 상륙하진 않았지만 홍콩, 대만, 일본에서 수백 편의 항공편이 취소됐어요."
+    },
+    {
+     "en": "El Niño is a natural weather pattern. Warm water gathers in the eastern Pacific, and winds change. It happens every two to seven years and lasts about a year.",
+     "ko": "엘니뇨는 자연스러운 기후 현상이에요. 동태평양에 따뜻한 물이 모이고 바람이 바뀌어요. 2~7년마다 나타나고 1년쯤 이어져요."
+    },
+    {
+     "en": "The UK Met Office says this year's El Niño could be the strongest in living memory. It is likely to last until February or March.",
+     "ko": "영국 기상청은 올해 엘니뇨가 기억에 남는 가장 강한 수준일 수 있다고 해요. 2~3월까지 이어질 가능성이 커요."
+    },
+    {
+     "en": "The Pacific is now full of typhoon energy. This year's storm energy reading for the region is forecast to be nearly double the 30-year average.",
+     "ko": "태평양은 지금 태풍 에너지로 가득해요. 올해 이 지역의 태풍 에너지 수치는 30년 평균의 거의 두 배가 될 것으로 예상돼요."
+    },
+    {
+     "en": "Last month, the sea surface in the equatorial Pacific was 4 degrees Celsius above normal. That is the highest since records began in 1949.",
+     "ko": "지난달 적도 태평양 바다 표면 온도는 평소보다 섭씨 4도 높았어요. 1949년 기록을 시작한 이래 가장 높은 값이에요."
+    }
+   ],
+   "keySentence": "Last month, the sea surface in the equatorial Pacific was 4 degrees Celsius above normal.",
+   "glosses": [
+    {
+     "text": "El Niño",
+     "meaning": "동태평양 바다가 따뜻해지는 기후 현상(엘니뇨)",
+     "level": 3
+    },
+    {
+     "text": "East Asia",
+     "meaning": "한국·중국·일본·대만 등이 있는 동아시아",
+     "level": 1
+    },
+    {
+     "text": "Typhoon Champi",
+     "meaning": "올해 10월 대만 근처를 지난 강한 태풍 이름(참피)",
+     "level": 3
+    },
+    {
+     "text": "Pacific",
+     "meaning": "태평양",
+     "level": 1
+    },
+    {
+     "text": "UK Met Office",
+     "meaning": "영국 기상청",
+     "level": 0
+    },
+    {
+     "text": "in living memory",
+     "meaning": "현재 살아 있는 사람들의 기억 안에서",
+     "level": 4
+    },
+    {
+     "text": "30-year average",
+     "meaning": "지난 30년의 평균값, 기후 비교의 기준",
+     "level": 3
+    },
+    {
+     "text": "sea surface",
+     "meaning": "바다 표면(수면)",
+     "level": 2
+    },
+    {
+     "text": "equatorial",
+     "meaning": "적도 근처의",
+     "level": 3
+    },
+    {
+     "text": "made worse by",
+     "meaning": "~ 때문에 더 나빠진",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo"
+    }
+   ],
+   "num": {
+    "value": "4C above normal",
+    "caption": "지난달 적도 태평양 해수면 온도가 평소보다 4도 높아 1949년 이후 최고예요.",
+    "source": "BBC"
+   },
+   "life": "이 기사는 태풍이 동아시아의 항공편과 농작물에 큰 피해를 줬다고 전해요. 한국도 같은 지역이라 이런 기후 소식은 눈여겨볼 만해요."
+  },
+  {
+   "key": "2026-11-05-pm-9",
+   "section": "world",
+   "tag": "생활에 바로",
+   "title": "A Short Ceasefire Brings Kherson a Moment of Normal Life",
+   "easyKo": "우크라이나 헤르손에서는 일주일 정도 휴전이 이어져 드론 공격이 멈췄어요. 사람들은 오랜만에 거리를 걷고 카페에 갔지만, 휴전 중에도 하늘을 올려다보며 불안해했고, 몇 시간 뒤 휴전은 끝났어요.",
+   "paragraphs": [
+    {
+     "en": "In the Ukrainian city of Kherson, Russian drones usually fill the sky. Last week a truce, arranged by Melania Trump and Pope Leo XIV, gave people a short break.",
+     "ko": "우크라이나 도시 헤르손에는 보통 러시아 드론이 하늘을 메워요. 지난주 멜라니아 트럼프와 교황 레오 14세가 마련한 휴전으로 사람들이 잠시 쉴 수 있었어요."
+    },
+    {
+     "en": "The truce helped the town of Oleshky, across the Dnipro River. Russian troops occupied it in 2022, and food and medicine rarely got through. Hundreds of people were evacuated.",
+     "ko": "휴전은 드니프로강 건너 올레시키 마을을 돕기 위한 것이었어요. 러시아군이 2022년부터 점령해 식량과 약이 거의 들어가지 못했어요. 수백 명이 대피했어요."
+    },
+    {
+     "en": "Two 21-year-old friends could finally meet outside. \"No drones, no explosions,\" said Olena Soboleva. Her friend Anna Herasimenko said the city seemed alive again.",
+     "ko": "21살 두 친구가 드디어 밖에서 만날 수 있었어요. 올레나 소볼레바는 '드론도 폭발도 없었다'고 했어요. 친구 안나 헤라시멘코는 도시가 다시 살아난 것 같다고 했어요."
+    },
+    {
+     "en": "Since 2024, Russian troops across the river have hunted people in Kherson with drones carrying explosives. Heavy nets now cover the highway, streets and many buildings.",
+     "ko": "2024년부터 강 건너 러시아군은 폭발물을 단 드론으로 헤르손 주민을 노려 왔어요. 지금은 고속도로, 거리, 많은 건물이 두꺼운 그물로 덮여 있어요."
+    },
+    {
+     "en": "A former mayor, Volodymyr Mykolaienko, visited his father's grave. Nurse Olena Yehorova said people could breathe, but she does not trust the Russians.",
+     "ko": "전 시장 볼로디미르 미콜라옌코는 아버지 묘를 찾을 수 있었어요. 간호사 올레나 예호로바는 사람들이 숨을 돌렸지만 러시아를 믿을 수는 없다고 했어요."
+    },
+    {
+     "en": "The truce lasted from October 27 to November 1. Even then, nurse Olena Yehorova could not help looking up at the sky, and a few hours later the truce was over.",
+     "ko": "휴전은 10월 27일부터 11월 1일까지였어요. 그때도 간호사 올레나 예호로바는 하늘을 올려다보지 않을 수 없었고, 몇 시간 뒤 휴전은 끝났어요."
+    }
+   ],
+   "keySentence": "The truce lasted from October 27 to November 1.",
+   "glosses": [
+    {
+     "text": "Kherson",
+     "meaning": "우크라이나 남부 도시(헤르손)",
+     "level": 2
+    },
+    {
+     "text": "truce",
+     "meaning": "짧은 휴전, 잠시 싸움을 멈추기로 한 약속",
+     "level": 3
+    },
+    {
+     "text": "Pope Leo XIV",
+     "meaning": "가톨릭 교황 레오 14세",
+     "level": 1
+    },
+    {
+     "text": "Oleshky",
+     "meaning": "드니프로강 건너 러시아가 점령한 우크라이나 마을(올레시키)",
+     "level": 3
+    },
+    {
+     "text": "Dnipro River",
+     "meaning": "우크라이나를 가로지르는 큰 강(드니프로강)",
+     "level": 2
+    },
+    {
+     "text": "occupied",
+     "meaning": "군대가 남의 땅을 차지해 통제했다",
+     "level": 2
+    },
+    {
+     "text": "evacuated",
+     "meaning": "위험 지역에서 안전한 곳으로 옮겨졌다",
+     "level": 3
+    },
+    {
+     "text": "drones",
+     "meaning": "사람이 타지 않고 원격으로 조종하는 비행체",
+     "level": 1
+    },
+    {
+     "text": "explosives",
+     "meaning": "폭발물",
+     "level": 3
+    },
+    {
+     "text": "former mayor",
+     "meaning": "전 시장",
+     "level": 2
+    },
+    {
+     "text": "nets",
+     "meaning": "그물, 여기서는 드론을 막는 두꺼운 망",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://text.npr.org/g-s1-151238"
+    }
+   ],
+   "life": "전쟁 뉴스는 멀게 느껴지지만, 에너지·곡물 가격과 국제 정세를 통해 우리 생활과 이어져요."
+  },
+  {
+   "key": "2026-11-05-pm-10",
+   "section": "money",
+   "tag": "한국에 직접",
+   "title": "Korea Wants to Delay Its Tax on Crypto Gains Until 2029",
+   "easyKo": "한국 정부가 가상자산 수익에 세금을 매기는 시기를 2027년에서 2029년으로 2년 미루겠다고 했어요. 이미 세 번 미룬 일이라 이번이 네 번째가 돼요.",
+   "paragraphs": [
+    {
+     "en": "South Korea wants to delay a tax on cryptocurrency gains by two years, from 2027 to 2029. Finance Minister Lee Hyoung-il announced the plan at a press conference on Thursday.",
+     "ko": "한국은 가상자산 수익에 대한 세금을 2027년에서 2029년으로 2년 미루려 해요. 이형일 재정경제부 장관이 목요일 기자회견에서 발표했어요."
+    },
+    {
+     "en": "Lee said it was a heavy-hearted decision, because the tax has already been delayed three times. If approved, this would be the fourth delay.",
+     "ko": "이 장관은 이미 세 번 미룬 세금이라 마음이 무겁다고 했어요. 승인되면 이번이 네 번째 연기예요."
+    },
+    {
+     "en": "The government said it will begin sharing information about virtual assets with the United States in 2029. Taxing earlier could put the domestic market at a disadvantage.",
+     "ko": "정부는 2029년부터 미국과 가상자산 정보를 교환하기 시작한다고 했어요. 그전에 과세하면 국내 시장이 불리해질 수 있다고 했어요."
+    },
+    {
+     "en": "Under the plan, a 22 percent tax would apply to annual gains above 2.5 million won, about $1,869. Investors may also carry losses forward for up to three years.",
+     "ko": "계획에 따르면 연간 수익 중 250만 원(약 1,869달러)을 넘는 부분에 22% 세금이 붙어요. 투자자는 손실을 최대 3년까지 넘겨 계산할 수도 있게 돼요."
+    },
+    {
+     "en": "Seoul first moved to tax virtual asset gains in 2020, for a start in January 2022. The government will also work on a digital asset law to protect users.",
+     "ko": "서울은 2020년 처음 가상자산 수익 과세를 추진했고 2022년 1월 시행을 계획했어요. 정부는 이용자를 보호할 디지털자산 법도 서둘러 만들겠다고 했어요."
+    },
+    {
+     "en": "A public-private working group will hold its first meeting soon. The ministry plans to send legal changes to the National Assembly in 2027.",
+     "ko": "민관 실무 그룹이 곧 첫 회의를 열어요. 재경부는 2027년에 법 개정안을 국회에 낼 계획이에요."
+    }
+   ],
+   "keySentence": "South Korea wants to delay a tax on cryptocurrency gains by two years, from 2027 to 2029.",
+   "glosses": [
+    {
+     "text": "cryptocurrency",
+     "meaning": "비트코인 같은 암호화폐(가상자산)",
+     "level": 2
+    },
+    {
+     "text": "gains",
+     "meaning": "투자로 번 이익, 수익",
+     "level": 3
+    },
+    {
+     "text": "Finance Minister",
+     "meaning": "재정·경제 정책을 맡은 장관",
+     "level": 2
+    },
+    {
+     "text": "press conference",
+     "meaning": "기자회견",
+     "level": 2
+    },
+    {
+     "text": "virtual assets",
+     "meaning": "가상자산(암호화폐 등)",
+     "level": 3
+    },
+    {
+     "text": "domestic market",
+     "meaning": "국내 시장",
+     "level": 2
+    },
+    {
+     "text": "22 percent",
+     "meaning": "지방소득세를 포함한 세율 22%",
+     "level": 2
+    },
+    {
+     "text": "carry losses forward",
+     "meaning": "손실을 다음 해 이익에서 빼 주도록 넘기다",
+     "level": 4
+    },
+    {
+     "text": "working group",
+     "meaning": "특정 과제를 다루는 실무 모임",
+     "level": 3
+    },
+    {
+     "text": "National Assembly",
+     "meaning": "한국 국회",
+     "level": 1
+    },
+    {
+     "text": "won",
+     "meaning": "한국의 돈 단위(원)",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261105005751320"
+    }
+   ],
+   "num": {
+    "value": "22% over 2.5m won",
+    "caption": "연 250만 원 넘는 가상자산 수익에 22% 세금이 붙어요.",
+    "source": "Yonhap News Agency"
+   },
+   "life": "코인에 투자하는 대학생이라면 과세 시기가 2029년으로 미뤄질 수 있다는 소식이에요. 다만 아직 국회를 통과해야 하는 계획이에요."
+  },
+  {
+   "key": "2026-11-05-pm-11",
+   "section": "money",
+   "tag": "생활에 바로",
+   "title": "Bank of England Expected to Raise Interest Rates for the First Time in Over Three Years",
+   "easyKo": "영국 중앙은행이 3년 넘게 만에 처음으로 금리를 올릴 것으로 보여요. 이란 전쟁 때문에 휘발유와 경유값이 올라 물가가 오르고 있기 때문이에요.",
+   "paragraphs": [
+    {
+     "en": "The Bank of England is expected to raise interest rates on Thursday. It would be the first increase in more than three years.",
+     "ko": "영국 중앙은행이 목요일 금리를 올릴 것으로 예상돼요. 3년 넘게 만의 첫 인상이 될 거예요."
+    },
+    {
+     "en": "Most analysts expect the rate to rise from 3.75 percent to 4 percent. This would make borrowing more costly for people and firms, but it would help savers.",
+     "ko": "대부분의 분석가는 금리가 3.75%에서 4%로 오를 것으로 봐요. 개인과 기업이 돈을 빌리는 비용은 커지지만 저축하는 사람에게는 도움이 돼요."
+    },
+    {
+     "en": "The Bank's rate peaked at 5.25 percent in 2023 and 2024. Its committee has left it unchanged at its last six meetings. The decision comes at noon GMT.",
+     "ko": "중앙은행 금리는 2023~2024년에 5.25%로 가장 높았어요. 위원회는 최근 여섯 번의 회의에서 금리를 그대로 뒀어요. 결정은 그리니치 표준시 정오에 나와요."
+    },
+    {
+     "en": "Inflation was 3.5 percent in the year to September, up from 3.1 percent. That is well above the Bank's 2 percent target. The Iran war has raised fuel and energy costs.",
+     "ko": "9월까지 1년간 물가 상승률은 3.5%로, 전달 3.1%보다 높았어요. 중앙은행의 목표 2%를 크게 웃돌아요. 이란 전쟁이 연료와 에너지 비용을 올렸어요."
+    },
+    {
+     "en": "A quarter-point rise would add about 31 pounds a month for a typical tracker mortgage. About 510,000 people have this type of home loan.",
+     "ko": "0.25%포인트 인상은 일반적인 변동 연동 주택담보대출 이용자에게 월 약 31파운드를 더하게 해요. 이런 대출을 가진 사람은 약 51만 명이에요."
+    },
+    {
+     "en": "Fixed-rate borrowers are not hit right away, but new deals are already pricier. The average five-year fixed mortgage rate was 5.99 percent on November 4.",
+     "ko": "고정금리 대출자는 바로 영향을 받지 않지만 새 상품은 이미 더 비싸졌어요. 11월 4일 평균 5년 고정 주택담보대출 금리는 5.99%였어요."
+    }
+   ],
+   "keySentence": "The Bank of England is expected to raise interest rates on Thursday.",
+   "glosses": [
+    {
+     "text": "Bank of England",
+     "meaning": "영국의 중앙은행",
+     "level": 0
+    },
+    {
+     "text": "interest rates",
+     "meaning": "돈을 빌리거나 맡길 때 붙는 이자율(금리)",
+     "level": 3
+    },
+    {
+     "text": "borrowing",
+     "meaning": "돈을 빌리는 것",
+     "level": 2
+    },
+    {
+     "text": "savers",
+     "meaning": "돈을 모아 저축하는 사람",
+     "level": 3
+    },
+    {
+     "text": "Inflation",
+     "meaning": "물가가 계속 오르는 현상",
+     "level": 2
+    },
+    {
+     "text": "target",
+     "meaning": "중앙은행이 정한 물가 목표",
+     "level": 2
+    },
+    {
+     "text": "quarter-point",
+     "meaning": "0.25%포인트",
+     "level": 3
+    },
+    {
+     "text": "tracker mortgage",
+     "meaning": "기준금리를 따라 이자가 바뀌는 주택담보대출",
+     "level": 4
+    },
+    {
+     "text": "Fixed-rate",
+     "meaning": "정해진 기간 이자율이 바뀌지 않는",
+     "level": 3
+    },
+    {
+     "text": "analysts",
+     "meaning": "시장·경제를 분석하는 전문가",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo"
+    }
+   ],
+   "num": {
+    "value": "3.75% to 4%",
+    "caption": "영국 기준금리가 이 정도로 오를 것으로 분석가들이 예상해요.",
+    "source": "BBC"
+   },
+   "life": "영국 소식이지만, 기름값 때문에 오른 물가가 금리 인상으로 이어지는 흐름은 한국에서도 대출 이자와 저축에 비슷하게 닿을 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-12",
+   "section": "money",
+   "tag": "한국에 직접",
+   "title": "Korean Battery Makers Gain Ground in North America's Energy Storage Market",
+   "easyKo": "LG에너지솔루션과 삼성SDI가 북미 에너지저장장치(ESS) 배터리 시장에서 점유율을 크게 늘렸어요. 중국 제품에 대한 무역 장벽이 한국 업체에 기회가 되고 있어요.",
+   "paragraphs": [
+    {
+     "en": "South Korean battery makers are growing fast in North America's energy storage market. Tighter trade limits on Chinese products are giving them new chances.",
+     "ko": "한국 배터리 업체들이 북미 에너지저장 시장에서 빠르게 성장하고 있어요. 중국 제품에 대한 무역 제한이 강해지면서 새로운 기회가 생겼어요."
+    },
+    {
+     "en": "LG Energy Solution and Samsung SDI together held 20.9 percent of the market in the first nine months of this year. A year earlier, they held 13.4 percent.",
+     "ko": "올해 1~9월 LG에너지솔루션과 삼성SDI는 시장의 20.9%를 차지했어요. 1년 전에는 13.4%였어요."
+    },
+    {
+     "en": "LG Energy Solution's shipments rose 71 percent to 18.4 gigawatt-hours. Its market share grew from 4.8 percent to 15 percent, according to SNE Research.",
+     "ko": "시장조사업체 SNE리서치에 따르면 LG에너지솔루션의 출하량은 71% 늘어 18.4기가와트시가 됐어요. 점유율은 4.8%에서 15%로 올랐어요."
+    },
+    {
+     "en": "In the third quarter alone, LG shipped 8.1 gigawatt-hours. That beat Hithium and made it the second-largest supplier in North America after China's CATL.",
+     "ko": "3분기만 보면 LG는 8.1기가와트시를 출하했어요. 이는 히튬을 앞서 중국 CATL에 이은 북미 2위 공급업체가 되게 했어요."
+    },
+    {
+     "en": "China's CATL still led with a 37 percent share. Chinese rival CALB grew only 3 percent, and its share fell from 11.6 percent to 7 percent.",
+     "ko": "중국 CATL이 여전히 37%로 1위였어요. 중국 CALB는 3% 성장에 그쳐 점유율이 11.6%에서 7%로 내렸어요."
+    },
+    {
+     "en": "Samsung SDI ranked fifth, with shipments up 17 percent to 7.1 gigawatt-hours. But its share slipped from 8.6 to 5.8 percent. Its shipments for AI data center batteries jumped 68 percent.",
+     "ko": "삼성SDI는 5위였고 출하량은 17% 늘어 7.1기가와트시였어요. 하지만 점유율은 8.6%에서 5.8%로 내렸어요. 한편 AI 데이터센터용 배터리 출하는 68% 늘었어요."
+    },
+    {
+     "en": "Worldwide, energy storage battery shipments rose 73 percent to 779.9 gigawatt-hours in the first nine months of 2026.",
+     "ko": "전 세계 에너지저장 배터리 출하량은 올해 1~9월 73% 늘어 779.9기가와트시가 됐어요."
+    }
+   ],
+   "keySentence": "LG Energy Solution and Samsung SDI together held 20.9 percent of the market in the first nine months of this year.",
+   "glosses": [
+    {
+     "text": "energy storage",
+     "meaning": "전기를 저장했다가 필요할 때 쓰는 장치(ESS)",
+     "level": 3
+    },
+    {
+     "text": "trade limits",
+     "meaning": "무역 제한(관세 등 수입 규제)",
+     "level": 3
+    },
+    {
+     "text": "LG Energy Solution",
+     "meaning": "LG에너지솔루션(한국 배터리 회사)",
+     "level": 0
+    },
+    {
+     "text": "Samsung SDI",
+     "meaning": "삼성SDI(한국 배터리 회사)",
+     "level": 0
+    },
+    {
+     "text": "market share",
+     "meaning": "전체 시장에서 한 회사가 차지하는 비율",
+     "level": 3
+    },
+    {
+     "text": "shipments",
+     "meaning": "출하량, 만들어서 내보낸 양",
+     "level": 3
+    },
+    {
+     "text": "gigawatt-hours",
+     "meaning": "전기 저장 용량을 재는 단위(GWh)",
+     "level": 4
+    },
+    {
+     "text": "SNE Research",
+     "meaning": "배터리 시장 조사 회사",
+     "level": 1
+    },
+    {
+     "text": "third quarter",
+     "meaning": "1년을 넷으로 나눈 셋째 분기(7~9월)",
+     "level": 3
+    },
+    {
+     "text": "CATL",
+     "meaning": "중국 배터리 회사",
+     "level": 0
+    },
+    {
+     "text": "supplier",
+     "meaning": "제품을 공급하는 업체",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927237"
+    }
+   ],
+   "num": {
+    "value": "20.9%",
+    "caption": "LG에너지솔루션과 삼성SDI의 북미 ESS 배터리 점유율(올해 1~9월)이에요.",
+    "source": "Korea Herald"
+   },
+   "life": "한국 배터리 기업의 성장은 이공계 취업 시장 소식으로도 이어질 수 있어요. 다만 이 기사는 점유율 변화만 다루고 채용은 말하지 않아요."
+  },
+  {
+   "key": "2026-11-05-pm-13",
+   "section": "tech",
+   "tag": "파장 큼",
+   "title": "Hackers Hit Freezers That Store Blood in France",
+   "easyKo": "유럽 슈퍼마켓 냉동고를 노린 해킹이 프랑스 혈액 보관 시설까지 번졌어요. 다행히 직원들이 제때 막아서 피해는 없었다고 해요. 누가 했는지는 아직 몰라요.",
+   "paragraphs": [
+    {
+     "en": "Cyber-attacks on freezers in Europe have now reached blood storage. France's blood service, called the EFS, says cold rooms for donated blood were affected, and temperatures were set to rise. Staff stepped in, and the EFS reports no health impact and no lost blood products.",
+     "ko": "유럽 냉동고를 노린 사이버 공격이 이제 혈액 보관까지 닿았어요. 프랑스 혈액원 EFS는 헌혈 혈액을 두는 냉장실이 공격을 받아 온도가 오르도록 설정됐다고 밝혔어요. 직원들이 막아서 건강 피해도, 사라진 혈액도 없다고 해요."
+    },
+    {
+     "en": "Until now, only supermarkets were known to be hit. Experts say the second wave struck several European countries at the same time, mostly overnight. Ryan Dewhurst of the firm Previdian says this suggests planning and coordination.",
+     "ko": "지금까지는 슈퍼마켓만 피해를 본 것으로 알려졌어요. 전문가들은 두 번째 공격이 여러 유럽 나라를 동시에, 주로 밤에 때렸다고 말해요. 보안 회사 프레비디언의 라이언 듀허스트는 이것이 치밀한 계획과 조율을 뜻한다고 말해요."
+    },
+    {
+     "en": "Who did it? Two Russian groups claimed they hacked Danfoss, a maker of the systems. Analysts doubt this proves they caused the attacks. Experts say Iranian groups, state hackers or even teenagers cannot be ruled out. The firm Sekoia found no technical evidence of Russian involvement.",
+     "ko": "누가 했을까요? 러시아 해커 집단 두 곳이 이 시스템 제작사 단포스를 해킹했다고 주장했어요. 하지만 분석가들은 그것이 공격의 주범이라는 증거는 아니라고 의심해요. 이란 계열 집단, 국가 해커, 심지어 10대 장난일 가능성도 배제하지 않아요. 보안 회사 세코이아는 러시아 관여의 기술적 증거가 없다고 했어요."
+    },
+    {
+     "en": "Researchers use honeypots, which are fake freezer systems set up as traps. The Scottish firm Lupovis saw hackers probing its fake sites only in Europe, starting ten days before the second wave. The weak systems were easy to attack because known methods were already online.",
+     "ko": "연구자들은 가짜 냉동고 시스템을 함정으로 놓는 '허니팟'을 써요. 스코틀랜드 보안 회사 루포비스는 두 번째 공격 열흘 전부터 유럽에서만 가짜 사이트를 살펴보는 해커들을 봤어요. 보호가 약한 시스템이라 이미 인터넷에 퍼진 방법으로 쉽게 뚫렸어요."
+    },
+    {
+     "en": "Food supply is also a worry. When the UK stores M&S and Co-op were hit by ransomware in May 2025, some shelves stayed empty for days. Researcher Tom Hegel says a hacked freezer can destroy real stock, because even a normal defrost setting becomes a tool for disruption.",
+     "ko": "식품 공급도 걱정거리예요. 2025년 5월 영국의 M&S와 코옵이 랜섬웨어 공격을 받았을 때 매대가 며칠 비었어요. 연구자 톰 헤겔은 해킹된 냉동고가 실제 재고를 망가뜨릴 수 있고, 평범한 해동 기능도 방해 도구가 된다고 말해요."
+    },
+    {
+     "en": "This is also a warning about everyday devices. Researchers found more than 800 refrigeration and building-control systems linked to British stores that can be reached over the public internet. That does not mean they can be hacked, but weak passwords could leave them open.",
+     "ko": "일상 기기에 대한 경고이기도 해요. 연구자들은 영국 소매점과 연결된 냉동·건물 제어 시스템 800개 넘게 공개 인터넷으로 접근할 수 있다는 걸 찾아냈어요. 반드시 뚫린다는 뜻은 아니지만 약한 비밀번호가 있으면 열릴 수 있어요."
+    },
+    {
+     "en": "Ciaran Martin, a former head of the UK's National Cyber Security Centre, says makers must do more to secure connected devices. His advice to users is simple: keep devices updated and turn on multi-factor authentication whenever possible.",
+     "ko": "영국 국가사이버보안센터 전 센터장 키아란 마틴은 제조사가 연결 기기를 더 안전하게 만들어야 한다고 말해요. 사용자에게는 기기를 업데이트하고 가능하면 다단계 인증을 켜라고 권해요."
+    }
+   ],
+   "keySentence": "Cyber-attacks on freezers in Europe have now reached blood storage.",
+   "glosses": [
+    {
+     "text": "Cyber-attacks",
+     "meaning": "사이버 공격",
+     "level": 2
+    },
+    {
+     "text": "blood service",
+     "meaning": "혈액원(헌혈과 혈액 공급을 맡는 기관)",
+     "level": 2
+    },
+    {
+     "text": "cold rooms",
+     "meaning": "냉장실",
+     "level": 2
+    },
+    {
+     "text": "stepped in",
+     "meaning": "나서서 개입했다",
+     "level": 3
+    },
+    {
+     "text": "second wave",
+     "meaning": "두 번째 물결(연속 공격의 두 번째 차례)",
+     "level": 3
+    },
+    {
+     "text": "coordination",
+     "meaning": "여러 곳을 맞추는 조율",
+     "level": 3
+    },
+    {
+     "text": "Danfoss",
+     "meaning": "덴마크의 냉각·제어 장비 제작사",
+     "level": 0
+    },
+    {
+     "text": "ruled out",
+     "meaning": "가능성에서 제외하다",
+     "level": 3
+    },
+    {
+     "text": "honeypots",
+     "meaning": "해커를 유인해 관찰하려고 놓은 가짜 시스템",
+     "level": 3
+    },
+    {
+     "text": "probing",
+     "meaning": "살살 찔러 보며 약점을 찾는",
+     "level": 4
+    },
+    {
+     "text": "multi-factor authentication",
+     "meaning": "비밀번호 외에 한 단계 더 확인하는 로그인 방식",
+     "level": 3
+    },
+    {
+     "text": "National Cyber Security Centre",
+     "meaning": "영국 국가사이버보안센터",
+     "level": 0
+    },
+    {
+     "text": "connected devices",
+     "meaning": "인터넷에 연결된 기기",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go"
+    }
+   ],
+   "life": "스마트 냉장고, 공유기, 캠퍼스 사물인터넷 기기도 인터넷에 연결돼 있어요. 기기 업데이트와 다단계 인증을 켜는 작은 습관이 내 자취방 기기를 지키는 첫걸음이에요.",
+   "deep": {
+    "why": "사이버 공격이 컴퓨터 화면을 넘어 음식과 혈액 같은 실제 물건을 망가뜨릴 수 있다는 걸 보여 줘서 중요해요.",
+    "next": "수사 당국이 범인을 밝히는지, 그리고 냉동고 제어 시스템 제작사와 소매점이 보안 책임을 어떻게 나누는지 볼 만해요.",
+    "keyNumbers": "유럽 슈퍼마켓·혈액 시설 피해 · 영국 소매점 연결 시스템 800개 넘게 인터넷에 노출 · 혈액 손실 없음",
+    "views": [
+     {
+      "source": "BBC News",
+      "view": "이번 공격은 계획과 조율의 흔적이 뚜렷하지만 러시아 집단의 소행이라는 주장은 아직 믿기 어렵다는 보안 업체의 신중한 시각을 전해요."
+     },
+     {
+      "source": "BBC News",
+      "view": "전 영국 사이버보안센터장은 제조사가 안전한 기기를 만들어야 한다고 말하고, 한 연구자는 장비 보안을 누가 책임지는지가 핵심이라고 말해요."
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-05-pm-14",
+   "section": "tech",
+   "tag": "한국에 직접",
+   "title": "SK hynix Names Its $10 Billion US AI Investment Arm",
+   "easyKo": "SK하이닉스가 미국에서 AI 회사와 시설에 투자할 자회사의 이름을 '하이아이코'로 정하고, 최태원 회장이 이사회 의장을 맡기로 했어요. 투자 한도는 최대 100억 달러예요.",
+   "paragraphs": [
+    {
+     "en": "SK hynix has named its US-based AI investment arm Hyaico Corp. SK Group Chairman Chey Tae-won will lead its board. The company plans to invest up to $10 billion in the US AI industry.",
+     "ko": "SK하이닉스가 미국에 둔 AI 투자 자회사의 이름을 하이아이코로 정했어요. 최태원 SK그룹 회장이 이사회 의장을 맡아요. 회사는 미국 AI 산업에 최대 100억 달러를 투자할 계획이에요."
+    },
+    {
+     "en": "The chipmaker shared the name and leadership in a filing with the US Securities and Exchange Commission on Tuesday. The plan was first announced in January under the temporary name AI Co. SK hynix President Song Hyun-jong will serve as CEO.",
+     "ko": "SK하이닉스는 화요일 미국 증권거래위원회에 낸 서류로 이름과 경영진을 밝혔어요. 이 계획은 1월 'AI Co.'라는 임시 이름으로 처음 발표됐어요. 송현종 SK하이닉스 사장이 대표를 맡아요."
+    },
+    {
+     "en": "Hyaico will work through Solidigm, SK hynix's US NAND flash memory subsidiary. It will invest in American AI companies and infrastructure projects, including AI factories. This helps SK Group grow beyond memory chips.",
+     "ko": "하이아이코는 SK하이닉스의 미국 낸드플래시 자회사 솔리다임을 통해 움직여요. 미국 AI 기업과 AI 공장 같은 기반 시설에 투자할 거예요. SK그룹이 메모리 반도체 너머로 넓어지는 데 도움이 돼요."
+    },
+    {
+     "en": "The fund will use capital calls, so investors add money only when a good chance appears. The $10 billion is a maximum, not an immediate investment. Returns from Solidigm's current memory business will stay separate from the new AI investments.",
+     "ko": "자금은 '캐피털 콜' 방식이라 좋은 기회가 생길 때마다 투자자가 돈을 넣어요. 100억 달러는 당장의 투자가 아니라 최대 한도예요. 솔리다임의 기존 메모리 사업 수익은 새 AI 투자와 따로 관리돼요."
+    }
+   ],
+   "keySentence": "The $10 billion is a maximum, not an immediate investment.",
+   "glosses": [
+    {
+     "text": "investment arm",
+     "meaning": "투자를 맡은 자회사나 부문",
+     "level": 3
+    },
+    {
+     "text": "Hyaico Corp.",
+     "meaning": "SK하이닉스의 미국 AI 투자 자회사 이름",
+     "level": 0
+    },
+    {
+     "text": "SK Group",
+     "meaning": "SK그룹",
+     "level": 0
+    },
+    {
+     "text": "board",
+     "meaning": "이사회",
+     "level": 2
+    },
+    {
+     "text": "filing",
+     "meaning": "공식 제출 서류",
+     "level": 3
+    },
+    {
+     "text": "US Securities and Exchange Commission",
+     "meaning": "미국 증권거래위원회(SEC)",
+     "level": 0
+    },
+    {
+     "text": "Solidigm",
+     "meaning": "SK하이닉스의 미국 낸드플래시 자회사",
+     "level": 0
+    },
+    {
+     "text": "NAND flash memory",
+     "meaning": "전원이 꺼져도 저장되는 메모리 반도체",
+     "level": 3
+    },
+    {
+     "text": "subsidiary",
+     "meaning": "자회사",
+     "level": 3
+    },
+    {
+     "text": "infrastructure",
+     "meaning": "기반 시설",
+     "level": 3
+    },
+    {
+     "text": "capital calls",
+     "meaning": "필요할 때 투자자에게 돈을 내라고 요청하는 방식",
+     "level": 4
+    },
+    {
+     "text": "Returns",
+     "meaning": "투자로 얻는 수익",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927161"
+    }
+   ],
+   "life": "한국 반도체 회사가 미국 AI 시장에 직접 투자하면 반도체 업계 일자리와 채용 소식에도 영향을 줄 수 있어요. 졸업 후 진로로 반도체를 보는 학생이라면 눈여겨볼 만해요."
+  },
+  {
+   "key": "2026-11-05-pm-15",
+   "section": "tech",
+   "tag": "한국에 직접",
+   "title": "Samsung Keeps Top Spot in Global DRAM Market",
+   "easyKo": "3분기 세계 D램 시장에서 삼성전자가 점유율 38%로 1위를 지켰어요. SK하이닉스는 29%로 점유율을 3%포인트 되찾아 2위예요. 미국 마이크론이 3위예요.",
+   "paragraphs": [
+    {
+     "en": "Samsung Electronics kept the top spot in the global DRAM market in the third quarter. Its share of revenue was 38 percent for the July to September period. That was down slightly from 39 percent three months earlier.",
+     "ko": "삼성전자는 3분기 세계 D램 시장에서 1위를 지켰어요. 7~9월 매출 기준 점유율은 38%로, 석 달 전 39%보다 조금 낮아졌어요."
+    },
+    {
+     "en": "SK hynix came second. It regained some of the share it had lost earlier this year, as its share rose by three percentage points to 29 percent. The data comes from the research firm Counterpoint Research.",
+     "ko": "SK하이닉스가 2위예요. 올해 초 잃은 점유율을 일부 되찾아 3%포인트 올라 29%가 됐어요. 이 자료는 조사 회사 카운터포인트 리서치가 냈어요."
+    },
+    {
+     "en": "The US chipmaker Micron Technology ranked third with 21 percent. China's ChangXin Memory Technologies, known as CXMT, followed with 9 percent. Counterpoint said CXMT's share could fall further.",
+     "ko": "미국 반도체 회사 마이크론이 21%로 3위, 중국 창신메모리(CXMT)가 9%로 뒤를 이었어요. 카운터포인트는 CXMT의 점유율이 더 내려갈 수 있다고 봤어요."
+    },
+    {
+     "en": "Counterpoint said this could happen as supplies of HBM4, a new fourth-generation high-bandwidth memory chip, begin from Korean chipmakers in the fourth quarter. Samsung and SK hynix are also enjoying an earnings boom because memory prices are rising amid supply bottlenecks.",
+     "ko": "카운터포인트는 한국 반도체 회사들이 4분기부터 4세대 고대역폭 메모리인 HBM4를 공급하기 시작하면서 그렇게 될 수 있다고 봤어요. 삼성과 SK하이닉스는 공급이 막힌 가운데 메모리 가격이 오르면서 이익도 크게 늘고 있어요."
+    }
+   ],
+   "keySentence": "Samsung Electronics kept the top spot in the global DRAM market in the third quarter.",
+   "glosses": [
+    {
+     "text": "DRAM",
+     "meaning": "컴퓨터의 작업용 메모리 반도체(디램)",
+     "level": 3
+    },
+    {
+     "text": "quarter",
+     "meaning": "분기(석 달)",
+     "level": 3
+    },
+    {
+     "text": "revenue",
+     "meaning": "매출",
+     "level": 3
+    },
+    {
+     "text": "percentage points",
+     "meaning": "퍼센트포인트(비율끼리의 차이)",
+     "level": 3
+    },
+    {
+     "text": "regained",
+     "meaning": "되찾았다",
+     "level": 3
+    },
+    {
+     "text": "Counterpoint Research",
+     "meaning": "시장 조사 회사 카운터포인트 리서치",
+     "level": 0
+    },
+    {
+     "text": "Micron Technology",
+     "meaning": "미국 메모리 반도체 회사 마이크론",
+     "level": 0
+    },
+    {
+     "text": "ChangXin Memory Technologies",
+     "meaning": "중국 메모리 반도체 회사 창신메모리(CXMT)",
+     "level": 0
+    },
+    {
+     "text": "HBM4",
+     "meaning": "AI용 고성능 메모리 4세대",
+     "level": 3
+    },
+    {
+     "text": "high-bandwidth memory",
+     "meaning": "한꺼번에 많은 데이터를 옮기는 메모리",
+     "level": 4
+    },
+    {
+     "text": "bottlenecks",
+     "meaning": "공급이 막히는 병목",
+     "level": 4
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/business/companies/20261105/samsung-retains-top-spots-in-global-dram-market-in-q3"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/business/tech-science/20261105/us-midterm-blue-wave-puts-pressure-on-memory-chip-demand"
+    }
+   ],
+   "num": {
+    "value": "38% / 29%",
+    "caption": "3분기 세계 D램 점유율: 삼성전자 38%, SK하이닉스 29%",
+    "source": "The Korea Times"
+   },
+   "life": "한국 수출과 취업 시장에서 메모리 반도체 비중이 커서, 이 순위는 대학생 진로와도 가까운 이야기예요. 점유율이 어떻게 변하는지 보면 업계 분위기를 읽기 쉬워요."
+  },
+  {
+   "key": "2026-11-05-pm-16",
+   "section": "science",
+   "tag": "의견 갈림",
+   "title": "Permanent Daylight Saving Time Could Mean Billions of Dark School Trips",
+   "easyKo": "미국에서 서머타임을 1년 내내 쓰자는 법이 논의되는데, 새 연구는 그러면 어린이들이 해 뜨기 전 어둠 속에서 학교에 가는 일이 최소 20억 번 더 늘 거라고 해요. 어두운 아침에는 보행자 사망 사고 위험도 컸어요.",
+   "paragraphs": [
+    {
+     "en": "A new study warns that permanent daylight saving time would force American children to make at least 2 billion more school trips in the dark. Researchers at the University of Washington published the work on October 29 in the journal Current Biology.",
+     "ko": "새 연구는 서머타임을 1년 내내 쓰면 미국 어린이들이 어둠 속에서 학교에 가는 일이 최소 20억 번 더 늘 거라고 경고해요. 워싱턴 대학교 연구진이 10월 29일 학술지 <커런트 바이올로지>에 냈어요."
+    },
+    {
+     "en": "This past summer, the US House approved a bill to end the yearly return to standard time. Nineteen states have already approved the change. The bill is stalled in the Senate, and school start times are a major concern.",
+     "ko": "올여름 미국 하원은 가을마다 표준시로 돌아가는 일을 없애는 법안을 통과시켰어요. 19개 주가 이미 이 변화를 승인했어요. 법안은 상원에서 멈춰 있고, 학교 시작 시간이 큰 걱정거리예요."
+    },
+    {
+     "en": "The team studied 14 of those states, using school start times and locations. In Washington state, the change would add nearly 35 million dark trips. Georgia would see the largest rise, about 71 million.",
+     "ko": "연구진은 학교 시작 시간과 위치를 바탕으로 그중 14개 주를 살폈어요. 워싱턴주에서는 어두운 등교가 약 3,500만 번, 조지아주에서는 가장 많은 약 7,100만 번 늘어요."
+    },
+    {
+     "en": "Mississippi and Alabama show the problem clearly. Schools there start before 8 a.m. on average. Each state has about 2 million dark trips now, but it would rise to more than 20 million.",
+     "ko": "미시시피와 앨라배마가 문제를 잘 보여 줘요. 두 주의 학교는 평균 오전 8시 전에 시작해요. 지금은 주마다 어두운 등교가 약 200만 번인데, 2,000만 번이 넘게 늘어요."
+    },
+    {
+     "en": "Safety is one worry. Fatal crashes involving school-aged pedestrians were roughly twice as likely on dark mornings as after sunrise. Another worry is the body clock, because morning light helps control sleep and mood.",
+     "ko": "한 가지 걱정은 안전이에요. 학령기 보행자가 관련된 사망 사고는 해 뜨기 전 어두운 아침이 해 뜬 뒤보다 약 두 배 많았어요. 또 하나는 생체 시계예요. 아침 햇빛이 수면과 기분을 조절하는 데 도움을 주기 때문이에요."
+    },
+    {
+     "en": "The nationwide number assumes students leave home around 8 a.m. The lead author says many leave earlier, so the real number is probably higher.",
+     "ko": "전국 추정치는 학생들이 오전 8시쯤 집을 나선다고 가정했어요. 제1저자는 더 일찍 나서는 학생이 많아 실제 숫자는 더 클 것 같다고 말해요."
+    }
+   ],
+   "keySentence": "A new study warns that permanent daylight saving time would force American children to make at least 2 billion more school trips in the dark.",
+   "glosses": [
+    {
+     "text": "permanent",
+     "meaning": "영구적인, 계속되는",
+     "level": 3
+    },
+    {
+     "text": "daylight saving time",
+     "meaning": "서머타임(여름철에 시계를 한 시간 앞당기는 제도)",
+     "level": 2
+    },
+    {
+     "text": "standard time",
+     "meaning": "표준시(시계를 앞당기지 않은 시간)",
+     "level": 3
+    },
+    {
+     "text": "University of Washington",
+     "meaning": "워싱턴 대학교",
+     "level": 0
+    },
+    {
+     "text": "Current Biology",
+     "meaning": "생물학 학술지 <커런트 바이올로지>",
+     "level": 0
+    },
+    {
+     "text": "House",
+     "meaning": "미국 하원",
+     "level": 3
+    },
+    {
+     "text": "bill",
+     "meaning": "법안",
+     "level": 3
+    },
+    {
+     "text": "stalled",
+     "meaning": "멈춰 있는",
+     "level": 3
+    },
+    {
+     "text": "Senate",
+     "meaning": "미국 상원",
+     "level": 2
+    },
+    {
+     "text": "start times",
+     "meaning": "시작 시간",
+     "level": 1
+    },
+    {
+     "text": "Fatal",
+     "meaning": "목숨을 잃게 하는",
+     "level": 3
+    },
+    {
+     "text": "pedestrians",
+     "meaning": "보행자",
+     "level": 3
+    },
+    {
+     "text": "body clock",
+     "meaning": "생체 시계",
+     "level": 3
+    },
+    {
+     "text": "lead author",
+     "meaning": "논문의 제1저자",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm"
+    }
+   ],
+   "num": {
+    "value": "2 billion+",
+    "caption": "서머타임이 1년 내내 이어질 때 늘어나는 어두운 등교 횟수(최소)",
+    "source": "ScienceDaily"
+   },
+   "life": "한국은 서머타임을 쓰지 않지만, 아침 햇빛이 수면 리듬을 돕는다는 점은 1교시나 이른 출근이 있는 대학생에게도 그대로 해당돼요. 아침에 잠깐이라도 밖의 빛을 쬐는 습관을 생각해 볼 만해요."
+  },
+  {
+   "key": "2026-11-05-pm-17",
+   "section": "science",
+   "tag": "모두의 화제",
+   "title": "NASA Looks for Help to Save the Hubble Space Telescope",
+   "easyKo": "허블 우주망원경은 조금씩 고도가 낮아져서 2033~2034년쯤 지구 대기로 떨어질 수 있어요. 그래서 NASA가 민간 우주 회사들에게 허블을 더 높은 궤도로 밀어 올릴 방법이 있는지 물었어요. 아직 승인된 계획은 아니에요.",
+   "paragraphs": [
+    {
+     "en": "NASA is asking private space companies how they could help the Hubble Space Telescope stay in orbit. On October 29, the agency issued a Request for Information about commercial ways to service Hubble. Companies can reply until November 30.",
+     "ko": "NASA가 민간 우주 회사들에게 허블 우주망원경이 궤도에 머물도록 어떻게 도울 수 있는지 묻고 있어요. 10월 29일 허블을 정비할 상업적 방법을 묻는 정보 요청서를 냈어요. 회사들은 11월 30일까지 답할 수 있어요."
+    },
+    {
+     "en": "Hubble has worked for more than 35 years and has changed how we see the universe. But its orbit is slowly shrinking. A thin layer of air still exists high above Earth and drags on the telescope.",
+     "ko": "허블은 35년 넘게 일하며 우리가 우주를 보는 방식을 바꿨어요. 하지만 궤도가 서서히 줄고 있어요. 지구 높은 곳에도 아주 얇은 공기가 있어서 망원경을 끌어당겨요."
+    },
+    {
+     "en": "Hubble has no engine to raise its orbit. NASA's analysis says it will likely fall back into the atmosphere between 2033 and 2034. A mission to boost it would need to launch by 2032.",
+     "ko": "허블에는 궤도를 올릴 엔진이 없어요. NASA 분석으로는 2033~2034년 사이 대기권으로 다시 들어올 가능성이 커요. 궤도를 끌어올리려면 2032년까지 임무가 이뤄져야 해요."
+    },
+    {
+     "en": "NASA is looking at several ideas. One is to push Hubble into a higher orbit. Another is to repair or upgrade it. A third is to end its mission safely, either by guiding it down or by disposing of it in orbit.",
+     "ko": "NASA는 여러 아이디어를 보고 있어요. 하나는 허블을 더 높은 궤도로 밀어 올리는 것, 다른 하나는 고치거나 성능을 높이는 것이에요. 세 번째는 지구로 유도해 내리거나 궤도에서 처리해 임무를 안전하게 끝내는 거예요."
+    },
+    {
+     "en": "These are only possibilities, not approved plans. NASA Administrator Jared Isaacman said that if there are low-cost ways to extend Hubble's life, the agency should explore them.",
+     "ko": "이것들은 가능성일 뿐 승인된 계획이 아니에요. NASA 청장 재러드 아이잭먼은 비용이 적게 드는 연장 방법이 있다면 살펴봐야 한다고 말했어요."
+    }
+   ],
+   "keySentence": "Hubble has no engine to raise its orbit.",
+   "glosses": [
+    {
+     "text": "Hubble Space Telescope",
+     "meaning": "허블 우주망원경",
+     "level": 0
+    },
+    {
+     "text": "private",
+     "meaning": "민간의",
+     "level": 2
+    },
+    {
+     "text": "in orbit",
+     "meaning": "궤도에서",
+     "level": 2
+    },
+    {
+     "text": "Request for Information",
+     "meaning": "정보 요청서(해결책을 묻는 공식 문서)",
+     "level": 3
+    },
+    {
+     "text": "commercial",
+     "meaning": "상업적인, 민간 기업의",
+     "level": 3
+    },
+    {
+     "text": "service",
+     "meaning": "정비하다",
+     "level": 3
+    },
+    {
+     "text": "drags on",
+     "meaning": "~을 끌어당겨 속도를 줄이다",
+     "level": 4
+    },
+    {
+     "text": "analysis",
+     "meaning": "분석",
+     "level": 2
+    },
+    {
+     "text": "boost",
+     "meaning": "밀어 올리다",
+     "level": 3
+    },
+    {
+     "text": "upgrade",
+     "meaning": "성능을 높이다",
+     "level": 2
+    },
+    {
+     "text": "disposing of",
+     "meaning": "처리하다",
+     "level": 3
+    },
+    {
+     "text": "Administrator",
+     "meaning": "(NASA) 청장",
+     "level": 3
+    },
+    {
+     "text": "NASA",
+     "meaning": "미국항공우주국",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm"
+    }
+   ],
+   "num": {
+    "value": "2033-2034",
+    "caption": "NASA 분석에서 허블이 대기권으로 다시 들어올 가능성이 큰 때",
+    "source": "ScienceDaily"
+   },
+   "life": "우리가 교과서와 뉴스에서 보는 우주 사진 상당수가 허블에서 나왔어요. 정부와 민간 기업이 함께 우주 장비를 고치는 시대가 온다는 점이 우주·공학 전공 학생에게 흥미로운 진로 힌트가 될 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-18",
+   "section": "science",
+   "tag": "의견 갈림",
+   "title": "Physicists Detect Signals From the 'Zeptoverse,' Smaller Than Ever Explored",
+   "easyKo": "영국 케임브리지 대학 연구진이 거대 입자가속기에서 원자보다 1,000억 배 작은 세계의 신호를 잡았어요. 어둠의 물질을 찾는 데 도움이 될 수 있어요. 그런데 영국의 연구비 삭감 때문에 후속 연구가 흔들리고 있어요.",
+   "paragraphs": [
+    {
+     "en": "Scientists have picked up signals from the smallest scale of nature ever explored. It is 100 billion times smaller than an atom. Some physicists call this tiny world the zeptoverse.",
+     "ko": "과학자들이 지금까지 탐구한 가장 작은 규모의 자연에서 신호를 잡았어요. 원자보다 1,000억 배 작은 세계예요. 일부 물리학자는 이 작은 세계를 '젭토버스'라고 불러요."
+    },
+    {
+     "en": "The work was led by scientists in Cambridge, using the Large Hadron Collider at Cern on the Swiss-French border. They studied the beauty quark, a tiny particle that lives only about one and a half trillionths of a second before it decays.",
+     "ko": "연구는 케임브리지 기반 과학자들이 이끌었고, 스위스·프랑스 국경의 세른에 있는 대형 강입자 충돌기 실험에서 나왔어요. 이들은 약 1.5조분의 1초만 살다가 다른 입자로 변하는 바텀 쿼크를 조사했어요."
+    },
+    {
+     "en": "Dark matter makes up a large part of the cosmos, yet it is invisible. Some theories say particles at this tiny scale are more sensitive to it. So signals here could help scientists find dark matter.",
+     "ko": "암흑 물질은 우주의 큰 부분을 차지하지만 눈에 보이지 않아요. 일부 이론은 이렇게 작은 규모에서는 입자가 암흑 물질에 더 민감하다고 해요. 그래서 이곳의 신호가 암흑 물질을 찾는 데 도움이 될 수 있어요."
+    },
+    {
+     "en": "Dr Harry Cliff of Cambridge says the team is knocking on the door of the zeptoverse and needs more data. Twenty-eight countries agreed on a £150m upgrade that would make these decays ten times more frequent.",
+     "ko": "케임브리지의 해리 클리프 박사는 팀이 젭토버스의 문을 두드리고 있으며 더 많은 데이터가 필요하다고 말해요. 28개국은 이런 붕괴를 열 배 더 자주 일으킬 1억 5,000만 파운드 규모의 장비 개선에 합의했어요."
+    },
+    {
+     "en": "But the UK funding agency UKRI withdrew its share of the money. Prof Tim Gershon says the UK risks losing out, and young researcher Dr Mary Richardson-Slipper is looking at jobs abroad. UKRI says it is still a major funder of Cern.",
+     "ko": "하지만 영국 연구비 기관 UKRI가 자기 몫을 거뒀어요. 팀 거숀 교수는 영국이 뒤처질 위험이 있다고 하고, 젊은 연구자 메리 리처드슨슬리퍼 박사는 해외 일자리를 알아보고 있어요. UKRI는 여전히 세른의 주요 후원자라고 말해요."
+    }
+   ],
+   "keySentence": "Scientists have picked up signals from the smallest scale of nature ever explored.",
+   "glosses": [
+    {
+     "text": "picked up",
+     "meaning": "(신호를) 잡아내다",
+     "level": 3
+    },
+    {
+     "text": "scale",
+     "meaning": "규모, 크기 단계",
+     "level": 3
+    },
+    {
+     "text": "atom",
+     "meaning": "원자",
+     "level": 2
+    },
+    {
+     "text": "zeptoverse",
+     "meaning": "젭토(10의 -21제곱) 크기의 아주 작은 세계를 부르는 말",
+     "level": 4
+    },
+    {
+     "text": "Large Hadron Collider",
+     "meaning": "대형 강입자 충돌기(거대 입자가속기)",
+     "level": 0
+    },
+    {
+     "text": "Cern",
+     "meaning": "유럽입자물리연구소(세른)",
+     "level": 0
+    },
+    {
+     "text": "beauty quark",
+     "meaning": "바텀(뷰티) 쿼크, 아주 작은 기본 입자",
+     "level": 4
+    },
+    {
+     "text": "decays",
+     "meaning": "다른 입자로 변하며 사라지다(붕괴)",
+     "level": 4
+    },
+    {
+     "text": "dark matter",
+     "meaning": "암흑 물질",
+     "level": 2
+    },
+    {
+     "text": "cosmos",
+     "meaning": "우주",
+     "level": 2
+    },
+    {
+     "text": "upgrade",
+     "meaning": "장비 성능 개선",
+     "level": 2
+    },
+    {
+     "text": "UKRI",
+     "meaning": "영국 연구혁신기구(영국의 연구비 기관)",
+     "level": 0
+    },
+    {
+     "text": "withdrew",
+     "meaning": "거두어들였다",
+     "level": 3
+    },
+    {
+     "text": "losing out",
+     "meaning": "기회를 놓치다",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo"
+    }
+   ],
+   "num": {
+    "value": "100bn times",
+    "caption": "이번에 신호를 잡은 세계가 원자보다 작은 정도",
+    "source": "BBC News"
+   },
+   "life": "대학원 진학이나 해외 연구를 꿈꾸는 학생에게는 연구비가 연구자의 일터와 나라를 정한다는 사실을 보여 줘요. 세계 곳곳의 과학 예산 소식이 나중에 내 선택지로도 이어질 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-19",
+   "section": "science",
+   "tag": "한국에 직접",
+   "title": "Samsung Honors 10 Researchers From Black Holes to Better Batteries",
+   "easyKo": "삼성전자가 미래기술육성사업을 시작한 2013년 이후 처음으로, 성과를 낸 연구자 10명에게 상을 줬어요. 수학, 물리, 화학, 인공지능 연구자들이 뽑혔고, 연구 주제는 블랙홀부터 안전한 배터리까지 다양해요.",
+   "paragraphs": [
+    {
+     "en": "Samsung Electronics honored 10 researchers for their work in fundamental science and technology. It is the first time the company has given such awards since it launched its research support program in 2013.",
+     "ko": "삼성전자가 기초과학과 기술 분야 연구자 10명에게 상을 줬어요. 2013년 연구 지원 사업을 시작한 뒤 이런 상을 준 것은 처음이에요."
+    },
+    {
+     "en": "The awards were presented on Thursday at a forum in southern Seoul with about 450 researchers and leaders. The ten winners were chosen from 644 completed projects. Four are in basic science and six are in materials science and ICT.",
+     "ko": "시상식은 목요일 서울 남쪽에서 열린 포럼에서 있었고 연구자와 지도자 약 450명이 모였어요. 수상자 10명은 끝난 과제 644건 중에서 뽑혔어요. 4명은 기초과학, 6명은 소재·ICT 분야예요."
+    },
+    {
+     "en": "The winners include Oh Sung-jin, a mathematics professor at the University of California, Berkeley, and Lee Hyun-woo, a physics professor at POSTECH. Others come from UNIST, Seoul National University and KAIST.",
+     "ko": "수상자 중에는 캘리포니아 대학교 버클리의 수학 교수 오성진, 포스텍 물리학 교수 이현우가 있어요. 그 밖에 UNIST, 서울대, KAIST 교수들도 있어요."
+    },
+    {
+     "en": "At the forum, they shared research on the mathematical stability of black holes and safer aqueous batteries. They also showed new computer designs to ease bottlenecks in AI data centers.",
+     "ko": "포럼에서 이들은 블랙홀의 수학적 안정성, 더 안전한 수계 배터리, AI 데이터센터의 병목을 줄일 새 컴퓨터 구조를 연구한 내용을 발표했어요."
+    },
+    {
+     "en": "Over 13 years, the program has given 1.2 trillion won to 916 projects involving more than 17,000 researchers. Winners will also get mentoring and help with turning research into products.",
+     "ko": "13년 동안 이 사업은 916개 과제에 1조 2,000억 원을 지원했고 연구자 1만 7,000명 넘게 참여했어요. 수상자는 멘토링과 연구를 제품으로 만드는 일의 도움도 받아요."
+    }
+   ],
+   "keySentence": "Samsung Electronics honored 10 researchers for their work in fundamental science and technology.",
+   "glosses": [
+    {
+     "text": "honored",
+     "meaning": "상을 주어 높이 평가했다",
+     "level": 3
+    },
+    {
+     "text": "fundamental science",
+     "meaning": "기초과학",
+     "level": 3
+    },
+    {
+     "text": "research support program",
+     "meaning": "연구 지원 사업",
+     "level": 3
+    },
+    {
+     "text": "forum",
+     "meaning": "토론·발표 모임(포럼)",
+     "level": 2
+    },
+    {
+     "text": "completed projects",
+     "meaning": "끝난 연구 과제",
+     "level": 3
+    },
+    {
+     "text": "materials science",
+     "meaning": "소재 과학",
+     "level": 3
+    },
+    {
+     "text": "ICT",
+     "meaning": "정보통신기술",
+     "level": 2
+    },
+    {
+     "text": "University of California, Berkeley",
+     "meaning": "캘리포니아 대학교 버클리",
+     "level": 0
+    },
+    {
+     "text": "POSTECH",
+     "meaning": "포항공과대학교(포스텍)",
+     "level": 0
+    },
+    {
+     "text": "UNIST",
+     "meaning": "울산과학기술원",
+     "level": 0
+    },
+    {
+     "text": "KAIST",
+     "meaning": "한국과학기술원",
+     "level": 0
+    },
+    {
+     "text": "stability",
+     "meaning": "안정성",
+     "level": 3
+    },
+    {
+     "text": "aqueous batteries",
+     "meaning": "물 기반 전해질을 쓰는 배터리(수계 배터리)",
+     "level": 4
+    },
+    {
+     "text": "bottlenecks",
+     "meaning": "병목(흐름이 막히는 곳)",
+     "level": 4
+    },
+    {
+     "text": "mentoring",
+     "meaning": "멘토링",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/business/tech-science/20261105/samsung-honors-10-researchers-for-contributions-to-science-innovation"
+    }
+   ],
+   "num": {
+    "value": "1.2tr won",
+    "caption": "13년간 916개 과제에 쓴 삼성 연구 지원 사업 지원금",
+    "source": "The Korea Times"
+   },
+   "life": "대학원이나 연구실 진학을 생각하는 학생에게 기업 지원 연구 과제와 멘토링이 어떤 모습인지 보여 줘요. 같은 대학 교수님들의 연구 주제를 살펴보는 계기가 될 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-20",
+   "section": "culture",
+   "tag": "모두의 화제",
+   "title": "Songwriters Drop Lawsuit Over BTS Hit 'Swim'",
+   "easyKo": "BTS의 빌보드 1위 곡 '스윔'이 자기들 데모를 베꼈다고 주장하던 작곡가 세 명이 미국 소송을 취하했어요. 소송을 낸 지 약 넉 달 만이에요. 합의했는지는 법원 서류에 나오지 않았어요.",
+   "paragraphs": [
+    {
+     "en": "Three songwriters have dropped their U.S. lawsuit against the makers of BTS's hit song \"Swim\". Their lawyers asked a court to end the whole case, Billboard reported on Wednesday. The case was filed about four months ago.",
+     "ko": "작곡가 세 명이 BTS 히트곡 '스윔' 제작진을 상대로 낸 미국 소송을 취하했어요. 변호인이 사건 전체를 끝내 달라고 법원에 요청했다고 빌보드가 수요일 보도했어요. 소송은 약 넉 달 전에 제기됐어요."
+    },
+    {
+     "en": "The songwriters are Steve Cooper, Jon Sandler and Greylyn Johnson. They said they had shared an unreleased demo with music industry contacts starting in March 2025. They claimed it later reached some people who worked on \"Swim\". They also cited an analysis by a music expert they hired and argued that the two songs showed substantial similarities.",
+     "ko": "작곡가는 스티브 쿠퍼, 존 샌들러, 그레일린 존슨이에요. 이들은 2025년 3월부터 미공개 데모를 음악계 관계자들에게 보냈고 그것이 나중에 '스윔' 작업자 일부에게 전해졌다고 주장했어요. 직접 고용한 음악 전문가의 분석을 근거로 두 곡이 크게 비슷하다고도 주장했어요."
+    },
+    {
+     "en": "BTS members were not named in the lawsuit. It targeted the label HYBE, its subsidiaries, producer Ryan Tedder and other songwriters of the track. At the time, BigHit Music said the claim was one-sided and that \"Swim\" was created independently.",
+     "ko": "BTS 멤버들은 소송 대상이 아니었어요. 소송은 소속사 하이브와 자회사들, 프로듀서 라이언 테더, 곡의 다른 작곡가들을 겨냥했어요. 당시 빅히트뮤직은 일방적 주장이며 '스윔'은 독자적으로 만든 곡이라고 했어요."
+    },
+    {
+     "en": "Court papers did not say whether the two sides reached a settlement, and neither side has made a statement. \"Swim\" is the lead track of the album \"Arirang\", released in March. It debuted at No. 1 on the Billboard Hot 100 and became the group's seventh song to top the chart.",
+     "ko": "법원 서류에는 양측이 합의했는지 나오지 않았고, 어느 쪽도 입장을 내지 않았어요. '스윔'은 3월에 나온 앨범 '아리랑'의 타이틀곡이에요. 빌보드 핫 100 1위로 데뷔해 그룹의 일곱 번째 1위곡이 됐어요."
+    }
+   ],
+   "keySentence": "Their lawyers asked a court to end the whole case, Billboard reported on Wednesday.",
+   "glosses": [
+    {
+     "text": "dropped",
+     "meaning": "여기서는 소송을 취하했다",
+     "level": 3
+    },
+    {
+     "text": "lawsuit",
+     "meaning": "소송",
+     "level": 2
+    },
+    {
+     "text": "unreleased demo",
+     "meaning": "발표되지 않은 시험 녹음",
+     "level": 3
+    },
+    {
+     "text": "cited",
+     "meaning": "근거로 들었다",
+     "level": 3
+    },
+    {
+     "text": "similarities",
+     "meaning": "비슷한 점",
+     "level": 2
+    },
+    {
+     "text": "named",
+     "meaning": "여기서는 소송 상대로 이름이 올랐다",
+     "level": 3
+    },
+    {
+     "text": "label",
+     "meaning": "음반사·소속사",
+     "level": 3
+    },
+    {
+     "text": "subsidiaries",
+     "meaning": "자회사들",
+     "level": 4
+    },
+    {
+     "text": "BigHit Music",
+     "meaning": "빅히트뮤직(하이브 소속 레이블)",
+     "level": 0
+    },
+    {
+     "text": "settlement",
+     "meaning": "합의",
+     "level": 3
+    },
+    {
+     "text": "lead track",
+     "meaning": "앨범의 대표곡",
+     "level": 2
+    },
+    {
+     "text": "Billboard Hot 100",
+     "meaning": "미국 빌보드의 주간 싱글 차트",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://www.koreajoongangdaily.com/entertainment/bts-swim-copyright-suit-sinks-as-songwriters-drop-case/12957564"
+    }
+   ],
+   "num": {
+    "value": "7th No. 1",
+    "caption": "'스윔'은 BTS의 일곱 번째 빌보드 핫 100 1위곡이에요",
+    "source": "Korea JoongAng Daily"
+   },
+   "life": "K팝 소식을 자주 보는 학생이라면, 인기곡이 표절 논란에 휘말렸을 때 재판이 어떻게 흘러가는지 알아 두는 정도로 읽을 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-21",
+   "section": "culture",
+   "title": "Zelda: Ocarina of Time Remake Is Good but Plays It Safe",
+   "easyKo": "닌텐도가 28년 전 게임 '젤다의 전설 시간의 오카리나'를 스위치 2용으로 다시 만들어 오늘 내놔요. NPR 평론가는 훌륭하지만 안전한 선택이었다고 평가했어요. 조작은 편해졌고 일부 캐릭터 설정은 바뀌었어요.",
+   "paragraphs": [
+    {
+     "en": "Nintendo's remake of The Legend of Zelda: Ocarina of Time comes out Thursday on the Switch 2. The original game came out 28 years ago. NPR's reviewer calls the new version superb, but says it left a strange feeling of loss.",
+     "ko": "닌텐도가 '젤다의 전설 시간의 오카리나' 리메이크를 목요일 스위치 2로 내놔요. 원작은 28년 전에 나왔어요. NPR 평론가는 새 버전이 훌륭하지만 묘한 허전함이 남았다고 했어요."
+    },
+    {
+     "en": "The reviewer says Nintendo updated many small things while mostly keeping the soul of the game. The jump and sprint buttons feel more natural, and combat is smoother. Players can swap items in a quick menu. A new quest log called Threads of Time points players in the right direction when they are stuck.",
+     "ko": "평론가는 닌텐도가 작은 부분을 많이 손보면서도 게임의 영혼은 대체로 지켰다고 해요. 점프·달리기 버튼이 자연스럽고 전투도 부드러워요. 빠른 메뉴로 아이템을 바꾸고, 막히면 새 퀘스트 기록 '시간의 실마리'가 방향을 알려 줘요."
+    },
+    {
+     "en": "Some changes are less welcome. The textures are very detailed, but they sometimes clash with the cartoon-like characters. Longer cutscenes can slow the pace. Some characters were rewritten: Mido is now a well-meaning boss rather than a bully, and the fairy Navi no longer says \"Hey! Listen!\" nonstop.",
+     "ko": "덜 반가운 변화도 있어요. 질감이 매우 정교하지만 만화 같은 캐릭터와 어긋날 때가 있고, 길어진 컷신은 속도를 늦춰요. 미도는 괴롭히는 아이에서 선의의 대장 같은 인물로 바뀌었고, 요정 나비는 '헤이! 리슨!'을 쉬지 않고 말하지 않아요."
+    },
+    {
+     "en": "Even prices changed. Inflation has hit Hyrule, the reviewer jokes. Upgrades from the Great Fairies are no longer free and can cost up to 500 rupees. Still, the review calls it one of the most faithful remakes the writer has seen. The writer hopes the sequel Majora's Mask may get the same treatment.",
+     "ko": "가격도 달라졌어요. 평론가는 하이랄에도 인플레이션이 왔다고 농담해요. 대요정 강화는 더는 무료가 아니고 최대 500루피가 들어요. 그래도 지금까지 본 가장 원작에 충실한 리메이크 중 하나라고 하며, 속편 '무쥬라의 가면'도 이렇게 나오길 바라요."
+    }
+   ],
+   "keySentence": "The reviewer says Nintendo updated many small things while mostly keeping the soul of the game.",
+   "glosses": [
+    {
+     "text": "remake",
+     "meaning": "예전 게임을 새로 다시 만든 것",
+     "level": 2
+    },
+    {
+     "text": "Switch 2",
+     "meaning": "닌텐도의 게임기 이름",
+     "level": 0
+    },
+    {
+     "text": "Ocarina of Time",
+     "meaning": "젤다 시리즈 게임 제목",
+     "level": 0
+    },
+    {
+     "text": "superb",
+     "meaning": "매우 훌륭한",
+     "level": 3
+    },
+    {
+     "text": "textures",
+     "meaning": "그래픽 표면의 질감 이미지",
+     "level": 3
+    },
+    {
+     "text": "clash with",
+     "meaning": "어울리지 않고 부딪치다",
+     "level": 3
+    },
+    {
+     "text": "cutscenes",
+     "meaning": "이야기를 보여 주는 영상 장면",
+     "level": 3
+    },
+    {
+     "text": "quest log",
+     "meaning": "해야 할 임무를 적어 둔 기록",
+     "level": 2
+    },
+    {
+     "text": "combat",
+     "meaning": "전투",
+     "level": 2
+    },
+    {
+     "text": "rupees",
+     "meaning": "게임 속 돈 단위 루피",
+     "level": 0
+    },
+    {
+     "text": "faithful",
+     "meaning": "여기서는 원작에 충실한",
+     "level": 3
+    },
+    {
+     "text": "Majora's Mask",
+     "meaning": "젤다 시리즈의 다른 게임 제목",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2"
+    }
+   ],
+   "life": "어릴 때 하던 게임이 다시 나오면 추억과 새 버전 사이에서 비교하게 되는데, 이 리뷰는 그 마음을 잘 보여 줘서 게임을 좋아하는 학생이 읽어 볼 만해요."
+  },
+  {
+   "key": "2026-11-05-pm-22",
+   "section": "culture",
+   "tag": "한국에 직접",
+   "title": "Seoul Hanok Week Draws 85,000 Visitors, Up 15%",
+   "easyKo": "올해 서울 한옥 주간에 약 8만 5천 명이 다녀가 지난해보다 15% 늘었어요. 구경만 하기보다 직접 해 보는 프로그램에 힘을 줬고, 서울시는 프로그램과 시간, 공공 한옥 거점을 더 늘릴 계획이에요.",
+   "paragraphs": [
+    {
+     "en": "Seoul Hanok Week drew about 85,000 visitors this year, 15 percent more than in 2025, the Seoul city government said Thursday. Hanok are traditional Korean houses. Turnout rose from about 35,000 in 2024 to 74,000 last year.",
+     "ko": "서울시는 올해 서울 한옥 주간에 약 8만 5천 명이 찾아 지난해보다 15% 늘었다고 목요일에 밝혔어요. 한옥은 한국 전통 집이에요. 방문객은 2024년 약 3만 5천 명, 지난해 7만 4천 명으로 꾸준히 늘었어요."
+    },
+    {
+     "en": "The fourth edition ran for 10 days, from Oct. 2 to 11, in Bukchon, Seochon and other hanok neighborhoods. The theme was hanok in daily life. About 180 participants ran a record 82 programs, which is 16 more than last year.",
+     "ko": "4회째 행사는 10월 2일부터 11일까지 열흘간 북촌, 서촌 등 한옥 동네에서 열렸어요. 주제는 일상 속 한옥이었어요. 약 180곳의 참여자가 역대 최다인 82개 프로그램을 운영해 지난해보다 16개 늘었어요."
+    },
+    {
+     "en": "The city put more weight on hands-on programs than on sightseeing. A new exhibition in six public hanok, furnished with modern furniture, drew about 17,000 visitors. Around 900 people applied for tours of hanok that are normally closed to the public, about four applicants for each spot.",
+     "ko": "시는 관광보다 직접 체험하는 프로그램에 무게를 뒀어요. 현대 가구를 들인 공공 한옥 여섯 곳의 새 전시에는 약 1만 7천 명이 왔어요. 평소 닫혀 있는 한옥 탐방에는 약 900명이 신청해 자리당 약 4명꼴이었어요."
+    },
+    {
+     "en": "Tea and liquor sessions drew 480 reservations, an average of 18 applicants per spot. Visitors asked for more sessions and longer hours, and the city plans to provide them. It also plans to open more public hanok hubs. The festival came soon after Time Out named Jongno 3-ga the world's coolest neighborhood for 2026.",
+     "ko": "차와 전통주 체험은 예약 480건으로 자리당 평균 18명이 신청했어요. 방문객이 프로그램과 시간을 늘려 달라고 해서 시는 그렇게 하겠다고 했고, 공공 한옥 거점도 더 열 계획이에요. 행사는 타임아웃이 종로3가를 2026년 세계에서 가장 멋진 동네로 꼽은 직후 열렸어요."
+    }
+   ],
+   "keySentence": "Seoul Hanok Week drew about 85,000 visitors this year, 15 percent more than in 2025, the Seoul city government said Thursday.",
+   "glosses": [
+    {
+     "text": "Seoul Hanok Week",
+     "meaning": "서울시가 여는 한옥 축제",
+     "level": 0
+    },
+    {
+     "text": "Hanok",
+     "meaning": "한옥. 한국 전통 집",
+     "level": 0
+    },
+    {
+     "text": "Turnout",
+     "meaning": "참가자·방문객 수",
+     "level": 3
+    },
+    {
+     "text": "edition",
+     "meaning": "여기서는 행사의 회차",
+     "level": 3
+    },
+    {
+     "text": "hands-on programs",
+     "meaning": "직접 해 보는 체험 프로그램",
+     "level": 3
+    },
+    {
+     "text": "sightseeing",
+     "meaning": "관광",
+     "level": 2
+    },
+    {
+     "text": "public hanok",
+     "meaning": "공공이 운영하는 한옥",
+     "level": 2
+    },
+    {
+     "text": "applicants",
+     "meaning": "신청한 사람들",
+     "level": 2
+    },
+    {
+     "text": "spot",
+     "meaning": "여기서는 참가 자리",
+     "level": 3
+    },
+    {
+     "text": "Time Out",
+     "meaning": "세계 도시 여행 정보를 다루는 매체",
+     "level": 0
+    },
+    {
+     "text": "hubs",
+     "meaning": "거점, 중심 장소",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261105/seoul-hanok-week-draws-85000-up-15-from-last-year"
+    }
+   ],
+   "num": {
+    "value": "85,000 visitors",
+    "caption": "올해 서울 한옥 주간 방문객. 지난해보다 15% 늘었어요",
+    "source": "The Korea Times"
+   },
+   "life": "한옥 체험은 프로그램 신청이 몰릴 만큼 인기라서, 서울시가 계획대로 시간과 프로그램을 늘리면 데이트나 외국인 친구 안내 코스로 알아볼 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-23",
+   "section": "culture",
+   "title": "Hungarian Calligraphers Show Hangeul Art in Seoul",
+   "easyKo": "헝가리 서예 모임 '문방사우'가 서울 예술의전당 서예박물관의 아시아 서예 페스티벌에 초대돼 한글 작품을 선보여요. 아시아 밖에서 초대된 외국 단체는 이곳뿐이에요. 전시는 11월 14일까지예요.",
+   "paragraphs": [
+    {
+     "en": "A Hungarian calligraphy group has brought its own style of Hangeul writing to Seoul. The group, Munbangsawu, was invited to the 2026 Asian Calligraphy Festival VI, which opens Thursday at the Seoul Calligraphy Museum inside Seoul Arts Center.",
+     "ko": "헝가리 서예 모임이 자기만의 한글 서예를 서울에 가져왔어요. 이 모임 '문방사우'는 목요일 예술의전당 서울서예박물관에서 열리는 2026 아시아 서예 페스티벌 6에 초대됐어요."
+    },
+    {
+     "en": "The show runs through Nov. 14. It has 15 works by 12 Hungarian members. Munbangsawu is the only invited foreign group from outside Asia.",
+     "ko": "전시는 11월 14일까지예요. 헝가리 회원 12명의 작품 15점이 나와요. 문방사우는 아시아 밖에서 초대된 유일한 외국 단체예요."
+    },
+    {
+     "en": "The group began in 2013 from Korean calligraphy classes at the Korean Cultural Center in Hungary. The members came to Korea for the opening, to explain their works and share their experience of studying Hangeul calligraphy. The invitation followed visits to Hungary by Lee Sang-bae, vice chairman of the Korea Literary Painting Association, in 2025 and August 2026.",
+     "ko": "이 모임은 2013년 주헝가리 한국문화원의 서예 수업에서 시작됐어요. 회원들은 개막식에 와서 작품을 설명하고 한글 서예를 배운 경험을 나눠요. 한국문인화협회 이상배 부회장이 2025년과 2026년 8월에 헝가리를 방문한 뒤 초대가 이뤄졌어요."
+    },
+    {
+     "en": "After the show, the delegation plans to visit the Liszt Institute Hungarian Cultural Center in Seoul to discuss joint programs. They will also meet the Asian Calligraphy Association to explore Hangeul exhibitions and workshops in Hungary. The center's director said steady local activity has grown into international exchange.",
+     "ko": "전시 뒤 방문단은 서울의 리스트 인스티튜트 헝가리문화원을 찾아 공동 프로그램을 논의할 계획이에요. 아시아서예협회와도 만나 헝가리에서 한글 서예 전시와 워크숍을 열 방법을 살펴봐요. 문화원장은 꾸준한 현지 활동이 국제 교류로 커졌다고 말했어요."
+    }
+   ],
+   "keySentence": "Munbangsawu is the only invited foreign group from outside Asia.",
+   "glosses": [
+    {
+     "text": "calligraphy",
+     "meaning": "서예. 글씨를 예술로 쓰는 것",
+     "level": 3
+    },
+    {
+     "text": "Hangeul",
+     "meaning": "한글",
+     "level": 1
+    },
+    {
+     "text": "Munbangsawu",
+     "meaning": "헝가리 서예 모임 이름(문방사우)",
+     "level": 0
+    },
+    {
+     "text": "Asian Calligraphy Festival VI",
+     "meaning": "아시아 서예 페스티벌 6회",
+     "level": 0
+    },
+    {
+     "text": "Seoul Calligraphy Museum",
+     "meaning": "서울서예박물관",
+     "level": 0
+    },
+    {
+     "text": "Korean Cultural Center",
+     "meaning": "한국문화원. 해외에서 한국 문화를 알리는 기관",
+     "level": 2
+    },
+    {
+     "text": "delegation",
+     "meaning": "방문단, 대표단",
+     "level": 3
+    },
+    {
+     "text": "joint programs",
+     "meaning": "함께 하는 프로그램",
+     "level": 2
+    },
+    {
+     "text": "workshops",
+     "meaning": "참여형 강습·실습 모임",
+     "level": 2
+    },
+    {
+     "text": "exchange",
+     "meaning": "여기서는 문화 교류",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261105/hungarian-calligraphers-reinterpret-hangeul-in-new-seoul-exhibition"
+    }
+   ],
+   "life": "멀리 헝가리 사람들이 한글을 예술로 배우는 모습을 보면, 한국어를 배우는 외국인 친구나 교환학생에게 11월 14일까지 열리는 전시를 소개해 볼 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-24",
+   "section": "campus",
+   "tag": "한국에 직접",
+   "title": "President Calls for Crackdown on Smart Glasses Cheating",
+   "easyKo": "이재명 대통령이 수능을 앞두고 스마트 안경을 이용한 부정행위를 강하게 막으라고 지시했어요. 수능은 11월 19일이에요. 10월 대학 논술 시험에서 의심 사례가 두 건 나온 것이 배경이에요.",
+   "paragraphs": [
+    {
+     "en": "President Lee Jae Myung has called for tougher steps against cheating with smart glasses ahead of South Korea's college entrance exam. The 2027 College Scholastic Ability Test, or Suneung, is set for Nov. 19. He spoke Thursday at a weekly meeting with senior aides.",
+     "ko": "이재명 대통령이 수능을 앞두고 스마트 안경 부정행위를 더 강하게 막으라고 요구했어요. 2027학년도 대학수학능력시험은 11월 19일이에요. 대통령은 목요일 수석·비서관 회의에서 이렇게 말했어요."
+    },
+    {
+     "en": "Smart glasses can combine tiny cameras with artificial intelligence, so they could capture test questions and let someone outside help. Worries grew after two suspected cases in October during early-admission essay exams at Yonsei University and the University of Seoul. Reports say the students wore ordinary glasses during inspection and switched after the tests began.",
+     "ko": "스마트 안경은 작은 카메라와 인공지능을 합칠 수 있어서 문제를 찍고 밖에서 도움을 받을 수 있어요. 10월 연세대와 서울시립대 수시 논술에서 의심 사례가 두 건 나와 걱정이 커졌어요. 학생들이 점검 때는 일반 안경을 썼다가 시험이 시작되자 바꿔 썼다고 전해졌어요."
+    },
+    {
+     "en": "In late October, the Education Ministry said it would file criminal complaints against students caught wearing AI smart glasses during the exam. It also wants to extend the ban on retaking the exam for cheating from one year to three years. One staff member will be placed at each exam site to spot the devices.",
+     "ko": "10월 말 교육부는 수능에서 AI 스마트 안경을 쓰다 걸린 학생을 형사 고발하겠다고 밝혔어요. 부정행위자의 응시 제한도 1년에서 3년으로 늘리려 해요. 시험장마다 직원 한 명을 두어 기기를 찾아내게 해요."
+    },
+    {
+     "en": "Lee asked for better training for exam supervisors and for protection from unreasonable complaints. He also wants measures against cheating with smart devices in all government, public and school exams, and said they must be ready quickly. He added that fairness must be kept down to every small detail.",
+     "ko": "대통령은 감독관 교육을 강화하고 부당한 민원에서 감독관을 보호하라고 했어요. 정부·공공기관·학교의 모든 시험에서 스마트 기기 부정행위를 막을 대책도 빨리 마련하라고 했어요. 사소한 부분까지 공정함을 지켜야 한다고도 했어요."
+    }
+   ],
+   "keySentence": "President Lee Jae Myung has called for tougher steps against cheating with smart glasses ahead of South Korea's college entrance exam.",
+   "glosses": [
+    {
+     "text": "smart glasses",
+     "meaning": "카메라·AI가 들어간 안경",
+     "level": 2
+    },
+    {
+     "text": "College Scholastic Ability Test",
+     "meaning": "대학수학능력시험(수능)",
+     "level": 0
+    },
+    {
+     "text": "Suneung",
+     "meaning": "수능의 영어 표기",
+     "level": 0
+    },
+    {
+     "text": "senior aides",
+     "meaning": "대통령의 고위 보좌진",
+     "level": 3
+    },
+    {
+     "text": "early-admission",
+     "meaning": "수시 전형",
+     "level": 3
+    },
+    {
+     "text": "essay exams",
+     "meaning": "논술 시험",
+     "level": 2
+    },
+    {
+     "text": "Education Ministry",
+     "meaning": "교육부",
+     "level": 0
+    },
+    {
+     "text": "criminal complaints",
+     "meaning": "형사 고발",
+     "level": 4
+    },
+    {
+     "text": "supervisors",
+     "meaning": "시험 감독관",
+     "level": 3
+    },
+    {
+     "text": "unreasonable complaints",
+     "meaning": "부당한 항의·민원",
+     "level": 3
+    },
+    {
+     "text": "set for",
+     "meaning": "~로 예정되어 있다",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10927244"
+    }
+   ],
+   "num": {
+    "value": "Nov. 19",
+    "caption": "2027학년도 수능 시험일이에요",
+    "source": "The Korea Herald"
+   },
+   "life": "수능을 앞둔 수험생과 가족은 시험장에서 스마트 안경을 쓰면 형사 고발될 수 있다는 점을 알아 둬야 하고, 대학생도 학교 시험의 기기 규정이 달라질 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-25",
+   "section": "campus",
+   "title": "US Colleges Try to Look Friendlier as Students Grow Scarce",
+   "easyKo": "미국은 대학에 갈 학생이 줄면서 입학처가 훨씬 친절해지고 있어요. 지원비 면제, 지원 안 해도 합격 통보 같은 방법이 나와요. 사실 합격하기는 많은 사람이 생각하는 것보다 쉬워요.",
+   "paragraphs": [
+    {
+     "en": "Colleges in the United States are trying to make admissions friendlier, NPR reports. Because fewer students are applying, offices that once seemed secretive and stressful now want students to feel welcome. A father on a campus tour said the message has changed to \"we want you here\".",
+     "ko": "NPR에 따르면 미국 대학들이 입학 과정을 더 친절하게 바꾸려 해요. 지원자가 줄면서, 한때 비밀스럽고 스트레스를 주던 입학처가 이제 학생이 환영받는다고 느끼길 바라요. 캠퍼스 투어에 온 한 아버지는 메시지가 '우리는 네가 오길 바란다'로 바뀌었다고 말했어요."
+    },
+    {
+     "en": "Some colleges waive application fees or promise extra financial aid to students who visit. Public universities in 17 states now admit some high school students who have not even applied. More than 150 private colleges make direct offers to students who fill out the Common App. Skidmore and a few others even ask professors to meet applicants.",
+     "ko": "일부 대학은 지원비를 면제하거나 방문한 학생에게 장학금을 더 약속해요. 17개 주의 공립대는 지원하지 않은 고교생도 입학시켜요. 150개가 넘는 사립대는 커먼앱을 작성한 학생에게 바로 합격을 제안해요. 스키드모어 같은 곳은 교수가 지원자를 만나게도 해요."
+    },
+    {
+     "en": "The reason is the numbers. Two-thirds of admissions leaders missed enrollment targets in at least one of the last two years, a Niche survey found. The supply of traditional-age freshmen is projected to fall 13 percent over the next 15 years. The share of high school graduates going to college fell from 70% in 2016 to 63% in 2024.",
+     "ko": "이유는 숫자에 있어요. 니치 조사에서 입학 담당자의 3분의 2가 최근 2년 중 한 해 이상 목표 인원을 못 채웠어요. 전통적 신입생 나이대 인구는 앞으로 15년간 13% 줄 것으로 보여요. 고교 졸업생의 대학 진학 비율도 2016년 70%에서 2024년 63%로 줄었어요."
+    },
+    {
+     "en": "One result is that getting in is easier than many people think. Nearly 8 in 10 first-year applicants to public colleges and 7 in 10 to private colleges are accepted, NACAC reports. Yet more than 40% of 18- to 29-year-olds wrongly believe it is harder than it was for their parents. Only 33 colleges admit 10% or fewer applicants.",
+     "ko": "그 결과 합격이 많은 사람의 생각보다 쉬워졌어요. NACAC에 따르면 공립대 신입 지원자의 8할 가까이, 사립대의 7할이 합격해요. 그런데 18~29세 중 40% 넘는 사람이 부모 세대보다 더 어렵다고 잘못 믿어요. 합격률 10% 이하 대학은 33곳뿐이에요."
+    },
+    {
+     "en": "Fortune describes the same trend as a money problem. After the Great Recession, families had fewer babies, and those smaller age groups are now reaching college. Syracuse University told its staff that it missed its undergraduate enrollment target and expects a budget deficit. Fortune says many other schools are being forced into similar budget cuts.",
+     "ko": "포천은 같은 흐름을 돈 문제로 풀어 써요. 대침체 뒤 가정들이 아이를 덜 낳았고, 그 작은 세대가 이제 대학에 갈 나이가 됐어요. 시러큐스 대학교는 학부 신입생 목표를 채우지 못했고 예산 적자가 예상된다고 직원들에게 알렸어요. 포천은 다른 많은 학교도 비슷한 예산 삭감에 내몰리고 있다고 해요."
+    },
+    {
+     "en": "Small private colleges face the greatest risk. Hampshire College announced in April that it would close after the fall semester, citing enrollment. Elite schools such as the Ivy League may be protected, said Sandy Baum of the Urban Institute, because demand for them stays high.",
+     "ko": "가장 위험한 곳은 작은 사립대예요. 햄프셔 칼리지는 4월에 등록 문제를 이유로 가을 학기 뒤 문을 닫겠다고 발표했어요. 도시연구소의 샌디 바움은 아이비리그 같은 명문대는 수요가 계속 높아 비교적 안전할 수 있다고 말했어요."
+    }
+   ],
+   "keySentence": "Nearly 8 in 10 first-year applicants to public colleges and 7 in 10 to private colleges are accepted, NACAC reports.",
+   "glosses": [
+    {
+     "text": "admissions",
+     "meaning": "입학 전형·입학 업무",
+     "level": 3
+    },
+    {
+     "text": "waive",
+     "meaning": "(비용 등을) 면제하다",
+     "level": 4
+    },
+    {
+     "text": "application fees",
+     "meaning": "지원 수수료",
+     "level": 2
+    },
+    {
+     "text": "financial aid",
+     "meaning": "학비 지원금",
+     "level": 2
+    },
+    {
+     "text": "Common App",
+     "meaning": "미국 대학이 함께 쓰는 온라인 지원서",
+     "level": 0
+    },
+    {
+     "text": "Skidmore",
+     "meaning": "미국 뉴욕주의 대학 이름",
+     "level": 0
+    },
+    {
+     "text": "enrollment targets",
+     "meaning": "목표 등록 학생 수",
+     "level": 3
+    },
+    {
+     "text": "freshmen",
+     "meaning": "대학 신입생",
+     "level": 2
+    },
+    {
+     "text": "is projected to",
+     "meaning": "~할 것으로 예상된다",
+     "level": 3
+    },
+    {
+     "text": "NACAC",
+     "meaning": "미국 대학입학상담협회",
+     "level": 0
+    },
+    {
+     "text": "Niche",
+     "meaning": "대학 정보를 평가하는 미국 플랫폼",
+     "level": 0
+    },
+    {
+     "text": "Great Recession",
+     "meaning": "2008년 전후의 큰 경기 침체",
+     "level": 3
+    },
+    {
+     "text": "Syracuse University",
+     "meaning": "미국 뉴욕주의 사립대 시러큐스 대학교",
+     "level": 0
+    },
+    {
+     "text": "budget deficit",
+     "meaning": "예산 적자(쓸 돈이 모자란 상태)",
+     "level": 3
+    },
+    {
+     "text": "Hampshire College",
+     "meaning": "미국 매사추세츠주의 작은 사립대 햄프셔 칼리지",
+     "level": 0
+    },
+    {
+     "text": "Ivy League",
+     "meaning": "미국 동부의 명문 사립대 모임",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "NPR",
+     "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/06/20/college-enrollment-cliff-great-recession-university-budget-crisis/"
+    }
+   ],
+   "num": {
+    "value": "8 in 10",
+    "caption": "미국 공립대 신입 지원자 중 합격하는 비율이에요",
+    "source": "NPR"
+   },
+   "life": "미국 유학이나 교환학생을 생각한다면, 미국 대부분의 대학이 지원자 다수를 받아 준다는 점을 참고할 수 있어요.",
+   "deep": {
+    "why": "미국에서 대학에 갈 나이의 인구가 줄어, 학생을 못 채우는 대학이 늘고 있어요. 입학 문턱은 낮아지지만 작은 사립대는 재정 위기와 폐교 위험에 놓여요.",
+    "next": "가을 학기 등록 결과와 예산 적자·폐교 발표가 이어지는지, 지원 없이 합격시키는 직접 입학 제도가 더 퍼지는지 지켜볼 만해요.",
+    "keyNumbers": "합격률: 공립대 약 8할·사립대 약 7할(NACAC). 신입생 연령 인구 15년간 13% 감소 전망. 폐교는 해마다 약 60곳(연준, 포천 인용).",
+    "views": [
+     {
+      "source": "NPR",
+      "view": "입학처가 친절해지고 직접 입학이 늘어, 합격은 많은 사람의 생각보다 쉬워졌다고 짚어요."
+     },
+     {
+      "source": "Fortune",
+      "view": "인구 감소가 대학의 재정 위기로 번지고 있고, 특히 작은 사립대는 문을 닫을 수 있다고 봐요."
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-05-pm-26",
+   "section": "campus",
+   "tag": "의견 갈림",
+   "title": "British MP Warns Children Spend Too Long on Maths App",
+   "easyKo": "영국에서 초등학생이 구구단 앱 'TT 록스타즈'를 너무 오래 한다는 우려가 나왔어요. 앱 회사는 이용 시간이 짧다며 11월 24일부터 학교마다 시간 제한을 켜겠다고 해요. 정부는 학생 화면 시간 지침을 만들고 있어요.",
+   "paragraphs": [
+    {
+     "en": "A British MP has warned that children may spend too long on TT Rockstars, a maths app that helps pupils learn times tables. Many schools use it for homework. Labour MP Emily Darlington said it rewards children for the length of time they spend online, not for the quality of that time.",
+     "ko": "영국 하원의원이 구구단을 익히는 수학 앱 TT 록스타즈를 아이들이 너무 오래 쓸 수 있다고 경고했어요. 많은 학교가 숙제로 써요. 노동당 에밀리 달링턴 의원은 이 앱이 시간의 질이 아니라 온라인에 머문 시간에 보상을 준다고 했어요."
+    },
+    {
+     "en": "Pupils compete with classmates for virtual coins and rock-star characters and outfits. Darlington said that with games like this, children spend hours online to earn the latest outfit. She raised her concerns Tuesday at a parliamentary committee that is looking into how screen time affects children's brain development.",
+     "ko": "학생들은 가상 코인과 록스타 캐릭터·의상을 두고 반 친구와 경쟁해요. 달링턴 의원은 이런 게임에서는 최신 의상을 얻으려고 몇 시간씩 온라인에 머문다고 했어요. 그는 화면 시간이 아이 뇌 발달에 미치는 영향을 조사하는 의회 위원회에서 화요일에 우려를 제기했어요."
+    },
+    {
+     "en": "The founder of the company, Bruno Reddy, said he shares concerns about screen time. He said a typical child played on three days in September, for about six minutes each time. From 24 November, every school will have a daily time limit and a curfew, with leaderboards switched off by default.",
+     "ko": "회사 창업자 브루노 레디는 화면 시간 걱정에 공감한다고 했어요. 9월에 보통 아이는 사흘 동안, 한 번에 약 6분 놀았다고 했어요. 11월 24일부터 모든 학교에 하루 시간 제한과 이용 금지 시간이 적용되고 순위표는 기본으로 꺼져요."
+    },
+    {
+     "en": "Early years education minister Paul Waugh told the committee that turning learning into a game is not the way to learn. He called the idea profit driven. The government is now drawing up guidelines on screen time for children aged five to 16. A campaign group says there is little evidence that many digital learning tools improve learning.",
+     "ko": "유아교육 담당 폴 워 장관은 학습을 게임으로 만드는 것은 배우는 방법이 아니라고 위원회에서 말했고, 그런 생각이 이윤을 좇는 것이라고 했어요. 정부는 5~16세 화면 시간 지침을 만들고 있어요. 한 시민단체는 많은 디지털 학습 도구가 학습을 높인다는 증거가 적다고 해요."
+    }
+   ],
+   "keySentence": "He said a typical child played on three days in September, for about six minutes each time.",
+   "glosses": [
+    {
+     "text": "MP",
+     "meaning": "영국 하원의원",
+     "level": 0
+    },
+    {
+     "text": "times tables",
+     "meaning": "구구단 같은 곱셈표",
+     "level": 2
+    },
+    {
+     "text": "Labour",
+     "meaning": "영국의 노동당",
+     "level": 0
+    },
+    {
+     "text": "rewards",
+     "meaning": "보상을 주다",
+     "level": 2
+    },
+    {
+     "text": "virtual coins",
+     "meaning": "가상 세계의 코인",
+     "level": 2
+    },
+    {
+     "text": "parliamentary committee",
+     "meaning": "의회 위원회",
+     "level": 3
+    },
+    {
+     "text": "curfew",
+     "meaning": "여기서는 이용 금지 시간대",
+     "level": 3
+    },
+    {
+     "text": "leaderboards",
+     "meaning": "순위표",
+     "level": 3
+    },
+    {
+     "text": "by default",
+     "meaning": "처음 설정 그대로",
+     "level": 3
+    },
+    {
+     "text": "Early years education minister",
+     "meaning": "유아교육 담당 장관",
+     "level": 0
+    },
+    {
+     "text": "profit driven",
+     "meaning": "이윤을 좇는",
+     "level": 3
+    },
+    {
+     "text": "guidelines",
+     "meaning": "지침",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o"
+    }
+   ],
+   "life": "공부 앱의 코인과 순위가 오래 쓰게 만드는 장치일 수 있다는 논쟁이라, 학습 앱이나 어학 앱을 쓰는 대학생이 자기 이용 시간을 돌아보는 계기로 읽을 수 있어요."
+  },
+  {
+   "key": "2026-11-05-pm-27",
+   "section": "campus",
+   "tag": "한국에 직접",
+   "title": "President Praises Korea's Team at WorldSkills Competition",
+   "easyKo": "이재명 대통령이 세계 최대 직업기술 대회에서 준우승한 한국 대표팀을 격려했어요. 기술은 나라 경쟁력이고 젊은 인재는 미래라며, 기술을 가진 사람이 존중받는 사회를 만들겠다고 약속했어요.",
+   "paragraphs": [
+    {
+     "en": "President Lee Jae Myung praised South Korea's team on Thursday for finishing second at this year's WorldSkills Competition. It was the 48th event and was held in Shanghai in September. The competition is held every two years and is seen as the world's largest vocational skills event.",
+     "ko": "이재명 대통령이 목요일, 올해 국제기능올림픽에서 2위를 한 한국 대표팀을 칭찬했어요. 9월 상하이에서 열린 48회 대회였어요. 이 대회는 2년마다 열리고 세계에서 가장 큰 직업기술 행사로 여겨져요."
+    },
+    {
+     "en": "At a lunch meeting with the team at Cheong Wa Dae, Lee said skills are a matter of national competitiveness. He called the young team members the future of the country. He raised a toast with the team and urged them to pursue bigger dreams. The team received praise as young talent who will develop these skills.",
+     "ko": "청와대 오찬에서 대통령은 기술이 나라 경쟁력의 문제라고 말했어요. 젊은 대표팀 선수들이 나라의 미래라고도 했어요. 대표팀과 함께 건배하며 더 큰 꿈을 꾸라고 당부했어요."
+    },
+    {
+     "en": "Lee said people who built up vocational skills were a major reason South Korea grew into a global manufacturing powerhouse. He pledged that the government will work toward a society where more young people can fulfill their dreams through skills. He also wants people with exceptional skills to receive recognition and respect.",
+     "ko": "대통령은 직업 기술을 쌓은 사람들이 한국이 세계적 제조 강국이 된 큰 이유라고 했어요. 정부가 더 많은 청년이 기술로 꿈을 이루는 사회를 만들겠다고 약속했어요. 뛰어난 기술을 가진 사람이 그에 걸맞은 인정과 존중을 받길 바란다고도 했어요."
+    }
+   ],
+   "keySentence": "Lee said skills are a matter of national competitiveness.",
+   "glosses": [
+    {
+     "text": "WorldSkills Competition",
+     "meaning": "국제기능올림픽. 직업기술 세계 대회",
+     "level": 0
+    },
+    {
+     "text": "vocational skills",
+     "meaning": "직업 기술",
+     "level": 3
+    },
+    {
+     "text": "every two years",
+     "meaning": "2년마다",
+     "level": 1
+    },
+    {
+     "text": "Cheong Wa Dae",
+     "meaning": "청와대",
+     "level": 0
+    },
+    {
+     "text": "national competitiveness",
+     "meaning": "나라의 경쟁력",
+     "level": 3
+    },
+    {
+     "text": "manufacturing powerhouse",
+     "meaning": "제조업 강국",
+     "level": 4
+    },
+    {
+     "text": "pledged",
+     "meaning": "약속했다",
+     "level": 3
+    },
+    {
+     "text": "fulfill",
+     "meaning": "이루다",
+     "level": 3
+    },
+    {
+     "text": "exceptional",
+     "meaning": "뛰어난",
+     "level": 3
+    },
+    {
+     "text": "recognition",
+     "meaning": "인정",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261105006100315"
+    }
+   ],
+   "num": {
+    "value": "No. 2",
+    "caption": "제48회 국제기능올림픽에서 한국 대표팀의 순위예요",
+    "source": "Yonhap News Agency"
+   },
+   "life": "대학 진학만이 길이 아니라는 이야기가 나오는 만큼, 기술로 인정받는 진로와 지원 정책이 어떻게 달라질지 취업을 고민하는 청년이 지켜볼 만해요."
+  }
+ ]
 }
