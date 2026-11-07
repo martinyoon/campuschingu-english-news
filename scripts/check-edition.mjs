@@ -1,4 +1,4 @@
-// check-edition v5
+// check-edition v7
 // 캠퍼스친구 「나의 영어신문」 판 파일 검사 · 사용법: node scripts/check-edition.mjs editions/current.json
 import { readFileSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -26,7 +26,7 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
   if (!Array.isArray(d.articles) || d.articles.length < 8 || d.articles.length > 40) bad('기사는 8~40편');
   else d.articles.forEach((a, i) => {
     const w = '기사' + (i + 1);
-    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources', 'quiz', 'job', 'talk'], w, ['tag', 'num', 'life', 'deep'])) return;
+    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources', 'quiz', 'job', 'talk'], w, ['tag', 'num', 'life', 'deep', 'story'])) return;
     if (a.key !== d.edition + '-' + (i + 1)) bad(w + ': key 는 ' + d.edition + '-' + (i + 1));
     if (!SECTIONS.includes(a.section)) bad(w + ': section');
     if ('tag' in a && !TAGS.includes(a.tag)) bad(w + ': tag');
@@ -51,7 +51,8 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
       if (!Number.isInteger(g.level) || g.level < 0 || g.level > 4) bad(gw + ': level 0~4'); });
     if (!Array.isArray(a.sources) || a.sources.length < 1 || a.sources.length > 8) bad(w + ': sources 1~8개');
     else a.sources.forEach((s, j) => { const sw = w + ' source' + (j + 1);
-      if (!only(s, ['name', 'url'], sw)) return; str(s.name, sw + ' name', 60);
+      if (!only(s, ['name', 'url'], sw, ['title'])) return; str(s.name, sw + ' name', 60);
+      if ('title' in s) str(s.title, sw + ' title', 160);
       if (typeof s.url !== 'string' || !/^https:\/\/\S+$/.test(s.url)) bad(sw + ': url 은 https 만'); });
     if (!Array.isArray(a.quiz) || a.quiz.length !== 3) bad(w + ': quiz 는 정확히 3문제');
     else a.quiz.forEach((x, j) => { const qw = w + ' quiz' + (j + 1);
@@ -66,6 +67,20 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
       str(a.talk.q, w + ' talk q', 200); str(a.talk.qKo, w + ' talk qKo', 160); str(a.talk.answer, w + ' talk answer', 700); str(a.talk.answerKo, w + ' talk answerKo', 500);
       if (!Array.isArray(a.talk.phrases) || a.talk.phrases.length < 1 || a.talk.phrases.length > 3) bad(w + ': talk phrases 1~3개');
       else a.talk.phrases.forEach((ph, j) => { if (only(ph, ['en', 'ko'], w + ' phrase' + (j + 1))) { str(ph.en, w + ' phrase en', 60); str(ph.ko, w + ' phrase ko', 60); } }); }
+    if ('story' in a && only(a.story, ['prev', 'n'], w + ' story')) {
+      const m = typeof a.story.prev === 'string' && a.story.prev.match(/^(\d{4}-\d{2}-\d{2}-(?:am|pm))-(\d+)$/);
+      if (!m) bad(w + ' story: prev 꼴');
+      else {
+        if (!(m[1] < d.edition)) bad(w + ' story: prev 판이 이번 판보다 앞이 아님');
+        const pf = join(dirname(file), 'archive', m[1] + '.json');
+        if (!existsSync(pf)) bad(w + ' story: archive/' + m[1] + '.json 없음');
+        else { try { const pd = JSON.parse(readFileSync(pf, 'utf8')); const pa = (pd.articles || []).find((x) => x.key === a.story.prev);
+          if (!pa) bad(w + ' story: prev 기사 없음');
+          else { const want = pa.story && Number.isInteger(pa.story.n) ? pa.story.n + 1 : 2;
+            if (a.story.n !== want) bad(w + ' story: n 은 ' + want); } } catch (e) { bad(w + ' story: archive 읽기 실패'); } }
+      }
+      if (!Number.isInteger(a.story.n) || a.story.n < 2 || a.story.n > 99) bad(w + ' story: n 2~99');
+    }
     if ('num' in a) numBox(a.num, w + ' num');
     if ('life' in a) str(a.life, w + ' life', 200);
     if ('deep' in a && only(a.deep, ['why', 'next', 'keyNumbers', 'views'], w + ' deep')) {
