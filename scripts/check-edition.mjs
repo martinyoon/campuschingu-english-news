@@ -1,4 +1,4 @@
-// check-edition v4
+// check-edition v5
 // 캠퍼스친구 「나의 영어신문」 판 파일 검사 · 사용법: node scripts/check-edition.mjs editions/current.json
 import { readFileSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -33,9 +33,12 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
     str(a.title, w + ' title', 120); str(a.easyKo, w + ' easyKo', 300); str(a.keySentence, w + ' keySentence', 300);
     let all = '', ok = false;
     if (!Array.isArray(a.paragraphs) || a.paragraphs.length < 2 || a.paragraphs.length > 8) bad(w + ': 문단 2~8개');
-    else a.paragraphs.forEach((p, j) => { if (!only(p, ['en', 'ko'], w + ' 문단' + (j + 1))) return;
+    else a.paragraphs.forEach((p, j) => { if (!only(p, ['en', 'ko', 'sents'], w + ' 문단' + (j + 1))) return;
       if (str(p.en, w + ' en', 900)) { all += ' ' + p.en; if (typeof a.keySentence === 'string' && p.en.includes(a.keySentence)) ok = true; }
-      str(p.ko, w + ' ko', 600); });
+      str(p.ko, w + ' ko', 600);
+      if (!Array.isArray(p.sents) || p.sents.length < 1 || p.sents.length > 16) bad(w + ' 문단' + (j + 1) + ': sents 1~16개');
+      else { p.sents.forEach((x, k) => { if (only(x, ['en', 'ko'], w + ' 문단' + (j + 1) + ' sent' + (k + 1))) { str(x.en, w + ' sent en', 400); str(x.ko, w + ' sent ko', 300); } });
+        if (p.sents.map((x) => x && x.en).join(' ') !== p.en) bad(w + ' 문단' + (j + 1) + ': sents 의 en 을 한 칸 띄어 이은 것이 문단 en 과 다름'); } });
     const wc = (all.match(/[A-Za-z]+/g) || []).length;
     const max = a.deep ? 480 : 300;
     if (wc < 80 || wc > max) bad(w + ': 영어 낱말 수 ' + wc + ' (80~' + max + ')');
