@@ -1,0 +1,5603 @@
+{
+ "edition": "2026-11-08-pm",
+ "publishedAt": "2026-11-08T18:22:07+09:00",
+ "sourceCount": 26,
+ "numbers": [
+  {
+   "value": "74.9%",
+   "caption": "3분기 정규직 증가분 중 60세 이상 몫",
+   "source": "Yonhap"
+  },
+  {
+   "value": "12-1",
+   "caption": "한국시리즈 5차전 점수",
+   "source": "Yonhap News Agency"
+  },
+  {
+   "value": "30만 명 미만",
+   "caption": "2027학년도 초등학교 입학생 전망(처음)",
+   "source": "Yonhap News Agency"
+  },
+  {
+   "value": "1,760억 유로",
+   "caption": "유럽 데이터센터 지출 전망(2026~2031 합계)",
+   "source": "Euronews"
+  },
+  {
+   "value": "0.02%",
+   "caption": "정당 득표에서 국민당이 노동당을 앞선 차이",
+   "source": "The Guardian"
+  },
+  {
+   "value": "214.8조 원",
+   "caption": "삼성전자 3분기 말 현금성 자산 추정",
+   "source": "Yonhap"
+  }
+ ],
+ "articles": [
+  {
+   "key": "2026-11-08-pm-1",
+   "section": "jobs",
+   "tag": "한국에 직접",
+   "title": "Most new regular jobs go to workers aged 60 and over, while young adults lose ground",
+   "easyKo": "3분기에 늘어난 정규직의 4분의 3 가까이가 60세 이상 몫이었어요. 20대 정규직은 15분기 연속 줄었고, 30대도 줄었어요.",
+   "paragraphs": [
+    {
+     "en": "Most of the new regular jobs in South Korea in the third quarter went to older workers. The statistics ministry said more than 70 percent of the increase came from people aged 60 and older. Workers in their 20s and 30s, on the other hand, fell in number. The ministry released the data on Sunday.",
+     "ko": "3분기에 한국에서 새로 생긴 정규직 일자리 대부분은 나이 많은 노동자에게 돌아갔어요. 통계 담당 부처는 늘어난 정규직의 70% 넘게가 60세 이상에서 나왔다고 밝혔어요. 반면 20대와 30대 정규직은 수가 줄었어요. 부처는 이 자료를 일요일에 발표했어요.",
+     "sents": [
+      {
+       "en": "Most of the new regular jobs in South Korea in the third quarter went to older workers.",
+       "ko": "3분기에 한국에서 새로 생긴 정규직 일자리 대부분은 나이 많은 노동자에게 돌아갔어요."
+      },
+      {
+       "en": "The statistics ministry said more than 70 percent of the increase came from people aged 60 and older.",
+       "ko": "통계 담당 부처는 늘어난 정규직의 70% 넘게가 60세 이상에서 나왔다고 밝혔어요."
+      },
+      {
+       "en": "Workers in their 20s and 30s, on the other hand, fell in number.",
+       "ko": "반면 20대와 30대 정규직은 수가 줄었어요."
+      },
+      {
+       "en": "The ministry released the data on Sunday.",
+       "ko": "부처는 이 자료를 일요일에 발표했어요."
+      }
+     ]
+    },
+    {
+     "en": "From July to September, South Korea had 16.84 million regular workers. That was 167,628 more than a year earlier. The ministry compared the period with the same months a year earlier. People in their 60s and older made up less than 14 percent of all regular workers. The group aged 60 and older alone added 125,573 regular workers, which was 74.9 percent of the total rise.",
+     "ko": "7월부터 9월까지 한국의 정규직 노동자는 1684만 명이었어요. 1년 전보다 16만 7628명 많았어요. 부처는 이 기간을 1년 전 같은 달들과 비교했어요. 60대 이상은 전체 정규직의 14%가 안 됐어요. 60세 이상 집단 하나만 정규직이 12만 5573명 늘었고, 이는 전체 증가분의 74.9%예요.",
+     "sents": [
+      {
+       "en": "From July to September, South Korea had 16.84 million regular workers.",
+       "ko": "7월부터 9월까지 한국의 정규직 노동자는 1684만 명이었어요."
+      },
+      {
+       "en": "That was 167,628 more than a year earlier.",
+       "ko": "1년 전보다 16만 7628명 많았어요."
+      },
+      {
+       "en": "The ministry compared the period with the same months a year earlier.",
+       "ko": "부처는 이 기간을 1년 전 같은 달들과 비교했어요."
+      },
+      {
+       "en": "People in their 60s and older made up less than 14 percent of all regular workers.",
+       "ko": "60대 이상은 전체 정규직의 14%가 안 됐어요."
+      },
+      {
+       "en": "The group aged 60 and older alone added 125,573 regular workers, which was 74.9 percent of the total rise.",
+       "ko": "60세 이상 집단 하나만 정규직이 12만 5573명 늘었고, 이는 전체 증가분의 74.9%예요."
+      }
+     ]
+    },
+    {
+     "en": "The older group is still a small part of the whole. Even so, it supplied about three out of every four new regular jobs. Without this group, the total rise would have been only about 42,000, based on the ministry's figures.",
+     "ko": "나이 든 집단은 여전히 전체에서 작은 부분이에요. 그래도 새 정규직의 약 4분의 3을 이 집단이 채웠어요. 이 집단이 없었다면 부처 수치로 볼 때 전체 증가분은 약 4만 2천 명에 그쳤을 거예요.",
+     "sents": [
+      {
+       "en": "The older group is still a small part of the whole.",
+       "ko": "나이 든 집단은 여전히 전체에서 작은 부분이에요."
+      },
+      {
+       "en": "Even so, it supplied about three out of every four new regular jobs.",
+       "ko": "그래도 새 정규직의 약 4분의 3을 이 집단이 채웠어요."
+      },
+      {
+       "en": "Without this group, the total rise would have been only about 42,000, based on the ministry's figures.",
+       "ko": "이 집단이 없었다면 부처 수치로 볼 때 전체 증가분은 약 4만 2천 명에 그쳤을 거예요."
+      }
+     ]
+    },
+    {
+     "en": "The numbers look very different for young people. The number of regular workers in their 20s fell by 82,836 from a year earlier. This was the 15th quarter in a row of decline, counting from the first quarter of 2023.",
+     "ko": "젊은 층의 숫자는 아주 다르게 나왔어요. 20대 정규직은 1년 전보다 8만 2836명 줄었어요. 2023년 1분기부터 세어 15분기 연속 감소예요.",
+     "sents": [
+      {
+       "en": "The numbers look very different for young people.",
+       "ko": "젊은 층의 숫자는 아주 다르게 나왔어요."
+      },
+      {
+       "en": "The number of regular workers in their 20s fell by 82,836 from a year earlier.",
+       "ko": "20대 정규직은 1년 전보다 8만 2836명 줄었어요."
+      },
+      {
+       "en": "This was the 15th quarter in a row of decline, counting from the first quarter of 2023.",
+       "ko": "2023년 1분기부터 세어 15분기 연속 감소예요."
+      }
+     ]
+    },
+    {
+     "en": "Workers in their 30s also dropped, by 3,711. This happened even though the population in that age group grew by 81,433. Together, workers in their 20s and 30s lost 86,547 regular jobs. In other words, there were more people in their 30s, but fewer of them held regular jobs.",
+     "ko": "30대 정규직도 3711명 줄었어요. 그 나이대 인구는 8만 1433명 늘었는데도 그랬어요. 20대와 30대를 합치면 정규직이 8만 6547명 줄었어요. 즉 30대 사람은 늘었지만 정규직으로 일하는 사람은 줄었어요.",
+     "sents": [
+      {
+       "en": "Workers in their 30s also dropped, by 3,711.",
+       "ko": "30대 정규직도 3711명 줄었어요."
+      },
+      {
+       "en": "This happened even though the population in that age group grew by 81,433.",
+       "ko": "그 나이대 인구는 8만 1433명 늘었는데도 그랬어요."
+      },
+      {
+       "en": "Together, workers in their 20s and 30s lost 86,547 regular jobs.",
+       "ko": "20대와 30대를 합치면 정규직이 8만 6547명 줄었어요."
+      },
+      {
+       "en": "In other words, there were more people in their 30s, but fewer of them held regular jobs.",
+       "ko": "즉 30대 사람은 늘었지만 정규직으로 일하는 사람은 줄었어요."
+      }
+     ]
+    },
+    {
+     "en": "A ministry survey in August found about 680,000 people in their 20s and 30s who were not employed and were \"resting.\" Yonhap said the rise in older workers reflects the country's aging population. Taken together, the figures show two trends at once: an older workforce and a harder start for young job seekers.",
+     "ko": "8월 부처 조사에서는 일하지 않고 \"쉬고 있는\" 20~30대가 약 68만 명으로 나왔어요. 연합뉴스는 나이 든 노동자가 늘어난 것이 고령화를 반영한다고 전했어요. 숫자를 합쳐 보면 노동자의 고령화와 젊은 구직자의 힘든 출발이라는 두 흐름이 함께 보여요.",
+     "sents": [
+      {
+       "en": "A ministry survey in August found about 680,000 people in their 20s and 30s who were not employed and were \"resting.\"",
+       "ko": "8월 부처 조사에서는 일하지 않고 \"쉬고 있는\" 20~30대가 약 68만 명으로 나왔어요."
+      },
+      {
+       "en": "Yonhap said the rise in older workers reflects the country's aging population.",
+       "ko": "연합뉴스는 나이 든 노동자가 늘어난 것이 고령화를 반영한다고 전했어요."
+      },
+      {
+       "en": "Taken together, the figures show two trends at once: an older workforce and a harder start for young job seekers.",
+       "ko": "숫자를 합쳐 보면 노동자의 고령화와 젊은 구직자의 힘든 출발이라는 두 흐름이 함께 보여요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "Most of the new regular jobs in South Korea in the third quarter went to older workers.",
+   "glosses": [
+    {
+     "text": "regular workers",
+     "meaning": "정규직 노동자",
+     "level": 2
+    },
+    {
+     "text": "regular jobs",
+     "meaning": "정규직 일자리",
+     "level": 2
+    },
+    {
+     "text": "statistics ministry",
+     "meaning": "통계 담당 부처",
+     "level": 2
+    },
+    {
+     "text": "third quarter",
+     "meaning": "3분기(7~9월)",
+     "level": 1
+    },
+    {
+     "text": "first quarter",
+     "meaning": "1분기(1~3월)",
+     "level": 1
+    },
+    {
+     "text": "in a row",
+     "meaning": "연속으로",
+     "level": 1
+    },
+    {
+     "text": "population",
+     "meaning": "인구",
+     "level": 1
+    },
+    {
+     "text": "employed",
+     "meaning": "일자리가 있는",
+     "level": 1
+    },
+    {
+     "text": "resting",
+     "meaning": "'쉬었음' 상태(일도 구직도 안 함)",
+     "level": 3
+    },
+    {
+     "text": "aging population",
+     "meaning": "고령화된 인구",
+     "level": 2
+    },
+    {
+     "text": "job seekers",
+     "meaning": "구직자",
+     "level": 1
+    },
+    {
+     "text": "workforce",
+     "meaning": "노동력, 일하는 사람들",
+     "level": 2
+    },
+    {
+     "text": "quarter",
+     "meaning": "분기",
+     "level": 0
+    },
+    {
+     "text": "fell",
+     "meaning": "줄었다",
+     "level": 0
+    },
+    {
+     "text": "dropped",
+     "meaning": "줄었다",
+     "level": 0
+    },
+    {
+     "text": "figures",
+     "meaning": "수치",
+     "level": 0
+    },
+    {
+     "text": "Yonhap",
+     "meaning": "연합뉴스(한국 통신사)",
+     "level": 0
+    },
+    {
+     "text": "on the other hand",
+     "meaning": "반면에",
+     "level": 1
+    },
+    {
+     "text": "lost",
+     "meaning": "잃었다, 줄었다",
+     "level": 0
+    },
+    {
+     "text": "released",
+     "meaning": "발표했다",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261108001000315",
+     "title": "Regular employment rises among older workers in Q3, falls among youth"
+    },
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10929617",
+     "title": "Regular employment rises among older workers in Q3, falls among youth"
+    }
+   ],
+   "num": {
+    "value": "74.9%",
+    "caption": "3분기 정규직 증가분 중 60세 이상 몫",
+    "source": "Yonhap"
+   },
+   "life": "취업 준비생이라면 정규직 자리가 젊은 층에게 유리하게 늘고 있지 않다는 흐름을 알아 두면 좋아요. 면접이나 자소서에서 청년 고용을 이야기할 때 쓸 수 있는 숫자예요.",
+   "deep": {
+    "why": "새 정규직이 늘어도 20~30대에게 돌아가지 않는다는 점을 숫자로 보여 줘요. 고령화와 청년 일자리 문제를 함께 보게 해요.",
+    "next": "분기마다 나오는 통계에서 20대 정규직 감소가 이어질지, 쉬고 있는 20~30대 수가 어떻게 달라질지 볼 만해요.",
+    "keyNumbers": "정규직 1684만 명 · 60세 이상 +12만 5573명(74.9%) · 20대 -8만 2836명(15분기 연속) · 30대 -3711명 · 쉬는 20~30대 약 68만 명",
+    "views": [
+     {
+      "source": "Yonhap News Agency",
+      "view": "60세 이상이 증가분의 대부분이라는 점을 고령화와 연결하고, 20대가 15분기 연속 줄었다고 전했어요."
+     },
+     {
+      "source": "The Korea Herald",
+      "view": "같은 통계를 전하며, 30대는 인구가 늘었는데도 줄었고 20~30대 약 68만 명이 쉬고 있다고 짚었어요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "How much of the rise in regular workers came from people aged 60 and older?",
+     "qKo": "늘어난 정규직 중 60세 이상 몫은 얼마였나요?",
+     "choices": [
+      "About 14 percent",
+      "About 74.9 percent",
+      "About 7.5 percent"
+     ],
+     "answer": 1,
+     "why": "2문단: “which was 74.9 percent of the total rise”"
+    },
+    {
+     "q": "For how many quarters in a row did regular workers in their 20s decline?",
+     "qKo": "20대 정규직은 몇 분기 연속 줄었나요?",
+     "choices": [
+      "Fifteen quarters",
+      "Five quarters",
+      "Twenty-five quarters"
+     ],
+     "answer": 0,
+     "why": "4문단: “the 15th quarter in a row of decline”"
+    },
+    {
+     "q": "What did the August survey find about people in their 20s and 30s?",
+     "qKo": "8월 조사는 20~30대에 대해 무엇을 찾아냈나요?",
+     "choices": [
+      "About 680,000 of them had found regular jobs",
+      "About 680,000 of them had moved abroad to work",
+      "About 680,000 of them were not employed and resting"
+     ],
+     "answer": 2,
+     "why": "6문단: “about 680,000 people in their 20s and 30s who were not employed”"
+    }
+   ],
+   "job": "청년 고용 감소와 일자리의 고령화 = 「청년 실업 · 고령화」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do you think fewer young adults hold regular jobs?",
+    "qKo": "젊은 사람들의 정규직이 줄어드는 까닭이 뭐라고 생각하나요?",
+    "answer": "The article does not give the reason. It says regular workers in their 20s fell for 15 quarters in a row, while workers aged 60 and older grew a lot. I think young people need more chances to get their first regular job.",
+    "answerKo": "기사는 이유를 말하지 않아요. 20대 정규직이 15분기 연속 줄고 60세 이상은 많이 늘었다고 해요. 저는 젊은 사람들이 첫 정규직을 얻을 기회가 더 필요하다고 생각해요.",
+    "phrases": [
+     {
+      "en": "in a row",
+      "ko": "연속으로"
+     },
+     {
+      "en": "their first regular job",
+      "ko": "첫 정규직 일자리"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-2",
+   "section": "culture",
+   "tag": "모두의 화제",
+   "title": "Samsung Lions beat the KT Wiz to win their first Korean Series title in 12 years",
+   "easyKo": "삼성 라이온즈가 KT 위즈를 12대 1로 꺾고 5차전 만에 한국시리즈 우승을 차지했어요. 12년 만의 우승이고, 정규시즌 2위 팀이 우승한 것은 2018년 이후 처음이에요.",
+   "paragraphs": [
+    {
+     "en": "The Samsung Lions are the champions of South Korean baseball again. They beat the KT Wiz 12-1 in Game 5 of the Korean Series on Sunday. The game was played at Daegu Samsung Lions Park in Daegu. The win ended the best-of-seven series and gave the Lions their first title in 12 years.",
+     "ko": "삼성 라이온즈가 다시 한국 프로야구 챔피언이 됐어요. 일요일 한국시리즈 5차전에서 KT 위즈를 12대 1로 이겼어요. 경기는 대구 삼성 라이온즈 파크에서 열렸어요. 이 승리로 7전 4승제 시리즈가 끝났고, 라이온즈는 12년 만에 첫 우승을 했어요.",
+     "sents": [
+      {
+       "en": "The Samsung Lions are the champions of South Korean baseball again.",
+       "ko": "삼성 라이온즈가 다시 한국 프로야구 챔피언이 됐어요."
+      },
+      {
+       "en": "They beat the KT Wiz 12-1 in Game 5 of the Korean Series on Sunday.",
+       "ko": "일요일 한국시리즈 5차전에서 KT 위즈를 12대 1로 이겼어요."
+      },
+      {
+       "en": "The game was played at Daegu Samsung Lions Park in Daegu.",
+       "ko": "경기는 대구 삼성 라이온즈 파크에서 열렸어요."
+      },
+      {
+       "en": "The win ended the best-of-seven series and gave the Lions their first title in 12 years.",
+       "ko": "이 승리로 7전 4승제 시리즈가 끝났고, 라이온즈는 12년 만에 첫 우승을 했어요."
+      }
+     ]
+    },
+    {
+     "en": "The Lions lost the series opener on Tuesday in Suwon. The Wiz won Game 1 but then lost four straight games. The Lions won those four games in a row. Three of those four wins came at the Lions' home park in Daegu.",
+     "ko": "라이온즈는 화요일 수원에서 열린 첫 경기를 졌어요. 위즈는 1차전을 이겼지만 그 뒤 내리 네 경기를 졌어요. 라이온즈는 그 네 경기를 내리 이겼어요. 그 네 번의 승리 가운데 세 번은 라이온즈의 홈구장인 대구에서 나왔어요.",
+     "sents": [
+      {
+       "en": "The Lions lost the series opener on Tuesday in Suwon.",
+       "ko": "라이온즈는 화요일 수원에서 열린 첫 경기를 졌어요."
+      },
+      {
+       "en": "The Wiz won Game 1 but then lost four straight games.",
+       "ko": "위즈는 1차전을 이겼지만 그 뒤 내리 네 경기를 졌어요."
+      },
+      {
+       "en": "The Lions won those four games in a row.",
+       "ko": "라이온즈는 그 네 경기를 내리 이겼어요."
+      },
+      {
+       "en": "Three of those four wins came at the Lions' home park in Daegu.",
+       "ko": "그 네 번의 승리 가운데 세 번은 라이온즈의 홈구장인 대구에서 나왔어요."
+      }
+     ]
+    },
+    {
+     "en": "The Wiz scored first in the third inning with a sacrifice fly. The Lions answered right away with three runs in the bottom half of that inning. Lewin Diaz then singled off the top of the right field wall to put the Lions up 2-1. In the fifth inning, they scored eight runs and blew the game wide open. Kim Ji-chan hit a triple that scored two runs for a 10-1 lead. A sellout crowd of 23,550 fans watched the game.",
+     "ko": "위즈는 3회에 희생플라이로 먼저 점수를 냈어요. 라이온즈는 같은 이닝 말에 곧바로 3점을 내며 응수했어요. 이어 르윈 디아즈가 오른쪽 담장 위를 맞히는 안타를 쳐서 라이온즈가 2대 1로 앞서갔어요. 5회에는 8점을 내며 경기를 크게 벌렸어요. 김지찬은 3루타를 쳐서 2점을 보태 10대 1로 만들었어요. 만원 관중 2만 3,550명이 경기를 지켜봤어요.",
+     "sents": [
+      {
+       "en": "The Wiz scored first in the third inning with a sacrifice fly.",
+       "ko": "위즈는 3회에 희생플라이로 먼저 점수를 냈어요."
+      },
+      {
+       "en": "The Lions answered right away with three runs in the bottom half of that inning.",
+       "ko": "라이온즈는 같은 이닝 말에 곧바로 3점을 내며 응수했어요."
+      },
+      {
+       "en": "Lewin Diaz then singled off the top of the right field wall to put the Lions up 2-1.",
+       "ko": "이어 르윈 디아즈가 오른쪽 담장 위를 맞히는 안타를 쳐서 라이온즈가 2대 1로 앞서갔어요."
+      },
+      {
+       "en": "In the fifth inning, they scored eight runs and blew the game wide open.",
+       "ko": "5회에는 8점을 내며 경기를 크게 벌렸어요."
+      },
+      {
+       "en": "Kim Ji-chan hit a triple that scored two runs for a 10-1 lead.",
+       "ko": "김지찬은 3루타를 쳐서 2점을 보태 10대 1로 만들었어요."
+      },
+      {
+       "en": "A sellout crowd of 23,550 fans watched the game.",
+       "ko": "만원 관중 2만 3,550명이 경기를 지켜봤어요."
+      }
+     ]
+    },
+    {
+     "en": "Starting pitcher Won Tae-in threw five innings and gave up only one run, earning the win. Captain Koo Ja-wook had three hits in five at-bats and scored twice. He was named the Most Valuable Player of the Korean Series. Koo has been playing through a left hamstring injury.",
+     "ko": "선발 투수 원태인은 5이닝 동안 1점만 내주며 승리 투수가 됐어요. 주장 구자욱은 5타수 3안타를 치고 두 번 홈을 밟았어요. 그는 한국시리즈 최우수선수로 뽑혔어요. 구자욱은 왼쪽 허벅지 뒤 근육 부상을 안고 뛰어 왔어요.",
+     "sents": [
+      {
+       "en": "Starting pitcher Won Tae-in threw five innings and gave up only one run, earning the win.",
+       "ko": "선발 투수 원태인은 5이닝 동안 1점만 내주며 승리 투수가 됐어요."
+      },
+      {
+       "en": "Captain Koo Ja-wook had three hits in five at-bats and scored twice.",
+       "ko": "주장 구자욱은 5타수 3안타를 치고 두 번 홈을 밟았어요."
+      },
+      {
+       "en": "He was named the Most Valuable Player of the Korean Series.",
+       "ko": "그는 한국시리즈 최우수선수로 뽑혔어요."
+      },
+      {
+       "en": "Koo has been playing through a left hamstring injury.",
+       "ko": "구자욱은 왼쪽 허벅지 뒤 근육 부상을 안고 뛰어 왔어요."
+      }
+     ]
+    },
+    {
+     "en": "The Wiz finished the regular season with the best record and went straight to the Korean Series. The Lions finished second, eight games behind the Wiz. They are the first No. 2 seed to win the Korean Series since the 2018 SK Wyverns.",
+     "ko": "위즈는 정규시즌을 최고 성적으로 마치고 한국시리즈에 바로 올랐어요. 라이온즈는 위즈에 8경기 뒤진 2위로 시즌을 마쳤어요. 정규시즌 2위 팀이 한국시리즈에서 우승한 것은 2018년 SK 와이번스 이후 처음이에요.",
+     "sents": [
+      {
+       "en": "The Wiz finished the regular season with the best record and went straight to the Korean Series.",
+       "ko": "위즈는 정규시즌을 최고 성적으로 마치고 한국시리즈에 바로 올랐어요."
+      },
+      {
+       "en": "The Lions finished second, eight games behind the Wiz.",
+       "ko": "라이온즈는 위즈에 8경기 뒤진 2위로 시즌을 마쳤어요."
+      },
+      {
+       "en": "They are the first No. 2 seed to win the Korean Series since the 2018 SK Wyverns.",
+       "ko": "정규시즌 2위 팀이 한국시리즈에서 우승한 것은 2018년 SK 와이번스 이후 처음이에요."
+      }
+     ]
+    },
+    {
+     "en": "The Wiz hoped to win their first title since 2021. The Wiz also finished as runners-up in the 2023 Korean Series. This year, the strongest team in the regular season could not finish the job.",
+     "ko": "위즈는 2021년 이후 첫 우승을 바랐어요. 위즈는 2023년 한국시리즈에서도 준우승을 했어요. 올해는 정규시즌 최강팀이 끝내 우승을 마무리하지 못했어요.",
+     "sents": [
+      {
+       "en": "The Wiz hoped to win their first title since 2021.",
+       "ko": "위즈는 2021년 이후 첫 우승을 바랐어요."
+      },
+      {
+       "en": "The Wiz also finished as runners-up in the 2023 Korean Series.",
+       "ko": "위즈는 2023년 한국시리즈에서도 준우승을 했어요."
+      },
+      {
+       "en": "This year, the strongest team in the regular season could not finish the job.",
+       "ko": "올해는 정규시즌 최강팀이 끝내 우승을 마무리하지 못했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "They beat the KT Wiz 12-1 in Game 5 of the Korean Series on Sunday.",
+   "glosses": [
+    {
+     "text": "Samsung Lions",
+     "meaning": "삼성 라이온즈(프로야구 팀)",
+     "level": 0
+    },
+    {
+     "text": "KT Wiz",
+     "meaning": "KT 위즈(프로야구 팀)",
+     "level": 0
+    },
+    {
+     "text": "Korean Series",
+     "meaning": "한국시리즈(프로야구 최종 우승 결정전)",
+     "level": 1
+    },
+    {
+     "text": "Game 5",
+     "meaning": "5차전",
+     "level": 1
+    },
+    {
+     "text": "Daegu Samsung Lions Park",
+     "meaning": "대구 삼성 라이온즈 파크(야구장)",
+     "level": 3
+    },
+    {
+     "text": "best-of-seven series",
+     "meaning": "7경기 중 4승을 먼저 하면 이기는 시리즈",
+     "level": 3
+    },
+    {
+     "text": "title",
+     "meaning": "우승, 타이틀",
+     "level": 1
+    },
+    {
+     "text": "lost",
+     "meaning": "(경기에서) 졌다",
+     "level": 1
+    },
+    {
+     "text": "won",
+     "meaning": "이겼다(win의 과거형, 돈 단위 '원'이 아님)",
+     "level": 1
+    },
+    {
+     "text": "series opener",
+     "meaning": "시리즈 첫 경기",
+     "level": 2
+    },
+    {
+     "text": "in a row",
+     "meaning": "연속으로",
+     "level": 1
+    },
+    {
+     "text": "sacrifice fly",
+     "meaning": "희생플라이(주자를 홈에 보내는 외야 뜬공)",
+     "level": 3
+    },
+    {
+     "text": "inning",
+     "meaning": "(야구의) 회",
+     "level": 1
+    },
+    {
+     "text": "bottom half",
+     "meaning": "(야구의) 말(홈팀 공격)",
+     "level": 3
+    },
+    {
+     "text": "runs",
+     "meaning": "(야구의) 득점",
+     "level": 1
+    },
+    {
+     "text": "blew the game wide open",
+     "meaning": "점수를 크게 벌렸다",
+     "level": 3
+    },
+    {
+     "text": "sellout crowd",
+     "meaning": "표가 다 팔린 만원 관중",
+     "level": 3
+    },
+    {
+     "text": "hit",
+     "meaning": "(안타 등을) 쳤다",
+     "level": 1
+    },
+    {
+     "text": "hits",
+     "meaning": "안타",
+     "level": 1
+    },
+    {
+     "text": "singled",
+     "meaning": "1루타를 쳤다",
+     "level": 2
+    },
+    {
+     "text": "triple",
+     "meaning": "3루타",
+     "level": 2
+    },
+    {
+     "text": "starting pitcher",
+     "meaning": "선발 투수",
+     "level": 2
+    },
+    {
+     "text": "gave up",
+     "meaning": "(점수를) 내줬다",
+     "level": 2
+    },
+    {
+     "text": "at-bats",
+     "meaning": "타수(타석에 선 횟수)",
+     "level": 3
+    },
+    {
+     "text": "Most Valuable Player",
+     "meaning": "최우수선수(MVP)",
+     "level": 2
+    },
+    {
+     "text": "hamstring injury",
+     "meaning": "허벅지 뒤 근육 부상",
+     "level": 3
+    },
+    {
+     "text": "regular season",
+     "meaning": "정규시즌",
+     "level": 2
+    },
+    {
+     "text": "best record",
+     "meaning": "가장 좋은 성적",
+     "level": 2
+    },
+    {
+     "text": "No. 2 seed",
+     "meaning": "정규시즌 2위로 올라온 팀",
+     "level": 3
+    },
+    {
+     "text": "SK Wyverns",
+     "meaning": "SK 와이번스(프로야구 팀)",
+     "level": 0
+    },
+    {
+     "text": "runners-up",
+     "meaning": "준우승 팀",
+     "level": 3
+    },
+    {
+     "text": "finish the job",
+     "meaning": "일을 끝까지 해내다",
+     "level": 2
+    },
+    {
+     "text": "run",
+     "meaning": "(야구의) 득점(runs의 기본형)",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261108002851315",
+     "title": "(LEAD) Lions defeat Wiz for 1st Korean Series title in 12 yrs"
+    },
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10929737",
+     "title": "Lions defeat Wiz for 1st Korean Series title in 12 years"
+    }
+   ],
+   "num": {
+    "value": "12-1",
+    "caption": "한국시리즈 5차전 점수",
+    "source": "Yonhap News Agency"
+   },
+   "life": "야구 소식은 대학 동기나 직장 사람들과 나누는 가벼운 대화거리가 돼요. 1위 팀이 지고 2위 팀이 우승했다는 점은 팀 운영과 승부를 이야기할 때 좋은 예예요.",
+   "deep": {
+    "why": "정규시즌 1위가 아닌 2위 팀이 첫 경기를 지고도 네 경기를 내리 이겨 우승해서, 시리즈 결과가 시즌 성적만으로 정해지지 않는다는 점을 보여 줘요.",
+    "next": "라이온즈가 12년 만의 우승을 어떻게 이어 갈지, 위즈가 내년에 다시 정상에 도전할지 지켜볼 만해요.",
+    "keyNumbers": "5차전 12-1 · 우승은 12년 만 · 5회 8득점 · 만원 관중 23,550명 · 구자욱 5타수 3안타 · 정규시즌 2위(1위와 8경기 차)",
+    "views": [
+     {
+      "source": "Yonhap News Agency",
+      "view": "구자욱이 부상을 안고 뛰며 MVP가 됐고, 라이온즈가 2018년 이후 첫 정규시즌 2위 우승팀이라는 점을 함께 짚었어요."
+     },
+     {
+      "source": "The Korea Herald",
+      "view": "5회 8득점과 원태인의 5이닝 1실점 호투로 경기가 크게 기울었다는 흐름을 전했어요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "What was the score of Game 5?",
+     "qKo": "5차전 점수는 얼마였나요?",
+     "choices": [
+      "8-7",
+      "3-2",
+      "12-1"
+     ],
+     "answer": 2,
+     "why": "1문단: “They beat the KT Wiz 12-1 in Game 5”"
+    },
+    {
+     "q": "Who was named Most Valuable Player of the Korean Series?",
+     "qKo": "한국시리즈 최우수선수는 누구인가요?",
+     "choices": [
+      "Won Tae-in",
+      "Koo Ja-wook",
+      "Kim Ji-chan"
+     ],
+     "answer": 1,
+     "why": "4문단: “He was named the Most Valuable Player of the Korean Series.”"
+    },
+    {
+     "q": "How many runs did the Lions score in the fifth inning?",
+     "qKo": "라이온즈는 5회에 몇 점을 냈나요?",
+     "choices": [
+      "Eight runs",
+      "Twelve runs",
+      "Three runs"
+     ],
+     "answer": 0,
+     "why": "3문단: “In the fifth inning, they scored eight runs”"
+    }
+   ],
+   "job": "첫 경기를 지고도 네 경기를 내리 이겨 우승한 사례 = 「위기 극복 · 조직 성과」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do sports wins matter to fans and cities?",
+    "qKo": "스포츠 우승은 팬과 도시에 왜 중요할까요?",
+    "answer": "The Lions won their first title in 12 years, and a sellout crowd of 23,550 fans watched the last game. I think big wins bring people together. They give fans a happy memory to share.",
+    "answerKo": "라이온즈는 12년 만에 첫 우승을 했고, 마지막 경기는 2만 3,550명의 만원 관중이 지켜봤어요. 저는 큰 승리가 사람들을 하나로 모은다고 생각해요. 팬들에게 함께 나눌 즐거운 추억을 줘요.",
+    "phrases": [
+     {
+      "en": "bring people together",
+      "ko": "사람들을 하나로 모으다"
+     },
+     {
+      "en": "a happy memory",
+      "ko": "즐거운 추억"
+     }
+    ]
+   },
+   "story": {
+    "prev": "2026-11-07-pm-26",
+    "n": 2
+   }
+  },
+  {
+   "key": "2026-11-08-pm-3",
+   "section": "campus",
+   "tag": "한국에 직접",
+   "title": "Fewer than 300,000 children will start elementary school in Korea next year, a first",
+   "easyKo": "내년에 한국 초등학교에 들어가는 아이가 처음으로 30만 명 아래로 떨어질 전망이에요. 낮은 출산율 때문이고, 학교 문을 닫는 지역이 늘까 걱정하는 목소리가 있어요.",
+   "paragraphs": [
+    {
+     "en": "The number of children entering elementary school in South Korea is expected to fall below 300,000 for the first time next year. The data came out on Sunday. These first graders were born in 2020 and will start school in the 2027 academic year. The figure dropped below 400,000 only three years earlier.",
+     "ko": "내년에 한국에서 초등학교에 들어가는 아이 수가 처음으로 30만 명 아래로 떨어질 전망이에요. 이 자료는 일요일에 나왔어요. 이 아이들은 2020년에 태어났고 2027학년도에 학교에 들어가요. 이 수치는 불과 3년 전에 40만 명 아래로 내려갔어요.",
+     "sents": [
+      {
+       "en": "The number of children entering elementary school in South Korea is expected to fall below 300,000 for the first time next year.",
+       "ko": "내년에 한국에서 초등학교에 들어가는 아이 수가 처음으로 30만 명 아래로 떨어질 전망이에요."
+      },
+      {
+       "en": "The data came out on Sunday.",
+       "ko": "이 자료는 일요일에 나왔어요."
+      },
+      {
+       "en": "These first graders were born in 2020 and will start school in the 2027 academic year.",
+       "ko": "이 아이들은 2020년에 태어났고 2027학년도에 학교에 들어가요."
+      },
+      {
+       "en": "The figure dropped below 400,000 only three years earlier.",
+       "ko": "이 수치는 불과 3년 전에 40만 명 아래로 내려갔어요."
+      }
+     ]
+    },
+    {
+     "en": "Behind the drop is the country's low birth rate. Only 272,337 babies were born in 2020, which was 10 percent fewer than a year earlier. The numbers were compiled from the Korean Statistical Information Service and the Korean Educational Development Institute.",
+     "ko": "이렇게 줄어드는 뒤에는 한국의 낮은 출산율이 있어요. 2020년에는 아기가 27만 2,337명만 태어났고, 한 해 전보다 10% 적었어요. 이 수치는 국가통계포털과 한국교육개발원 자료를 모아 만들었어요.",
+     "sents": [
+      {
+       "en": "Behind the drop is the country's low birth rate.",
+       "ko": "이렇게 줄어드는 뒤에는 한국의 낮은 출산율이 있어요."
+      },
+      {
+       "en": "Only 272,337 babies were born in 2020, which was 10 percent fewer than a year earlier.",
+       "ko": "2020년에는 아기가 27만 2,337명만 태어났고, 한 해 전보다 10% 적었어요."
+      },
+      {
+       "en": "The numbers were compiled from the Korean Statistical Information Service and the Korean Educational Development Institute.",
+       "ko": "이 수치는 국가통계포털과 한국교육개발원 자료를 모아 만들었어요."
+      }
+     ]
+    },
+    {
+     "en": "This year, 301,442 children started elementary school as first graders. That barely passed the 300,000 mark and was the lowest level since 1964, when the ministry began to compile such data. Next year's figure is expected to be about one-fourth of the 1.05 million recorded in 1968.",
+     "ko": "올해는 301,442명이 초등학교 1학년으로 입학했어요. 이는 30만 명 선을 간신히 넘은 수치였고, 정부가 이런 자료를 모으기 시작한 1964년 이후 가장 낮아요. 내년 수치는 1968년에 기록된 105만 명의 약 4분의 1이 될 전망이에요.",
+     "sents": [
+      {
+       "en": "This year, 301,442 children started elementary school as first graders.",
+       "ko": "올해는 301,442명이 초등학교 1학년으로 입학했어요."
+      },
+      {
+       "en": "That barely passed the 300,000 mark and was the lowest level since 1964, when the ministry began to compile such data.",
+       "ko": "이는 30만 명 선을 간신히 넘은 수치였고, 정부가 이런 자료를 모으기 시작한 1964년 이후 가장 낮아요."
+      },
+      {
+       "en": "Next year's figure is expected to be about one-fourth of the 1.05 million recorded in 1968.",
+       "ko": "내년 수치는 1968년에 기록된 105만 명의 약 4분의 1이 될 전망이에요."
+      }
+     ]
+    },
+    {
+     "en": "The shrinking number of school-age children has raised worries. People fear that schools will close, especially in rural areas. They also worry about a widening education gap between regions.",
+     "ko": "학교 갈 나이의 아이가 줄어드는 것이 걱정을 불러왔어요. 특히 농촌 지역에서 학교가 문을 닫을까 걱정하고 있어요. 지역 사이의 교육 격차가 벌어지는 것도 걱정하고 있어요.",
+     "sents": [
+      {
+       "en": "The shrinking number of school-age children has raised worries.",
+       "ko": "학교 갈 나이의 아이가 줄어드는 것이 걱정을 불러왔어요."
+      },
+      {
+       "en": "People fear that schools will close, especially in rural areas.",
+       "ko": "특히 농촌 지역에서 학교가 문을 닫을까 걱정하고 있어요."
+      },
+      {
+       "en": "They also worry about a widening education gap between regions.",
+       "ko": "지역 사이의 교육 격차가 벌어지는 것도 걱정하고 있어요."
+      }
+     ]
+    },
+    {
+     "en": "The number of new first graders is expected to keep falling until 2030. However, it should stay above 200,000 because births rebounded in 2024. Births rose to 238,317 in 2024 and 254,341 in 2025 after years of decline.",
+     "ko": "새 1학년 학생 수는 2030년까지 계속 줄어들 전망이에요. 하지만 2024년에 출생아가 다시 늘었기 때문에 20만 명 위는 유지할 전망이에요. 출생아 수는 몇 해 동안 줄다가 2024년에 238,317명, 2025년에 254,341명으로 늘었어요.",
+     "sents": [
+      {
+       "en": "The number of new first graders is expected to keep falling until 2030.",
+       "ko": "새 1학년 학생 수는 2030년까지 계속 줄어들 전망이에요."
+      },
+      {
+       "en": "However, it should stay above 200,000 because births rebounded in 2024.",
+       "ko": "하지만 2024년에 출생아가 다시 늘었기 때문에 20만 명 위는 유지할 전망이에요."
+      },
+      {
+       "en": "Births rose to 238,317 in 2024 and 254,341 in 2025 after years of decline.",
+       "ko": "출생아 수는 몇 해 동안 줄다가 2024년에 238,317명, 2025년에 254,341명으로 늘었어요."
+      }
+     ]
+    },
+    {
+     "en": "Look at the numbers over time. In 1968, 1.05 million children were recorded, and this year the number was 301,442. Births in 2024 were 238,317, which is lower than the 272,337 babies born in 2020. So births have risen since 2024, but they are still below the 2020 level.",
+     "ko": "시간에 따른 숫자를 살펴봐요. 1968년에는 105만 명이 기록됐고 올해는 301,442명이에요. 2024년 출생아는 238,317명으로 2020년의 272,337명보다 적어요. 그래서 출생아는 2024년 이후 늘었지만 아직 2020년 수준보다 낮아요.",
+     "sents": [
+      {
+       "en": "Look at the numbers over time.",
+       "ko": "시간에 따른 숫자를 살펴봐요."
+      },
+      {
+       "en": "In 1968, 1.05 million children were recorded, and this year the number was 301,442.",
+       "ko": "1968년에는 105만 명이 기록됐고 올해는 301,442명이에요."
+      },
+      {
+       "en": "Births in 2024 were 238,317, which is lower than the 272,337 babies born in 2020.",
+       "ko": "2024년 출생아는 238,317명으로 2020년의 272,337명보다 적어요."
+      },
+      {
+       "en": "So births have risen since 2024, but they are still below the 2020 level.",
+       "ko": "그래서 출생아는 2024년 이후 늘었지만 아직 2020년 수준보다 낮아요."
+      }
+     ]
+    },
+    {
+     "en": "Here is a quick summary of the story. Fewer than 300,000 children will start first grade next year. The cause is the low number of births in 2020. People worry about school closures, especially in rural areas. Births have started to rise again since 2024.",
+     "ko": "이야기를 짧게 정리해 봐요. 내년에 1학년이 되는 아이는 30만 명이 안 돼요. 그 까닭은 2020년의 적은 출생아 수예요. 특히 농촌 지역에서 학교가 문을 닫을까 걱정하는 목소리가 있어요. 출생아는 2024년 이후 다시 늘기 시작했어요.",
+     "sents": [
+      {
+       "en": "Here is a quick summary of the story.",
+       "ko": "이야기를 짧게 정리해 봐요."
+      },
+      {
+       "en": "Fewer than 300,000 children will start first grade next year.",
+       "ko": "내년에 1학년이 되는 아이는 30만 명이 안 돼요."
+      },
+      {
+       "en": "The cause is the low number of births in 2020.",
+       "ko": "그 까닭은 2020년의 적은 출생아 수예요."
+      },
+      {
+       "en": "People worry about school closures, especially in rural areas.",
+       "ko": "특히 농촌 지역에서 학교가 문을 닫을까 걱정하는 목소리가 있어요."
+      },
+      {
+       "en": "Births have started to rise again since 2024.",
+       "ko": "출생아는 2024년 이후 다시 늘기 시작했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "The number of children entering elementary school in South Korea is expected to fall below 300,000 for the first time next year.",
+   "glosses": [
+    {
+     "text": "first graders",
+     "meaning": "1학년 학생들",
+     "level": 1
+    },
+    {
+     "text": "elementary school",
+     "meaning": "초등학교",
+     "level": 0
+    },
+    {
+     "text": "fall below",
+     "meaning": "~ 아래로 떨어지다",
+     "level": 1
+    },
+    {
+     "text": "figure",
+     "meaning": "수치",
+     "level": 1
+    },
+    {
+     "text": "dropped",
+     "meaning": "떨어졌다(내려갔다)",
+     "level": 1
+    },
+    {
+     "text": "drop",
+     "meaning": "감소, 줄어듦",
+     "level": 1
+    },
+    {
+     "text": "birth rate",
+     "meaning": "출산율",
+     "level": 1
+    },
+    {
+     "text": "rate",
+     "meaning": "비율(출산율의 '율')",
+     "level": 1
+    },
+    {
+     "text": "academic year",
+     "meaning": "학년도",
+     "level": 2
+    },
+    {
+     "text": "compiled",
+     "meaning": "모아서 정리했다(자료를)",
+     "level": 3
+    },
+    {
+     "text": "compile",
+     "meaning": "자료를 모으고 정리하다",
+     "level": 3
+    },
+    {
+     "text": "the 300,000 mark",
+     "meaning": "30만 명이라는 기준선",
+     "level": 2
+    },
+    {
+     "text": "mark",
+     "meaning": "기준선, 수준",
+     "level": 2
+    },
+    {
+     "text": "rural areas",
+     "meaning": "농촌 지역",
+     "level": 2
+    },
+    {
+     "text": "school-age",
+     "meaning": "학교에 다닐 나이의",
+     "level": 2
+    },
+    {
+     "text": "widening",
+     "meaning": "점점 벌어지는",
+     "level": 3
+    },
+    {
+     "text": "education gap",
+     "meaning": "교육 격차",
+     "level": 2
+    },
+    {
+     "text": "rebounded",
+     "meaning": "다시 늘었다, 반등했다",
+     "level": 3
+    },
+    {
+     "text": "decline",
+     "meaning": "감소",
+     "level": 2
+    },
+    {
+     "text": "Korean Statistical Information Service",
+     "meaning": "국가통계포털(KOSIS)",
+     "level": 3
+    },
+    {
+     "text": "Korean Educational Development Institute",
+     "meaning": "한국교육개발원(KEDI)",
+     "level": 3
+    },
+    {
+     "text": "falling",
+     "meaning": "줄어드는(내려가는)",
+     "level": 1
+    },
+    {
+     "text": "fewer",
+     "meaning": "더 적은",
+     "level": 1
+    },
+    {
+     "text": "shrinking",
+     "meaning": "줄어드는",
+     "level": 2
+    },
+    {
+     "text": "ministry",
+     "meaning": "정부 부처",
+     "level": 2
+    },
+    {
+     "text": "fall",
+     "meaning": "떨어지다, 줄다",
+     "level": 0
+    },
+    {
+     "text": "came out",
+     "meaning": "(자료가) 나왔다, 발표됐다",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261108000800315",
+     "title": "New elementary school enrollment to drop below 300,000 for 1st time amid low birth rate"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/southkorea/society/20261108/new-elementary-school-enrollment-to-drop-below-300000-for-1st-time-amid-low-birth-rate",
+     "title": "New elementary school enrollment to drop below 300,000 for 1st time amid low birth rate"
+    }
+   ],
+   "num": {
+    "value": "30만 명 미만",
+    "caption": "2027학년도 초등학교 입학생 전망(처음)",
+    "source": "Yonhap News Agency"
+   },
+   "life": "아이가 줄면 학교 운영에도 영향이 가요. 지금 초등학교 입학생 수는 훗날 대학에 들어올 학생 수와도 이어지는 숫자예요.",
+   "deep": {
+    "why": "아이 수가 줄면 학교 운영과 지역 교육 격차가 먼저 흔들려요. 입학생이 처음으로 30만 명 아래로 내려간다는 것은 그 변화가 숫자로 눈에 보이기 시작했다는 뜻이에요.",
+    "next": "입학생은 2030년까지 계속 줄지만 20만 명 위는 유지될 전망이에요. 2024년 이후 출생아가 늘어난 효과가 어떻게 나타날지도 지켜볼 만해요.",
+    "keyNumbers": "2027학년도 입학생 30만 명 미만 · 올해 301,442명(1964년 이후 최저) · 2020년 출생아 272,337명(전년보다 10% 감소) · 2025년 출생아 254,341명",
+    "views": [
+     {
+      "source": "Yonhap News Agency",
+      "view": "입학생이 3년 만에 40만 명 아래에서 30만 명 아래로 내려간다는 점과 학교 폐쇄 걱정을 함께 전했어요."
+     },
+     {
+      "source": "The Korea Times",
+      "view": "같은 자료를 바탕으로 낮은 출산율이 입학생 감소의 배경이라고 짚었어요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "What is expected to happen to first graders next year?",
+     "qKo": "내년 초등학교 1학년 수는 어떻게 될 전망인가요?",
+     "choices": [
+      "It will fall below 300,000 for the first time",
+      "It will rise above 400,000 again",
+      "It will stay at exactly 301,442"
+     ],
+     "answer": 0,
+     "why": "1문단: “fall below 300,000 for the first time”"
+    },
+    {
+     "q": "How many babies were born in 2020?",
+     "qKo": "2020년에는 아기가 몇 명 태어났나요?",
+     "choices": [
+      "254,341 babies",
+      "238,317 babies",
+      "272,337 babies"
+     ],
+     "answer": 2,
+     "why": "2문단: “Only 272,337 babies were born in 2020”"
+    },
+    {
+     "q": "Why are people worried about the shrinking number of children?",
+     "qKo": "아이 수가 줄어드는 것을 왜 걱정하나요?",
+     "choices": [
+      "Schools will need many more teachers",
+      "Schools may close, especially in rural areas",
+      "Tuition fees will fall in every region"
+     ],
+     "answer": 1,
+     "why": "4문단: “People fear that schools will close, especially in rural areas.”"
+    }
+   ],
+   "job": "출산율 하락이 교육 현장에 주는 영향 = 「저출산 · 학령인구 감소 · 지역 격차」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "How might fewer children change schools in your hometown?",
+    "qKo": "아이가 줄면 네 고향의 학교는 어떻게 달라질 수 있을까요?",
+    "answer": "The article says fewer children have raised worries about school closures, especially in rural areas. In my hometown, a small school could lose students first. I think local governments should plan early to keep education fair for all regions.",
+    "answerKo": "기사는 아이가 줄어 특히 농촌에서 학교 폐쇄 걱정이 커졌다고 해요. 제 고향에서는 작은 학교가 학생을 먼저 잃을 수 있어요. 저는 모든 지역의 교육이 공평하도록 지방정부가 일찍 계획을 세워야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "school closures",
+      "ko": "학교 폐쇄"
+     },
+     {
+      "en": "plan early",
+      "ko": "일찍 계획하다"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-4",
+   "section": "tech",
+   "tag": "파장 큼",
+   "title": "Campaigners across Europe protest and call for a pause on big new data centers",
+   "easyKo": "유럽 여러 나라에서 환경·시민단체가 AI 데이터센터 건설을 잠시 멈추라고 시위했어요. 전기·물 사용과 전기요금이 걱정된다는 거예요. 기술 회사들은 AI에 꼭 필요한 시설이라고 말해요.",
+   "paragraphs": [
+    {
+     "en": "Campaigners across Europe held protests on Friday and Saturday against the fast growth of data centers. The Stop Dirty Data Centres coalition said more than 100 groups from 15 countries took part. Actions were planned in places such as Ireland, Poland, Denmark, Spain, the Netherlands, France and the UK.",
+     "ko": "금요일과 토요일 유럽 곳곳에서 활동가들이 데이터센터의 빠른 증가에 반대하는 시위를 열었어요. '스톱 더티 데이터 센터스' 연합은 15개국의 100곳이 넘는 단체가 참여했다고 밝혔어요. 아일랜드, 폴란드, 덴마크, 스페인, 네덜란드, 프랑스, 영국 등에서 행사가 계획됐어요.",
+     "sents": [
+      {
+       "en": "Campaigners across Europe held protests on Friday and Saturday against the fast growth of data centers.",
+       "ko": "금요일과 토요일 유럽 곳곳에서 활동가들이 데이터센터의 빠른 증가에 반대하는 시위를 열었어요."
+      },
+      {
+       "en": "The Stop Dirty Data Centres coalition said more than 100 groups from 15 countries took part.",
+       "ko": "'스톱 더티 데이터 센터스' 연합은 15개국의 100곳이 넘는 단체가 참여했다고 밝혔어요."
+      },
+      {
+       "en": "Actions were planned in places such as Ireland, Poland, Denmark, Spain, the Netherlands, France and the UK.",
+       "ko": "아일랜드, 폴란드, 덴마크, 스페인, 네덜란드, 프랑스, 영국 등에서 행사가 계획됐어요."
+      }
+     ]
+    },
+    {
+     "en": "In Amsterdam, more than 100 activists marched to a site where a Microsoft AI data center is being built. They broke into the site and climbed cranes while police stood by. The site owner, Pure Data Centres, plans to invest more than $1 billion. Microsoft said it respects peaceful protest but does not accept unlawful acts.",
+     "ko": "암스테르담에서는 활동가 100명 넘게 마이크로소프트 AI 데이터센터를 짓는 현장까지 행진했어요. 이들은 경찰이 지켜보는 가운데 공사장에 들어가 크레인에 올랐어요. 이 현장의 주인인 퓨어 데이터 센터스는 10억 달러가 넘게 투자할 계획이에요. 마이크로소프트는 평화로운 시위는 존중하지만 불법 행위는 받아들이지 않는다고 말했어요.",
+     "sents": [
+      {
+       "en": "In Amsterdam, more than 100 activists marched to a site where a Microsoft AI data center is being built.",
+       "ko": "암스테르담에서는 활동가 100명 넘게 마이크로소프트 AI 데이터센터를 짓는 현장까지 행진했어요."
+      },
+      {
+       "en": "They broke into the site and climbed cranes while police stood by.",
+       "ko": "이들은 경찰이 지켜보는 가운데 공사장에 들어가 크레인에 올랐어요."
+      },
+      {
+       "en": "The site owner, Pure Data Centres, plans to invest more than $1 billion.",
+       "ko": "이 현장의 주인인 퓨어 데이터 센터스는 10억 달러가 넘게 투자할 계획이에요."
+      },
+      {
+       "en": "Microsoft said it respects peaceful protest but does not accept unlawful acts.",
+       "ko": "마이크로소프트는 평화로운 시위는 존중하지만 불법 행위는 받아들이지 않는다고 말했어요."
+      }
+     ]
+    },
+    {
+     "en": "What do the campaigners want? They want a pause on large new projects until governments set clearer rules. The group says it is not asking to close existing data centers. Its members worry about energy bills, water supplies, land use and housing.",
+     "ko": "활동가들은 무엇을 원할까요? 정부가 더 분명한 규칙을 만들 때까지 큰 새 사업을 잠시 멈추길 원해요. 이 단체는 이미 있는 데이터센터를 닫자는 것은 아니라고 말해요. 회원들은 에너지 요금, 물 공급, 땅 사용, 주택 문제를 걱정해요.",
+     "sents": [
+      {
+       "en": "What do the campaigners want?",
+       "ko": "활동가들은 무엇을 원할까요?"
+      },
+      {
+       "en": "They want a pause on large new projects until governments set clearer rules.",
+       "ko": "정부가 더 분명한 규칙을 만들 때까지 큰 새 사업을 잠시 멈추길 원해요."
+      },
+      {
+       "en": "The group says it is not asking to close existing data centers.",
+       "ko": "이 단체는 이미 있는 데이터센터를 닫자는 것은 아니라고 말해요."
+      },
+      {
+       "en": "Its members worry about energy bills, water supplies, land use and housing.",
+       "ko": "회원들은 에너지 요금, 물 공급, 땅 사용, 주택 문제를 걱정해요."
+      }
+     ]
+    },
+    {
+     "en": "Technology companies disagree. They say data centers are essential to meet the growing demand for AI and cloud computing. The EU's tech chief, Henna Virkkunen, said Europe needs its own capacity but must build with care. She said people should not face soaring energy bills or damage to the environment.",
+     "ko": "기술 회사들은 생각이 달라요. 이들은 커지는 AI와 클라우드 컴퓨팅 수요를 맞추려면 데이터센터가 꼭 필요하다고 말해요. EU의 기술 담당 최고위원 헨나 비르쿠넨은 유럽도 자체 능력이 필요하지만 신중하게 지어야 한다고 말했어요. 그는 시민들이 치솟는 에너지 요금이나 환경 피해를 겪어서는 안 된다고 말했어요.",
+     "sents": [
+      {
+       "en": "Technology companies disagree.",
+       "ko": "기술 회사들은 생각이 달라요."
+      },
+      {
+       "en": "They say data centers are essential to meet the growing demand for AI and cloud computing.",
+       "ko": "이들은 커지는 AI와 클라우드 컴퓨팅 수요를 맞추려면 데이터센터가 꼭 필요하다고 말해요."
+      },
+      {
+       "en": "The EU's tech chief, Henna Virkkunen, said Europe needs its own capacity but must build with care.",
+       "ko": "EU의 기술 담당 최고위원 헨나 비르쿠넨은 유럽도 자체 능력이 필요하지만 신중하게 지어야 한다고 말했어요."
+      },
+      {
+       "en": "She said people should not face soaring energy bills or damage to the environment.",
+       "ko": "그는 시민들이 치솟는 에너지 요금이나 환경 피해를 겪어서는 안 된다고 말했어요."
+      }
+     ]
+    },
+    {
+     "en": "A lot of money is at stake. Yearly investment in European data centers has grown from 12 billion euros in 2020 to about 25 billion this year, says PwC. Total spending is expected to reach 176 billion euros between 2026 and 2031.",
+     "ko": "걸려 있는 돈이 아주 많아요. PwC에 따르면 유럽 데이터센터 연간 투자는 2020년 120억 유로에서 올해 약 250억 유로로 늘었어요. 2026년부터 2031년까지 전체 지출은 1,760억 유로에 이를 것으로 보여요.",
+     "sents": [
+      {
+       "en": "A lot of money is at stake.",
+       "ko": "걸려 있는 돈이 아주 많아요."
+      },
+      {
+       "en": "Yearly investment in European data centers has grown from 12 billion euros in 2020 to about 25 billion this year, says PwC.",
+       "ko": "PwC에 따르면 유럽 데이터센터 연간 투자는 2020년 120억 유로에서 올해 약 250억 유로로 늘었어요."
+      },
+      {
+       "en": "Total spending is expected to reach 176 billion euros between 2026 and 2031.",
+       "ko": "2026년부터 2031년까지 전체 지출은 1,760억 유로에 이를 것으로 보여요."
+      }
+     ]
+    },
+    {
+     "en": "Pushback is growing in other places too. A Google project in Finland faces a criminal probe over land clearing. Italy and Portugal are tightening environmental rules for data centers. Microsoft pulled out of a UK project that was hit by delays.",
+     "ko": "다른 곳에서도 반발이 커지고 있어요. 핀란드의 구글 사업은 땅을 밀어 정리한 일로 형사 조사를 받고 있어요. 이탈리아와 포르투갈은 데이터센터에 대한 환경 규칙을 더 엄격하게 하고 있어요. 마이크로소프트는 지연에 시달린 영국 사업에서 손을 뗐어요.",
+     "sents": [
+      {
+       "en": "Pushback is growing in other places too.",
+       "ko": "다른 곳에서도 반발이 커지고 있어요."
+      },
+      {
+       "en": "A Google project in Finland faces a criminal probe over land clearing.",
+       "ko": "핀란드의 구글 사업은 땅을 밀어 정리한 일로 형사 조사를 받고 있어요."
+      },
+      {
+       "en": "Italy and Portugal are tightening environmental rules for data centers.",
+       "ko": "이탈리아와 포르투갈은 데이터센터에 대한 환경 규칙을 더 엄격하게 하고 있어요."
+      },
+      {
+       "en": "Microsoft pulled out of a UK project that was hit by delays.",
+       "ko": "마이크로소프트는 지연에 시달린 영국 사업에서 손을 뗐어요."
+      }
+     ]
+    },
+    {
+     "en": "The protests came days after the US midterm elections, where data centers became a big issue. Reuters said Europe is split between wanting to catch up in AI and keeping stricter public protections.",
+     "ko": "이번 시위는 데이터센터가 큰 쟁점이 된 미국 중간선거 며칠 뒤에 열렸어요. 로이터는 유럽이 AI 따라잡기와 더 엄격한 시민 보호 유지 사이에서 갈리고 있다고 전했어요.",
+     "sents": [
+      {
+       "en": "The protests came days after the US midterm elections, where data centers became a big issue.",
+       "ko": "이번 시위는 데이터센터가 큰 쟁점이 된 미국 중간선거 며칠 뒤에 열렸어요."
+      },
+      {
+       "en": "Reuters said Europe is split between wanting to catch up in AI and keeping stricter public protections.",
+       "ko": "로이터는 유럽이 AI 따라잡기와 더 엄격한 시민 보호 유지 사이에서 갈리고 있다고 전했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "In Amsterdam, more than 100 activists marched to a site where a Microsoft AI data center is being built.",
+   "glosses": [
+    {
+     "text": "Campaigners",
+     "meaning": "(사회 운동) 활동가들",
+     "level": 3
+    },
+    {
+     "text": "protests",
+     "meaning": "시위",
+     "level": 1
+    },
+    {
+     "text": "data centers",
+     "meaning": "데이터센터(서버를 모아 둔 큰 시설)",
+     "level": 2
+    },
+    {
+     "text": "coalition",
+     "meaning": "연합",
+     "level": 3
+    },
+    {
+     "text": "took part",
+     "meaning": "참여했다",
+     "level": 1
+    },
+    {
+     "text": "Actions",
+     "meaning": "(시위 등) 행동·행사",
+     "level": 2
+    },
+    {
+     "text": "activists",
+     "meaning": "활동가들",
+     "level": 2
+    },
+    {
+     "text": "site",
+     "meaning": "(공사) 현장",
+     "level": 1
+    },
+    {
+     "text": "cranes",
+     "meaning": "크레인",
+     "level": 1
+    },
+    {
+     "text": "stood by",
+     "meaning": "(개입 않고) 지켜봤다",
+     "level": 2
+    },
+    {
+     "text": "site owner",
+     "meaning": "현장 소유주",
+     "level": 2
+    },
+    {
+     "text": "Pure Data Centres",
+     "meaning": "퓨어 데이터 센터스(데이터센터 회사)",
+     "level": 3
+    },
+    {
+     "text": "invest",
+     "meaning": "투자하다",
+     "level": 1
+    },
+    {
+     "text": "Microsoft",
+     "meaning": "마이크로소프트",
+     "level": 0
+    },
+    {
+     "text": "unlawful",
+     "meaning": "불법의",
+     "level": 2
+    },
+    {
+     "text": "pause",
+     "meaning": "잠시 멈춤",
+     "level": 1
+    },
+    {
+     "text": "governments",
+     "meaning": "정부들",
+     "level": 1
+    },
+    {
+     "text": "set",
+     "meaning": "(규칙 등을) 정하다",
+     "level": 1
+    },
+    {
+     "text": "worry about",
+     "meaning": "~을 걱정하다",
+     "level": 1
+    },
+    {
+     "text": "energy bills",
+     "meaning": "에너지 요금",
+     "level": 2
+    },
+    {
+     "text": "water supplies",
+     "meaning": "물 공급",
+     "level": 2
+    },
+    {
+     "text": "housing",
+     "meaning": "주택",
+     "level": 1
+    },
+    {
+     "text": "essential",
+     "meaning": "꼭 필요한",
+     "level": 2
+    },
+    {
+     "text": "cloud computing",
+     "meaning": "클라우드 컴퓨팅(인터넷으로 컴퓨터 자원을 빌려 쓰기)",
+     "level": 2
+    },
+    {
+     "text": "EU",
+     "meaning": "유럽연합",
+     "level": 0
+    },
+    {
+     "text": "Henna Virkkunen",
+     "meaning": "헨나 비르쿠넨(EU 기술 담당 집행위원)",
+     "level": 3
+    },
+    {
+     "text": "capacity",
+     "meaning": "(생산·처리) 능력",
+     "level": 2
+    },
+    {
+     "text": "soaring",
+     "meaning": "치솟는",
+     "level": 2
+    },
+    {
+     "text": "at stake",
+     "meaning": "걸려 있는",
+     "level": 2
+    },
+    {
+     "text": "investment",
+     "meaning": "투자",
+     "level": 1
+    },
+    {
+     "text": "PwC",
+     "meaning": "PwC(회계·컨설팅 회사)",
+     "level": 3
+    },
+    {
+     "text": "midterm elections",
+     "meaning": "미국 중간선거",
+     "level": 2
+    },
+    {
+     "text": "issue",
+     "meaning": "쟁점, 문제",
+     "level": 1
+    },
+    {
+     "text": "Reuters",
+     "meaning": "로이터(통신사)",
+     "level": 0
+    },
+    {
+     "text": "catch up",
+     "meaning": "따라잡다",
+     "level": 1
+    },
+    {
+     "text": "stricter",
+     "meaning": "더 엄격한",
+     "level": 2
+    },
+    {
+     "text": "public protections",
+     "meaning": "시민을 지키는 장치·규칙",
+     "level": 3
+    },
+    {
+     "text": "Stop Dirty Data Centres",
+     "meaning": "스톱 더티 데이터 센터스(시위 연합 이름)",
+     "level": 3
+    },
+    {
+     "text": "billion",
+     "meaning": "10억",
+     "level": 0
+    },
+    {
+     "text": "Europe",
+     "meaning": "유럽",
+     "level": 0
+    },
+    {
+     "text": "AI",
+     "meaning": "인공지능",
+     "level": 0
+    },
+    {
+     "text": "UK",
+     "meaning": "영국",
+     "level": 0
+    },
+    {
+     "text": "probe",
+     "meaning": "조사",
+     "level": 2
+    },
+    {
+     "text": "hit",
+     "meaning": "(타격·영향을) 받은",
+     "level": 1
+    },
+    {
+     "text": "land clearing",
+     "meaning": "땅을 밀어 정리하는 작업",
+     "level": 2
+    },
+    {
+     "text": "tightening",
+     "meaning": "더 엄격하게 하는",
+     "level": 2
+    },
+    {
+     "text": "environmental rules",
+     "meaning": "환경 규칙",
+     "level": 2
+    },
+    {
+     "text": "pulled out",
+     "meaning": "손을 뗐다, 철수했다",
+     "level": 2
+    },
+    {
+     "text": "Google",
+     "meaning": "구글",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres",
+     "title": "Protesters across Europe to call for freeze on energy hungry data centres"
+    },
+    {
+     "name": "TimesLIVE (Reuters)",
+     "url": "https://www.timeslive.co.za/news/sci-tech/2026-11-06-watch-activists-storm-microsoft-site-as-europe-protests-data-centres/",
+     "title": "WATCH | Activists storm Microsoft site as Europe protests data centres"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://techradar.com/pro/europe-wide-protests-call-to-stop-dirty-data-centers-following-mounting-opposition",
+     "title": "Europe-wide protests call to 'stop dirty data centers' following mounting opposition"
+    }
+   ],
+   "num": {
+    "value": "1,760억 유로",
+    "caption": "유럽 데이터센터 지출 전망(2026~2031 합계)",
+    "source": "Euronews"
+   },
+   "life": "AI 서비스가 늘수록 전기·물 같은 자원 문제가 커져요. 한국 대학생도 AI·반도체 기업 취업이나 에너지 정책 이야기에서 이런 논쟁을 만나게 돼요.",
+   "deep": {
+    "why": "AI 붐의 바탕인 데이터센터를 둘러싼 반발이 미국에서 유럽으로 번지고 있어, 기술 회사의 투자 계획과 지역 사회의 걱정이 부딪히는 모습을 보여 줘요.",
+    "next": "유럽 각국과 EU가 데이터센터에 새 규칙이나 잠정 중단을 정할지, 기업이 지역과 어떻게 대화할지 지켜볼 만해요.",
+    "keyNumbers": "15개국 · 100곳 넘는 단체 · 암스테르담 현장 10억 달러 넘는 투자 · 유럽 지출 1,760억 유로(2026~2031)",
+    "views": [
+     {
+      "source": "Euronews",
+      "view": "활동가들이 지역 사회의 반대가 이제 유럽 정치 무대에 올라섰다고 말한 점을 전했어요."
+     },
+     {
+      "source": "TimesLIVE (Reuters)",
+      "view": "기술 회사들은 데이터센터가 AI와 클라우드 수요에 꼭 필요하다고 말한다고 전했어요."
+     },
+     {
+      "source": "TechRadar",
+      "view": "단체가 취소가 아니라 임시 중단을 요구한다는 점을 짚었어요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "Where did more than 100 activists break into a Microsoft site?",
+     "qKo": "활동가 100명 넘게 마이크로소프트 현장에 들어간 곳은 어디인가요?",
+     "choices": [
+      "In Dublin",
+      "In Amsterdam",
+      "In Madrid"
+     ],
+     "answer": 1,
+     "why": "2문단: “In Amsterdam, more than 100 activists marched”"
+    },
+    {
+     "q": "What do the campaigners ask for?",
+     "qKo": "활동가들은 무엇을 요구하나요?",
+     "choices": [
+      "A pause on large new projects",
+      "A ban on all AI products",
+      "The closing of old data centers"
+     ],
+     "answer": 0,
+     "why": "3문단: “a pause on large new projects”"
+    },
+    {
+     "q": "How much is total spending expected to reach between 2026 and 2031?",
+     "qKo": "2026년부터 2031년까지 전체 지출은 얼마에 이를 것으로 보나요?",
+     "choices": [
+      "12 billion euros",
+      "25 billion euros",
+      "176 billion euros"
+     ],
+     "answer": 2,
+     "why": "5문단: “176 billion euros between 2026 and 2031”"
+    }
+   ],
+   "job": "기술 투자와 지역 사회 · 환경이 부딪히는 사례 = 「기술 기업의 사회적 책임 · ESG」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Should a town have a say in building a data center nearby?",
+    "qKo": "마을 주민이 가까운 데이터센터 건설에 의견을 낼 수 있어야 할까요?",
+    "answer": "I think yes. The article says people worry about energy bills, water and land. Companies also say data centers are needed for AI. I believe both sides should talk early so the plan works for everyone.",
+    "answerKo": "저는 그렇다고 생각해요. 기사는 사람들이 에너지 요금, 물, 땅을 걱정한다고 해요. 회사들은 AI에 데이터센터가 필요하다고도 말해요. 계획이 모두에게 맞도록 양쪽이 일찍 대화해야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "worry about energy bills",
+      "ko": "에너지 요금을 걱정하다"
+     },
+     {
+      "en": "talk early",
+      "ko": "일찍 대화하다"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-5",
+   "section": "world",
+   "tag": "의견 갈림",
+   "title": "New Zealand's election is too close to call, and the next government may not be known for weeks",
+   "easyKo": "뉴질랜드 총선 결과가 너무 박빙이라 다음 정부가 어떤 모습일지 몇 주 뒤에야 알 수 있어요. 우편·해외 투표가 아직 남아 있고, 공식 결과는 11월 27일에 나와요.",
+   "paragraphs": [
+    {
+     "en": "New Zealand held an election on Saturday, and the result is too close to call. The governing National party, led by Prime Minister Christopher Luxon, won the most seats. But neither the right-leaning bloc nor the left bloc won a clear victory.",
+     "ko": "뉴질랜드가 토요일 선거를 치렀는데 결과가 너무 박빙이라 승자를 가리기 어려워요. 크리스토퍼 럭슨 총리가 이끄는 집권 국민당이 가장 많은 의석을 차지했어요. 하지만 우파 성향 블록도 좌파 블록도 분명한 승리를 거두지 못했어요.",
+     "sents": [
+      {
+       "en": "New Zealand held an election on Saturday, and the result is too close to call.",
+       "ko": "뉴질랜드가 토요일 선거를 치렀는데 결과가 너무 박빙이라 승자를 가리기 어려워요."
+      },
+      {
+       "en": "The governing National party, led by Prime Minister Christopher Luxon, won the most seats.",
+       "ko": "크리스토퍼 럭슨 총리가 이끄는 집권 국민당이 가장 많은 의석을 차지했어요."
+      },
+      {
+       "en": "But neither the right-leaning bloc nor the left bloc won a clear victory.",
+       "ko": "하지만 우파 성향 블록도 좌파 블록도 분명한 승리를 거두지 못했어요."
+      }
+     ]
+    },
+    {
+     "en": "On early results, National won 42 seats, Act won 13 and New Zealand First won 12. Together they have 67 seats, a very thin majority. Labour won 35 seats, the Greens 16 and Te Pāti Māori five. National beat Labour by just 0.02 percent in the party vote.",
+     "ko": "초기 개표에서 국민당은 42석, 액트당은 13석, 뉴질랜드 제일당은 12석을 얻었어요. 셋을 합치면 67석으로 과반이 아주 아슬아슬해요. 노동당은 35석, 녹색당은 16석, 테 파티 마오리는 5석을 얻었어요. 정당 득표에서 국민당은 노동당을 겨우 0.02%포인트 차로 앞섰어요.",
+     "sents": [
+      {
+       "en": "On early results, National won 42 seats, Act won 13 and New Zealand First won 12.",
+       "ko": "초기 개표에서 국민당은 42석, 액트당은 13석, 뉴질랜드 제일당은 12석을 얻었어요."
+      },
+      {
+       "en": "Together they have 67 seats, a very thin majority.",
+       "ko": "셋을 합치면 67석으로 과반이 아주 아슬아슬해요."
+      },
+      {
+       "en": "Labour won 35 seats, the Greens 16 and Te Pāti Māori five.",
+       "ko": "노동당은 35석, 녹색당은 16석, 테 파티 마오리는 5석을 얻었어요."
+      },
+      {
+       "en": "National beat Labour by just 0.02 percent in the party vote.",
+       "ko": "정당 득표에서 국민당은 노동당을 겨우 0.02%포인트 차로 앞섰어요."
+      }
+     ]
+    },
+    {
+     "en": "Special votes have not been counted yet. These include overseas ballots and votes cast outside a voter's home area. In 2023, they made up 21 percent of all votes and tended to favor the left. Official results will be released on Nov. 27.",
+     "ko": "특별 투표는 아직 개표되지 않았어요. 여기에는 해외 투표와 자기 지역 밖에서 한 투표가 들어 있어요. 2023년에는 전체 표의 21%를 차지했고 좌파에 유리한 경향이 있었어요. 공식 결과는 11월 27일에 발표돼요.",
+     "sents": [
+      {
+       "en": "Special votes have not been counted yet.",
+       "ko": "특별 투표는 아직 개표되지 않았어요."
+      },
+      {
+       "en": "These include overseas ballots and votes cast outside a voter's home area.",
+       "ko": "여기에는 해외 투표와 자기 지역 밖에서 한 투표가 들어 있어요."
+      },
+      {
+       "en": "In 2023, they made up 21 percent of all votes and tended to favor the left.",
+       "ko": "2023년에는 전체 표의 21%를 차지했고 좌파에 유리한 경향이 있었어요."
+      },
+      {
+       "en": "Official results will be released on Nov. 27.",
+       "ko": "공식 결과는 11월 27일에 발표돼요."
+      }
+     ]
+    },
+    {
+     "en": "A new centrist group, the Opportunity Party, won about 5.9 percent and entered parliament for the first time. It could become the kingmaker if the special votes change the picture. A record number of voters also left the two big parties.",
+     "ko": "새 중도 정당인 기회당은 약 5.9%를 얻어 처음으로 의회에 들어갔어요. 특별 투표로 판세가 바뀌면 기회당이 결정권을 쥘 수도 있어요. 역대 최다 유권자가 두 큰 정당을 떠나기도 했어요.",
+     "sents": [
+      {
+       "en": "A new centrist group, the Opportunity Party, won about 5.9 percent and entered parliament for the first time.",
+       "ko": "새 중도 정당인 기회당은 약 5.9%를 얻어 처음으로 의회에 들어갔어요."
+      },
+      {
+       "en": "It could become the kingmaker if the special votes change the picture.",
+       "ko": "특별 투표로 판세가 바뀌면 기회당이 결정권을 쥘 수도 있어요."
+      },
+      {
+       "en": "A record number of voters also left the two big parties.",
+       "ko": "역대 최다 유권자가 두 큰 정당을 떠나기도 했어요."
+      }
+     ]
+    },
+    {
+     "en": "The BBC reported that the national mood is low. Unemployment is at an 11-year high, and young people are finding it hard to get work. About 180 people leave the country every day, a record. Many people say the economy is weak, living costs are high, and trust in politics is low. One political commentator said both big parties have a record of disappointing results.",
+     "ko": "BBC는 나라 분위기가 가라앉아 있다고 전했어요. 실업률이 11년 만에 가장 높고, 젊은 사람들은 일자리 구하기가 어렵다고 해요. 매일 약 180명이 나라를 떠나고 있는데, 이것도 기록이에요. 많은 사람들이 경제가 약하고 생활비가 높으며 정치에 대한 믿음이 낮다고 말해요. 한 정치 평론가는 두 큰 정당 모두 실망스러운 성과를 낸 전력이 있다고 말했어요.",
+     "sents": [
+      {
+       "en": "The BBC reported that the national mood is low.",
+       "ko": "BBC는 나라 분위기가 가라앉아 있다고 전했어요."
+      },
+      {
+       "en": "Unemployment is at an 11-year high, and young people are finding it hard to get work.",
+       "ko": "실업률이 11년 만에 가장 높고, 젊은 사람들은 일자리 구하기가 어렵다고 해요."
+      },
+      {
+       "en": "About 180 people leave the country every day, a record.",
+       "ko": "매일 약 180명이 나라를 떠나고 있는데, 이것도 기록이에요."
+      },
+      {
+       "en": "Many people say the economy is weak, living costs are high, and trust in politics is low.",
+       "ko": "많은 사람들이 경제가 약하고 생활비가 높으며 정치에 대한 믿음이 낮다고 말해요."
+      },
+      {
+       "en": "One political commentator said both big parties have a record of disappointing results.",
+       "ko": "한 정치 평론가는 두 큰 정당 모두 실망스러운 성과를 낸 전력이 있다고 말했어요."
+      }
+     ]
+    },
+    {
+     "en": "The voting system adds some twists. Voters cast one vote for a local member and one for a party. National won more local seats than its party vote entitles it to, so parliament may grow to a record 130 seats. Four of National's most senior ministers will not return to parliament.",
+     "ko": "투표 제도에는 변수가 몇 가지 있어요. 유권자는 지역 대표에게 한 표, 정당에게 한 표를 던져요. 국민당은 정당 득표가 허용하는 것보다 지역구 의석을 더 얻어, 의회가 사상 최대인 130석까지 늘 수 있어요. 국민당의 고위 장관 네 명은 의회로 돌아오지 못해요.",
+     "sents": [
+      {
+       "en": "The voting system adds some twists.",
+       "ko": "투표 제도에는 변수가 몇 가지 있어요."
+      },
+      {
+       "en": "Voters cast one vote for a local member and one for a party.",
+       "ko": "유권자는 지역 대표에게 한 표, 정당에게 한 표를 던져요."
+      },
+      {
+       "en": "National won more local seats than its party vote entitles it to, so parliament may grow to a record 130 seats.",
+       "ko": "국민당은 정당 득표가 허용하는 것보다 지역구 의석을 더 얻어, 의회가 사상 최대인 130석까지 늘 수 있어요."
+      },
+      {
+       "en": "Four of National's most senior ministers will not return to parliament.",
+       "ko": "국민당의 고위 장관 네 명은 의회로 돌아오지 못해요."
+      }
+     ]
+    },
+    {
+     "en": "Luxon said the usual caretaker rules apply while the vote count goes on. The daily business of government will continue.",
+     "ko": "럭슨은 개표가 이어지는 동안 임시 정부 관례가 적용된다고 말했어요. 정부의 일상 업무는 계속될 거예요.",
+     "sents": [
+      {
+       "en": "Luxon said the usual caretaker rules apply while the vote count goes on.",
+       "ko": "럭슨은 개표가 이어지는 동안 임시 정부 관례가 적용된다고 말했어요."
+      },
+      {
+       "en": "The daily business of government will continue.",
+       "ko": "정부의 일상 업무는 계속될 거예요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "New Zealand held an election on Saturday, and the result is too close to call.",
+   "glosses": [
+    {
+     "text": "election",
+     "meaning": "선거",
+     "level": 1
+    },
+    {
+     "text": "too close to call",
+     "meaning": "너무 박빙이라 승자를 가리기 어려운",
+     "level": 3
+    },
+    {
+     "text": "governing",
+     "meaning": "집권한, 정권을 잡은",
+     "level": 2
+    },
+    {
+     "text": "National party",
+     "meaning": "국민당(뉴질랜드 중도우파 정당)",
+     "level": 2
+    },
+    {
+     "text": "Prime Minister Christopher Luxon",
+     "meaning": "크리스토퍼 럭슨 총리(뉴질랜드)",
+     "level": 3
+    },
+    {
+     "text": "seats",
+     "meaning": "의석",
+     "level": 1
+    },
+    {
+     "text": "right-leaning",
+     "meaning": "우파 성향의",
+     "level": 2
+    },
+    {
+     "text": "bloc",
+     "meaning": "(정치) 블록, 연합 세력",
+     "level": 3
+    },
+    {
+     "text": "victory",
+     "meaning": "승리",
+     "level": 1
+    },
+    {
+     "text": "Act",
+     "meaning": "액트당(뉴질랜드 자유지상주의 정당)",
+     "level": 3
+    },
+    {
+     "text": "New Zealand First",
+     "meaning": "뉴질랜드 제일당(정당 이름)",
+     "level": 3
+    },
+    {
+     "text": "majority",
+     "meaning": "과반",
+     "level": 2
+    },
+    {
+     "text": "Labour",
+     "meaning": "노동당(뉴질랜드 중도좌파 정당)",
+     "level": 2
+    },
+    {
+     "text": "Greens",
+     "meaning": "녹색당",
+     "level": 1
+    },
+    {
+     "text": "Te Pāti Māori",
+     "meaning": "테 파티 마오리(마오리 정당)",
+     "level": 3
+    },
+    {
+     "text": "party vote",
+     "meaning": "정당 득표(정당에 한 투표)",
+     "level": 2
+    },
+    {
+     "text": "Special votes",
+     "meaning": "특별 투표(해외·타 지역 투표)",
+     "level": 3
+    },
+    {
+     "text": "ballots",
+     "meaning": "투표용지, 투표",
+     "level": 2
+    },
+    {
+     "text": "favor",
+     "meaning": "~에 유리하다, 선호하다",
+     "level": 2
+    },
+    {
+     "text": "left",
+     "meaning": "좌파",
+     "level": 1
+    },
+    {
+     "text": "Official results",
+     "meaning": "공식 결과",
+     "level": 2
+    },
+    {
+     "text": "released",
+     "meaning": "발표된다",
+     "level": 1
+    },
+    {
+     "text": "parties",
+     "meaning": "정당들",
+     "level": 0
+    },
+    {
+     "text": "ministers",
+     "meaning": "장관들",
+     "level": 1
+    },
+    {
+     "text": "Opportunity Party",
+     "meaning": "기회당(새 중도 정당)",
+     "level": 3
+    },
+    {
+     "text": "centrist",
+     "meaning": "중도의",
+     "level": 3
+    },
+    {
+     "text": "parliament",
+     "meaning": "의회",
+     "level": 1
+    },
+    {
+     "text": "kingmaker",
+     "meaning": "결정권자(누가 정권을 잡을지 정하는 세력)",
+     "level": 3
+    },
+    {
+     "text": "record",
+     "meaning": "기록적인, 역대 최다",
+     "level": 1
+    },
+    {
+     "text": "unemployment",
+     "meaning": "실업",
+     "level": 2
+    },
+    {
+     "text": "caretaker",
+     "meaning": "임시(과도)의",
+     "level": 3
+    },
+    {
+     "text": "vote count",
+     "meaning": "개표",
+     "level": 2
+    },
+    {
+     "text": "the BBC",
+     "meaning": "BBC(영국 방송)",
+     "level": 0
+    },
+    {
+     "text": "11-year high",
+     "meaning": "11년 만의 최고치",
+     "level": 2
+    },
+    {
+     "text": "party",
+     "meaning": "정당",
+     "level": 0
+    },
+    {
+     "text": "won",
+     "meaning": "얻었다, 이겼다",
+     "level": 0
+    },
+    {
+     "text": "New Zealand",
+     "meaning": "뉴질랜드",
+     "level": 0
+    },
+    {
+     "text": "government",
+     "meaning": "정부",
+     "level": 1
+    },
+    {
+     "text": "left the",
+     "meaning": "떠났다",
+     "level": 1
+    },
+    {
+     "text": "cast",
+     "meaning": "(표를) 던졌다",
+     "level": 2
+    },
+    {
+     "text": "voter",
+     "meaning": "유권자",
+     "level": 1
+    },
+    {
+     "text": "voters",
+     "meaning": "유권자들",
+     "level": 1
+    },
+    {
+     "text": "vote",
+     "meaning": "투표",
+     "level": 0
+    },
+    {
+     "text": "Saturday",
+     "meaning": "토요일",
+     "level": 0
+    },
+    {
+     "text": "seat",
+     "meaning": "의석",
+     "level": 1
+    },
+    {
+     "text": "Prime Minister",
+     "meaning": "총리",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo",
+     "title": "NZ election: Unusually gloomy Kiwis deliver tightest election in years"
+    }
+   ],
+   "num": {
+    "value": "0.02%",
+    "caption": "정당 득표에서 국민당이 노동당을 앞선 차이",
+    "source": "The Guardian"
+   },
+   "life": "외국 선거도 일자리와 물가 같은 생활 문제와 이어져 있어요. 이 기사에도 실업과 생활비 이야기가 나와서, 다른 나라의 경제 흐름을 읽는 연습이 돼요.",
+   "deep": {
+    "why": "어느 쪽도 분명히 이기지 못해 몇 주 동안 정부 구성이 불확실하다는 점이 핵심이에요. 비례대표제 나라에서 작은 정당이 힘을 얻는 모습도 보여 줘요.",
+    "next": "11월 27일 공식 결과에서 특별 투표가 의석을 어떻게 바꾸는지, 어느 정당이 연정 협상에서 열쇠를 쥐는지 지켜볼 만해요.",
+    "keyNumbers": "국민당 42석 · 액트 13석 · 뉴질랜드 제일당 12석(합 67석) · 정당 득표 차 0.02% · 특별 투표 2023년 21% · 공식 결과 11월 27일",
+    "views": [
+     {
+      "source": "The Guardian",
+      "view": "특별 투표가 남아 정권 향방이 11월 27일 공식 결과까지 불확실하다고 짚었어요."
+     },
+     {
+      "source": "BBC News",
+      "view": "낮은 정치 신뢰와 일자리·생활비 걱정으로 나라 분위기가 가라앉았다고 전했어요."
+     }
+    ]
+   },
+   "quiz": [
+    {
+     "q": "Which party won the most seats?",
+     "qKo": "어느 정당이 가장 많은 의석을 얻었나요?",
+     "choices": [
+      "The Greens",
+      "The National party",
+      "The Labour party"
+     ],
+     "answer": 1,
+     "why": "1문단: “The governing National party, led by Prime Minister Christopher Luxon, won the most seats.”"
+    },
+    {
+     "q": "By how much did National beat Labour in the party vote?",
+     "qKo": "정당 득표에서 국민당은 노동당을 얼마 차이로 앞섰나요?",
+     "choices": [
+      "By 0.02 percent",
+      "By 5.9 percent",
+      "By 21 percent"
+     ],
+     "answer": 0,
+     "why": "2문단: “by just 0.02 percent in the party vote”"
+    },
+    {
+     "q": "When will official results be released?",
+     "qKo": "공식 결과는 언제 발표되나요?",
+     "choices": [
+      "On Nov. 7",
+      "On Nov. 27",
+      "On Nov. 12"
+     ],
+     "answer": 1,
+     "why": "3문단: “Official results will be released on Nov. 27.”"
+    }
+   ],
+   "job": "지역·정당 두 표 선거 제도와 박빙 결과의 불확실성 = 「선거제도 · 정치 불확실성」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do special votes matter in a close election?",
+    "qKo": "박빙 선거에서 특별 투표는 왜 중요할까요?",
+    "answer": "The article says special votes include overseas votes and made up 21 percent of the total in 2023. In a very close race, they can change the result. I think every vote should be counted carefully.",
+    "answerKo": "기사는 특별 투표에 해외 투표가 들어 있고 2023년에 전체의 21%였다고 해요. 아주 박빙인 선거에서는 결과를 바꿀 수 있어요. 저는 모든 표를 꼼꼼히 세어야 한다고 생각해요.",
+    "phrases": [
+     {
+      "en": "special votes",
+      "ko": "특별 투표"
+     },
+     {
+      "en": "counted carefully",
+      "ko": "꼼꼼히 세다"
+     }
+    ]
+   },
+   "story": {
+    "prev": "2026-11-07-pm-19",
+    "n": 2
+   }
+  },
+  {
+   "key": "2026-11-08-pm-6",
+   "section": "money",
+   "tag": "한국에 직접",
+   "title": "Samsung Electronics is set to hold more than 200 trillion won in cash",
+   "easyKo": "삼성전자의 현금성 자산이 200조 원을 넘는 첫 한국 기업이 될 전망이에요. AI 반도체 호황 덕분이에요.",
+   "paragraphs": [
+    {
+     "en": "Samsung Electronics is set to become the first South Korean company with cash assets of more than 200 trillion won. That is about $146.6 billion, according to industry data released on Sunday. The data say the AI chip supercycle helped the company.",
+     "ko": "삼성전자가 현금성 자산 200조 원이 넘는 첫 한국 기업이 될 전망이에요. 일요일에 나온 업계 자료로는 약 1466억 달러예요. 자료는 AI 반도체 초호황이 회사에 도움이 되었다고 해요.",
+     "sents": [
+      {
+       "en": "Samsung Electronics is set to become the first South Korean company with cash assets of more than 200 trillion won.",
+       "ko": "삼성전자가 현금성 자산 200조 원이 넘는 첫 한국 기업이 될 전망이에요."
+      },
+      {
+       "en": "That is about $146.6 billion, according to industry data released on Sunday.",
+       "ko": "일요일에 나온 업계 자료로는 약 1466억 달러예요."
+      },
+      {
+       "en": "The data say the AI chip supercycle helped the company.",
+       "ko": "자료는 AI 반도체 초호황이 회사에 도움이 되었다고 해요."
+      }
+     ]
+    },
+    {
+     "en": "Its cash and cash equivalents are estimated at 214.8 trillion won at the end of the third quarter. That is up 24.8 trillion won from three months earlier. It is also almost double the 108.5 trillion won at the end of the third quarter of 2025.",
+     "ko": "3분기 말 현금과 현금성 자산은 214조 8000억 원으로 추정돼요. 석 달 전보다 24조 8000억 원 늘었어요. 2025년 3분기 말의 108조 5000억 원과 비교하면 거의 두 배예요.",
+     "sents": [
+      {
+       "en": "Its cash and cash equivalents are estimated at 214.8 trillion won at the end of the third quarter.",
+       "ko": "3분기 말 현금과 현금성 자산은 214조 8000억 원으로 추정돼요."
+      },
+      {
+       "en": "That is up 24.8 trillion won from three months earlier.",
+       "ko": "석 달 전보다 24조 8000억 원 늘었어요."
+      },
+      {
+       "en": "It is also almost double the 108.5 trillion won at the end of the third quarter of 2025.",
+       "ko": "2025년 3분기 말의 108조 5000억 원과 비교하면 거의 두 배예요."
+      }
+     ]
+    },
+    {
+     "en": "Total assets reached 791.8 trillion won at the end of September. Market watchers say the cash is enough to cover the payout in the shareholder return plan announced in August. The company said 90 trillion to 110 trillion won will be available for shareholders in 2026.",
+     "ko": "9월 말 총자산은 791조 8000억 원에 이르렀어요. 시장 관계자들은 이 현금이 8월에 발표한 주주 환원 계획의 지급액을 감당할 만하다고 봐요. 회사는 2026년에 주주를 위해 90조~110조 원을 쓸 수 있다고 했어요.",
+     "sents": [
+      {
+       "en": "Total assets reached 791.8 trillion won at the end of September.",
+       "ko": "9월 말 총자산은 791조 8000억 원에 이르렀어요."
+      },
+      {
+       "en": "Market watchers say the cash is enough to cover the payout in the shareholder return plan announced in August.",
+       "ko": "시장 관계자들은 이 현금이 8월에 발표한 주주 환원 계획의 지급액을 감당할 만하다고 봐요."
+      },
+      {
+       "en": "The company said 90 trillion to 110 trillion won will be available for shareholders in 2026.",
+       "ko": "회사는 2026년에 주주를 위해 90조~110조 원을 쓸 수 있다고 했어요."
+      }
+     ]
+    },
+    {
+     "en": "Spending on chip plants and research is also expected to reach a record of more than 100 trillion won this year. It will announce next year's shareholder plan at a board meeting in January.",
+     "ko": "반도체 공장과 연구에 쓰는 돈도 올해 사상 최대인 100조 원이 넘을 것으로 보여요. 내년 주주 환원 정책은 1월 이사회에서 발표할 예정이에요.",
+     "sents": [
+      {
+       "en": "Spending on chip plants and research is also expected to reach a record of more than 100 trillion won this year.",
+       "ko": "반도체 공장과 연구에 쓰는 돈도 올해 사상 최대인 100조 원이 넘을 것으로 보여요."
+      },
+      {
+       "en": "It will announce next year's shareholder plan at a board meeting in January.",
+       "ko": "내년 주주 환원 정책은 1월 이사회에서 발표할 예정이에요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "Samsung Electronics is set to become the first South Korean company with cash assets of more than 200 trillion won.",
+   "glosses": [
+    {
+     "text": "board",
+     "meaning": "이사회",
+     "level": 1
+    },
+    {
+     "text": "chip",
+     "meaning": "반도체",
+     "level": 0
+    },
+    {
+     "text": "market",
+     "meaning": "시장(market watchers=시장 관계자)",
+     "level": 1
+    },
+    {
+     "text": "market watchers",
+     "meaning": "시장 관계자들",
+     "level": 3
+    },
+    {
+     "text": "plants",
+     "meaning": "공장들",
+     "level": 1
+    },
+    {
+     "text": "quarter",
+     "meaning": "분기",
+     "level": 0
+    },
+    {
+     "text": "released",
+     "meaning": "발표된",
+     "level": 0
+    },
+    {
+     "text": "won",
+     "meaning": "원(한국 돈)",
+     "level": 0
+    },
+    {
+     "text": "cash assets",
+     "meaning": "현금성 자산",
+     "level": 2
+    },
+    {
+     "text": "cash and cash equivalents",
+     "meaning": "현금 및 현금성 자산",
+     "level": 3
+    },
+    {
+     "text": "supercycle",
+     "meaning": "초호황 주기",
+     "level": 3
+    },
+    {
+     "text": "shareholder return plan",
+     "meaning": "주주 환원 계획(배당·자사주 등)",
+     "level": 3
+    },
+    {
+     "text": "payout",
+     "meaning": "지급액",
+     "level": 3
+    },
+    {
+     "text": "total assets",
+     "meaning": "총자산",
+     "level": 2
+    },
+    {
+     "text": "third quarter",
+     "meaning": "3분기(7~9월)",
+     "level": 1
+    },
+    {
+     "text": "shareholders",
+     "meaning": "주주",
+     "level": 2
+    },
+    {
+     "text": "record",
+     "meaning": "사상 최대의",
+     "level": 1
+    },
+    {
+     "text": "AI",
+     "meaning": "인공지능",
+     "level": 0
+    },
+    {
+     "text": "industry data",
+     "meaning": "업계 자료",
+     "level": 1
+    },
+    {
+     "text": "Samsung Electronics",
+     "meaning": "삼성전자",
+     "level": 0
+    },
+    {
+     "text": "cover",
+     "meaning": "(비용을) 감당하다",
+     "level": 2
+    },
+    {
+     "text": "set to",
+     "meaning": "~할 예정이다, ~할 전망이다",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/business/companies/20261108/samsung-electronics-to-become-1st-local-firm-with-cash-assets-of-over-1466-bil-data",
+     "title": "Samsung Electronics to become 1st local firm with cash assets of over $146.6 bil.: data"
+    },
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261108001900320",
+     "title": "Samsung Electronics to become 1st local firm with cash assets of over 200 tln won: data"
+    }
+   ],
+   "num": {
+    "value": "214.8조 원",
+    "caption": "삼성전자 3분기 말 현금성 자산 추정",
+    "source": "Yonhap"
+   },
+   "life": "삼성전자 같은 큰 회사가 번 돈을 투자와 주주 몫에 어떻게 쓰는지 보면 기업 분석 연습이 돼요. 취업 준비 때 회사를 볼 때 쓸 수 있는 숫자들이에요.",
+   "quiz": [
+    {
+     "q": "How much cash is Samsung Electronics estimated to have at the end of the third quarter?",
+     "qKo": "삼성전자의 3분기 말 현금은 얼마로 추정되나요?",
+     "choices": [
+      "108.5 trillion won",
+      "791.8 trillion won",
+      "214.8 trillion won"
+     ],
+     "answer": 2,
+     "why": "2문단: “estimated at 214.8 trillion won”"
+    },
+    {
+     "q": "What helped the company grow its cash, according to the data?",
+     "qKo": "자료에 따르면 무엇이 현금을 늘리는 데 도움이 되었나요?",
+     "choices": [
+      "The AI chip supercycle",
+      "A rise in phone prices",
+      "A sale of its headquarters"
+     ],
+     "answer": 0,
+     "why": "1문단: “the AI chip supercycle helped the company”"
+    },
+    {
+     "q": "When will Samsung announce next year's shareholder plan?",
+     "qKo": "삼성은 내년 주주 환원 계획을 언제 발표하나요?",
+     "choices": [
+      "At a meeting in August",
+      "At a board meeting in January",
+      "At the end of September"
+     ],
+     "answer": 1,
+     "why": "4문단: “at a board meeting in January”"
+    }
+   ],
+   "job": "대기업의 현금 보유와 투자 계획 = 「기업 재무 · 반도체 투자」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "What should a big company do with so much cash?",
+    "qKo": "큰 회사는 그렇게 많은 현금으로 무엇을 해야 할까요?",
+    "answer": "The article says Samsung is expected to spend more than 100 trillion won on chip plants and research this year. I think investing in new technology is a good use of cash. It can also create jobs for young people.",
+    "answerKo": "기사는 삼성이 올해 반도체 공장과 연구에 100조 원 넘게 쓸 것으로 보인다고 해요. 저는 새 기술에 투자하는 것이 현금을 잘 쓰는 방법이라고 생각해요. 젊은 사람들의 일자리도 만들 수 있어요.",
+    "phrases": [
+     {
+      "en": "chip plants and research",
+      "ko": "반도체 공장과 연구"
+     },
+     {
+      "en": "a good use of cash",
+      "ko": "현금을 잘 쓰는 방법"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-7",
+   "section": "money",
+   "tag": "생활에 바로",
+   "title": "Korean brokerages will offer almost 24-hour trading of US stocks from Dec. 6",
+   "easyKo": "12월 6일부터 한국 증권사들이 미국 주식을 거의 하루 종일 거래할 수 있게 해 줘요. 한국 투자자의 미국 주식 사랑이 크기 때문이에요.",
+   "paragraphs": [
+    {
+     "en": "South Korean brokerages will offer almost round-the-clock trading of US stocks from Dec. 6. They will combine Nasdaq's longer 23-hour schedule with one more hour on a platform called Blue Ocean. Every local brokerage is set to support the new system from the first day.",
+     "ko": "한국 증권사들은 12월 6일부터 미국 주식을 거의 하루 종일 거래하게 해 줘요. 나스닥이 늘린 23시간 거래에 블루오션이라는 플랫폼의 한 시간을 더할 거예요. 국내 증권사 모두가 첫날부터 새 방식을 지원할 예정이에요.",
+     "sents": [
+      {
+       "en": "South Korean brokerages will offer almost round-the-clock trading of US stocks from Dec. 6.",
+       "ko": "한국 증권사들은 12월 6일부터 미국 주식을 거의 하루 종일 거래하게 해 줘요."
+      },
+      {
+       "en": "They will combine Nasdaq's longer 23-hour schedule with one more hour on a platform called Blue Ocean.",
+       "ko": "나스닥이 늘린 23시간 거래에 블루오션이라는 플랫폼의 한 시간을 더할 거예요."
+      },
+      {
+       "en": "Every local brokerage is set to support the new system from the first day.",
+       "ko": "국내 증권사 모두가 첫날부터 새 방식을 지원할 예정이에요."
+      }
+     ]
+    },
+    {
+     "en": "The US Securities and Exchange Commission approved Nasdaq's plan in April. The longer session will start at 9 p.m. Eastern Time on Sunday, Dec. 6, which is 11 a.m. in Korea on Monday. Trading in ETFs will also be longer on NYSE Arca.",
+     "ko": "미국 증권거래위원회는 4월 나스닥의 계획을 승인했어요. 더 긴 거래는 12월 6일 일요일 동부시간 밤 9시, 즉 한국 시각 월요일 오전 11시에 시작해요. 상장지수펀드 거래도 NYSE 아카에서 더 길어져요.",
+     "sents": [
+      {
+       "en": "The US Securities and Exchange Commission approved Nasdaq's plan in April.",
+       "ko": "미국 증권거래위원회는 4월 나스닥의 계획을 승인했어요."
+      },
+      {
+       "en": "The longer session will start at 9 p.m. Eastern Time on Sunday, Dec. 6, which is 11 a.m. in Korea on Monday.",
+       "ko": "더 긴 거래는 12월 6일 일요일 동부시간 밤 9시, 즉 한국 시각 월요일 오전 11시에 시작해요."
+      },
+      {
+       "en": "Trading in ETFs will also be longer on NYSE Arca.",
+       "ko": "상장지수펀드 거래도 NYSE 아카에서 더 길어져요."
+      }
+     ]
+    },
+    {
+     "en": "Korean investors have a strong appetite for US stocks. Their net purchases reached $2.20 billion over four trading days from Nov. 2 to Nov. 6. That was more than the $1.96 billion bought in all of August.",
+     "ko": "한국 투자자들은 미국 주식에 대한 수요가 커요. 11월 2일부터 6일까지 나흘간 순매수는 22억 달러에 이르렀어요. 이는 8월 한 달 매수액 19억 6000만 달러보다 많아요.",
+     "sents": [
+      {
+       "en": "Korean investors have a strong appetite for US stocks.",
+       "ko": "한국 투자자들은 미국 주식에 대한 수요가 커요."
+      },
+      {
+       "en": "Their net purchases reached $2.20 billion over four trading days from Nov. 2 to Nov. 6.",
+       "ko": "11월 2일부터 6일까지 나흘간 순매수는 22억 달러에 이르렀어요."
+      },
+      {
+       "en": "That was more than the $1.96 billion bought in all of August.",
+       "ko": "이는 8월 한 달 매수액 19억 6000만 달러보다 많아요."
+      }
+     ]
+    },
+    {
+     "en": "A researcher at Shinhan Securities said Nasdaq's regular session will become a direct competitor to the KOSPI. The Korea Exchange also plans to extend its own trading hours step by step.",
+     "ko": "신한증권의 한 연구원은 나스닥 정규 거래가 코스피의 직접 경쟁자가 될 것이라고 했어요. 한국거래소도 단계적으로 거래 시간을 늘릴 계획이에요.",
+     "sents": [
+      {
+       "en": "A researcher at Shinhan Securities said Nasdaq's regular session will become a direct competitor to the KOSPI.",
+       "ko": "신한증권의 한 연구원은 나스닥 정규 거래가 코스피의 직접 경쟁자가 될 것이라고 했어요."
+      },
+      {
+       "en": "The Korea Exchange also plans to extend its own trading hours step by step.",
+       "ko": "한국거래소도 단계적으로 거래 시간을 늘릴 계획이에요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "South Korean brokerages will offer almost round-the-clock trading of US stocks from Dec. 6.",
+   "glosses": [
+    {
+     "text": "stocks",
+     "meaning": "주식",
+     "level": 0
+    },
+    {
+     "text": "exchange",
+     "meaning": "거래소(Korea Exchange=한국거래소)",
+     "level": 1
+    },
+    {
+     "text": "Securities and Exchange Commission",
+     "meaning": "미국 증권거래위원회(SEC)",
+     "level": 3
+    },
+    {
+     "text": "brokerages",
+     "meaning": "증권사들",
+     "level": 2
+    },
+    {
+     "text": "round-the-clock",
+     "meaning": "하루 종일, 24시간 내내",
+     "level": 3
+    },
+    {
+     "text": "Nasdaq",
+     "meaning": "나스닥(미국 기술주 시장)",
+     "level": 0
+    },
+    {
+     "text": "Blue Ocean",
+     "meaning": "블루오션(주간 미국 주식 거래 플랫폼)",
+     "level": 3
+    },
+    {
+     "text": "ETFs",
+     "meaning": "상장지수펀드(여러 주식을 묶은 상품)",
+     "level": 3
+    },
+    {
+     "text": "NYSE Arca",
+     "meaning": "NYSE 아카(ETF 중심 미국 거래소)",
+     "level": 3
+    },
+    {
+     "text": "Eastern Time",
+     "meaning": "미국 동부 시각",
+     "level": 2
+    },
+    {
+     "text": "session",
+     "meaning": "거래 시간대",
+     "level": 2
+    },
+    {
+     "text": "net purchases",
+     "meaning": "순매수(산 금액-판 금액)",
+     "level": 3
+    },
+    {
+     "text": "appetite",
+     "meaning": "수요, 욕구",
+     "level": 3
+    },
+    {
+     "text": "competitor",
+     "meaning": "경쟁자",
+     "level": 2
+    },
+    {
+     "text": "step by step",
+     "meaning": "단계적으로",
+     "level": 1
+    },
+    {
+     "text": "KOSPI",
+     "meaning": "코스피(한국 대표 주가지수)",
+     "level": 0
+    },
+    {
+     "text": "Shinhan Securities",
+     "meaning": "신한증권(한국 증권사)",
+     "level": 3
+    },
+    {
+     "text": "Korea Exchange",
+     "meaning": "한국거래소",
+     "level": 1
+    },
+    {
+     "text": "regular session",
+     "meaning": "정규 거래 시간",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10929666",
+     "title": "Korean brokerages to offer near-24-hour US stock trading from Dec. 6"
+    }
+   ],
+   "life": "미국 주식을 거래할 수 있는 시간이 거의 하루 종일로 늘어나요. 수업이나 아르바이트 중에도 주문하기 쉬워질 수 있지만, 그만큼 충동 투자를 조심해야 해요.",
+   "quiz": [
+    {
+     "q": "When will the new trading system start for Korean investors?",
+     "qKo": "새 거래 방식은 한국 투자자에게 언제 시작되나요?",
+     "choices": [
+      "On Dec. 6",
+      "On Nov. 2",
+      "On Dec. 31"
+     ],
+     "answer": 0,
+     "why": "1문단: “from Dec. 6”"
+    },
+    {
+     "q": "How much did Korean investors net buy over the four trading days in early November?",
+     "qKo": "11월 초 나흘간 한국 투자자의 순매수는 얼마였나요?",
+     "choices": [
+      "$1.96 billion",
+      "$5.42 billion",
+      "$2.20 billion"
+     ],
+     "answer": 2,
+     "why": "3문단: “Their net purchases reached $2.20 billion”"
+    },
+    {
+     "q": "What did the Shinhan Securities researcher say about Nasdaq's regular session?",
+     "qKo": "신한증권 연구원은 나스닥 정규 거래에 대해 뭐라고 했나요?",
+     "choices": [
+      "It will become a direct competitor to the KOSPI",
+      "It will be closed to Korean investors",
+      "It will move to Seoul"
+     ],
+     "answer": 0,
+     "why": "4문단: “will become a direct competitor to the KOSPI”"
+    }
+   ],
+   "job": "미국 주식 거래 시간 확대와 한국 투자자의 수요 = 「금융 시장 변화 · 개인 투자」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Is round-the-clock trading good for young investors?",
+    "qKo": "24시간 거래는 젊은 투자자에게 좋을까요?",
+    "answer": "It is good because investors can buy US stocks at more times of the day. But I think it can also make people trade too often. Young investors should set simple rules for themselves.",
+    "answerKo": "투자자가 하루 중 더 많은 시간에 미국 주식을 살 수 있어서 좋아요. 하지만 사람들이 너무 자주 거래하게 만들 수도 있다고 생각해요. 젊은 투자자는 스스로 간단한 규칙을 세워야 해요.",
+    "phrases": [
+     {
+      "en": "trade too often",
+      "ko": "너무 자주 거래하다"
+     },
+     {
+      "en": "set simple rules",
+      "ko": "간단한 규칙을 세우다"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-8",
+   "section": "jobs",
+   "tag": "한국에 직접",
+   "title": "Nine in ten Korean firms in Vietnam plan to stay even as wages rise",
+   "easyKo": "베트남에 진출한 한국 기업 10곳 중 9곳이 인건비가 올라도 계속 남겠다고 했어요. 가장 큰 이유는 다른 나라보다 비용이 적게 든다는 점이에요.",
+   "paragraphs": [
+    {
+     "en": "More than nine in ten Korean companies in Vietnam plan to keep their business there. This is true even though labor costs and rules are getting harder for them. The Korea International Trade Association released the survey on Sunday.",
+     "ko": "베트남의 한국 기업 열 곳 중 아홉 곳 넘게가 그곳 사업을 계속하겠다고 해요. 인건비와 규제 부담이 커지는데도 그래요. 한국무역협회가 일요일에 이 설문 결과를 내놓았어요.",
+     "sents": [
+      {
+       "en": "More than nine in ten Korean companies in Vietnam plan to keep their business there.",
+       "ko": "베트남의 한국 기업 열 곳 중 아홉 곳 넘게가 그곳 사업을 계속하겠다고 해요."
+      },
+      {
+       "en": "This is true even though labor costs and rules are getting harder for them.",
+       "ko": "인건비와 규제 부담이 커지는데도 그래요."
+      },
+      {
+       "en": "The Korea International Trade Association released the survey on Sunday.",
+       "ko": "한국무역협회가 일요일에 이 설문 결과를 내놓았어요."
+      }
+     ]
+    },
+    {
+     "en": "According to the survey, 92 percent of the companies said they have no plan to leave. Among them, 87.5 percent said the main reason is a cost advantage over other countries.",
+     "ko": "설문에서 92%의 기업이 떠날 계획이 없다고 했어요. 그중 87.5%는 다른 나라보다 비용이 유리한 것을 주된 이유로 꼽았어요.",
+     "sents": [
+      {
+       "en": "According to the survey, 92 percent of the companies said they have no plan to leave.",
+       "ko": "설문에서 92%의 기업이 떠날 계획이 없다고 했어요."
+      },
+      {
+       "en": "Among them, 87.5 percent said the main reason is a cost advantage over other countries.",
+       "ko": "그중 87.5%는 다른 나라보다 비용이 유리한 것을 주된 이유로 꼽았어요."
+      }
+     ]
+    },
+    {
+     "en": "Wages in Vietnam have risen quickly. The monthly minimum wage grew from $45.4 in 2010 to $205.3 in 2024, more than 4.5 times higher. Wages rose by 11.4 percent a year on average over 14 years, the fastest pace among major Asian economies.",
+     "ko": "베트남의 임금은 빠르게 올랐어요. 월 최저임금은 2010년 45.4달러에서 2024년 205.3달러로 4.5배 넘게 올랐어요. 14년 동안 임금은 해마다 평균 11.4% 올라 아시아 주요 경제 가운데 가장 빨랐어요.",
+     "sents": [
+      {
+       "en": "Wages in Vietnam have risen quickly.",
+       "ko": "베트남의 임금은 빠르게 올랐어요."
+      },
+      {
+       "en": "The monthly minimum wage grew from $45.4 in 2010 to $205.3 in 2024, more than 4.5 times higher.",
+       "ko": "월 최저임금은 2010년 45.4달러에서 2024년 205.3달러로 4.5배 넘게 올랐어요."
+      },
+      {
+       "en": "Wages rose by 11.4 percent a year on average over 14 years, the fastest pace among major Asian economies.",
+       "ko": "14년 동안 임금은 해마다 평균 11.4% 올라 아시아 주요 경제 가운데 가장 빨랐어요."
+      }
+     ]
+    },
+    {
+     "en": "The companies still look ahead with hope. Nearly 60 percent expect their business in Vietnam to improve in the next three to five years. Only 12.4 percent were pessimistic. The trade association advised firms to review their cost structure.",
+     "ko": "그래도 기업들은 앞날을 긍정적으로 봐요. 거의 60%가 앞으로 3~5년 안에 베트남 사업이 나아질 것으로 기대해요. 비관적인 곳은 12.4%뿐이었어요. 무역협회는 기업들에게 비용 구조를 점검하라고 조언했어요.",
+     "sents": [
+      {
+       "en": "The companies still look ahead with hope.",
+       "ko": "그래도 기업들은 앞날을 긍정적으로 봐요."
+      },
+      {
+       "en": "Nearly 60 percent expect their business in Vietnam to improve in the next three to five years.",
+       "ko": "거의 60%가 앞으로 3~5년 안에 베트남 사업이 나아질 것으로 기대해요."
+      },
+      {
+       "en": "Only 12.4 percent were pessimistic.",
+       "ko": "비관적인 곳은 12.4%뿐이었어요."
+      },
+      {
+       "en": "The trade association advised firms to review their cost structure.",
+       "ko": "무역협회는 기업들에게 비용 구조를 점검하라고 조언했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "More than nine in ten Korean companies in Vietnam plan to keep their business there.",
+   "glosses": [
+    {
+     "text": "labor costs",
+     "meaning": "인건비",
+     "level": 2
+    },
+    {
+     "text": "minimum wage",
+     "meaning": "최저임금",
+     "level": 1
+    },
+    {
+     "text": "survey",
+     "meaning": "설문 조사",
+     "level": 1
+    },
+    {
+     "text": "cost advantage",
+     "meaning": "비용 면의 이점",
+     "level": 2
+    },
+    {
+     "text": "Korea International Trade Association",
+     "meaning": "한국무역협회",
+     "level": 3
+    },
+    {
+     "text": "pessimistic",
+     "meaning": "비관적인",
+     "level": 3
+    },
+    {
+     "text": "cost structure",
+     "meaning": "비용 구조",
+     "level": 3
+    },
+    {
+     "text": "economies",
+     "meaning": "경제(국가)",
+     "level": 2
+    },
+    {
+     "text": "rules",
+     "meaning": "규칙, 규제",
+     "level": 1
+    },
+    {
+     "text": "Vietnam",
+     "meaning": "베트남",
+     "level": 0
+    },
+    {
+     "text": "wages",
+     "meaning": "임금",
+     "level": 1
+    },
+    {
+     "text": "pace",
+     "meaning": "속도",
+     "level": 1
+    },
+    {
+     "text": "on average",
+     "meaning": "평균적으로",
+     "level": 1
+    },
+    {
+     "text": "have no plan to leave",
+     "meaning": "떠날 계획이 없다",
+     "level": 1
+    },
+    {
+     "text": "improve",
+     "meaning": "나아지다",
+     "level": 1
+    },
+    {
+     "text": "firms",
+     "meaning": "회사들",
+     "level": 0
+    },
+    {
+     "text": "labor",
+     "meaning": "노동(labor costs=인건비)",
+     "level": 1
+    },
+    {
+     "text": "released",
+     "meaning": "발표했다",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/business/20261108/92-of-korean-firms-in-vietnam-wish-to-stay-despite-rising-labor-costs-survey",
+     "title": "92% of Korean firms in Vietnam wish to stay despite rising labor costs: survey"
+    },
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261108002200320",
+     "title": "92 pct of S. Korean firms in Vietnam wish to stay despite rising labor costs: survey"
+    }
+   ],
+   "num": {
+    "value": "92%",
+    "caption": "베트남에서 철수 계획이 없는 한국 기업",
+    "source": "KITA"
+   },
+   "life": "베트남에 진출한 한국 기업의 선택은 해외 법인 · 무역 분야 취업을 준비할 때 참고할 사례예요. 인건비가 오르는 해외 시장을 읽는 눈을 기르는 데 도움이 돼요.",
+   "quiz": [
+    {
+     "q": "What share of the companies said they have no plan to leave Vietnam?",
+     "qKo": "베트남을 떠날 계획이 없다고 한 기업은 몇 %인가요?",
+     "choices": [
+      "87.5 percent",
+      "92 percent",
+      "60 percent"
+     ],
+     "answer": 1,
+     "why": "2문단: “92 percent of the companies said they have no plan to leave”"
+    },
+    {
+     "q": "What is the main reason the companies gave for staying?",
+     "qKo": "기업들이 남겠다는 주된 이유는 무엇인가요?",
+     "choices": [
+      "Low taxes in Vietnam",
+      "Help from the Korean government",
+      "A cost advantage over other countries"
+     ],
+     "answer": 2,
+     "why": "2문단: “the main reason is a cost advantage over other countries”"
+    },
+    {
+     "q": "How fast did wages in Vietnam rise each year on average?",
+     "qKo": "베트남 임금은 해마다 평균 얼마나 올랐나요?",
+     "choices": [
+      "11.4 percent",
+      "4.5 percent",
+      "12.4 percent"
+     ],
+     "answer": 0,
+     "why": "3문단: “Wages rose by 11.4 percent a year on average”"
+    }
+   ],
+   "job": "인건비 상승에도 해외 사업을 유지하는 기업들 = 「해외 진출 · 인건비 · 비용 경쟁력」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do you think firms stay in a country where wages are rising?",
+    "qKo": "임금이 오르는 나라에 기업들이 계속 남는 까닭이 뭐라고 생각하나요?",
+    "answer": "The survey says most firms stay because of a cost advantage over other countries. Wages are rising, but the country may still be cheaper than other places. I think firms also stay because they have already built factories and teams there.",
+    "answerKo": "설문에서 대부분의 기업은 다른 나라보다 비용이 유리해서 남는다고 해요. 임금이 오르고 있지만 다른 곳보다는 여전히 쌀 수 있어요. 저는 이미 공장과 팀을 만들어 놓았기 때문에 남는 것이기도 하다고 생각해요.",
+    "phrases": [
+     {
+      "en": "a cost advantage",
+      "ko": "비용 면의 이점"
+     },
+     {
+      "en": "stay because of",
+      "ko": "~ 때문에 남다"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-9",
+   "section": "tech",
+   "tag": "한국에 직접",
+   "title": "Korean brand Gentle Monster opens US preorders for AI glasses made with Samsung and Google",
+   "easyKo": "한국 안경 브랜드 젠틀몬스터가 삼성전자·구글과 만든 AI 안경의 미국 예약 판매를 연다고 해요. 실시간 번역과 길 안내 같은 기능이 있고, 12월에 나올 예정이에요.",
+   "paragraphs": [
+    {
+     "en": "The South Korean eyewear brand Gentle Monster will open US preorders for its first AI smart glasses on Thursday. The glasses are planned for release in December. They were developed with Samsung Electronics and Google. The brand first showed them at Google I/O in May.",
+     "ko": "한국 안경 브랜드 젠틀몬스터가 첫 AI 스마트 안경의 미국 예약 판매를 목요일에 시작해요. 이 안경은 12월에 출시될 계획이에요. 삼성전자와 구글이 함께 개발했어요. 이 브랜드는 5월 구글 I/O에서 처음 선보였어요.",
+     "sents": [
+      {
+       "en": "The South Korean eyewear brand Gentle Monster will open US preorders for its first AI smart glasses on Thursday.",
+       "ko": "한국 안경 브랜드 젠틀몬스터가 첫 AI 스마트 안경의 미국 예약 판매를 목요일에 시작해요."
+      },
+      {
+       "en": "The glasses are planned for release in December.",
+       "ko": "이 안경은 12월에 출시될 계획이에요."
+      },
+      {
+       "en": "They were developed with Samsung Electronics and Google.",
+       "ko": "삼성전자와 구글이 함께 개발했어요."
+      },
+      {
+       "en": "The brand first showed them at Google I/O in May.",
+       "ko": "이 브랜드는 5월 구글 I/O에서 처음 선보였어요."
+      }
+     ]
+    },
+    {
+     "en": "The glasses use Google's Android XR platform and its Gemini AI assistant. Qualcomm also helped, and the US brand Warby Parker has made its own designs. They can translate speech in real time, give directions and recognize what the wearer sees. They work with both Android and iOS phones through an app.",
+     "ko": "안경은 구글의 안드로이드 XR 플랫폼과 제미나이 AI 비서를 써요. 퀄컴도 도왔고, 미국 브랜드 워비파커는 자체 디자인을 만들었어요. 실시간 통역, 길 안내, 쓰는 사람이 보는 것을 알아보는 기능이 있어요. 앱을 통해 안드로이드와 iOS 폰 모두와 함께 쓸 수 있어요.",
+     "sents": [
+      {
+       "en": "The glasses use Google's Android XR platform and its Gemini AI assistant.",
+       "ko": "안경은 구글의 안드로이드 XR 플랫폼과 제미나이 AI 비서를 써요."
+      },
+      {
+       "en": "Qualcomm also helped, and the US brand Warby Parker has made its own designs.",
+       "ko": "퀄컴도 도왔고, 미국 브랜드 워비파커는 자체 디자인을 만들었어요."
+      },
+      {
+       "en": "They can translate speech in real time, give directions and recognize what the wearer sees.",
+       "ko": "실시간 통역, 길 안내, 쓰는 사람이 보는 것을 알아보는 기능이 있어요."
+      },
+      {
+       "en": "They work with both Android and iOS phones through an app.",
+       "ko": "앱을 통해 안드로이드와 iOS 폰 모두와 함께 쓸 수 있어요."
+      }
+     ]
+    },
+    {
+     "en": "The battery lasts up to nine hours, and the charging case adds at least seven more. On Friday, the company released a teaser film starring the actor Joaquin Phoenix. A public preview will run in New York from Nov. 13 to 23. The full film is planned for later this month. The price and a Korean release date have not been announced.",
+     "ko": "배터리는 최대 9시간 가고, 충전 케이스가 최소 7시간을 더해 줘요. 금요일 회사는 배우 호아킨 피닉스가 나오는 티저 영상을 공개했어요. 11월 13일부터 23일까지 뉴욕에서 일반 공개 체험이 열려요. 전체 영상은 이달 안에 공개될 계획이에요. 가격과 한국 출시일은 아직 발표되지 않았어요.",
+     "sents": [
+      {
+       "en": "The battery lasts up to nine hours, and the charging case adds at least seven more.",
+       "ko": "배터리는 최대 9시간 가고, 충전 케이스가 최소 7시간을 더해 줘요."
+      },
+      {
+       "en": "On Friday, the company released a teaser film starring the actor Joaquin Phoenix.",
+       "ko": "금요일 회사는 배우 호아킨 피닉스가 나오는 티저 영상을 공개했어요."
+      },
+      {
+       "en": "A public preview will run in New York from Nov. 13 to 23.",
+       "ko": "11월 13일부터 23일까지 뉴욕에서 일반 공개 체험이 열려요."
+      },
+      {
+       "en": "The full film is planned for later this month.",
+       "ko": "전체 영상은 이달 안에 공개될 계획이에요."
+      },
+      {
+       "en": "The price and a Korean release date have not been announced.",
+       "ko": "가격과 한국 출시일은 아직 발표되지 않았어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "The South Korean eyewear brand Gentle Monster will open US preorders for its first AI smart glasses on Thursday.",
+   "glosses": [
+    {
+     "text": "eyewear",
+     "meaning": "안경류",
+     "level": 3
+    },
+    {
+     "text": "Gentle Monster",
+     "meaning": "젠틀몬스터(한국 안경 브랜드)",
+     "level": 0
+    },
+    {
+     "text": "preorders",
+     "meaning": "예약 주문",
+     "level": 2
+    },
+    {
+     "text": "smart glasses",
+     "meaning": "스마트 안경",
+     "level": 1
+    },
+    {
+     "text": "release",
+     "meaning": "출시",
+     "level": 1
+    },
+    {
+     "text": "developed",
+     "meaning": "개발했다",
+     "level": 1
+    },
+    {
+     "text": "Samsung Electronics",
+     "meaning": "삼성전자",
+     "level": 0
+    },
+    {
+     "text": "Google I/O",
+     "meaning": "구글 I/O(구글의 연례 개발자 행사)",
+     "level": 3
+    },
+    {
+     "text": "Android XR",
+     "meaning": "안드로이드 XR(구글의 확장현실 운영체제)",
+     "level": 3
+    },
+    {
+     "text": "platform",
+     "meaning": "플랫폼(기반 서비스·시스템)",
+     "level": 2
+    },
+    {
+     "text": "Gemini",
+     "meaning": "제미나이(구글 AI)",
+     "level": 0
+    },
+    {
+     "text": "assistant",
+     "meaning": "비서",
+     "level": 1
+    },
+    {
+     "text": "Qualcomm",
+     "meaning": "퀄컴(미국 반도체 회사)",
+     "level": 1
+    },
+    {
+     "text": "Warby Parker",
+     "meaning": "워비파커(미국 안경 브랜드)",
+     "level": 3
+    },
+    {
+     "text": "translate",
+     "meaning": "통역·번역하다",
+     "level": 1
+    },
+    {
+     "text": "in real time",
+     "meaning": "실시간으로",
+     "level": 1
+    },
+    {
+     "text": "recognize",
+     "meaning": "알아보다",
+     "level": 2
+    },
+    {
+     "text": "wearer",
+     "meaning": "착용하는 사람",
+     "level": 2
+    },
+    {
+     "text": "iOS",
+     "meaning": "iOS(애플 폰 운영체제)",
+     "level": 1
+    },
+    {
+     "text": "battery",
+     "meaning": "배터리",
+     "level": 1
+    },
+    {
+     "text": "charging case",
+     "meaning": "충전 케이스",
+     "level": 1
+    },
+    {
+     "text": "teaser film",
+     "meaning": "티저 영상",
+     "level": 2
+    },
+    {
+     "text": "Joaquin Phoenix",
+     "meaning": "호아킨 피닉스(미국 배우)",
+     "level": 1
+    },
+    {
+     "text": "public preview",
+     "meaning": "일반 공개 체험",
+     "level": 2
+    },
+    {
+     "text": "price",
+     "meaning": "가격",
+     "level": 0
+    },
+    {
+     "text": "AI",
+     "meaning": "인공지능",
+     "level": 0
+    },
+    {
+     "text": "Google",
+     "meaning": "구글",
+     "level": 0
+    },
+    {
+     "text": "released",
+     "meaning": "공개했다",
+     "level": 1
+    },
+    {
+     "text": "run",
+     "meaning": "열리다, 진행되다",
+     "level": 1
+    },
+    {
+     "text": "full film",
+     "meaning": "전체 영상",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10929537",
+     "title": "Gentle Monster to open US preorders for AI glasses"
+    }
+   ],
+   "num": {
+    "value": "9시간",
+    "caption": "안경 배터리 최대 사용 시간(케이스로 7시간 더)",
+    "source": "The Korea Herald"
+   },
+   "life": "한국 브랜드와 삼성전자가 AI 기기 시장에 함께 뛰어드는 사례예요. 패션·전자·AI가 만나는 분야로 진로를 생각하는 학생에게 참고가 돼요.",
+   "quiz": [
+    {
+     "q": "When are the glasses planned for release?",
+     "qKo": "안경은 언제 출시될 계획인가요?",
+     "choices": [
+      "In December",
+      "In March",
+      "In May"
+     ],
+     "answer": 0,
+     "why": "1문단: “planned for release in December”"
+    },
+    {
+     "q": "Which phones can the glasses work with?",
+     "qKo": "안경은 어떤 폰과 함께 쓸 수 있나요?",
+     "choices": [
+      "Only Samsung phones",
+      "Only iOS phones",
+      "Both Android and iOS phones"
+     ],
+     "answer": 2,
+     "why": "2문단: “both Android and iOS phones”"
+    },
+    {
+     "q": "How long can the battery last?",
+     "qKo": "배터리는 얼마나 갈 수 있나요?",
+     "choices": [
+      "Up to two hours",
+      "Up to nine hours",
+      "Up to a full day"
+     ],
+     "answer": 1,
+     "why": "3문단: “lasts up to nine hours”"
+    }
+   ],
+   "job": "한국 브랜드가 글로벌 기업과 손잡고 신제품을 낸 사례 = 「협업 · 해외 진출 전략」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Would you wear AI glasses every day? Why?",
+    "qKo": "AI 안경을 매일 쓰고 다니겠어요? 왜 그런가요?",
+    "answer": "Maybe, yes. The glasses can translate speech in real time, so they could help me talk with people abroad. I would also check the price first. I think useful tools are only good if they are easy to use.",
+    "answerKo": "아마 그럴 것 같아요. 이 안경은 말을 실시간으로 통역해 줘서 해외 사람들과 이야기하는 데 도움이 될 수 있어요. 가격도 먼저 확인할 거예요. 쓸모 있는 도구는 쓰기 쉬워야 좋다고 생각해요.",
+    "phrases": [
+     {
+      "en": "translate speech in real time",
+      "ko": "말을 실시간으로 통역하다"
+     },
+     {
+      "en": "easy to use",
+      "ko": "쓰기 쉬운"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-10",
+   "section": "tech",
+   "tag": "한국에 직접",
+   "title": "LG Electronics wins the top car safety rating for a vehicle communications module",
+   "easyKo": "LG전자의 차량용 통신 제어 장치가 업계 최초로 가장 높은 자동차 기능 안전 등급(ASIL D)을 받았어요. 이 장치는 제네시스 GV90에 들어가요.",
+   "paragraphs": [
+    {
+     "en": "LG Electronics said on Sunday that its vehicle communications control module won the highest car safety rating. It is the first in the industry to earn this certification for such a part. The module received Automotive Safety Integrity Level D under the ISO 26262 standard from the testing group TUV Rheinland.",
+     "ko": "LG전자는 일요일 자사의 차량 통신 제어 모듈이 가장 높은 자동차 안전 등급을 받았다고 밝혔어요. 이런 부품으로는 업계에서 처음으로 이 인증을 받았어요. 이 모듈은 시험 인증 기관 TUV라인란드로부터 ISO 26262 기준의 자동차 안전 무결성 등급 D를 받았어요.",
+     "sents": [
+      {
+       "en": "LG Electronics said on Sunday that its vehicle communications control module won the highest car safety rating.",
+       "ko": "LG전자는 일요일 자사의 차량 통신 제어 모듈이 가장 높은 자동차 안전 등급을 받았다고 밝혔어요."
+      },
+      {
+       "en": "It is the first in the industry to earn this certification for such a part.",
+       "ko": "이런 부품으로는 업계에서 처음으로 이 인증을 받았어요."
+      },
+      {
+       "en": "The module received Automotive Safety Integrity Level D under the ISO 26262 standard from the testing group TUV Rheinland.",
+       "ko": "이 모듈은 시험 인증 기관 TUV라인란드로부터 ISO 26262 기준의 자동차 안전 무결성 등급 D를 받았어요."
+      }
+     ]
+    },
+    {
+     "en": "ISO 26262 sets safety rules for electronic systems in cars. Its levels run from A to D, and D is the strictest. The module links the control units inside a car and connects the car to outside networks. It handles signals for safety-critical parts such as braking and steering. It also supports remote control functions and software updates over the air.",
+     "ko": "ISO 26262는 자동차 전자 시스템의 안전 기준을 정해요. 등급은 A부터 D까지이고 D가 가장 엄격해요. 이 모듈은 차 안의 제어 장치들을 잇고 차를 바깥 네트워크와 연결해요. 브레이크와 조향처럼 안전에 매우 중요한 부분의 신호를 다뤄요. 원격 제어 기능과 무선 소프트웨어 업데이트도 뒷받침해요.",
+     "sents": [
+      {
+       "en": "ISO 26262 sets safety rules for electronic systems in cars.",
+       "ko": "ISO 26262는 자동차 전자 시스템의 안전 기준을 정해요."
+      },
+      {
+       "en": "Its levels run from A to D, and D is the strictest.",
+       "ko": "등급은 A부터 D까지이고 D가 가장 엄격해요."
+      },
+      {
+       "en": "The module links the control units inside a car and connects the car to outside networks.",
+       "ko": "이 모듈은 차 안의 제어 장치들을 잇고 차를 바깥 네트워크와 연결해요."
+      },
+      {
+       "en": "It handles signals for safety-critical parts such as braking and steering.",
+       "ko": "브레이크와 조향처럼 안전에 매우 중요한 부분의 신호를 다뤄요."
+      },
+      {
+       "en": "It also supports remote control functions and software updates over the air.",
+       "ko": "원격 제어 기능과 무선 소프트웨어 업데이트도 뒷받침해요."
+      }
+     ]
+    },
+    {
+     "en": "The certified part is installed in the Genesis GV90, a flagship electric SUV. LG plans to expand its car communications business with global carmakers. It has also put a 5G telematics system into a model made by a European carmaker.",
+     "ko": "인증받은 부품은 대표 전기 SUV인 제네시스 GV90에 들어가요. LG는 세계 자동차 회사들과 차량 통신 사업을 넓힐 계획이에요. 유럽 자동차 회사의 한 모델에는 5G 텔레매틱스 시스템도 넣었어요.",
+     "sents": [
+      {
+       "en": "The certified part is installed in the Genesis GV90, a flagship electric SUV.",
+       "ko": "인증받은 부품은 대표 전기 SUV인 제네시스 GV90에 들어가요."
+      },
+      {
+       "en": "LG plans to expand its car communications business with global carmakers.",
+       "ko": "LG는 세계 자동차 회사들과 차량 통신 사업을 넓힐 계획이에요."
+      },
+      {
+       "en": "It has also put a 5G telematics system into a model made by a European carmaker.",
+       "ko": "유럽 자동차 회사의 한 모델에는 5G 텔레매틱스 시스템도 넣었어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "LG Electronics said on Sunday that its vehicle communications control module won the highest car safety rating.",
+   "glosses": [
+    {
+     "text": "LG Electronics",
+     "meaning": "LG전자",
+     "level": 0
+    },
+    {
+     "text": "vehicle communications control module",
+     "meaning": "차량 통신 제어 모듈(차 안팎 통신을 맡는 장치)",
+     "level": 3
+    },
+    {
+     "text": "module",
+     "meaning": "모듈(떼어 붙일 수 있는 부품 단위)",
+     "level": 2
+    },
+    {
+     "text": "rating",
+     "meaning": "등급",
+     "level": 1
+    },
+    {
+     "text": "industry",
+     "meaning": "업계",
+     "level": 1
+    },
+    {
+     "text": "certification",
+     "meaning": "인증",
+     "level": 2
+    },
+    {
+     "text": "part",
+     "meaning": "부품",
+     "level": 1
+    },
+    {
+     "text": "Automotive Safety Integrity Level D",
+     "meaning": "자동차 안전 무결성 등급 D(가장 엄격한 등급)",
+     "level": 3
+    },
+    {
+     "text": "ISO 26262",
+     "meaning": "ISO 26262(자동차 기능 안전 국제 기준)",
+     "level": 3
+    },
+    {
+     "text": "standard",
+     "meaning": "기준",
+     "level": 1
+    },
+    {
+     "text": "TUV Rheinland",
+     "meaning": "TUV라인란드(독일 시험·인증 기관)",
+     "level": 3
+    },
+    {
+     "text": "sets",
+     "meaning": "정한다",
+     "level": 1
+    },
+    {
+     "text": "electronic systems",
+     "meaning": "전자 시스템",
+     "level": 2
+    },
+    {
+     "text": "strictest",
+     "meaning": "가장 엄격한",
+     "level": 2
+    },
+    {
+     "text": "control units",
+     "meaning": "제어 장치",
+     "level": 2
+    },
+    {
+     "text": "networks",
+     "meaning": "(통신) 네트워크",
+     "level": 1
+    },
+    {
+     "text": "safety-critical",
+     "meaning": "안전에 매우 중요한",
+     "level": 3
+    },
+    {
+     "text": "braking",
+     "meaning": "제동(브레이크 작동)",
+     "level": 2
+    },
+    {
+     "text": "steering",
+     "meaning": "조향(핸들 조작)",
+     "level": 2
+    },
+    {
+     "text": "certified",
+     "meaning": "인증받은",
+     "level": 2
+    },
+    {
+     "text": "Genesis GV90",
+     "meaning": "제네시스 GV90(현대차 고급 전기 SUV)",
+     "level": 1
+    },
+    {
+     "text": "flagship",
+     "meaning": "대표 상품",
+     "level": 2
+    },
+    {
+     "text": "electric SUV",
+     "meaning": "전기 SUV",
+     "level": 1
+    },
+    {
+     "text": "expand",
+     "meaning": "넓히다",
+     "level": 1
+    },
+    {
+     "text": "business",
+     "meaning": "사업",
+     "level": 0
+    },
+    {
+     "text": "global carmakers",
+     "meaning": "세계 자동차 회사들",
+     "level": 1
+    },
+    {
+     "text": "5G telematics system",
+     "meaning": "5G 텔레매틱스(차량 무선 정보 서비스)",
+     "level": 3
+    },
+    {
+     "text": "model",
+     "meaning": "(자동차) 모델",
+     "level": 0
+    },
+    {
+     "text": "won",
+     "meaning": "받았다",
+     "level": 0
+    },
+    {
+     "text": "run",
+     "meaning": "(등급이) ~에 걸쳐 있다",
+     "level": 1
+    },
+    {
+     "text": "remote control",
+     "meaning": "원격 제어",
+     "level": 2
+    },
+    {
+     "text": "over the air",
+     "meaning": "무선으로(인터넷·통신망으로)",
+     "level": 2
+    },
+    {
+     "text": "European carmaker",
+     "meaning": "유럽 자동차 회사",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10929536",
+     "title": "LG Electronics secures industry-first top safety certification for automotive module"
+    }
+   ],
+   "life": "LG전자 같은 전자 회사가 자동차 부품 사업을 키우고 있어요. 전자·소프트웨어 전공자가 자동차 산업으로 진로를 넓힐 수 있다는 점을 보여 줘요.",
+   "quiz": [
+    {
+     "q": "Who gave LG the safety certification?",
+     "qKo": "LG에 안전 인증을 준 곳은 어디인가요?",
+     "choices": [
+      "TUV Rheinland",
+      "Genesis",
+      "Google"
+     ],
+     "answer": 0,
+     "why": "1문단: “from the testing group TUV Rheinland”"
+    },
+    {
+     "q": "Which level is the strictest in ISO 26262?",
+     "qKo": "ISO 26262에서 가장 엄격한 등급은 무엇인가요?",
+     "choices": [
+      "Level A",
+      "Level B",
+      "Level D"
+     ],
+     "answer": 2,
+     "why": "2문단: “D is the strictest”"
+    },
+    {
+     "q": "In which car is the certified part installed?",
+     "qKo": "인증받은 부품은 어느 차에 들어가나요?",
+     "choices": [
+      "The Genesis GV90",
+      "A European model",
+      "The Tesla Cybertruck"
+     ],
+     "answer": 0,
+     "why": "3문단: “installed in the Genesis GV90”"
+    }
+   ],
+   "job": "전자 회사가 자동차 부품으로 사업을 넓히는 사례 = 「신사업 · 미래 모빌리티」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why is safety important for the technology inside cars?",
+    "qKo": "자동차 속 기술에서 안전은 왜 중요할까요?",
+    "answer": "The article says this module handles signals for braking and steering. If it fails, people could be in danger. So I think strict safety checks are very important for any car technology.",
+    "answerKo": "기사는 이 모듈이 브레이크와 조향 신호를 다룬다고 해요. 고장 나면 사람들이 위험할 수 있어요. 그래서 모든 자동차 기술에 엄격한 안전 점검이 매우 중요하다고 생각해요.",
+    "phrases": [
+     {
+      "en": "braking and steering",
+      "ko": "브레이크와 조향"
+     },
+     {
+      "en": "strict safety checks",
+      "ko": "엄격한 안전 점검"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-11",
+   "section": "world",
+   "tag": "파장 큼",
+   "title": "Israel's president asks opposition leader Eisenkot to try to form the next government",
+   "easyKo": "이스라엘 대통령이 야당 지도자 가디 아이젠코트에게 새 정부를 만들어 보라고 맡겼어요. 선거에서 어느 쪽도 과반을 얻지 못했거든요. 28일 안에 연립을 만들어야 해요.",
+   "paragraphs": [
+    {
+     "en": "Israel's president, Isaac Herzog, says he will ask opposition leader Gadi Eisenkot to try to form a new government. Neither Eisenkot's bloc nor Prime Minister Benjamin Netanyahu's bloc won a majority in last week's election. Eisenkot now has 28 days to build a coalition, with a possible 14-day extension.",
+     "ko": "이스라엘 대통령 이삭 헤르조그는 야당 지도자 가디 아이젠코트에게 새 정부를 구성해 보라고 맡길 거라고 밝혔어요. 지난주 선거에서 아이젠코트의 블록도 베냐민 네타냐후 총리의 블록도 과반을 얻지 못했어요. 아이젠코트에게는 연립을 만들 28일이 주어졌고, 14일 연장이 가능해요.",
+     "sents": [
+      {
+       "en": "Israel's president, Isaac Herzog, says he will ask opposition leader Gadi Eisenkot to try to form a new government.",
+       "ko": "이스라엘 대통령 이삭 헤르조그는 야당 지도자 가디 아이젠코트에게 새 정부를 구성해 보라고 맡길 거라고 밝혔어요."
+      },
+      {
+       "en": "Neither Eisenkot's bloc nor Prime Minister Benjamin Netanyahu's bloc won a majority in last week's election.",
+       "ko": "지난주 선거에서 아이젠코트의 블록도 베냐민 네타냐후 총리의 블록도 과반을 얻지 못했어요."
+      },
+      {
+       "en": "Eisenkot now has 28 days to build a coalition, with a possible 14-day extension.",
+       "ko": "아이젠코트에게는 연립을 만들 28일이 주어졌고, 14일 연장이 가능해요."
+      }
+     ]
+    },
+    {
+     "en": "Netanyahu's Likud party and its allies won 53 of the 120 seats in the Knesset, Israel's parliament. Eisenkot's centrist party and three other Jewish opposition parties won 48. Two Arab-led alliances won a record 19 seats after more Arab voters turned out.",
+     "ko": "네타냐후의 리쿠드당과 동맹 정당들은 이스라엘 의회 크네세트 120석 중 53석을 얻었어요. 아이젠코트의 중도 정당과 다른 유대계 야당 세 곳은 48석을 얻었어요. 아랍계 정당 연합 두 곳은 아랍계 유권자 투표율이 올라 사상 최다인 19석을 얻었어요.",
+     "sents": [
+      {
+       "en": "Netanyahu's Likud party and its allies won 53 of the 120 seats in the Knesset, Israel's parliament.",
+       "ko": "네타냐후의 리쿠드당과 동맹 정당들은 이스라엘 의회 크네세트 120석 중 53석을 얻었어요."
+      },
+      {
+       "en": "Eisenkot's centrist party and three other Jewish opposition parties won 48.",
+       "ko": "아이젠코트의 중도 정당과 다른 유대계 야당 세 곳은 48석을 얻었어요."
+      },
+      {
+       "en": "Two Arab-led alliances won a record 19 seats after more Arab voters turned out.",
+       "ko": "아랍계 정당 연합 두 곳은 아랍계 유권자 투표율이 올라 사상 최다인 19석을 얻었어요."
+      }
+     ]
+    },
+    {
+     "en": "Those Arab-led parties could be kingmakers. However, almost all Jewish parties promised before the vote not to work with them. The president said Eisenkot received 67 recommendations for prime minister, while Netanyahu received 46.",
+     "ko": "이 아랍계 정당들이 결정권을 쥘 수도 있어요. 하지만 거의 모든 유대계 정당은 선거 전에 이들과 손잡지 않겠다고 약속했어요. 대통령실은 아이젠코트가 총리 추천을 67표, 네타냐후가 46표 받았다고 밝혔어요.",
+     "sents": [
+      {
+       "en": "Those Arab-led parties could be kingmakers.",
+       "ko": "이 아랍계 정당들이 결정권을 쥘 수도 있어요."
+      },
+      {
+       "en": "However, almost all Jewish parties promised before the vote not to work with them.",
+       "ko": "하지만 거의 모든 유대계 정당은 선거 전에 이들과 손잡지 않겠다고 약속했어요."
+      },
+      {
+       "en": "The president said Eisenkot received 67 recommendations for prime minister, while Netanyahu received 46.",
+       "ko": "대통령실은 아이젠코트가 총리 추천을 67표, 네타냐후가 46표 받았다고 밝혔어요."
+      }
+     ]
+    },
+    {
+     "en": "The results suggest three possible paths. They are a unity government with both men, a right-wing coalition, or an Eisenkot-led government backed by Arab parties. Eisenkot wrote that it is time to form a national emergency government.",
+     "ko": "결과를 보면 길은 세 가지쯤 있어요. 두 사람이 함께하는 통합 정부, 우파 연립, 아랍계 정당이 받쳐 주는 아이젠코트 정부예요. 아이젠코트는 지금이 국가 비상 정부를 구성할 때라고 썼어요.",
+     "sents": [
+      {
+       "en": "The results suggest three possible paths.",
+       "ko": "결과를 보면 길은 세 가지쯤 있어요."
+      },
+      {
+       "en": "They are a unity government with both men, a right-wing coalition, or an Eisenkot-led government backed by Arab parties.",
+       "ko": "두 사람이 함께하는 통합 정부, 우파 연립, 아랍계 정당이 받쳐 주는 아이젠코트 정부예요."
+      },
+      {
+       "en": "Eisenkot wrote that it is time to form a national emergency government.",
+       "ko": "아이젠코트는 지금이 국가 비상 정부를 구성할 때라고 썼어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "Israel's president, Isaac Herzog, says he will ask opposition leader Gadi Eisenkot to try to form a new government.",
+   "glosses": [
+    {
+     "text": "Israel",
+     "meaning": "이스라엘",
+     "level": 0
+    },
+    {
+     "text": "president",
+     "meaning": "대통령",
+     "level": 1
+    },
+    {
+     "text": "Isaac Herzog",
+     "meaning": "이삭 헤르조그(이스라엘 대통령)",
+     "level": 3
+    },
+    {
+     "text": "opposition leader",
+     "meaning": "야당 지도자",
+     "level": 2
+    },
+    {
+     "text": "Gadi Eisenkot",
+     "meaning": "가디 아이젠코트(이스라엘 야당 지도자, 전 군 참모총장)",
+     "level": 3
+    },
+    {
+     "text": "form",
+     "meaning": "(정부를) 구성하다",
+     "level": 1
+    },
+    {
+     "text": "bloc",
+     "meaning": "(정치) 블록, 연합 세력",
+     "level": 3
+    },
+    {
+     "text": "Prime Minister Benjamin Netanyahu",
+     "meaning": "베냐민 네타냐후 총리(이스라엘)",
+     "level": 1
+    },
+    {
+     "text": "majority",
+     "meaning": "과반",
+     "level": 2
+    },
+    {
+     "text": "election",
+     "meaning": "선거",
+     "level": 1
+    },
+    {
+     "text": "coalition",
+     "meaning": "연립 정부, 연합",
+     "level": 3
+    },
+    {
+     "text": "extension",
+     "meaning": "연장",
+     "level": 2
+    },
+    {
+     "text": "Likud party",
+     "meaning": "리쿠드당(네타냐후의 정당)",
+     "level": 3
+    },
+    {
+     "text": "allies",
+     "meaning": "동맹, 우호 세력",
+     "level": 2
+    },
+    {
+     "text": "seats",
+     "meaning": "의석",
+     "level": 1
+    },
+    {
+     "text": "Knesset",
+     "meaning": "크네세트(이스라엘 의회)",
+     "level": 3
+    },
+    {
+     "text": "parliament",
+     "meaning": "의회",
+     "level": 1
+    },
+    {
+     "text": "centrist",
+     "meaning": "중도의",
+     "level": 3
+    },
+    {
+     "text": "Jewish",
+     "meaning": "유대계의",
+     "level": 1
+    },
+    {
+     "text": "opposition parties",
+     "meaning": "야당들",
+     "level": 2
+    },
+    {
+     "text": "Arab-led alliances",
+     "meaning": "아랍계 정당 연합",
+     "level": 3
+    },
+    {
+     "text": "turned out",
+     "meaning": "(투표하러) 나왔다",
+     "level": 3
+    },
+    {
+     "text": "kingmakers",
+     "meaning": "결정권자",
+     "level": 3
+    },
+    {
+     "text": "parties",
+     "meaning": "정당들",
+     "level": 0
+    },
+    {
+     "text": "work with",
+     "meaning": "~와 손잡다",
+     "level": 1
+    },
+    {
+     "text": "recommendations",
+     "meaning": "추천",
+     "level": 2
+    },
+    {
+     "text": "prime minister",
+     "meaning": "총리",
+     "level": 1
+    },
+    {
+     "text": "unity government",
+     "meaning": "통합 정부(여러 정파가 함께하는 정부)",
+     "level": 3
+    },
+    {
+     "text": "right-wing",
+     "meaning": "우파의",
+     "level": 2
+    },
+    {
+     "text": "backed",
+     "meaning": "지지를 받는",
+     "level": 2
+    },
+    {
+     "text": "national emergency government",
+     "meaning": "국가 비상 정부",
+     "level": 3
+    },
+    {
+     "text": "party",
+     "meaning": "정당",
+     "level": 0
+    },
+    {
+     "text": "won",
+     "meaning": "얻었다",
+     "level": 0
+    },
+    {
+     "text": "ask",
+     "meaning": "요청하다",
+     "level": 0
+    },
+    {
+     "text": "record",
+     "meaning": "사상 최다",
+     "level": 1
+    },
+    {
+     "text": "vote",
+     "meaning": "투표, 선거",
+     "level": 0
+    },
+    {
+     "text": "promised",
+     "meaning": "약속했다",
+     "level": 1
+    },
+    {
+     "text": "Eisenkot",
+     "meaning": "아이젠코트",
+     "level": 3
+    },
+    {
+     "text": "Netanyahu",
+     "meaning": "네타냐후",
+     "level": 1
+    },
+    {
+     "text": "president said",
+     "meaning": "대통령이 말했다",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+     "title": "Israel president asks opposition leader Eisenkot to form government"
+    }
+   ],
+   "num": {
+    "value": "19석",
+    "caption": "아랍계 정당 연합 두 곳이 얻은 의석(사상 최다)",
+    "source": "BBC News"
+   },
+   "life": "중동 정세가 불안하면 유가와 환율, 해외 안전 정보에도 영향이 있어요. 국제 뉴스를 읽는 습관은 시사 상식 면접의 기본이 돼요.",
+   "quiz": [
+    {
+     "q": "How many days does Eisenkot have to try to form a government?",
+     "qKo": "아이젠코트는 정부를 구성해 볼 시간이 며칠인가요?",
+     "choices": [
+      "14 days",
+      "28 days",
+      "67 days"
+     ],
+     "answer": 1,
+     "why": "1문단: “has 28 days to build a coalition”"
+    },
+    {
+     "q": "How many seats did Netanyahu's party and its allies win?",
+     "qKo": "네타냐후의 정당과 동맹은 몇 석을 얻었나요?",
+     "choices": [
+      "53 seats",
+      "48 seats",
+      "19 seats"
+     ],
+     "answer": 0,
+     "why": "2문단: “won 53 of the 120 seats”"
+    },
+    {
+     "q": "How many recommendations did Eisenkot receive?",
+     "qKo": "아이젠코트는 추천을 몇 표 받았나요?",
+     "choices": [
+      "46",
+      "120",
+      "67"
+     ],
+     "answer": 2,
+     "why": "3문단: “Eisenkot received 67 recommendations for prime minister”"
+    }
+   ],
+   "job": "과반 정당이 없을 때 정부가 만들어지는 방식 = 「연립 정치 · 리더십과 협상」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "What can leaders do when no party wins a majority?",
+    "qKo": "어떤 정당도 과반을 얻지 못하면 지도자들은 무엇을 할 수 있을까요?",
+    "answer": "The article says Eisenkot must build a coalition in 28 days. I think leaders need to talk and make compromises. A government that many groups support may be more stable.",
+    "answerKo": "기사는 아이젠코트가 28일 안에 연립을 만들어야 한다고 해요. 저는 지도자들이 대화하고 타협해야 한다고 생각해요. 여러 집단이 지지하는 정부가 더 안정적일 수 있어요.",
+    "phrases": [
+     {
+      "en": "build a coalition",
+      "ko": "연립을 만들다"
+     },
+     {
+      "en": "make compromises",
+      "ko": "타협하다"
+     }
+    ]
+   },
+   "story": {
+    "prev": "2026-11-08-am-3",
+    "n": 2
+   }
+  },
+  {
+   "key": "2026-11-08-pm-12",
+   "section": "world",
+   "tag": "의견 갈림",
+   "title": "US offers up to $20 million for tips on Iran's nuclear program and sets up a new task force",
+   "easyKo": "미국 국무부가 이란 핵 프로그램에 대한 정보에 최대 2천만 달러의 현상금을 걸었어요. 미군은 이란의 무기 이동을 막을 전담반도 만든다고 해요. 이란은 핵 프로그램이 평화적이라고 말해요.",
+   "paragraphs": [
+    {
+     "en": "The United States has offered a reward of up to $20 million for information about Iran's nuclear program. The State Department's Rewards for Justice program may also help relocate the person who gives the information. Iran says its program is peaceful and that it does not plan to build a nuclear weapon.",
+     "ko": "미국이 이란 핵 프로그램에 대한 정보에 최대 2천만 달러의 현상금을 내걸었어요. 국무부의 '정의를 위한 보상' 프로그램은 정보를 준 사람을 다른 곳으로 이주시켜 줄 수도 있다고 해요. 이란은 자국 프로그램이 평화적이며 핵무기를 만들 계획이 없다고 말해요.",
+     "sents": [
+      {
+       "en": "The United States has offered a reward of up to $20 million for information about Iran's nuclear program.",
+       "ko": "미국이 이란 핵 프로그램에 대한 정보에 최대 2천만 달러의 현상금을 내걸었어요."
+      },
+      {
+       "en": "The State Department's Rewards for Justice program may also help relocate the person who gives the information.",
+       "ko": "국무부의 '정의를 위한 보상' 프로그램은 정보를 준 사람을 다른 곳으로 이주시켜 줄 수도 있다고 해요."
+      },
+      {
+       "en": "Iran says its program is peaceful and that it does not plan to build a nuclear weapon.",
+       "ko": "이란은 자국 프로그램이 평화적이며 핵무기를 만들 계획이 없다고 말해요."
+      }
+     ]
+    },
+    {
+     "en": "The US military also said it is setting up a task force called Task Force Iron Gate. It will work from Tampa, Florida, to limit the movement of weapons and sanctioned goods across Iran's borders. US Central Command says its naval blockade of Iranian ports has stopped Iran from exporting more than $25 billion in crude oil.",
+     "ko": "미군은 '태스크포스 아이언 게이트'라는 전담반도 만들고 있다고 밝혔어요. 이 전담반은 플로리다주 탬파에서 이란 국경을 넘는 무기와 제재 대상 물품의 이동을 제한할 거예요. 미 중부사령부는 이란 항구에 대한 해상 봉쇄로 이란이 250억 달러가 넘는 원유를 수출하지 못했다고 해요.",
+     "sents": [
+      {
+       "en": "The US military also said it is setting up a task force called Task Force Iron Gate.",
+       "ko": "미군은 '태스크포스 아이언 게이트'라는 전담반도 만들고 있다고 밝혔어요."
+      },
+      {
+       "en": "It will work from Tampa, Florida, to limit the movement of weapons and sanctioned goods across Iran's borders.",
+       "ko": "이 전담반은 플로리다주 탬파에서 이란 국경을 넘는 무기와 제재 대상 물품의 이동을 제한할 거예요."
+      },
+      {
+       "en": "US Central Command says its naval blockade of Iranian ports has stopped Iran from exporting more than $25 billion in crude oil.",
+       "ko": "미 중부사령부는 이란 항구에 대한 해상 봉쇄로 이란이 250억 달러가 넘는 원유를 수출하지 못했다고 해요."
+      }
+     ]
+    },
+    {
+     "en": "The conflict between the two countries has lasted eight months. President Donald Trump said on Friday that Iran badly wants to make a deal. Qatar, which is helping to mediate, said both sides are looking at its proposals and that it remains hopeful. A first deal to end the war was reached in June, but it collapsed within weeks after attacks on ships resumed.",
+     "ko": "두 나라의 갈등은 여덟 달째 이어지고 있어요. 도널드 트럼프 대통령은 금요일 이란이 합의를 몹시 원한다고 말했어요. 중재를 돕는 카타르는 양쪽이 제안을 검토하고 있으며 여전히 희망을 갖고 있다고 말했어요. 전쟁을 끝내자는 첫 합의는 6월에 이뤄졌지만, 선박 공격이 다시 시작되면서 몇 주 안에 무너졌어요.",
+     "sents": [
+      {
+       "en": "The conflict between the two countries has lasted eight months.",
+       "ko": "두 나라의 갈등은 여덟 달째 이어지고 있어요."
+      },
+      {
+       "en": "President Donald Trump said on Friday that Iran badly wants to make a deal.",
+       "ko": "도널드 트럼프 대통령은 금요일 이란이 합의를 몹시 원한다고 말했어요."
+      },
+      {
+       "en": "Qatar, which is helping to mediate, said both sides are looking at its proposals and that it remains hopeful.",
+       "ko": "중재를 돕는 카타르는 양쪽이 제안을 검토하고 있으며 여전히 희망을 갖고 있다고 말했어요."
+      },
+      {
+       "en": "A first deal to end the war was reached in June, but it collapsed within weeks after attacks on ships resumed.",
+       "ko": "전쟁을 끝내자는 첫 합의는 6월에 이뤄졌지만, 선박 공격이 다시 시작되면서 몇 주 안에 무너졌어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "The United States has offered a reward of up to $20 million for information about Iran's nuclear program.",
+   "glosses": [
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
+    },
+    {
+     "text": "reward",
+     "meaning": "현상금, 보상금",
+     "level": 1
+    },
+    {
+     "text": "nuclear program",
+     "meaning": "핵 프로그램",
+     "level": 2
+    },
+    {
+     "text": "State Department",
+     "meaning": "(미국) 국무부",
+     "level": 2
+    },
+    {
+     "text": "Rewards for Justice",
+     "meaning": "정의를 위한 보상(미 국무부 정보 보상 프로그램)",
+     "level": 3
+    },
+    {
+     "text": "information",
+     "meaning": "정보",
+     "level": 1
+    },
+    {
+     "text": "peaceful",
+     "meaning": "평화적인",
+     "level": 1
+    },
+    {
+     "text": "nuclear weapon",
+     "meaning": "핵무기",
+     "level": 2
+    },
+    {
+     "text": "US military",
+     "meaning": "미군",
+     "level": 1
+    },
+    {
+     "text": "task force",
+     "meaning": "전담반, 특별 임무 부대",
+     "level": 3
+    },
+    {
+     "text": "Task Force Iron Gate",
+     "meaning": "태스크포스 아이언 게이트(미군 전담반 이름)",
+     "level": 3
+    },
+    {
+     "text": "Tampa",
+     "meaning": "탬파(미국 플로리다 도시)",
+     "level": 3
+    },
+    {
+     "text": "sanctioned goods",
+     "meaning": "제재 대상 물품",
+     "level": 3
+    },
+    {
+     "text": "borders",
+     "meaning": "국경",
+     "level": 1
+    },
+    {
+     "text": "US Central Command",
+     "meaning": "미 중부사령부(중동 담당 군 사령부)",
+     "level": 3
+    },
+    {
+     "text": "naval blockade",
+     "meaning": "해상 봉쇄",
+     "level": 3
+    },
+    {
+     "text": "ports",
+     "meaning": "항구",
+     "level": 1
+    },
+    {
+     "text": "exporting",
+     "meaning": "수출하는 것",
+     "level": 1
+    },
+    {
+     "text": "crude oil",
+     "meaning": "원유",
+     "level": 2
+    },
+    {
+     "text": "conflict",
+     "meaning": "갈등, 분쟁",
+     "level": 1
+    },
+    {
+     "text": "President Donald Trump",
+     "meaning": "도널드 트럼프 대통령",
+     "level": 0
+    },
+    {
+     "text": "deal",
+     "meaning": "합의",
+     "level": 0
+    },
+    {
+     "text": "Qatar",
+     "meaning": "카타르(중동 나라)",
+     "level": 1
+    },
+    {
+     "text": "mediate",
+     "meaning": "중재하다",
+     "level": 3
+    },
+    {
+     "text": "proposals",
+     "meaning": "제안",
+     "level": 2
+    },
+    {
+     "text": "hopeful",
+     "meaning": "희망을 가진",
+     "level": 1
+    },
+    {
+     "text": "collapsed",
+     "meaning": "무너졌다",
+     "level": 2
+    },
+    {
+     "text": "attacks on ships",
+     "meaning": "선박 공격",
+     "level": 1
+    },
+    {
+     "text": "resumed",
+     "meaning": "다시 시작됐다",
+     "level": 2
+    },
+    {
+     "text": "Iran",
+     "meaning": "이란",
+     "level": 0
+    },
+    {
+     "text": "war",
+     "meaning": "전쟁",
+     "level": 0
+    },
+    {
+     "text": "limit",
+     "meaning": "제한하다",
+     "level": 1
+    },
+    {
+     "text": "move",
+     "meaning": "이동시키다",
+     "level": 1
+    },
+    {
+     "text": "relocate",
+     "meaning": "이주시키다, 옮기다",
+     "level": 2
+    },
+    {
+     "text": "setting up",
+     "meaning": "만들고 있는",
+     "level": 1
+    },
+    {
+     "text": "lasted",
+     "meaning": "이어졌다",
+     "level": 1
+    },
+    {
+     "text": "Friday",
+     "meaning": "금요일",
+     "level": 0
+    },
+    {
+     "text": "sides",
+     "meaning": "양쪽",
+     "level": 0
+    },
+    {
+     "text": "looking at",
+     "meaning": "검토하다",
+     "level": 1
+    },
+    {
+     "text": "two countries",
+     "meaning": "두 나라",
+     "level": 0
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+     "title": "US offers $20m reward for information about Iran's nuclear programme"
+    }
+   ],
+   "num": {
+    "value": "2천만 달러",
+    "caption": "미국이 이란 핵 정보에 내건 최대 현상금",
+    "source": "BBC News"
+   },
+   "life": "중동 긴장은 원유 가격과 환율, 항공·물류 비용에 영향을 줄 수 있어요. 국제 뉴스를 경제와 연결해 읽는 연습이 필요해요.",
+   "quiz": [
+    {
+     "q": "How much is the US reward?",
+     "qKo": "미국의 현상금은 얼마인가요?",
+     "choices": [
+      "Up to $25 million",
+      "Up to $20 million",
+      "Up to $200 million"
+     ],
+     "answer": 1,
+     "why": "1문단: “a reward of up to $20 million”"
+    },
+    {
+     "q": "Where will Task Force Iron Gate work from?",
+     "qKo": "태스크포스 아이언 게이트는 어디에서 일하나요?",
+     "choices": [
+      "From Tampa, Florida",
+      "From Doha, Qatar",
+      "From Washington"
+     ],
+     "answer": 0,
+     "why": "2문단: “It will work from Tampa, Florida”"
+    },
+    {
+     "q": "How long has the conflict lasted?",
+     "qKo": "갈등은 얼마나 이어졌나요?",
+     "choices": [
+      "Two months",
+      "Six months",
+      "Eight months"
+     ],
+     "answer": 2,
+     "why": "3문단: “has lasted eight months”"
+    }
+   ],
+   "job": "제재와 협상이 함께 쓰이는 외교 · 안보 사례 = 「국제 정세 · 에너지와 공급망」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why do events in the Middle East matter to people in Korea?",
+    "qKo": "중동 사건이 한국 사람들에게 왜 중요할까요?",
+    "answer": "The article talks about crude oil exports and the war between the US and Iran. I think this matters to Korea because we buy a lot of energy from other countries. Peace in the region may help keep prices stable.",
+    "answerKo": "기사는 원유 수출과 미국·이란 전쟁을 다뤄요. 저는 한국이 에너지를 다른 나라에서 많이 사 오기 때문에 이 일이 중요하다고 생각해요. 이 지역의 평화가 물가 안정에 도움이 될 수 있어요.",
+    "phrases": [
+     {
+      "en": "crude oil exports",
+      "ko": "원유 수출"
+     },
+     {
+      "en": "keep prices stable",
+      "ko": "물가를 안정시키다"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-13",
+   "section": "tech",
+   "tag": "의견 갈림",
+   "title": "Korea weighs new limits on how teens use social media",
+   "easyKo": "정부가 14세 미만 아이의 소셜미디어 계정 만들기를 막고, 청소년 계정은 추천 알고리즘과 무한 스크롤을 기본으로 끄는 방안을 살펴보고 있어요. 개인정보와 효과를 두고 걱정하는 목소리도 있어요.",
+   "paragraphs": [
+    {
+     "en": "South Korea's government is thinking about new limits on how young people use social media. The Korea Media and Communications Commission said it is looking at changes to the Information and Communications Network Act. One idea is to stop children under 14 from opening social media accounts. Platforms would also have to check the age of their users.",
+     "ko": "한국 정부가 청소년의 소셜미디어 이용에 새 제한을 두는 것을 검토하고 있어요. 방송미디어통신위원회는 정보통신망법을 바꾸는 방안을 보고 있다고 밝혔어요. 한 가지 방안은 14세 미만 아이가 소셜미디어 계정을 만들지 못하게 하는 거예요. 플랫폼은 이용자의 나이도 확인해야 해요.",
+     "sents": [
+      {
+       "en": "South Korea's government is thinking about new limits on how young people use social media.",
+       "ko": "한국 정부가 청소년의 소셜미디어 이용에 새 제한을 두는 것을 검토하고 있어요."
+      },
+      {
+       "en": "The Korea Media and Communications Commission said it is looking at changes to the Information and Communications Network Act.",
+       "ko": "방송미디어통신위원회는 정보통신망법을 바꾸는 방안을 보고 있다고 밝혔어요."
+      },
+      {
+       "en": "One idea is to stop children under 14 from opening social media accounts.",
+       "ko": "한 가지 방안은 14세 미만 아이가 소셜미디어 계정을 만들지 못하게 하는 거예요."
+      },
+      {
+       "en": "Platforms would also have to check the age of their users.",
+       "ko": "플랫폼은 이용자의 나이도 확인해야 해요."
+      }
+     ]
+    },
+    {
+     "en": "For users aged 14 to 19, personalized recommendation algorithms would be switched off by default. Features such as infinite scrolling, which can push people to use an app too long, would also be off by default.",
+     "ko": "14세에서 19세 이용자는 맞춤형 추천 알고리즘이 기본으로 꺼져요. 너무 오래 쓰게 만들 수 있는 무한 스크롤 같은 기능도 기본으로 꺼져요.",
+     "sents": [
+      {
+       "en": "For users aged 14 to 19, personalized recommendation algorithms would be switched off by default.",
+       "ko": "14세에서 19세 이용자는 맞춤형 추천 알고리즘이 기본으로 꺼져요."
+      },
+      {
+       "en": "Features such as infinite scrolling, which can push people to use an app too long, would also be off by default.",
+       "ko": "너무 오래 쓰게 만들 수 있는 무한 스크롤 같은 기능도 기본으로 꺼져요."
+      }
+     ]
+    },
+    {
+     "en": "The commission first made the proposal in July at a presidential policy briefing. It hopes to finalize the measures in the first half of next year after talking with ministries and young people. The government is also considering letting children under 14 open accounts with parental consent.",
+     "ko": "위원회는 7월 대통령 업무보고에서 이 방안을 처음 내놓았어요. 관계 부처와 청소년 등과 협의한 뒤 내년 상반기에 방안을 확정하길 바라요. 정부는 부모 동의를 받으면 14세 미만도 계정을 만들게 하는 방안도 검토해요.",
+     "sents": [
+      {
+       "en": "The commission first made the proposal in July at a presidential policy briefing.",
+       "ko": "위원회는 7월 대통령 업무보고에서 이 방안을 처음 내놓았어요."
+      },
+      {
+       "en": "It hopes to finalize the measures in the first half of next year after talking with ministries and young people.",
+       "ko": "관계 부처와 청소년 등과 협의한 뒤 내년 상반기에 방안을 확정하길 바라요."
+      },
+      {
+       "en": "The government is also considering letting children under 14 open accounts with parental consent.",
+       "ko": "정부는 부모 동의를 받으면 14세 미만도 계정을 만들게 하는 방안도 검토해요."
+      }
+     ]
+    },
+    {
+     "en": "Australia has banned social media for minors under 16, and Canada and the U.K. are pursuing similar limits for the same age group.",
+     "ko": "호주는 16세 미만 미성년자의 소셜미디어를 금지했고, 캐나다와 영국도 같은 연령층에 비슷한 제한을 추진하고 있어요.",
+     "sents": [
+      {
+       "en": "Australia has banned social media for minors under 16, and Canada and the U.K. are pursuing similar limits for the same age group.",
+       "ko": "호주는 16세 미만 미성년자의 소셜미디어를 금지했고, 캐나다와 영국도 같은 연령층에 비슷한 제한을 추진하고 있어요."
+      }
+     ]
+    },
+    {
+     "en": "Age checks would require platforms to collect personal information, which raises privacy worries. Minors could also get around the rules by using someone else's account or giving false information. Park Kyung-sin, a law professor at Korea University, said helping people who struggle with addiction would be better than a blanket ban.",
+     "ko": "나이를 확인하려면 플랫폼이 개인정보를 모아야 해서 사생활 걱정이 생겨요. 미성년자가 다른 사람의 계정을 쓰거나 거짓 정보를 줘서 규칙을 피할 수도 있어요. 고려대 박경신 법학 교수는 전면 금지보다 중독으로 힘든 사람을 돕는 편이 낫다고 말했어요.",
+     "sents": [
+      {
+       "en": "Age checks would require platforms to collect personal information, which raises privacy worries.",
+       "ko": "나이를 확인하려면 플랫폼이 개인정보를 모아야 해서 사생활 걱정이 생겨요."
+      },
+      {
+       "en": "Minors could also get around the rules by using someone else's account or giving false information.",
+       "ko": "미성년자가 다른 사람의 계정을 쓰거나 거짓 정보를 줘서 규칙을 피할 수도 있어요."
+      },
+      {
+       "en": "Park Kyung-sin, a law professor at Korea University, said helping people who struggle with addiction would be better than a blanket ban.",
+       "ko": "고려대 박경신 법학 교수는 전면 금지보다 중독으로 힘든 사람을 돕는 편이 낫다고 말했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "The Korea Media and Communications Commission said it is looking at changes to the Information and Communications Network Act.",
+   "glosses": [
+    {
+     "text": "accounts",
+     "meaning": "계정",
+     "level": 1
+    },
+    {
+     "text": "platforms",
+     "meaning": "플랫폼(소셜미디어 서비스 회사)",
+     "level": 2
+    },
+    {
+     "text": "personalized recommendation algorithms",
+     "meaning": "개인 맞춤형 추천 알고리즘",
+     "level": 3
+    },
+    {
+     "text": "by default",
+     "meaning": "기본값으로(따로 바꾸지 않으면)",
+     "level": 2
+    },
+    {
+     "text": "infinite scrolling",
+     "meaning": "끝없이 내려가는 스크롤 기능",
+     "level": 3
+    },
+    {
+     "text": "presidential policy briefing",
+     "meaning": "대통령 업무보고",
+     "level": 3
+    },
+    {
+     "text": "finalize",
+     "meaning": "최종 확정하다",
+     "level": 3
+    },
+    {
+     "text": "measures",
+     "meaning": "조치, 방안",
+     "level": 2
+    },
+    {
+     "text": "parental consent",
+     "meaning": "부모의 동의",
+     "level": 3
+    },
+    {
+     "text": "minors",
+     "meaning": "미성년자",
+     "level": 2
+    },
+    {
+     "text": "banned",
+     "meaning": "금지했다",
+     "level": 2
+    },
+    {
+     "text": "blanket ban",
+     "meaning": "예외 없는 전면 금지",
+     "level": 3
+    },
+    {
+     "text": "privacy",
+     "meaning": "사생활, 개인정보 보호",
+     "level": 2
+    },
+    {
+     "text": "personal information",
+     "meaning": "개인정보",
+     "level": 2
+    },
+    {
+     "text": "get around",
+     "meaning": "(규칙을) 피해 가다",
+     "level": 3
+    },
+    {
+     "text": "false information",
+     "meaning": "거짓 정보",
+     "level": 2
+    },
+    {
+     "text": "addiction",
+     "meaning": "중독",
+     "level": 2
+    },
+    {
+     "text": "limits",
+     "meaning": "제한",
+     "level": 1
+    },
+    {
+     "text": "age checks",
+     "meaning": "나이 확인",
+     "level": 2
+    },
+    {
+     "text": "ministries",
+     "meaning": "정부 부처들",
+     "level": 2
+    },
+    {
+     "text": "first half of next year",
+     "meaning": "내년 상반기",
+     "level": 1
+    },
+    {
+     "text": "switched off",
+     "meaning": "꺼진(기능을 끈)",
+     "level": 1
+    },
+    {
+     "text": "Korea University",
+     "meaning": "고려대학교",
+     "level": 0
+    },
+    {
+     "text": "struggle with",
+     "meaning": "~으로 힘들어하다",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Times",
+     "url": "https://www.koreatimes.co.kr/southkorea/society/20261108/govt-weighs-tighter-social-media-restrictions-for-minors-targeting-addictive-features",
+     "title": "Gov't weighs tighter social media restrictions for minors, targeting addictive features"
+    }
+   ],
+   "life": "대학생도 소셜미디어를 매일 쓰는 세대라서 청소년 보호와 표현의 자유가 부딪치는 이 논쟁을 이해해 두면 좋아요. 앞으로 나올 규칙이 앱 사용 방식에도 영향을 줄 수 있어요.",
+   "quiz": [
+    {
+     "q": "What is one idea for children under 14?",
+     "qKo": "14세 미만 아이에게 어떤 방안이 나왔나요?",
+     "choices": [
+      "They could use any app at night",
+      "They could not open social media accounts",
+      "They would pay a fee to join"
+     ],
+     "answer": 1,
+     "why": "1문단: “stop children under 14 from opening social media accounts”"
+    },
+    {
+     "q": "When does the commission hope to finalize the measures?",
+     "qKo": "위원회는 언제 방안을 확정하길 바라나요?",
+     "choices": [
+      "In the first half of next year",
+      "By the end of this year",
+      "In the summer of 2030"
+     ],
+     "answer": 0,
+     "why": "3문단: “finalize the measures in the first half of next year”"
+    },
+    {
+     "q": "Why do some people doubt the plan?",
+     "qKo": "일부는 왜 이 계획을 의심하나요?",
+     "choices": [
+      "Platforms already ban all minors from joining",
+      "Parents asked for much stronger limits on apps",
+      "Age checks raise privacy worries and may be dodged"
+     ],
+     "answer": 2,
+     "why": "5문단: “Minors could also get around the rules by using someone else's account or giving false information.”"
+    }
+   ],
+   "job": "청소년 보호와 표현의 자유가 부딪치는 규제 = 「디지털 규제 · 플랫폼 책임」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Do you think social media should have age limits? Why or why not?",
+    "qKo": "소셜미디어에 나이 제한이 있어야 한다고 생각하나요? 이유는요?",
+    "answer": "The article says Korea is thinking about banning accounts for children under 14. I think some limits can help young people, such as turning off infinite scrolling. But the plan should protect privacy and listen to young people before it becomes law.",
+    "answerKo": "기사는 한국이 14세 미만의 계정을 막는 것을 검토한다고 해요. 저는 무한 스크롤을 끄는 것처럼 어느 정도 제한은 청소년에게 도움이 된다고 생각해요. 하지만 법이 되기 전에 개인정보를 지키고 청소년의 의견도 들어야 해요.",
+    "phrases": [
+     {
+      "en": "infinite scrolling",
+      "ko": "무한 스크롤"
+     },
+     {
+      "en": "protect privacy",
+      "ko": "사생활을 보호하다"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-14",
+   "section": "campus",
+   "title": "A school meeting app used by nearly 50,000 people has a data breach",
+   "easyKo": "북아일랜드 학교들이 쓰는 학부모 면담 예약 앱 Equipple이 해킹 피해를 입었어요. 학부모 연락처와 일부 학생 정보에 접근했을 수 있어서 낯선 메일이나 전화를 조심하라고 안내했어요.",
+   "paragraphs": [
+    {
+     "en": "Parents in Northern Ireland have been told to watch out for unexpected emails or phone calls. This follows a data breach at a school app called Equipple. The app is used by almost 50,000 people.",
+     "ko": "북아일랜드의 학부모들은 예상 밖의 메일이나 전화를 조심하라는 안내를 받았어요. Equipple이라는 학교 앱에서 정보 유출 사고가 난 데 따른 거예요. 이 앱은 거의 5만 명이 써요.",
+     "sents": [
+      {
+       "en": "Parents in Northern Ireland have been told to watch out for unexpected emails or phone calls.",
+       "ko": "북아일랜드의 학부모들은 예상 밖의 메일이나 전화를 조심하라는 안내를 받았어요."
+      },
+      {
+       "en": "This follows a data breach at a school app called Equipple.",
+       "ko": "Equipple이라는 학교 앱에서 정보 유출 사고가 난 데 따른 거예요."
+      },
+      {
+       "en": "The app is used by almost 50,000 people.",
+       "ko": "이 앱은 거의 5만 명이 써요."
+      }
+     ]
+    },
+    {
+     "en": "Many schools use Equipple to schedule and book meetings between parents and teachers. There are concerns that the breach may have allowed access to parent contact details and some pupil information. An email from one school said the details may include phone numbers, home addresses and email addresses. It also listed pupil names, dates of birth and registration groups.",
+     "ko": "많은 학교가 부모와 교사 사이의 면담 일정을 잡고 예약하는 데 Equipple을 써요. 이번 사고로 학부모 연락처와 일부 학생 정보에 접근했을 수 있다는 걱정이 있어요. 한 학교의 메일은 전화번호, 집 주소, 이메일 주소가 포함될 수 있다고 밝혔어요. 학생 이름, 생년월일, 학급 정보도 적혀 있었어요.",
+     "sents": [
+      {
+       "en": "Many schools use Equipple to schedule and book meetings between parents and teachers.",
+       "ko": "많은 학교가 부모와 교사 사이의 면담 일정을 잡고 예약하는 데 Equipple을 써요."
+      },
+      {
+       "en": "There are concerns that the breach may have allowed access to parent contact details and some pupil information.",
+       "ko": "이번 사고로 학부모 연락처와 일부 학생 정보에 접근했을 수 있다는 걱정이 있어요."
+      },
+      {
+       "en": "An email from one school said the details may include phone numbers, home addresses and email addresses.",
+       "ko": "한 학교의 메일은 전화번호, 집 주소, 이메일 주소가 포함될 수 있다고 밝혔어요."
+      },
+      {
+       "en": "It also listed pupil names, dates of birth and registration groups.",
+       "ko": "학생 이름, 생년월일, 학급 정보도 적혀 있었어요."
+      }
+     ]
+    },
+    {
+     "en": "Equipple said it is taking the matter extremely seriously. The company said it found unauthorised access to part of its cloud-hosted environment and began its incident response procedures. It said there is no evidence of any ongoing unauthorised access. An investigation with independent cybersecurity specialists is continuing.",
+     "ko": "Equipple은 이 일을 매우 심각하게 받아들이고 있다고 말했어요. 회사는 클라우드 환경 일부에 허가 없는 접근을 발견해 사고 대응 절차를 시작했다고 말했어요. 지금도 계속되는 무단 접근의 증거는 없다고 했어요. 독립적인 사이버 보안 전문가와 함께 하는 조사는 계속되고 있어요.",
+     "sents": [
+      {
+       "en": "Equipple said it is taking the matter extremely seriously.",
+       "ko": "Equipple은 이 일을 매우 심각하게 받아들이고 있다고 말했어요."
+      },
+      {
+       "en": "The company said it found unauthorised access to part of its cloud-hosted environment and began its incident response procedures.",
+       "ko": "회사는 클라우드 환경 일부에 허가 없는 접근을 발견해 사고 대응 절차를 시작했다고 말했어요."
+      },
+      {
+       "en": "It said there is no evidence of any ongoing unauthorised access.",
+       "ko": "지금도 계속되는 무단 접근의 증거는 없다고 했어요."
+      },
+      {
+       "en": "An investigation with independent cybersecurity specialists is continuing.",
+       "ko": "독립적인 사이버 보안 전문가와 함께 하는 조사는 계속되고 있어요."
+      }
+     ]
+    },
+    {
+     "en": "Some schools have written to parents to explain what happened. The incident has also been referred to the Education Authority. A spokesperson for the authority said it is giving schools guidance on their data protection duties.",
+     "ko": "일부 학교는 학부모에게 무슨 일이 있었는지 알리는 글을 보냈어요. 이 사건은 교육청에도 보고됐어요. 교육청 대변인은 학교에 데이터 보호 의무에 관한 안내를 주고 있다고 말했어요.",
+     "sents": [
+      {
+       "en": "Some schools have written to parents to explain what happened.",
+       "ko": "일부 학교는 학부모에게 무슨 일이 있었는지 알리는 글을 보냈어요."
+      },
+      {
+       "en": "The incident has also been referred to the Education Authority.",
+       "ko": "이 사건은 교육청에도 보고됐어요."
+      },
+      {
+       "en": "A spokesperson for the authority said it is giving schools guidance on their data protection duties.",
+       "ko": "교육청 대변인은 학교에 데이터 보호 의무에 관한 안내를 주고 있다고 말했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "This follows a data breach at a school app called Equipple.",
+   "glosses": [
+    {
+     "text": "Northern Ireland",
+     "meaning": "북아일랜드(영국의 한 지역)",
+     "level": 2
+    },
+    {
+     "text": "data breach",
+     "meaning": "정보 유출 사고",
+     "level": 3
+    },
+    {
+     "text": "breach",
+     "meaning": "(보안) 침해, 유출",
+     "level": 3
+    },
+    {
+     "text": "schedule",
+     "meaning": "일정을 잡다",
+     "level": 1
+    },
+    {
+     "text": "contact details",
+     "meaning": "연락처 정보",
+     "level": 2
+    },
+    {
+     "text": "pupil",
+     "meaning": "학생(초·중등)",
+     "level": 2
+    },
+    {
+     "text": "registration groups",
+     "meaning": "학급(출석 확인 단위)",
+     "level": 3
+    },
+    {
+     "text": "extremely seriously",
+     "meaning": "매우 심각하게",
+     "level": 2
+    },
+    {
+     "text": "unauthorised access",
+     "meaning": "허가받지 않은 접근",
+     "level": 3
+    },
+    {
+     "text": "cloud-hosted environment",
+     "meaning": "클라우드에서 운영하는 시스템",
+     "level": 4
+    },
+    {
+     "text": "incident response procedures",
+     "meaning": "사고 대응 절차",
+     "level": 4
+    },
+    {
+     "text": "ongoing",
+     "meaning": "계속되는",
+     "level": 2
+    },
+    {
+     "text": "cybersecurity specialists",
+     "meaning": "사이버 보안 전문가",
+     "level": 3
+    },
+    {
+     "text": "investigation",
+     "meaning": "조사",
+     "level": 2
+    },
+    {
+     "text": "referred to",
+     "meaning": "~에 넘겨졌다(보고됐다)",
+     "level": 3
+    },
+    {
+     "text": "Education Authority",
+     "meaning": "북아일랜드 교육청",
+     "level": 3
+    },
+    {
+     "text": "spokesperson",
+     "meaning": "대변인",
+     "level": 2
+    },
+    {
+     "text": "guidance",
+     "meaning": "안내, 지침",
+     "level": 2
+    },
+    {
+     "text": "data protection",
+     "meaning": "데이터 보호",
+     "level": 3
+    },
+    {
+     "text": "Equipple",
+     "meaning": "Equipple(학교 면담 예약 앱 이름)",
+     "level": 3
+    },
+    {
+     "text": "book",
+     "meaning": "예약하다",
+     "level": 1
+    },
+    {
+     "text": "duties",
+     "meaning": "의무",
+     "level": 2
+    },
+    {
+     "text": "incident",
+     "meaning": "사건, 사고",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm9dzz6191gvo",
+     "title": "NI schools: Parents warned to be on alert after data breach"
+    }
+   ],
+   "num": {
+    "value": "약 5만 명",
+    "caption": "Equipple 앱 이용자 수",
+    "source": "BBC"
+   },
+   "life": "학교와 대학이 쓰는 앱에도 내 이름과 연락처가 들어 있어요. 이런 사고 소식은 낯선 메일이나 문자를 의심하는 습관이 왜 필요한지 알려 줘요.",
+   "quiz": [
+    {
+     "q": "What is Equipple used for?",
+     "qKo": "Equipple은 무엇에 쓰이나요?",
+     "choices": [
+      "To pay school fees online each term",
+      "To book meetings between parents and teachers",
+      "To send exam results to every student"
+     ],
+     "answer": 1,
+     "why": "2문단: “schedule and book meetings between parents and teachers”"
+    },
+    {
+     "q": "About how many people use the app?",
+     "qKo": "이 앱을 쓰는 사람은 대략 몇 명인가요?",
+     "choices": [
+      "Almost 50,000",
+      "Almost 500,000",
+      "Almost 5,000"
+     ],
+     "answer": 0,
+     "why": "1문단: “used by almost 50,000 people”"
+    },
+    {
+     "q": "What did Equipple say about ongoing access?",
+     "qKo": "Equipple은 계속되는 접근에 대해 뭐라고 했나요?",
+     "choices": [
+      "It said the attackers are still inside the system",
+      "It said it cannot share anything until next year",
+      "It said there is no evidence of any ongoing unauthorised access"
+     ],
+     "answer": 2,
+     "why": "3문단: “no evidence of any ongoing unauthorised access”"
+    }
+   ],
+   "job": "개인정보 유출에 대한 대응 = 「정보 보안 · 신뢰 회복」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "What should people do after a data breach?",
+    "qKo": "정보 유출 사고가 난 뒤 사람들은 무엇을 해야 할까요?",
+    "answer": "The parents were told to watch out for unexpected emails or phone calls. I think people should not click links in strange messages. They can also change passwords and read the school's advice.",
+    "answerKo": "학부모들은 예상 밖의 메일이나 전화를 조심하라는 안내를 받았어요. 저는 이상한 메시지의 링크를 누르지 않아야 한다고 생각해요. 비밀번호를 바꾸고 학교의 안내도 읽을 수 있어요.",
+    "phrases": [
+     {
+      "en": "watch out for unexpected emails",
+      "ko": "예상 밖의 메일을 조심하다"
+     },
+     {
+      "en": "change passwords",
+      "ko": "비밀번호를 바꾸다"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-15",
+   "section": "culture",
+   "tag": "한국에 직접",
+   "title": "Badminton star An Se-young wins the Korea Open and ties a record with her 11th title of the year",
+   "easyKo": "배드민턴 안세영 선수가 홈에서 열린 코리아오픈 결승에서 일본의 야마구치를 2대 1로 이겼어요. 올해만 11번째 국제 대회 우승으로, 한 시즌 최다 우승 기록과 같아요.",
+   "paragraphs": [
+    {
+     "en": "South Korean badminton star An Se-young won the Korea Open on Sunday in front of her home fans. She beat Akane Yamaguchi of Japan 2-1 in the women's singles final in Yeosu. The scores were 21-12, 15-21 and 21-16.",
+     "ko": "한국 배드민턴 스타 안세영이 일요일 홈 팬들 앞에서 코리아오픈 우승을 차지했어요. 그는 여수에서 열린 여자 단식 결승에서 일본의 야마구치 아카네를 2대 1로 이겼어요. 점수는 21-12, 15-21, 21-16이었어요.",
+     "sents": [
+      {
+       "en": "South Korean badminton star An Se-young won the Korea Open on Sunday in front of her home fans.",
+       "ko": "한국 배드민턴 스타 안세영이 일요일 홈 팬들 앞에서 코리아오픈 우승을 차지했어요."
+      },
+      {
+       "en": "She beat Akane Yamaguchi of Japan 2-1 in the women's singles final in Yeosu.",
+       "ko": "그는 여수에서 열린 여자 단식 결승에서 일본의 야마구치 아카네를 2대 1로 이겼어요."
+      },
+      {
+       "en": "The scores were 21-12, 15-21 and 21-16.",
+       "ko": "점수는 21-12, 15-21, 21-16이었어요."
+      }
+     ]
+    },
+    {
+     "en": "It was An's 11th international title of the year. That ties the record for one season, first set by Kento Momota of Japan in 2019 and matched by An in 2025. The Korea Herald said she is the first player in badminton history to do this in two seasons in a row.",
+     "ko": "이번이 올해 안세영의 11번째 국제 대회 우승이에요. 이는 2019년 일본의 모모타 겐토가 세우고 2025년 안세영이 같은 기록을 만든 한 시즌 최다 우승 기록과 같아요. 코리아헤럴드는 안세영이 두 시즌 연속으로 이런 기록을 낸 배드민턴 역사상 첫 선수라고 전했어요.",
+     "sents": [
+      {
+       "en": "It was An's 11th international title of the year.",
+       "ko": "이번이 올해 안세영의 11번째 국제 대회 우승이에요."
+      },
+      {
+       "en": "That ties the record for one season, first set by Kento Momota of Japan in 2019 and matched by An in 2025.",
+       "ko": "이는 2019년 일본의 모모타 겐토가 세우고 2025년 안세영이 같은 기록을 만든 한 시즌 최다 우승 기록과 같아요."
+      },
+      {
+       "en": "The Korea Herald said she is the first player in badminton history to do this in two seasons in a row.",
+       "ko": "코리아헤럴드는 안세영이 두 시즌 연속으로 이런 기록을 낸 배드민턴 역사상 첫 선수라고 전했어요."
+      }
+     ]
+    },
+    {
+     "en": "An has had a great year. She has won eight tournaments on the BWF World Tour. She also won gold at the Badminton Asia Championships, the BWF World Championships and the Aichi-Nagoya Asian Games. She has lost only once in 72 matches this season, in the All England Open final in March.",
+     "ko": "안세영은 올해 아주 좋은 한 해를 보냈어요. 그는 세계배드민턴연맹(BWF) 월드투어 대회에서 8번 우승했어요. 아시아선수권, 세계선수권, 아이치·나고야 아시안게임에서도 금메달을 땄어요. 올 시즌 72경기에서 진 것은 3월 전영오픈 결승 한 번뿐이에요.",
+     "sents": [
+      {
+       "en": "An has had a great year.",
+       "ko": "안세영은 올해 아주 좋은 한 해를 보냈어요."
+      },
+      {
+       "en": "She has won eight tournaments on the BWF World Tour.",
+       "ko": "그는 세계배드민턴연맹(BWF) 월드투어 대회에서 8번 우승했어요."
+      },
+      {
+       "en": "She also won gold at the Badminton Asia Championships, the BWF World Championships and the Aichi-Nagoya Asian Games.",
+       "ko": "아시아선수권, 세계선수권, 아이치·나고야 아시안게임에서도 금메달을 땄어요."
+      },
+      {
+       "en": "She has lost only once in 72 matches this season, in the All England Open final in March.",
+       "ko": "올 시즌 72경기에서 진 것은 3월 전영오픈 결승 한 번뿐이에요."
+      }
+     ]
+    },
+    {
+     "en": "An said she thought about skipping the Korea Open because she was tired. But she chose to play in front of home fans, and a sellout crowd of 3,500 cheered for her. She said the cheers gave her goose bumps. She also said the fans helped her play with confidence even after mistakes.",
+     "ko": "안세영은 피곤해서 코리아오픈을 건너뛸까 생각했다고 말했어요. 하지만 홈 팬 앞에서 뛰기로 했고, 3,500명 만원 관중이 응원했어요. 그는 응원 소리에 소름이 돋았다고 말했어요. 또 팬들 덕분에 실수한 뒤에도 자신 있게 경기할 수 있었다고 말했어요.",
+     "sents": [
+      {
+       "en": "An said she thought about skipping the Korea Open because she was tired.",
+       "ko": "안세영은 피곤해서 코리아오픈을 건너뛸까 생각했다고 말했어요."
+      },
+      {
+       "en": "But she chose to play in front of home fans, and a sellout crowd of 3,500 cheered for her.",
+       "ko": "하지만 홈 팬 앞에서 뛰기로 했고, 3,500명 만원 관중이 응원했어요."
+      },
+      {
+       "en": "She said the cheers gave her goose bumps.",
+       "ko": "그는 응원 소리에 소름이 돋았다고 말했어요."
+      },
+      {
+       "en": "She also said the fans helped her play with confidence even after mistakes.",
+       "ko": "또 팬들 덕분에 실수한 뒤에도 자신 있게 경기할 수 있었다고 말했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "She beat Akane Yamaguchi of Japan 2-1 in the women's singles final in Yeosu.",
+   "glosses": [
+    {
+     "text": "An Se-young",
+     "meaning": "안세영(배드민턴 세계 1위 선수)",
+     "level": 0
+    },
+    {
+     "text": "Korea Open",
+     "meaning": "코리아오픈(한국에서 열리는 국제 배드민턴 대회)",
+     "level": 1
+    },
+    {
+     "text": "Akane Yamaguchi",
+     "meaning": "야마구치 아카네(일본 배드민턴 선수)",
+     "level": 3
+    },
+    {
+     "text": "women's singles",
+     "meaning": "여자 단식",
+     "level": 2
+    },
+    {
+     "text": "final",
+     "meaning": "결승",
+     "level": 1
+    },
+    {
+     "text": "international title",
+     "meaning": "국제 대회 우승",
+     "level": 2
+    },
+    {
+     "text": "ties",
+     "meaning": "(기록과) 같아지다",
+     "level": 2
+    },
+    {
+     "text": "Kento Momota",
+     "meaning": "모모타 겐토(일본 배드민턴 선수)",
+     "level": 3
+    },
+    {
+     "text": "matched",
+     "meaning": "(기록을) 같게 만들었다",
+     "level": 2
+    },
+    {
+     "text": "in a row",
+     "meaning": "연속으로",
+     "level": 1
+    },
+    {
+     "text": "BWF World Tour",
+     "meaning": "BWF 월드투어(세계배드민턴연맹 투어 대회)",
+     "level": 3
+    },
+    {
+     "text": "Badminton Asia Championships",
+     "meaning": "아시아 배드민턴 선수권대회",
+     "level": 3
+    },
+    {
+     "text": "BWF World Championships",
+     "meaning": "BWF 세계선수권대회",
+     "level": 3
+    },
+    {
+     "text": "Aichi-Nagoya Asian Games",
+     "meaning": "아이치·나고야 아시안게임",
+     "level": 3
+    },
+    {
+     "text": "lost",
+     "meaning": "(경기에서) 졌다",
+     "level": 1
+    },
+    {
+     "text": "All England Open",
+     "meaning": "전영오픈(오래된 배드민턴 대회)",
+     "level": 3
+    },
+    {
+     "text": "won",
+     "meaning": "이겼다(win의 과거형, 돈 단위 '원'이 아님)",
+     "level": 1
+    },
+    {
+     "text": "skipping",
+     "meaning": "건너뛰다, 빠지다",
+     "level": 2
+    },
+    {
+     "text": "sellout crowd",
+     "meaning": "표가 다 팔린 만원 관중",
+     "level": 3
+    },
+    {
+     "text": "goose bumps",
+     "meaning": "소름",
+     "level": 2
+    },
+    {
+     "text": "confidence",
+     "meaning": "자신감",
+     "level": 2
+    },
+    {
+     "text": "record",
+     "meaning": "기록",
+     "level": 1
+    },
+    {
+     "text": "tournaments",
+     "meaning": "토너먼트 대회",
+     "level": 2
+    },
+    {
+     "text": "The Korea Herald",
+     "meaning": "코리아헤럴드(한국 영자 신문)",
+     "level": 0
+    },
+    {
+     "text": "Yeosu",
+     "meaning": "여수(전남 도시)",
+     "level": 1
+    },
+    {
+     "text": "home fans",
+     "meaning": "홈 팬(안방 응원단)",
+     "level": 1
+    },
+    {
+     "text": "set",
+     "meaning": "(기록을) 세웠다",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://en.yna.co.kr/view/AEN20261108002151315",
+     "title": "(LEAD) Badminton star An Se-young wins Korea Open for record-tying 11th int'l title"
+    },
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10929654",
+     "title": "Badminton queen An Se-young ties record with 11 titles for second straight season"
+    }
+   ],
+   "num": {
+    "value": "11번째",
+    "caption": "안세영의 올해 국제 대회 우승 횟수",
+    "source": "Yonhap News Agency"
+   },
+   "life": "한 해 내내 높은 성적을 내려면 피곤할 때도 마음을 다잡는 힘이 필요해요. 안세영이 홈 팬 앞에서 뛰기로 한 이야기는 꾸준함과 책임감을 말하는 예가 돼요.",
+   "quiz": [
+    {
+     "q": "Who did An Se-young beat in the final?",
+     "qKo": "안세영은 결승에서 누구를 이겼나요?",
+     "choices": [
+      "Akane Yamaguchi of Japan",
+      "Kento Momota of Japan",
+      "Carolina Marin of Spain"
+     ],
+     "answer": 0,
+     "why": "1문단: “She beat Akane Yamaguchi of Japan 2-1”"
+    },
+    {
+     "q": "How many international titles has An won this year?",
+     "qKo": "안세영은 올해 국제 대회에서 몇 번 우승했나요?",
+     "choices": [
+      "Seventy-two",
+      "Eight",
+      "Eleven"
+     ],
+     "answer": 2,
+     "why": "2문단: “It was An's 11th international title of the year.”"
+    },
+    {
+     "q": "Why did An almost skip the Korea Open?",
+     "qKo": "안세영은 왜 코리아오픈을 건너뛸 뻔했나요?",
+     "choices": [
+      "She had lost in March",
+      "She was too tired",
+      "She wanted to rest after the Asian Games"
+     ],
+     "answer": 1,
+     "why": "4문단: “she thought about skipping the Korea Open because she was tired”"
+    }
+   ],
+   "job": "꾸준한 성과 · 책임감 = 「자기 관리 · 몰입」 질문의 예로 쓸 수 있어요.",
+   "talk": {
+    "q": "What can students learn from An Se-young's year?",
+    "qKo": "안세영의 한 해에서 학생들은 무엇을 배울 수 있을까요?",
+    "answer": "An was tired, but she chose to play in front of home fans. She has lost only once in 72 matches this season. I think steady effort and good rest are both important for students.",
+    "answerKo": "안세영은 피곤했지만 홈 팬 앞에서 뛰기로 했어요. 올 시즌 72경기에서 한 번만 졌어요. 저는 학생에게 꾸준한 노력과 충분한 휴식이 둘 다 중요하다고 생각해요.",
+    "phrases": [
+     {
+      "en": "steady effort",
+      "ko": "꾸준한 노력"
+     },
+     {
+      "en": "good rest",
+      "ko": "충분한 휴식"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-16",
+   "section": "culture",
+   "title": "CJ's Miky Lee receives a lifetime honor for bringing Korean culture to the world",
+   "easyKo": "CJ그룹 이미경 부회장이 미국 로스앤젤레스에서 아시안 홀 오브 페임의 평생 공로 메달을 받았어요. 30년 넘게 한국 영화 · 음악 · 드라마를 세계에 알린 일을 인정받았어요.",
+   "paragraphs": [
+    {
+     "en": "CJ Group Vice Chairwoman Miky Lee received a lifetime achievement medal at the Asian Hall of Fame ceremony in Los Angeles. The ceremony took place on Thursday, local time. CJ ENM said Lee won the honor for more than three decades of work to bring Korean film, music and television to the world.",
+     "ko": "CJ그룹 이미경 부회장이 로스앤젤레스에서 열린 아시안 홀 오브 페임 시상식에서 평생 공로 메달을 받았어요. 시상식은 현지 시간으로 목요일에 열렸어요. CJ ENM은 이 부회장이 30년 넘게 한국 영화, 음악, 방송을 세계에 알린 공을 인정받았다고 밝혔어요.",
+     "sents": [
+      {
+       "en": "CJ Group Vice Chairwoman Miky Lee received a lifetime achievement medal at the Asian Hall of Fame ceremony in Los Angeles.",
+       "ko": "CJ그룹 이미경 부회장이 로스앤젤레스에서 열린 아시안 홀 오브 페임 시상식에서 평생 공로 메달을 받았어요."
+      },
+      {
+       "en": "The ceremony took place on Thursday, local time.",
+       "ko": "시상식은 현지 시간으로 목요일에 열렸어요."
+      },
+      {
+       "en": "CJ ENM said Lee won the honor for more than three decades of work to bring Korean film, music and television to the world.",
+       "ko": "CJ ENM은 이 부회장이 30년 넘게 한국 영화, 음악, 방송을 세계에 알린 공을 인정받았다고 밝혔어요."
+      }
+     ]
+    },
+    {
+     "en": "Lee, 68, said culture is like oxygen, something we may take for granted but cannot live without. She also said it is important to create chances for younger creators. She hopes the next generation will dream bigger than her own.",
+     "ko": "68세인 이 부회장은 문화는 산소 같아서 당연하게 여기기 쉽지만 없이는 살 수 없다고 말했어요. 또 젊은 창작자들에게 기회를 만들어 주는 것이 중요하다고 말했어요. 다음 세대가 자신들보다 더 크게 꿈꾸길 바란다고 했어요.",
+     "sents": [
+      {
+       "en": "Lee, 68, said culture is like oxygen, something we may take for granted but cannot live without.",
+       "ko": "68세인 이 부회장은 문화는 산소 같아서 당연하게 여기기 쉽지만 없이는 살 수 없다고 말했어요."
+      },
+      {
+       "en": "She also said it is important to create chances for younger creators.",
+       "ko": "또 젊은 창작자들에게 기회를 만들어 주는 것이 중요하다고 말했어요."
+      },
+      {
+       "en": "She hopes the next generation will dream bigger than her own.",
+       "ko": "다음 세대가 자신들보다 더 크게 꿈꾸길 바란다고 했어요."
+      }
+     ]
+    },
+    {
+     "en": "Lee has played a central role in CJ's growth in entertainment since the 1990s. CJ invested in DreamWorks in 1995 and opened CGV Gangbyeon, Korea's first multiplex cinema, in 1998. She was an executive producer of the film Parasite, which won Best Picture at the Academy Awards in 2020.",
+     "ko": "이 부회장은 1990년대부터 CJ가 엔터테인먼트로 성장하는 데 중심 역할을 했어요. CJ는 1995년 드림웍스에 투자했고 1998년 한국 첫 멀티플렉스 극장인 CGV강변을 열었어요. 그는 2020년 아카데미 작품상을 받은 영화 기생충의 총괄 프로듀서였어요.",
+     "sents": [
+      {
+       "en": "Lee has played a central role in CJ's growth in entertainment since the 1990s.",
+       "ko": "이 부회장은 1990년대부터 CJ가 엔터테인먼트로 성장하는 데 중심 역할을 했어요."
+      },
+      {
+       "en": "CJ invested in DreamWorks in 1995 and opened CGV Gangbyeon, Korea's first multiplex cinema, in 1998.",
+       "ko": "CJ는 1995년 드림웍스에 투자했고 1998년 한국 첫 멀티플렉스 극장인 CGV강변을 열었어요."
+      },
+      {
+       "en": "She was an executive producer of the film Parasite, which won Best Picture at the Academy Awards in 2020.",
+       "ko": "그는 2020년 아카데미 작품상을 받은 영화 기생충의 총괄 프로듀서였어요."
+      }
+     ]
+    },
+    {
+     "en": "Lee also helped build platforms for Korean music, such as Mnet, the MAMA Awards and KCON. Lee Soo-man, the founder of A2O Entertainment, presented her the award. He said that if he is the godfather of K-pop, Lee is the godmother of Korean culture.",
+     "ko": "이 부회장은 Mnet, MAMA 시상식, KCON 같은 한국 음악 무대를 만드는 데도 도움을 줬어요. A2O 엔터테인먼트 창립자 이수만이 이 부회장에게 상을 건넸어요. 그는 자신이 K팝의 대부라면 이 부회장은 한국 문화의 대모라고 말했어요.",
+     "sents": [
+      {
+       "en": "Lee also helped build platforms for Korean music, such as Mnet, the MAMA Awards and KCON.",
+       "ko": "이 부회장은 Mnet, MAMA 시상식, KCON 같은 한국 음악 무대를 만드는 데도 도움을 줬어요."
+      },
+      {
+       "en": "Lee Soo-man, the founder of A2O Entertainment, presented her the award.",
+       "ko": "A2O 엔터테인먼트 창립자 이수만이 이 부회장에게 상을 건넸어요."
+      },
+      {
+       "en": "He said that if he is the godfather of K-pop, Lee is the godmother of Korean culture.",
+       "ko": "그는 자신이 K팝의 대부라면 이 부회장은 한국 문화의 대모라고 말했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "CJ Group Vice Chairwoman Miky Lee received a lifetime achievement medal at the Asian Hall of Fame ceremony in Los Angeles.",
+   "glosses": [
+    {
+     "text": "CJ Group",
+     "meaning": "CJ그룹(한국 대기업)",
+     "level": 0
+    },
+    {
+     "text": "Vice Chairwoman",
+     "meaning": "여성 부회장",
+     "level": 2
+    },
+    {
+     "text": "Miky Lee",
+     "meaning": "이미경(CJ그룹 부회장)",
+     "level": 0
+    },
+    {
+     "text": "lifetime achievement medal",
+     "meaning": "평생 공로 메달",
+     "level": 3
+    },
+    {
+     "text": "Asian Hall of Fame",
+     "meaning": "아시안 홀 오브 페임(아시아계 인물을 기리는 미국 단체)",
+     "level": 3
+    },
+    {
+     "text": "ceremony",
+     "meaning": "시상식, 기념식",
+     "level": 2
+    },
+    {
+     "text": "CJ ENM",
+     "meaning": "CJ ENM(CJ의 방송·영화 회사)",
+     "level": 0
+    },
+    {
+     "text": "decades",
+     "meaning": "수십 년",
+     "level": 2
+    },
+    {
+     "text": "take for granted",
+     "meaning": "당연하게 여기다",
+     "level": 3
+    },
+    {
+     "text": "creators",
+     "meaning": "창작자",
+     "level": 2
+    },
+    {
+     "text": "central role",
+     "meaning": "중심 역할",
+     "level": 2
+    },
+    {
+     "text": "DreamWorks",
+     "meaning": "드림웍스(미국 영화사)",
+     "level": 0
+    },
+    {
+     "text": "multiplex cinema",
+     "meaning": "복합 상영관(멀티플렉스)",
+     "level": 2
+    },
+    {
+     "text": "CGV Gangbyeon",
+     "meaning": "CGV강변(한국 첫 멀티플렉스)",
+     "level": 3
+    },
+    {
+     "text": "executive producer",
+     "meaning": "총괄 프로듀서",
+     "level": 3
+    },
+    {
+     "text": "Parasite",
+     "meaning": "기생충(영화)",
+     "level": 0
+    },
+    {
+     "text": "Academy Awards",
+     "meaning": "아카데미상(오스카)",
+     "level": 0
+    },
+    {
+     "text": "Best Picture",
+     "meaning": "작품상",
+     "level": 2
+    },
+    {
+     "text": "platforms",
+     "meaning": "(작품을 소개하는) 무대, 플랫폼",
+     "level": 2
+    },
+    {
+     "text": "Mnet",
+     "meaning": "Mnet(CJ의 음악 채널)",
+     "level": 0
+    },
+    {
+     "text": "MAMA Awards",
+     "meaning": "MAMA 시상식(K팝 시상식)",
+     "level": 1
+    },
+    {
+     "text": "KCON",
+     "meaning": "KCON(K팝·한국 문화 축제)",
+     "level": 1
+    },
+    {
+     "text": "Lee Soo-man",
+     "meaning": "이수만(A2O 엔터테인먼트 창립자)",
+     "level": 1
+    },
+    {
+     "text": "A2O Entertainment",
+     "meaning": "A2O 엔터테인먼트(이수만의 회사)",
+     "level": 3
+    },
+    {
+     "text": "godfather",
+     "meaning": "대부(가장 큰 영향을 준 사람)",
+     "level": 3
+    },
+    {
+     "text": "godmother",
+     "meaning": "대모",
+     "level": 3
+    },
+    {
+     "text": "won",
+     "meaning": "(받았다)",
+     "level": 1
+    },
+    {
+     "text": "invested",
+     "meaning": "투자했다",
+     "level": 2
+    },
+    {
+     "text": "film",
+     "meaning": "영화",
+     "level": 0
+    },
+    {
+     "text": "Los Angeles",
+     "meaning": "로스앤젤레스(미국 도시)",
+     "level": 0
+    },
+    {
+     "text": "local time",
+     "meaning": "현지 시간",
+     "level": 1
+    },
+    {
+     "text": "K-pop",
+     "meaning": "K팝",
+     "level": 0
+    },
+    {
+     "text": "honor",
+     "meaning": "영예, 상",
+     "level": 1
+    },
+    {
+     "text": "took place",
+     "meaning": "열렸다",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10929664",
+     "title": "CJ's Miky Lee wins Asian Hall of Fame lifetime honor"
+    }
+   ],
+   "life": "한류가 하루아침에 생긴 것이 아니라 오랜 투자와 플랫폼에서 나왔다는 이야기예요. 콘텐츠 · 엔터테인먼트 분야 진로를 생각하는 학생에게 참고가 돼요.",
+   "quiz": [
+    {
+     "q": "Where did the ceremony take place?",
+     "qKo": "시상식은 어디에서 열렸나요?",
+     "choices": [
+      "In Seoul",
+      "In Los Angeles",
+      "In Busan"
+     ],
+     "answer": 1,
+     "why": "1문단: “Asian Hall of Fame ceremony in Los Angeles”"
+    },
+    {
+     "q": "Which film that won Best Picture did Lee help produce?",
+     "qKo": "이 부회장이 제작에 참여한, 작품상을 받은 영화는 무엇인가요?",
+     "choices": [
+      "Parasite",
+      "Past Lives",
+      "Decision to Leave"
+     ],
+     "answer": 0,
+     "why": "3문단: “executive producer of the film Parasite, which won Best Picture”"
+    },
+    {
+     "q": "What did Lee Soo-man call her?",
+     "qKo": "이수만은 그를 뭐라고 불렀나요?",
+     "choices": [
+      "The godfather of K-pop",
+      "The godfather of Korean film",
+      "The godmother of Korean culture"
+     ],
+     "answer": 2,
+     "why": "4문단: “Lee is the godmother of Korean culture”"
+    }
+   ],
+   "job": "한류 산업의 장기 투자 = 「콘텐츠 산업 · 문화 경쟁력」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "Why can culture be a strong business for a country?",
+    "qKo": "문화는 왜 한 나라의 강한 사업이 될 수 있을까요?",
+    "answer": "The article says Miky Lee worked for more than three decades to bring Korean film, music and TV to the world. I think culture can reach many people and build a good image of a country. It also needs patient investment.",
+    "answerKo": "기사는 이미경 부회장이 30년 넘게 한국 영화, 음악, 방송을 세계에 알렸다고 해요. 저는 문화가 많은 사람에게 닿고 나라의 좋은 이미지를 만들 수 있다고 생각해요. 참을성 있는 투자도 필요해요.",
+    "phrases": [
+     {
+      "en": "patient investment",
+      "ko": "참을성 있는 투자"
+     },
+     {
+      "en": "a good image",
+      "ko": "좋은 이미지"
+     }
+    ]
+   }
+  },
+  {
+   "key": "2026-11-08-pm-17",
+   "section": "culture",
+   "tag": "생활에 바로",
+   "title": "Scientists say the secret to a good chat is 'pink noise'",
+   "easyKo": "미국 다트머스대 연구팀은 한 주제를 충분히 이야기하다가 새 생각을 가져오는 균형이 있는 대화일수록 더 즐겁다고 밝혔어요. 이런 균형을 물리학 말로 '핑크 노이즈'라고 불러요.",
+   "paragraphs": [
+    {
+     "en": "Scientists say the most enjoyable conversations have a healthy dose of something called pink noise. The researchers work at Dartmouth College in the United States. In physics, pink noise sits on the edge of chaos, where you stay at a stable point but are not stuck there forever. In a chat, that means staying on a topic long enough to understand it, then moving on before it gets stale.",
+     "ko": "과학자들은 가장 즐거운 대화에는 핑크 노이즈라는 것이 알맞게 들어 있다고 말해요. 연구자들은 미국 다트머스대에서 일해요. 물리학에서 핑크 노이즈는 혼란의 가장자리에 있어요. 안정된 지점에 머물지만 영원히 갇히지는 않는 상태예요. 대화에서는 주제를 이해할 만큼 머물다가 지루해지기 전에 넘어가는 것을 뜻해요.",
+     "sents": [
+      {
+       "en": "Scientists say the most enjoyable conversations have a healthy dose of something called pink noise.",
+       "ko": "과학자들은 가장 즐거운 대화에는 핑크 노이즈라는 것이 알맞게 들어 있다고 말해요."
+      },
+      {
+       "en": "The researchers work at Dartmouth College in the United States.",
+       "ko": "연구자들은 미국 다트머스대에서 일해요."
+      },
+      {
+       "en": "In physics, pink noise sits on the edge of chaos, where you stay at a stable point but are not stuck there forever.",
+       "ko": "물리학에서 핑크 노이즈는 혼란의 가장자리에 있어요. 안정된 지점에 머물지만 영원히 갇히지는 않는 상태예요."
+      },
+      {
+       "en": "In a chat, that means staying on a topic long enough to understand it, then moving on before it gets stale.",
+       "ko": "대화에서는 주제를 이해할 만큼 머물다가 지루해지기 전에 넘어가는 것을 뜻해요."
+      }
+     ]
+    },
+    {
+     "en": "The team studied more than 1,000 conversations between strangers. People enjoyed the chats more, and felt closer, when they had more pink noise. The same was true for conversations between friends. In speed-dating chats, more pink noise predicted which pairs met for a second date.",
+     "ko": "연구팀은 낯선 사람들 사이의 대화 1,000개 넘게를 분석했어요. 핑크 노이즈가 많을수록 사람들은 대화를 더 즐겼고 더 가깝게 느꼈어요. 친구 사이의 대화도 마찬가지였어요. 스피드 데이팅 대화에서는 핑크 노이즈가 많을수록 어떤 짝이 두 번째 만남을 가질지 예측할 수 있었어요.",
+     "sents": [
+      {
+       "en": "The team studied more than 1,000 conversations between strangers.",
+       "ko": "연구팀은 낯선 사람들 사이의 대화 1,000개 넘게를 분석했어요."
+      },
+      {
+       "en": "People enjoyed the chats more, and felt closer, when they had more pink noise.",
+       "ko": "핑크 노이즈가 많을수록 사람들은 대화를 더 즐겼고 더 가깝게 느꼈어요."
+      },
+      {
+       "en": "The same was true for conversations between friends.",
+       "ko": "친구 사이의 대화도 마찬가지였어요."
+      },
+      {
+       "en": "In speed-dating chats, more pink noise predicted which pairs met for a second date.",
+       "ko": "스피드 데이팅 대화에서는 핑크 노이즈가 많을수록 어떤 짝이 두 번째 만남을 가질지 예측할 수 있었어요."
+      }
+     ]
+    },
+    {
+     "en": "To measure it, the scientists used an AI program called MPNet. It scored every turn of a chat on 768 different measures, such as meaning, tone and context. White noise happens when people do not follow what was just said. Red noise happens when people copy each other and get stuck in a rut.",
+     "ko": "측정하려고 과학자들은 MPNet이라는 인공지능 프로그램을 썼어요. 이 프로그램은 대화의 모든 차례를 뜻, 어조, 맥락 같은 768가지 기준으로 점수 매겼어요. 화이트 노이즈는 사람들이 방금 한 말을 따라가지 못할 때 생겨요. 레드 노이즈는 서로 말을 따라 하며 틀에 갇힐 때 생겨요.",
+     "sents": [
+      {
+       "en": "To measure it, the scientists used an AI program called MPNet.",
+       "ko": "측정하려고 과학자들은 MPNet이라는 인공지능 프로그램을 썼어요."
+      },
+      {
+       "en": "It scored every turn of a chat on 768 different measures, such as meaning, tone and context.",
+       "ko": "이 프로그램은 대화의 모든 차례를 뜻, 어조, 맥락 같은 768가지 기준으로 점수 매겼어요."
+      },
+      {
+       "en": "White noise happens when people do not follow what was just said.",
+       "ko": "화이트 노이즈는 사람들이 방금 한 말을 따라가지 못할 때 생겨요."
+      },
+      {
+       "en": "Red noise happens when people copy each other and get stuck in a rut.",
+       "ko": "레드 노이즈는 서로 말을 따라 하며 틀에 갇힐 때 생겨요."
+      }
+     ]
+    },
+    {
+     "en": "The first author, Kathryn O'Nell, said she thinks this skill can be learned. In two-host podcasts, the pink noise rose over the first 50 episodes. Another expert, Prof Elizabeth Stokoe, warned that calling a chat enjoyable can miss the point, since some important talks are painful.",
+     "ko": "첫 저자인 캐스린 오넬은 이 기술을 배울 수 있다고 생각한다고 말했어요. 진행자가 둘인 팟캐스트에서는 처음 50편 동안 핑크 노이즈가 늘었어요. 다른 전문가인 엘리자베스 스토코 교수는 어떤 중요한 대화는 힘들기도 해서, 즐거움만으로 평가하면 핵심을 놓칠 수 있다고 경고했어요.",
+     "sents": [
+      {
+       "en": "The first author, Kathryn O'Nell, said she thinks this skill can be learned.",
+       "ko": "첫 저자인 캐스린 오넬은 이 기술을 배울 수 있다고 생각한다고 말했어요."
+      },
+      {
+       "en": "In two-host podcasts, the pink noise rose over the first 50 episodes.",
+       "ko": "진행자가 둘인 팟캐스트에서는 처음 50편 동안 핑크 노이즈가 늘었어요."
+      },
+      {
+       "en": "Another expert, Prof Elizabeth Stokoe, warned that calling a chat enjoyable can miss the point, since some important talks are painful.",
+       "ko": "다른 전문가인 엘리자베스 스토코 교수는 어떤 중요한 대화는 힘들기도 해서, 즐거움만으로 평가하면 핵심을 놓칠 수 있다고 경고했어요."
+      }
+     ]
+    }
+   ],
+   "keySentence": "In a chat, that means staying on a topic long enough to understand it, then moving on before it gets stale.",
+   "glosses": [
+    {
+     "text": "pink noise",
+     "meaning": "핑크 노이즈(안정과 변화가 균형을 이룬 신호 패턴)",
+     "level": 3
+    },
+    {
+     "text": "enjoyable",
+     "meaning": "즐거운",
+     "level": 1
+    },
+    {
+     "text": "healthy dose",
+     "meaning": "알맞은 양",
+     "level": 2
+    },
+    {
+     "text": "Dartmouth College",
+     "meaning": "다트머스대학(미국 대학)",
+     "level": 3
+    },
+    {
+     "text": "physics",
+     "meaning": "물리학",
+     "level": 2
+    },
+    {
+     "text": "on the edge of chaos",
+     "meaning": "혼란의 가장자리에 있는",
+     "level": 3
+    },
+    {
+     "text": "stable",
+     "meaning": "안정된",
+     "level": 2
+    },
+    {
+     "text": "stuck",
+     "meaning": "갇힌, 꼼짝 못 하는",
+     "level": 2
+    },
+    {
+     "text": "topic",
+     "meaning": "주제",
+     "level": 1
+    },
+    {
+     "text": "stale",
+     "meaning": "지루하고 새로움이 없는",
+     "level": 3
+    },
+    {
+     "text": "strangers",
+     "meaning": "낯선 사람들",
+     "level": 1
+    },
+    {
+     "text": "speed-dating",
+     "meaning": "짧게 여러 사람을 만나는 소개팅 방식",
+     "level": 3
+    },
+    {
+     "text": "predicted",
+     "meaning": "예측했다",
+     "level": 2
+    },
+    {
+     "text": "MPNet",
+     "meaning": "MPNet(문장 뜻을 숫자로 바꾸는 인공지능 프로그램)",
+     "level": 3
+    },
+    {
+     "text": "scored",
+     "meaning": "점수를 매겼다",
+     "level": 2
+    },
+    {
+     "text": "turn",
+     "meaning": "(대화의) 차례",
+     "level": 2
+    },
+    {
+     "text": "measures",
+     "meaning": "(측정) 기준",
+     "level": 2
+    },
+    {
+     "text": "measure",
+     "meaning": "측정하다",
+     "level": 2
+    },
+    {
+     "text": "talks",
+     "meaning": "(중요한) 대화",
+     "level": 2
+    },
+    {
+     "text": "context",
+     "meaning": "맥락",
+     "level": 2
+    },
+    {
+     "text": "white noise",
+     "meaning": "화이트 노이즈(무작위 소음)",
+     "level": 3
+    },
+    {
+     "text": "red noise",
+     "meaning": "레드 노이즈(같은 말 반복으로 생기는 패턴)",
+     "level": 3
+    },
+    {
+     "text": "rut",
+     "meaning": "틀에 박힌 상태",
+     "level": 3
+    },
+    {
+     "text": "first author",
+     "meaning": "논문의 제1저자",
+     "level": 3
+    },
+    {
+     "text": "podcasts",
+     "meaning": "팟캐스트(오디오 방송)",
+     "level": 1
+    },
+    {
+     "text": "episodes",
+     "meaning": "(방송의) 회차",
+     "level": 1
+    },
+    {
+     "text": "Prof",
+     "meaning": "교수(Professor)",
+     "level": 1
+    },
+    {
+     "text": "miss the point",
+     "meaning": "핵심을 놓치다",
+     "level": 3
+    },
+    {
+     "text": "painful",
+     "meaning": "아픈, 힘든",
+     "level": 1
+    },
+    {
+     "text": "moving on",
+     "meaning": "넘어가다",
+     "level": 2
+    },
+    {
+     "text": "stay",
+     "meaning": "머무르다",
+     "level": 1
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
+    },
+    {
+     "text": "second date",
+     "meaning": "두 번째 데이트",
+     "level": 1
+    },
+    {
+     "text": "AI program",
+     "meaning": "인공지능 프로그램",
+     "level": 1
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
+     "title": "Want to have a better chat? Scientists say the secret is ‘pink noise’"
+    }
+   ],
+   "num": {
+    "value": "1,000개 넘게",
+    "caption": "연구팀이 분석한 낯선 사람들의 대화 수",
+    "source": "The Guardian"
+   },
+   "life": "면접이나 첫 만남에서 한 주제에 머무는 시간과 새 이야기를 꺼내는 타이밍을 생각하게 해 줘요. 대화를 잘하는 요령을 연구로 설명한 소식이에요.",
+   "quiz": [
+    {
+     "q": "Where do the researchers work?",
+     "qKo": "연구자들은 어디에서 일하나요?",
+     "choices": [
+      "At Harvard University",
+      "At Oxford University",
+      "At Dartmouth College"
+     ],
+     "answer": 2,
+     "why": "1문단: “The researchers work at Dartmouth College in the United States.”"
+    },
+    {
+     "q": "How many conversations between strangers did the team study?",
+     "qKo": "연구팀은 낯선 사람들 사이의 대화를 몇 개 분석했나요?",
+     "choices": [
+      "768",
+      "More than 1,000",
+      "50"
+     ],
+     "answer": 1,
+     "why": "2문단: “more than 1,000 conversations between strangers”"
+    },
+    {
+     "q": "What did more pink noise predict in speed-dating chats?",
+     "qKo": "스피드 데이팅 대화에서 핑크 노이즈가 많으면 무엇을 예측했나요?",
+     "choices": [
+      "Which pairs met for a second date",
+      "Which pairs left early",
+      "Which pairs talked the longest"
+     ],
+     "answer": 0,
+     "why": "2문단: “more pink noise predicted which pairs met for a second date”"
+    }
+   ],
+   "job": "대화 능력 · 소통 = 「의사소통 · 면접 태도」 질문에 쓸 수 있어요.",
+   "talk": {
+    "q": "How do you keep a conversation interesting?",
+    "qKo": "대화를 어떻게 흥미롭게 이어 가나요?",
+    "answer": "The study says good chats stay on a topic long enough to understand it, then bring in fresh ideas. I try to ask follow-up questions first. After that, I share a new story so the talk does not get stale.",
+    "answerKo": "연구는 좋은 대화가 주제를 이해할 만큼 머문 뒤 새 생각을 가져온다고 해요. 저는 먼저 이어 가는 질문을 하려고 해요. 그다음 새 이야기를 나눠서 대화가 지루해지지 않게 해요.",
+    "phrases": [
+     {
+      "en": "follow-up questions",
+      "ko": "이어 가는 질문"
+     },
+     {
+      "en": "does not get stale",
+      "ko": "지루해지지 않다"
+     }
+    ]
+   }
+  }
+ ]
+}
