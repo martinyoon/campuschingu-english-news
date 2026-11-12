@@ -1,69 +1,85 @@
 {
- "edition": "2026-11-12-pm",
- "publishedAt": "2026-11-12T21:19:31+09:00",
+ "edition": "2026-11-13-am",
+ "publishedAt": "2026-11-13T04:32:56+09:00",
  "bites": [
   {
-   "key": "2026-11-12-pm-b3",
-   "field": "startup",
-   "title": "OpenAI buys a travel startup",
-   "en": "OpenAI has bought Odessia, a travel startup. It was created by Francis Davidson, the founder of Sonder. OpenAI has not said what it plans to do in travel.",
-   "ko": "OpenAI가 소너 창업자가 만든 여행 스타트업 오데시아를 인수했어요.",
+   "key": "2026-11-13-am-b1",
+   "field": "job-hunt",
+   "title": "Australia warns that entry-level jobs may go first to AI",
+   "en": "Australia has launched a best practice guide on AI at work, after job cuts at Qantas and Canva. It says entry-level jobs will be the first to be automated. AI could bring shorter hours and higher pay, or more burnout and surveillance.",
+   "ko": "호주가 AI 활용 지침을 내놓으며 신입 일자리가 가장 먼저 자동화될 수 있다고 말했어요.",
    "gloss": {
-    "text": "bought",
-    "meaning": "사들였다(인수했다)",
-    "level": 2
-   },
-   "source": {
-    "name": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b4",
-   "field": "invest",
-   "title": "CoreWeave asks customers to pay early",
-   "en": "CoreWeave now asks more customers to pay up front. It also borrows against specific contracts and looks at short-term deals. The company said this in its third-quarter earnings.",
-   "ko": "코어위브가 AI 사업 자금을 위해 고객 선결제와 짧은 계약을 늘리고 있어요.",
-   "gloss": {
-    "text": "up front",
-    "meaning": "선불로, 미리",
-    "level": 2
-   },
-   "source": {
-    "name": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b1",
-   "field": "housing",
-   "title": "Millions strike in Spain over housing costs",
-   "en": "Millions of people in Spain joined a 24-hour general strike. It was the first one in 14 years. They were protesting against rising housing costs.",
-   "ko": "스페인에서 수백만 명이 집값 상승에 항의해 14년 만의 총파업에 나섰어요.",
-   "gloss": {
-    "text": "general strike",
-    "meaning": "총파업",
+    "text": "automated",
+    "meaning": "자동화된",
     "level": 2
    },
    "source": {
     "name": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+    "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai"
    }
   },
   {
-   "key": "2026-11-12-pm-b2",
-   "field": "housing",
-   "title": "Empty offices become new flats",
-   "en": "Many office buildings have low occupancy rates. Some of them are now being changed into flats for people to live in.",
-   "ko": "빈 사무실 건물이 사람이 사는 아파트로 바뀌고 있어요.",
+   "key": "2026-11-13-am-b2",
+   "field": "startup",
+   "title": "Nine Korean startups want a place at Disrupt 2027",
+   "en": "Nine Korean startups are competing for a spot in the Startup Battlefield 200 at Disrupt 2027. They work in deep tech, including health care, fintech, energy, chips, and AI. All nine want to enter the U.S. market.",
+   "ko": "한국 스타트업 아홉 곳이 디스럽트 2027 스타트업 배틀필드 200 진출을 노려요.",
    "gloss": {
-    "text": "occupancy rate",
-    "meaning": "점유율(입주율)",
+    "text": "deep tech",
+    "meaning": "첨단 기술 분야",
     "level": 3
    },
    "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss"
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b3",
+   "field": "invest",
+   "title": "Norwest raises its biggest fund yet",
+   "en": "The investment firm Norwest has raised a new $4 billion fund. It is the largest fund the firm has ever had. Norwest says it will go deeper into AI.",
+   "ko": "투자사 노웨스트가 40억 달러 규모의 역대 최대 펀드를 만들고 AI 투자를 늘려요.",
+   "gloss": {
+    "text": "fund",
+    "meaning": "(투자) 펀드",
+    "level": 2
+   },
+   "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b4",
+   "field": "invest",
+   "title": "Economist warns that an AI bubble could hurt Korea",
+   "en": "Economist Kenneth Rogoff says an AI bubble will burst at some point. He warned that it would be very painful, and that Korea could be hit especially hard. He urged policymakers to prepare for more economic ups and downs.",
+   "ko": "로고프 교수는 AI 거품이 꺼지면 한국이 특히 크게 흔들릴 수 있다고 경고했어요.",
+   "gloss": {
+    "text": "bubble",
+    "meaning": "거품",
+    "level": 2
+   },
+   "source": {
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10935331"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b5",
+   "field": "housing",
+   "title": "Flood protection can raise costs for poorer residents",
+   "en": "A University of Copenhagen study says climate adaptation can make inequality worse. In Copenhagen, the costs of stormwater protection fall more heavily on poorer residents. The study looked at how the costs are shared.",
+   "ko": "코펜하겐 연구에 따르면 기후 적응 비용이 가난한 주민에게 더 크게 돌아가요.",
+   "gloss": {
+    "text": "adaptation",
+    "meaning": "(기후) 적응",
+    "level": 3
+   },
+   "source": {
+    "name": "Phys.org",
+    "url": "https://phys.org/news/2026-11-high-rents-poorest-residents-pay.html"
    }
   },
   {
@@ -83,67 +99,83 @@
    }
   },
   {
-   "key": "2026-11-12-pm-b6",
+   "key": "2026-11-13-am-b6",
+   "field": "accounting",
+   "title": "Earnings calls still teach investors something new",
+   "en": "A Finnish doctoral study looked at the question-and-answer parts of company earnings calls. The language used there can be hard for ordinary investors to follow. Even so, these sessions give useful information that written reports do not.",
+   "ko": "실적 발표 질의응답은 개인 투자자에겐 어렵지만 보고서에 없는 정보를 준다는 연구예요.",
+   "gloss": {
+    "text": "earnings calls",
+    "meaning": "실적 발표 컨퍼런스콜",
+    "level": 3
+   },
+   "source": {
+    "name": "Phys.org",
+    "url": "https://phys.org/news/2026-11-transparency-equal-access.html"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b7",
    "field": "trade",
-   "title": "Korean firms invest in rare-earth magnets",
-   "en": "The US will make stricter rules on Chinese materials in defense equipment next year. Because of this, South Korean firms are investing more in rare-earth magnets.",
-   "ko": "미국의 방위 장비 규제에 맞춰 한국 기업들이 희토류 자석 투자를 늘리고 있어요.",
+   "title": "UK carmakers ask the EU to delay electric car tariffs",
+   "en": "The UK car industry wants a two-year delay to new tariffs on electric cars traded with the EU. The EU first suggested a shorter delay. Rules of origin for vehicle batteries are due to start on 1 January without a deal.",
+   "ko": "영국 자동차 업계가 EU와의 전기차 관세를 2년 늦춰 달라고 요구해요.",
    "gloss": {
-    "text": "rare-earth magnets",
-    "meaning": "희토류 자석",
+    "text": "tariffs",
+    "meaning": "관세",
     "level": 2
    },
    "source": {
-    "name": "Korea Herald",
-    "url": "https://www.koreaherald.com/article/10935318"
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu"
    }
   },
   {
-   "key": "2026-11-12-pm-b7",
-   "field": "ai",
-   "title": "New York starts enforcing its AI safety law",
-   "en": "New York is ready to enforce a big AI safety law. Large developers such as OpenAI and Anthropic must register and share their safety practices. They must also report serious incidents or pay fines.",
-   "ko": "뉴욕 AI 안전법이 시행돼 OpenAI와 앤트로픽은 안전 관리와 사고를 보고해야 해요.",
+   "key": "2026-11-13-am-b8",
+   "field": "office",
+   "title": "US city workers push back against AI at work",
+   "en": "Public workers in the US are fighting to protect their jobs from AI. In Oakland, California, city workers worry that AI could increase surveillance and judge their work unfairly. Some workers are winning safeguards.",
+   "ko": "미국 공공 노동자들이 AI로부터 일자리를 지키려 싸우고 있고, 일부는 보호 장치를 얻어 내고 있어요.",
    "gloss": {
-    "text": "enforce",
-    "meaning": "시행하다, 집행하다",
+    "text": "safeguards",
+    "meaning": "보호 장치",
+    "level": 2
+   },
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b9",
+   "field": "ai",
+   "title": "AI chatbots point shoppers to fake websites",
+   "en": "A new study found that AI chatbots can send shoppers to imposters and other risky websites. The test used ChatGPT, Gemini, and Perplexity with shopping questions. The study was done by the IP protection firm Podqi.",
+   "ko": "챗GPT·제미나이·퍼플렉시티가 쇼핑 질문에 가짜 사이트를 추천할 수 있다는 연구가 나왔어요.",
+   "gloss": {
+    "text": "imposters",
+    "meaning": "사칭 사이트(사기꾼)",
     "level": 3
    },
    "source": {
-    "name": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+    "name": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
    }
   },
   {
-   "key": "2026-11-12-pm-b8",
-   "field": "ai",
-   "title": "OpenAI quarterly sales pass $10 billion",
-   "en": "OpenAI's sales reportedly passed $10 billion in one quarter for the first time. That is almost 50% more than the $6.7 billion it made in the second quarter.",
-   "ko": "OpenAI의 분기 매출이 처음으로 100억 달러를 넘었다고 해요.",
-   "gloss": {
-    "text": "sales",
-    "meaning": "매출",
-    "level": 2
-   },
-   "source": {
-    "name": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b9",
+   "key": "2026-11-13-am-b10",
    "field": "chips",
-   "title": "British chip startup Fractile raises $720M",
-   "en": "Fractile, a British company, has raised $720 million. It is now one of the best-funded makers of chips built for AI.",
-   "ko": "영국의 Fractile이 7억 2천만 달러를 모아 AI 전용 반도체 경쟁에 뛰어들었어요.",
+   "title": "Cheap phones may use recycled memory chips",
+   "en": "Memory chip prices are soaring. Some budget phone makers are now using secondhand chips taken from old phones or scrapped circuit boards. TrendForce says recycled memory could be used in 7 to 9 percent of smartphones shipped in 2027.",
+   "ko": "메모리 값이 치솟자 일부 저가 폰이 중고 칩을 재활용해요. 전체 폰의 7~9퍼센트까지 쓰일 수 있어요.",
    "gloss": {
-    "text": "best-funded",
-    "meaning": "자금을 가장 많이 받은",
-    "level": 3
+    "text": "secondhand",
+    "meaning": "중고의",
+    "level": 1
    },
    "source": {
-    "name": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10935338"
    }
   },
   {
@@ -163,51 +195,67 @@
    }
   },
   {
-   "key": "2026-11-12-pm-b12",
+   "key": "2026-11-13-am-b11",
    "field": "gamedev",
-   "title": "How GTA VI's world was built",
-   "en": "Rockstar North developers say years of research went into the new game's world. In 2015, they took their first trips to Miami to study the place.",
-   "ko": "GTA 6의 가상 플로리다는 개발자들이 2015년부터 현지를 답사하며 만들었어요.",
+   "title": "More game developers now use generative AI",
+   "en": "A yearly survey by the GDC Festival of Gaming found more developers using generative AI at work. Forty percent say they use it as part of their job. That is up from 36 percent in 2025.",
+   "ko": "GDC 설문에서 게임 개발자의 40퍼센트가 업무에 생성형 AI를 쓴다고 답했어요. 작년엔 36퍼센트였어요.",
    "gloss": {
-    "text": "research",
-    "meaning": "조사, 연구",
+    "text": "generative AI",
+    "meaning": "생성형 AI",
     "level": 1
    },
    "source": {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet"
+    "name": "The Verge",
+    "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs"
    }
   },
   {
-   "key": "2026-11-12-pm-b13",
+   "key": "2026-11-13-am-b12",
    "field": "security",
-   "title": "Police watchdog warns about facial recognition errors",
-   "en": "Inspectors found that some officers acted on possible matches without enough checks. This could lead to wrongful arrests, especially of ethnic minorities.",
-   "ko": "경찰이 얼굴 인식 결과를 충분히 확인하지 않아 소수 인종이 억울하게 체포될 수 있다는 경고가 나왔어요.",
+   "title": "Hackers reached Notion chats through Fireworks AI",
+   "en": "A cyberattack on Fireworks AI let hackers see chat transcripts from Notion customers. This is the second data breach at Fireworks in two months.",
+   "ko": "해커가 파이어웍스 AI를 공격해 노션 고객의 채팅 기록에 접근했어요. 두 달 새 두 번째 유출이에요.",
    "gloss": {
-    "text": "wrongful arrest",
-    "meaning": "부당한 체포",
-    "level": 3
+    "text": "breach",
+    "meaning": "(정보) 유출",
+    "level": 2
    },
    "source": {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns"
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
    }
   },
   {
-   "key": "2026-11-12-pm-b11",
+   "key": "2026-11-13-am-b13",
    "field": "gadgets",
-   "title": "Home Assistant launches a smart home multi-tool",
-   "en": "Nabu Casa has launched a new box called Connect Aux-2. It helps people bring devices that are not smart into their smart home.",
-   "ko": "홈어시스턴트가 일반 가전을 스마트홈에 연결해 주는 새 기기를 내놨어요.",
+   "title": "Google Wallet can now unlock smart locks",
+   "en": "Google Wallet now supports digital home keys. Android users can open smart locks by tapping their phone on the lock or just walking up to it. It is in public preview now and will reach everyone in the coming weeks.",
+   "ko": "구글 월렛이 디지털 집 열쇠를 지원해서 폰을 대기만 해도 스마트 도어락을 열 수 있어요.",
    "gloss": {
-    "text": "smart home",
-    "meaning": "스마트홈",
+    "text": "public preview",
+    "meaning": "공개 시범 서비스",
     "level": 2
    },
    "source": {
     "name": "The Verge",
-    "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on"
+    "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b14",
+   "field": "gadgets",
+   "title": "Whoop launches a social network for health data",
+   "en": "Whoop has launched a social network. Members can share their sleep, recovery, and workout data. The CEO hinted that the company may make acquisitions to become a personal health brand.",
+   "ko": "웨어러블 회사 웁이 수면·운동 기록을 나누는 소셜 네트워크를 열었어요.",
+   "gloss": {
+    "text": "recovery",
+    "meaning": "(몸의) 회복",
+    "level": 1
+   },
+   "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/"
    }
   },
   {
@@ -227,147 +275,211 @@
    }
   },
   {
-   "key": "2026-11-12-pm-b15",
+   "key": "2026-11-13-am-b15",
    "field": "bigtech",
-   "title": "Google tests an AI tool called Tabletop",
-   "en": "Google has made an experimental AI tool named Tabletop. It builds custom spaces where family and friends can work together.",
-   "ko": "구글이 가족·친구와 협업하는 맞춤 공간을 만드는 실험용 AI 도구 Tabletop을 선보였어요.",
+   "title": "Microsoft Outlook goes down for many users",
+   "en": "Outlook email had an outage for users in several regions. People could not open their mail on the web or in apps. Microsoft said part of its infrastructure was under heavy load across multiple regions.",
+   "ko": "마이크로소프트 아웃룩이 여러 지역에서 먹통이 됐어요. 회사는 일부 시스템에 부하가 걸렸다고 밝혔어요.",
    "gloss": {
-    "text": "experimental",
-    "meaning": "실험적인",
-    "level": 2
+    "text": "outage",
+    "meaning": "(서비스) 중단",
+    "level": 1
    },
    "source": {
     "name": "The Verge",
-    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
    }
   },
   {
-   "key": "2026-11-12-pm-b16",
+   "key": "2026-11-13-am-b16",
    "field": "cars",
-   "title": "Toyota brings back the Scion name",
-   "en": "Toyota is reviving the Scion name for a new project. Its first vehicle is a small kei truck made in America. The brand will test new ideas for mobility.",
-   "ko": "도요타가 사이언 브랜드를 되살려 미국산 소형 경트럭을 첫 모델로 내놓아요.",
+   "title": "Nissan cuts petrol car output as China goes electric",
+   "en": "Nissan will make fewer petrol cars. It says the shift to new energy vehicles in China is happening faster than expected. The company slashed its sales forecasts for China amid a brutal price war.",
+   "ko": "닛산이 중국 전기차 전환이 예상보다 빨라 휘발유차 생산을 줄이고 중국 판매 전망도 낮췄어요.",
    "gloss": {
-    "text": "reviving",
-    "meaning": "되살리는",
-    "level": 3
+    "text": "price war",
+    "meaning": "가격 전쟁",
+    "level": 2
    },
    "source": {
-    "name": "The Verge",
-    "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival"
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china"
    }
   },
   {
-   "key": "2026-11-12-pm-b17",
+   "key": "2026-11-13-am-b17",
+   "field": "battery",
+   "title": "A new way to make dense ceramic films at lower heat",
+   "en": "Ceramic films are used in solid-state batteries and other devices. Making them usually needs very high heat, which can cause problems. A new liquid-phase growth method makes dense, even films at a lower temperature.",
+   "ko": "고체 배터리 등에 쓰는 세라믹 막을 낮은 온도에서도 촘촘하게 만드는 새 방법이 나왔어요.",
+   "gloss": {
+    "text": "solid-state batteries",
+    "meaning": "전고체 배터리",
+    "level": 3
+   },
+   "source": {
+    "name": "Phys.org",
+    "url": "https://phys.org/news/2026-11-liquid-phase-growth-strategy-densifies.html"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b18",
+   "field": "architecture",
+   "title": "Sweden builds a wooden data centre",
+   "en": "A data centre in Falun, Sweden, is built of wood and looks like a very large Ikea. It runs on fully renewable power. It was designed with the local community in mind.",
+   "ko": "스웨덴 팔룬의 데이터센터는 나무로 지었고 재생에너지만 써요. 지역 주민을 생각해 설계했어요.",
+   "gloss": {
+    "text": "renewable",
+    "meaning": "재생 가능한",
+    "level": 1
+   },
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b19",
    "field": "materials",
-   "title": "MIT designs tougher nature-inspired metamaterials",
-   "en": "MIT engineers used networks found in nature to design stronger materials. These could absorb impact better in helmets, packaging and armor.",
-   "ko": "MIT 연구진이 자연의 그물 구조에서 배워 충격을 더 잘 흡수하는 메타물질을 설계했어요.",
+   "title": "Lemon waste can become flexible bioplastic",
+   "en": "Researchers used leftovers from the lemon industry to make a bioplastic called PHBV. The new material is more flexible than a commercial version. The study was published in the journal Polymers.",
+   "ko": "레몬 가공 부산물로 만든 바이오플라스틱이 시판 제품보다 더 유연하다는 연구예요.",
    "gloss": {
-    "text": "absorb impact",
-    "meaning": "충격을 흡수하다",
-    "level": 3
+    "text": "bioplastic",
+    "meaning": "바이오플라스틱",
+    "level": 2
    },
    "source": {
-    "name": "MIT News",
-    "url": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111"
+    "name": "Phys.org",
+    "url": "https://phys.org/news/2026-11-lemon-yields-bioplastic-flexible-commercial.html"
    }
   },
   {
-   "key": "2026-11-12-pm-b18",
+   "key": "2026-11-13-am-b20",
    "field": "energy",
-   "title": "AI data centres plan huge gas power stations",
-   "en": "A report says AI data centre developers plan 181GW of gas power capacity in the US and Europe. They want their own power because connecting to the grid is slow.",
-   "ko": "AI 데이터센터가 전력망 연결이 늦어 미국·유럽에 181GW 규모 가스발전소를 자체로 지으려 해요.",
+   "title": "SoftBank loses over $3 billion on gas turbines",
+   "en": "SoftBank lost more than $3 billion after it preordered natural gas turbines to power AI data centers. TechCrunch says the loss may limit AI's appetite for natural gas.",
+   "ko": "소프트뱅크가 AI 데이터센터용 가스터빈을 선주문했다가 30억 달러 넘게 잃었어요.",
    "gloss": {
-    "text": "grid",
-    "meaning": "전력망",
+    "text": "turbines",
+    "meaning": "터빈",
     "level": 2
    },
    "source": {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations"
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
    }
   },
   {
-   "key": "2026-11-12-pm-b19",
-   "field": "space",
-   "title": "Euclid maps more than 900 million galaxies",
-   "en": "Europe's Euclid mission has released its first major data. It shows over 900 million galaxies. Scientists hope it will help explain the dark universe.",
-   "ko": "유럽 유클리드 탐사선이 9억 개가 넘는 은하를 담은 첫 대규모 자료를 공개했어요.",
+   "key": "2026-11-13-am-b21",
+   "field": "manufacturing",
+   "title": "Korean shipbuilders eye US Navy warship work",
+   "en": "Korean shipyards may get a chance to build warships for the US Navy. The plan would let allied yards build the first one or two ships at home. A political shake-up in Washington could complicate the plan.",
+   "ko": "한국 조선소가 미 해군 군함 건조에 참여할 기회를 노리지만 미국 정치 변화가 변수예요.",
    "gloss": {
-    "text": "dark universe",
-    "meaning": "암흑 우주",
-    "level": 3
+    "text": "warships",
+    "meaning": "군함",
+    "level": 1
    },
    "source": {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe"
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10935237"
    }
   },
   {
-   "key": "2026-11-12-pm-b20",
+   "key": "2026-11-13-am-b22",
    "field": "space",
-   "title": "Parker Solar Probe finds a pattern in the Sun's chaos",
-   "en": "NASA's Parker Solar Probe found something new. At very small scales, turbulent magnetic fields reverse the direction they rotate.",
-   "ko": "파커 탐사선이 아주 작은 규모에서 난류 자기장의 회전 방향이 뒤바뀐다는 걸 발견했어요.",
+   "title": "Lumina simulates the universe leaving its dark age",
+   "en": "A new supercomputer simulation called Lumina shows how the universe left its cosmic dark age. It recreates 2 billion years of early history across a region 1.6 billion light-years wide.",
+   "ko": "새 시뮬레이션 루미나가 우주가 암흑기를 벗어나 별과 은하로 채워지는 과정을 보여 줘요.",
    "gloss": {
-    "text": "turbulent",
-    "meaning": "난류의, 불규칙하게 요동치는",
-    "level": 3
+    "text": "dark age",
+    "meaning": "(우주의) 암흑기",
+    "level": 2
    },
    "source": {
     "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm"
+    "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm"
    }
   },
   {
-   "key": "2026-11-12-pm-b21",
+   "key": "2026-11-13-am-b23",
    "field": "physics",
-   "title": "Superconducting vortices show clogging is a phase transition",
-   "en": "Clogging is when moving particles get stuck and block a flow. Researchers at Science Tokyo used superconducting vortices to show it is a true phase transition.",
-   "ko": "도쿄과학대 연구진이 초전도 소용돌이로 '막힘' 현상이 상전이임을 실험으로 보였어요.",
+   "title": "A quantum computer stores memory in tiny vibrations",
+   "en": "Researchers built a quantum computer that stores information in tiny vibrations. These vibrations are like a guitar string. The design could make quantum machines smaller and better at keeping information.",
+   "ko": "작은 진동에 정보를 저장하는 양자컴퓨터가 나왔고, 더 작고 정보를 잘 지키는 기계로 이어질 수 있어요.",
    "gloss": {
-    "text": "phase transition",
-    "meaning": "상전이",
-    "level": 4
-   },
-   "source": {
-    "name": "Phys.org",
-    "url": "https://phys.org/news/2026-11-superconducting-vortices-experimental-evidence-clogging.html"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b22",
-   "field": "chemistry",
-   "title": "Earth's water may have formed in its fiery birth",
-   "en": "Scientists found that hot rocky pebbles reacting with hydrogen can make water in minutes. Earth's water may have formed this way, not come from comets.",
-   "ko": "뜨거운 돌 알갱이와 수소가 반응해 몇 분 만에 물이 생길 수 있어 지구의 물이 이렇게 생겼을지 몰라요.",
-   "gloss": {
-    "text": "hydrogen",
-    "meaning": "수소",
-    "level": 2
+    "text": "vibrations",
+    "meaning": "진동",
+    "level": 1
    },
    "source": {
     "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+    "url": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm"
    }
   },
   {
-   "key": "2026-11-12-pm-b23",
-   "field": "biology",
-   "title": "A fungus that infects another fungus",
-   "en": "A study found that Ampelomyces, a fungus living inside cells, infects powdery mildew. It is much more common than scientists knew before.",
-   "ko": "흰가루병균을 감염시키는 곰팡이 암펠로미세스가 생각보다 훨씬 흔하다는 연구가 나왔어요.",
+   "key": "2026-11-13-am-b24",
+   "field": "chemistry",
+   "title": "Scientists explain how graphite turns into diamond",
+   "en": "Under high pressure, graphite first turns into lonsdaleite, a hexagonal form of diamond. It does not become the familiar cubic diamond first. Researchers in Russia worked out why this happens.",
+   "ko": "흑연이 높은 압력에서 보통 다이아몬드가 아닌 육각형 론스달라이트로 먼저 변하는 이유를 밝혔어요.",
    "gloss": {
-    "text": "infects",
-    "meaning": "감염시킨다",
+    "text": "hexagonal",
+    "meaning": "육각형의",
     "level": 3
    },
    "source": {
     "name": "Phys.org",
-    "url": "https://phys.org/news/2026-11-parasites-fungus-infects-powdery-mildew.html"
+    "url": "https://phys.org/news/2026-11-diamond-paradox-scientists-path-stable.html"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b25",
+   "field": "chemistry",
+   "title": "Toxic forever chemicals fall in England's rivers",
+   "en": "Levels of toxic forever chemicals have dropped a lot in England's rivers. The BBC reports that the fall is put down to strict limits on how the substances can be used.",
+   "ko": "영국 강에서 독성 '영원한 화학물질' 농도가 크게 줄었고, 사용 제한 덕분으로 보여요.",
+   "gloss": {
+    "text": "limits",
+    "meaning": "제한(규제)",
+    "level": 2
+   },
+   "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b26",
+   "field": "biology",
+   "title": "A simple rule may explain how hair grows in patterns",
+   "en": "Scientists found that hair follicle patterns may come from a simple process. Cells follow chemical signals. This challenges an old theory and shows nature can build complex patterns without a detailed blueprint.",
+   "ko": "머리카락 모낭의 무늬가 세포가 화학 신호를 따르는 단순한 과정에서 생길 수 있다고 해요.",
+   "gloss": {
+    "text": "follicle",
+    "meaning": "모낭",
+    "level": 3
+   },
+   "source": {
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b27",
+   "field": "biology",
+   "title": "Kelp can reproduce alone when no mates are near",
+   "en": "A study found that kelp can switch between sexual and asexual reproduction. They choose based on whether mates are nearby. The work was published on Nov. 12 in PLOS Biology.",
+   "ko": "다시마류는 짝이 가까이 있는지에 따라 유성·무성 번식을 바꾼다는 연구가 나왔어요.",
+   "gloss": {
+    "text": "asexual",
+    "meaning": "무성의",
+    "level": 3
+   },
+   "source": {
+    "name": "Phys.org",
+    "url": "https://phys.org/news/2026-11-seaweeds-asexual-reproduction-nearby.html"
    }
   },
   {
@@ -419,275 +531,307 @@
    }
   },
   {
-   "key": "2026-11-12-pm-b27",
+   "key": "2026-11-13-am-b28",
    "field": "ocean",
-   "title": "Tropical seas were not always the most diverse",
-   "en": "Today, tropical waters have more kinds of sea animals than polar waters. A new study finds this was not always true in the past.",
-   "ko": "열대 바다가 늘 가장 다양했던 건 아니라는 연구가 나왔어요.",
+   "title": "Rain may help the ocean absorb more carbon",
+   "en": "Global carbon budgets may underestimate ocean carbon uptake by about 5 to 15 percent. Current estimates do not fully count the effects of rain on the ocean surface.",
+   "ko": "비가 바다 표면에 미치는 영향 때문에 바다의 탄소 흡수량이 5~15퍼센트 과소평가됐을 수 있어요.",
    "gloss": {
-    "text": "polar waters",
-    "meaning": "극지방 바다",
-    "level": 2
+    "text": "carbon budgets",
+    "meaning": "탄소 수지(예산)",
+    "level": 3
    },
    "source": {
     "name": "Phys.org",
-    "url": "https://phys.org/news/2026-11-tropics-werent-diverse-marine-environments.html"
+    "url": "https://phys.org/news/2026-11-ocean-carbon-uptake-thought.html"
    }
   },
   {
-   "key": "2026-11-12-pm-b28",
-   "field": "ocean",
-   "title": "A retired ocean liner will become a huge reef",
-   "en": "The SS United States was once a famous luxury liner. It is now set to become the largest artificial reef in the world.",
-   "ko": "한때 유명했던 여객선 SS 유나이티드 스테이츠가 세계 최대 인공 어초가 돼요.",
-   "gloss": {
-    "text": "artificial reef",
-    "meaning": "인공 어초",
-    "level": 2
-   },
-   "source": {
-    "name": "Phys.org",
-    "url": "https://phys.org/news/2026-11-ocean-liner-largest-artificial-reef.html"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b29",
+   "key": "2026-11-13-am-b29",
    "field": "fossils",
-   "title": "A 66-pound rodent lived 34 million years ago",
-   "en": "Scientists found fossils of a giant rodent in Thailand. It was named Yakamys sirindhornae and may have weighed about 66 pounds.",
-   "ko": "태국에서 3,400만 년 전 약 30kg짜리 거대 설치류 화석이 발견됐어요.",
+   "title": "Early land animals had stiff necks",
+   "en": "The first animals to walk on land, about 380 million years ago, had stiff necks. This overturns an old theory. Necks may have appeared as animals began to move using their front limbs.",
+   "ko": "약 3억 8천만 년 전 첫 육상 동물의 목은 뻣뻣했어요. 목은 앞다리 이동과 함께 생겼을 수 있어요.",
    "gloss": {
-    "text": "fossils",
-    "meaning": "화석",
-    "level": 2
+    "text": "overturns",
+    "meaning": "뒤집는다",
+    "level": 3
    },
    "source": {
     "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
+    "url": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm"
    }
   },
   {
-   "key": "2026-11-12-pm-b30",
+   "key": "2026-11-13-am-b30",
    "field": "fossils",
-   "title": "An armored sea amphibian from 237 million years ago",
-   "en": "Fossils found in China show a giant-salamander-sized amphibian with armor. It may be the first known amphibian that adapted to salt water.",
-   "ko": "중국에서 2억 3,700만 년 전 바다에 적응한 갑옷 입은 양서류 화석이 발견됐어요.",
+   "title": "Proteins in Homo naledi teeth point to a female burial site",
+   "en": "Researchers studied ancient proteins in the teeth of Homo naledi, an extinct human relative. They found no male-specific markers in at least 20 individuals. This may explain an all-female burial site in a South African cave.",
+   "ko": "호모 날레디 치아 단백질에서 남성 표지가 없어 이 동굴이 여성 매장지였을 수 있어요.",
    "gloss": {
-    "text": "adapt",
-    "meaning": "적응하다",
-    "level": 2
+    "text": "markers",
+    "meaning": "표지(지표)",
+    "level": 3
    },
    "source": {
     "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
+    "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
    }
   },
   {
-   "key": "2026-11-12-pm-b31",
+   "key": "2026-11-13-am-b31",
    "field": "animals",
-   "title": "Mosquitoes like different people for different reasons",
-   "en": "A study found each mosquito species is drawn to its own mix of skin odors, chemicals and bacteria. So there may be no single mosquito magnet.",
-   "ko": "모기 종마다 끌리는 피부 냄새·세균 조합이 달라서 '모기 자석'은 하나가 아닐 수 있어요.",
+   "title": "Asian elephants are becoming more isolated",
+   "en": "A new study finds that Asian elephants are increasingly isolated. Their social networks are breaking up. Elephants do best in groups that work together to find food and care for their young.",
+   "ko": "아시아코끼리가 점점 고립되며 사회 관계망이 쪼개지고 있다는 연구예요.",
    "gloss": {
-    "text": "drawn to",
-    "meaning": "~에 끌리는",
-    "level": 2
+    "text": "isolated",
+    "meaning": "고립된",
+    "level": 1
    },
    "source": {
-    "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm"
+    "name": "Phys.org",
+    "url": "https://phys.org/news/2026-11-elephants-isolated-fractured-social-networks.html"
    }
   },
   {
-   "key": "2026-11-12-pm-b101",
+   "key": "2026-11-13-am-b32",
    "field": "medicine",
-   "title": "A wrist device helps a boy with Tourette syndrome",
-   "en": "Researchers in Nottingham built a wrist device for people with Tourette syndrome. A boy tried it and called the moment life-changing. It is meant to help stop his tics.",
-   "ko": "노팅엄 연구진이 만든 손목 기기가 투렛증후군 틱을 줄이는 데 도움이 된다고 해요.",
+   "title": "RSV shots are cutting hospital stays",
+   "en": "Vaccines and antibody injections against RSV are cutting hospitalizations linked to the virus. Nature reports that new data show the shots work very well.",
+   "ko": "RSV 백신과 항체 주사 덕분에 이 바이러스로 입원하는 사람이 줄고 있어요.",
    "gloss": {
-    "text": "tics",
-    "meaning": "틱, 반복되는 갑작스러운 움직임",
-    "level": 2
-   },
-   "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/videos/c94gnv5e31gno?at_medium=RSS&at_campaign=rss"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b102",
-   "field": "medicine",
-   "title": "Doctors say there is a better way than BMI to spot obesity",
-   "en": "Doctors say BMI alone can lead to wrong obesity diagnoses for millions of people. They suggest adding other measurements and tests. This could give patients better care.",
-   "ko": "BMI만으로는 비만을 잘못 진단할 수 있어서, 다른 측정과 검사를 함께 쓰자는 의사들의 주장이 나왔어요.",
-   "gloss": {
-    "text": "diagnoses",
-    "meaning": "진단, 병을 판단하는 일",
+    "text": "hospitalizations",
+    "meaning": "입원 건수",
     "level": 3
-   },
-   "source": {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b103",
-   "field": "pharma",
-   "title": "One antidepressant may stop depression from coming back best",
-   "en": "An analysis of many patients compared antidepressants. A drug called escitalopram worked best at preventing relapse. It did better than Prozac.",
-   "ko": "여러 환자를 분석했더니 항우울제 에스시탈로프람이 우울증 재발을 막는 데 가장 효과적이었어요.",
-   "gloss": {
-    "text": "relapse",
-    "meaning": "(병이나 증상의) 재발",
-    "level": 3
-   },
-   "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b104",
-   "field": "brain",
-   "title": "A new clue about why early Alzheimer's starts",
-   "en": "A report in Nature points to the blood-brain barrier. It says this barrier blocks proteins that could protect the brain. This may be a new cause of early Alzheimer's disease.",
-   "ko": "혈뇌장벽이 뇌를 지켜 줄 단백질을 막는 것이 알츠하이머 초기의 새 원인일 수 있다는 소식이에요.",
-   "gloss": {
-    "text": "barrier",
-    "meaning": "장벽, 막아 주는 경계",
-    "level": 2
    },
    "source": {
     "name": "Nature",
-    "url": "https://www.nature.com/articles/d41586-026-03655-2"
+    "url": "https://www.nature.com/articles/d41586-026-03573-3"
    }
   },
   {
-   "key": "2026-11-12-pm-b105",
-   "field": "nutrition",
-   "title": "Energy drinks are tied to many more heart problem reports",
-   "en": "A new study looked at reports of heart problems. Energy drinks and stimulant supplements had 11 times more reports of cardiac arrest. They also had 4.5 times more reports of heart attacks.",
-   "ko": "에너지 음료와 각성 보충제는 심정지 보고가 11배, 심근경색 보고가 4.5배 많았다는 연구예요.",
+   "key": "2026-11-13-am-b33",
+   "field": "medicine",
+   "title": "A blood clue may reveal early ovarian cancer",
+   "en": "Researchers found a molecular signal in the blood. It points to tiny changes that appear before ovarian cancer develops. The disease is often found only after it has already spread.",
+   "ko": "혈액 속 분자 신호가 난소암이 생기기 전의 작은 변화를 알려 줄 수 있다는 연구가 나왔어요.",
    "gloss": {
-    "text": "stimulant",
-    "meaning": "각성제, 몸을 활발하게 하는 물질",
-    "level": 3
-   },
-   "source": {
-    "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b106",
-   "field": "public-health",
-   "title": "Two forever chemicals tied to more aggressive breast cancer",
-   "en": "An NIH study checked women's blood for two common forever chemicals. Women with high levels had up to 93% higher rates of an aggressive breast cancer. This raises worries about everyday products.",
-   "ko": "NIH 연구에서 영원한 화학물질 두 가지 수치가 높은 여성은 공격적인 유방암 비율이 최대 93% 높았어요.",
-   "gloss": {
-    "text": "aggressive",
-    "meaning": "(암이) 공격적인, 빠르게 퍼지는",
-    "level": 3
-   },
-   "source": {
-    "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b107",
-   "field": "global",
-   "title": "Ukraine says its military internet was cut as US envoys met Putin",
-   "en": "Ukraine's president said military connectivity was disrupted by new speed limits. He said this helps the Russians kill. The news came as US envoys met Putin in Moscow.",
-   "ko": "미국 특사들이 푸틴을 만나는 사이 우크라이나 군의 통신 속도가 제한됐다고 젤렌스키 대통령이 밝혔어요.",
-   "gloss": {
-    "text": "disrupted",
-    "meaning": "방해받은, 끊긴",
+    "text": "signal",
+    "meaning": "신호",
     "level": 2
    },
    "source": {
     "name": "The Guardian",
-    "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+    "url": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood"
    }
   },
   {
-   "key": "2026-11-12-pm-b108",
-   "field": "law",
-   "title": "Two men are found guilty of spying for Iran in the UK",
-   "en": "Two men were convicted in the UK. They helped Iranian intelligence with a plan to target journalists who live in Britain. Their names are Mostafa Sepahvand and Farhad Javadi Manesh.",
-   "ko": "영국에서 두 남성이 이란 정보기관을 돕고 영국 거주 기자들을 노린 혐의로 유죄 판결을 받았어요.",
+   "key": "2026-11-13-am-b34",
+   "field": "pharma",
+   "title": "Strong cold pills can cost 20 times more",
+   "en": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen. BBC News asks whether the extra money is worth it.",
+   "ko": "일부 감기약은 기본 해열진통제보다 20배 비싸요. BBC가 그 값어치가 있는지 따져 봤어요.",
    "gloss": {
-    "text": "convicted",
-    "meaning": "유죄 판결을 받은",
-    "level": 3
+    "text": "remedies",
+    "meaning": "치료제·약",
+    "level": 2
    },
    "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss"
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro"
    }
   },
   {
-   "key": "2026-11-12-pm-b109",
-   "field": "usa",
-   "title": "A Korean American Democrat wins a US House seat",
-   "en": "Dan Koh won a seat in the US House of Representatives. His grandfather's home village on Jeju Island celebrated with banners. Relatives and residents put them up on Nov. 5.",
-   "ko": "댄 고 당선인이 미 하원에 입성하자 할아버지의 고향인 제주 마을이 현수막을 걸고 축하했어요.",
+   "key": "2026-11-13-am-b35",
+   "field": "brain",
+   "title": "Scientists map a brain area tied to many diseases",
+   "en": "A global team studied nearly 26 million cells from the basal ganglia, a part of the brain. They built a database that compares species. It should help study illnesses from Parkinson's disease to addiction.",
+   "ko": "국제 연구팀이 뇌의 기저핵 세포 약 2,600만 개를 분석해 파킨슨병부터 중독까지 연구할 자료를 만들었어요.",
    "gloss": {
-    "text": "banner",
-    "meaning": "현수막",
+    "text": "database",
+    "meaning": "데이터베이스",
     "level": 1
    },
    "source": {
-    "name": "Korea Herald",
-    "url": "https://www.koreaherald.com/article/10935120"
+    "name": "Nature",
+    "url": "https://www.nature.com/articles/d41586-026-03565-3"
    }
   },
   {
-   "key": "2026-11-12-pm-b110",
-   "field": "usa",
-   "title": "US Democrats go to Cop31 to show America still cares about climate",
-   "en": "Democrats now control Congress. This gives them more power to challenge President Trump on the environment. They went to the Cop31 climate summit to show the US has not given up.",
-   "ko": "민주당이 의회를 장악해 트럼프의 환경 정책에 맞설 힘이 커졌고, 기후 회의에 가서 미국이 포기하지 않았다고 알렸어요.",
+   "key": "2026-11-13-am-b36",
+   "field": "mind",
+   "title": "A guide to the therapy words teens use",
+   "en": "Words once heard mostly in a therapist's room are now part of everyday talk. BBC News offers parents a guide to understanding what their teenagers mean when they use them.",
+   "ko": "상담실에서나 쓰던 말이 일상 대화에 퍼졌고, BBC가 부모를 위한 해설을 내놨어요.",
    "gloss": {
-    "text": "challenge",
-    "meaning": "(결정이나 주장에) 맞서다, 이의를 제기하다",
+    "text": "therapist",
+    "meaning": "치료사·상담사",
     "level": 2
+   },
+   "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c962y743y458o"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b37",
+   "field": "fitness",
+   "title": "Fast, sudden sports may build stronger bones",
+   "en": "A new study found that walking, jogging and normal weight training may not help bones as much as explosive sports. Football and handball raised markers of bone formation by up to 46%.",
+   "ko": "걷기나 일반 근력 운동보다 축구·핸드볼 같은 폭발적인 운동이 뼈 형성에 더 좋을 수 있어요.",
+   "gloss": {
+    "text": "explosive",
+    "meaning": "폭발적인",
+    "level": 2
+   },
+   "source": {
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b38",
+   "field": "nutrition",
+   "title": "Fructose may help cancer cells spread",
+   "en": "Scientists found that fructose, a sugar in sweet foods and drinks, may help aggressive ovarian cancer spread. Cancer cells that survive chemotherapy release fructose. This weakens the bonds that hold nearby tumor cells together.",
+   "ko": "과당이 항암 치료 뒤 살아남은 난소암 세포가 퍼지는 것을 도울 수 있다는 연구가 나왔어요.",
+   "gloss": {
+    "text": "bonds",
+    "meaning": "결합·유대",
+    "level": 2
+   },
+   "source": {
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b39",
+   "field": "public-health",
+   "title": "UK watchdog tells sunbed firms to stop downplaying cancer",
+   "en": "The advertising watchdog says sunbed companies must not play down the risk of cancer. They also must not claim that sunbeds can treat skin conditions or improve mental health.",
+   "ko": "영국 광고 감독 기관은 태닝 업체가 암 위험을 줄여 말하거나 치료 효과를 내세우면 안 된다고 했어요.",
+   "gloss": {
+    "text": "play down",
+    "meaning": "축소해서 말하다",
+    "level": 3
+   },
+   "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b40",
+   "field": "public-health",
+   "title": "Tiny cracks may help a coating kill superbugs",
+   "en": "Antibiotic resistance is rising. Scientists at Flinders University found that very small cracks can make an antibacterial coating work better. The coating kills dangerous bacteria when it gets a small electric charge.",
+   "ko": "미세한 균열이 전기 자극을 받는 항균 코팅의 살균 효과를 높일 수 있다는 연구가 나왔어요.",
+   "gloss": {
+    "text": "resistance",
+    "meaning": "내성",
+    "level": 2
+   },
+   "source": {
+    "name": "Phys.org",
+    "url": "https://phys.org/news/2026-11-tiny-volt-battery-deadly-superbugs.html"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b41",
+   "field": "global",
+   "title": "Haiti's fight against gangs relies on foreign forces",
+   "en": "El Salvador is exporting its 'Bukele model' to Haiti. Haiti's war on gangs now depends on foreign troops and private militias. The Conversation says this makes accountability harder.",
+   "ko": "아이티의 갱단 소탕이 외국 군대와 민간 무장 조직에 기대면서 책임을 묻기 어려워졌다고 해요.",
+   "gloss": {
+    "text": "accountability",
+    "meaning": "책임을 지는 것",
+    "level": 3
    },
    "source": {
     "name": "The Conversation",
-    "url": "https://theconversation.com/democrats-are-at-cop31-to-show-that-the-us-has-not-abandoned-the-fight-against-climate-change-296218"
+    "url": "https://theconversation.com/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations-296390"
    }
   },
   {
-   "key": "2026-11-12-pm-b112",
-   "field": "europe",
-   "title": "The EU proposes new rules against loot boxes and addictive apps",
-   "en": "The EU Commission published a new Digital Fairness Act. It aims to make online life fairer. Games, social media and online shops could face new rules.",
-   "ko": "EU 집행위가 디지털 공정성 법안을 내놓아 게임, SNS, 온라인 쇼핑 업체에 새 규칙이 생길 수 있어요.",
+   "key": "2026-11-13-am-b42",
+   "field": "law",
+   "title": "Argentina tells a tribunal Britain cannot claim the sea",
+   "en": "In a Falklands oil case in Hamburg, an Argentine lawyer said Britain should not act like a 17th-century colonial power. He rejected the idea that the crown has sovereignty over parts of the oceans.",
+   "ko": "아르헨티나 측 변호사가 함부르크 재판소에서 영국의 해양 주권 주장을 반박했어요.",
    "gloss": {
-    "text": "fairer",
-    "meaning": "더 공정한",
-    "level": 1
-   },
-   "source": {
-    "name": "The Verge",
-    "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b114",
-   "field": "green-policy",
-   "title": "Leaders at Cop31 warn the world we know is over without action",
-   "en": "The Marshall Islands president said failing to act would end the world we know. He spoke about worsening floods. The UN chief asked for a windfall tax on oil and gas firms.",
-   "ko": "마셜제도 대통령은 행동하지 않으면 지금의 세계가 끝난다고 경고했고, UN 사무총장은 석유·가스 기업 횡재세를 요구했어요.",
-   "gloss": {
-    "text": "windfall tax",
-    "meaning": "횡재세, 뜻밖의 큰 이익에 매기는 세금",
+    "text": "sovereignty",
+    "meaning": "주권",
     "level": 3
    },
    "source": {
     "name": "The Guardian",
-    "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31"
+    "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b43",
+   "field": "usa",
+   "title": "Illinois bans THC drinks and sellers rush to clear stock",
+   "en": "At midnight on Thursday, hemp-based THC drinks became illegal in Illinois. Companies are rushing to sell their remaining stock or ship it to states with different rules, such as Wisconsin and Tennessee.",
+   "ko": "일리노이에서 대마 성분 THC 음료가 불법이 되자 업체들이 재고를 서둘러 팔거나 다른 주로 보내고 있어요.",
+   "gloss": {
+    "text": "stock",
+    "meaning": "재고",
+    "level": 2
+   },
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/12/thc-drinks-ban-illinois"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b44",
+   "field": "europe",
+   "title": "Finland will bar Russian athletes",
+   "en": "Finland says it will limit entry for Russian athletes because of the war in Ukraine. Skating and cross-country skiing would be the first sports affected. The move follows a backlash over Russia's return to ice hockey events.",
+   "ko": "핀란드가 우크라이나 전쟁을 이유로 러시아 선수의 입국을 제한하겠다고 했어요.",
+   "gloss": {
+    "text": "backlash",
+    "meaning": "반발",
+    "level": 3
+   },
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b45",
+   "field": "rights",
+   "title": "Freed death row inmates ask Florida to stop executions",
+   "en": "Three men who were once on death row in Florida asked the next governor, Byron Donalds, to stop executions. Florida plans its 20th execution of the year next week, and 235 prisoners are now condemned.",
+   "ko": "플로리다에서 사형수였다가 풀려난 세 사람이 다음 주지사에게 사형 집행 중단을 요청했어요.",
+   "gloss": {
+    "text": "executions",
+    "meaning": "사형 집행",
+    "level": 2
+   },
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/12/byron-donalds-florida-executions"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b46",
+   "field": "rights",
+   "title": "Amnesty says UN peacekeepers missed warnings in South Sudan",
+   "en": "Amnesty International says UN peacekeepers and South Sudan's authorities did too little after warnings. Weeks later, insurgents raided a village and killed more than 200 people.",
+   "ko": "국제앰네스티는 남수단 학살 전에 경고가 있었는데 유엔 평화유지군이 충분히 대응하지 않았다고 했어요.",
+   "gloss": {
+    "text": "peacekeepers",
+    "meaning": "평화유지군",
+    "level": 2
+   },
+   "source": {
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10935091"
    }
   },
   {
@@ -707,67 +851,35 @@
    }
   },
   {
-   "key": "2026-11-12-pm-b116",
+   "key": "2026-11-13-am-b49",
    "field": "safety",
-   "title": "Rescuers search a collapsed building in Brooklyn",
-   "en": "A building collapsed in Brooklyn, New York. Two people died and several were hurt. Rescuers pulled one survivor from the rubble.",
-   "ko": "뉴욕 브루클린에서 건물이 무너져 2명이 숨지고 여럿이 다쳤으며, 구조대가 잔해에서 생존자를 구했어요.",
+   "title": "A lost teenager is found alive after six days",
+   "en": "A 17-year-old named William went missing near Walhalla in Victoria, Australia. After almost a week, a police air wing found him lying in a creek. He then had an emotional reunion with his mother.",
+   "ko": "호주 빅토리아주 숲에서 엿새 동안 실종됐던 17세 소년이 경찰 항공대에 발견돼 어머니와 만났어요.",
    "gloss": {
-    "text": "rubble",
-    "meaning": "잔해, 무너진 건물 조각",
-    "level": 2
-   },
-   "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b117",
-   "field": "safety",
-   "title": "Indonesian fires have burned 2.9 million hectares this year",
-   "en": "A monitor using satellite images says fires in Indonesia burned 2.88 million hectares in 2026. A strong El Nino helped cause them.",
-   "ko": "위성 영상을 분석한 기관에 따르면 올해 인도네시아 산불이 약 288만 헥타르를 태웠고, 강한 엘니뇨도 한 원인이에요.",
-   "gloss": {
-    "text": "monitor",
-    "meaning": "감시 기관, 상황을 지켜보는 단체",
-    "level": 2
-   },
-   "source": {
-    "name": "Phys.org",
-    "url": "https://phys.org/news/2026-11-indonesia-million-hectares.html"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b118",
-   "field": "history",
-   "title": "Skulls of two enslaved people go home to Brazil from Harvard",
-   "en": "Two skulls were returned to Brazil. They probably belonged to Africans or Afro-Brazilians. Harvard had used them in eugenics studies.",
-   "ko": "하버드가 우생학 연구에 썼던 노예 출신으로 보이는 두 사람의 두개골이 브라질로 돌아갔어요.",
-   "gloss": {
-    "text": "eugenics",
-    "meaning": "우생학, 인간을 '개량'하려던 잘못된 학문",
-    "level": 3
+    "text": "reunion",
+    "meaning": "재회",
+    "level": 1
    },
    "source": {
     "name": "The Guardian",
-    "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil"
+    "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
    }
   },
   {
-   "key": "2026-11-12-pm-b119",
+   "key": "2026-11-13-am-b50",
    "field": "history",
-   "title": "A historian says humility gained social weight in the late Middle Ages",
-   "en": "People often picture medieval monks who punished themselves to show humility. A historian argues that humility also took on a social meaning at that time. It was one of the basic virtues.",
-   "ko": "중세 후기에 겸손이 단순한 신앙 덕목을 넘어 사회적 의미를 갖게 됐다고 한 역사학자가 주장해요.",
+   "title": "A Roman fort in Wales revives an old legend",
+   "en": "Archaeologists found a Roman timber fort in the Preseli hills of Pembrokeshire, Wales. The find has brought a medieval Welsh legend about an emperor back into focus.",
+   "ko": "웨일스 프레셀리 언덕에서 로마 목조 요새가 발견되어 중세 웨일스 전설이 다시 주목받고 있어요.",
    "gloss": {
-    "text": "virtues",
-    "meaning": "덕목, 좋은 성품",
+    "text": "legend",
+    "meaning": "전설",
     "level": 2
    },
    "source": {
     "name": "Phys.org",
-    "url": "https://phys.org/news/2026-11-humility-social-weight-late-middle.html"
+    "url": "https://phys.org/news/2026-11-discovery-roman-fort-rekindled-emperor.html"
    }
   },
   {
@@ -835,67 +947,67 @@
    }
   },
   {
-   "key": "2026-11-12-pm-b124",
+   "key": "2026-11-13-am-b51",
    "field": "archaeology",
-   "title": "A twisted 1834 coin may show a rare minting accident",
-   "en": "A bent British silver coin from 1834 was found at a car boot sale. 3D scans and microscope tests found odd metal changes. They suggest it was crushed during a rare minting accident.",
-   "ko": "1834년 영국 은화가 심하게 찌그러진 이유가 희귀한 주조 사고 때문일 수 있다는 분석이 나왔어요.",
+   "title": "Chemical traces hint at poisoned weapons 125,000 years ago",
+   "en": "A study found that people in Arabia 125,000 years ago used advanced technology. They made composite hunting weapons, processed plant fibers and may have used poison to hunt.",
+   "ko": "12만 5천 년 전 아라비아 사람들이 복합 사냥 무기를 만들고 독을 썼을 수도 있다는 연구가 나왔어요.",
    "gloss": {
-    "text": "minting",
-    "meaning": "(동전을) 만드는 일, 주조",
+    "text": "composite",
+    "meaning": "여러 재료로 만든",
     "level": 3
    },
    "source": {
-    "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm"
+    "name": "Phys.org",
+    "url": "https://phys.org/news/2026-11-chemical-hint-poisoned-weapons-arabia.html"
    }
   },
   {
-   "key": "2026-11-12-pm-b125",
-   "field": "archaeology",
-   "title": "Old manuscripts hold DNA of a sheep virus",
-   "en": "Scientists found traces of a sheep virus in 1,000-year-old manuscripts, including the York Gospels. The virus has changed very little over thousands of years. Its history goes back more than 3,700 years.",
-   "ko": "1000년 된 요크 복음서 등 옛 필사본에서 양 바이러스 DNA가 발견돼, 3700년 넘는 역사가 드러났어요.",
-   "gloss": {
-    "text": "manuscripts",
-    "meaning": "필사본, 손으로 쓴 옛 문서",
-    "level": 3
-   },
-   "source": {
-    "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b201",
+   "key": "2026-11-13-am-b53",
    "field": "movies",
-   "title": "Nicole Kidman to get an honorary Cesar",
-   "en": "Nicole Kidman will receive an honorary Cesar from the French film academy. The prize will be given at the 52nd Cesar Awards on Feb. 25, 2027, at the Olympia in Paris.",
-   "ko": "니콜 키드먼이 2027년 2월 25일 파리 세자르 영화제에서 명예 세자르상을 받아요.",
+   "title": "Andrew Garfield to get a Palm Springs award",
+   "en": "Andrew Garfield will be honored with the Spotlight Award. The prize is part of the Palm Springs International Film Awards.",
+   "ko": "앤드루 가필드가 팜스프링스 국제영화상에서 스포트라이트 상을 받아요.",
    "gloss": {
-    "text": "honorary",
-    "meaning": "명예의, 명예로 주는",
+    "text": "honored",
+    "meaning": "영예를 받다",
+    "level": 1
+   },
+   "source": {
+    "name": "Variety",
+    "url": "https://variety.com/2026/film/news/andrew-garfield-palm-springs-international-film-awards-1236945687/"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b54",
+   "field": "movies",
+   "title": "Two documentaries lead Cinema Eye nominations",
+   "en": "The Cinema Eye Honors announced documentary nominations. 'American Doctor' and 'You Can See Everything' are at the top of the list.",
+   "ko": "시네마 아이 다큐멘터리 후보에서 '아메리칸 닥터'와 '유 캔 시 에브리싱'이 앞섰어요.",
+   "gloss": {
+    "text": "nominations",
+    "meaning": "후보 지명",
     "level": 2
    },
    "source": {
     "name": "Variety",
-    "url": "https://variety.com/2026/film/news/nicole-kidman-honorary-cesar-french-film-academy-1236945969/"
+    "url": "https://variety.com/2026/film/awards/american-doctor-you-can-see-everything-cinema-eye-nominations-1236945779/"
    }
   },
   {
-   "key": "2026-11-12-pm-b202",
-   "field": "movies",
-   "title": "Tom Holland says 'The Odyssey' changed his goals",
-   "en": "Tom Holland starred in two of this year's biggest films, Spider-Man: Brand New Day and The Odyssey. He says the Christopher Nolan epic will shape the next stage of his career.",
-   "ko": "톰 홀랜드가 올해 대흥행작 두 편 중 놀런 감독의 「오디세이」가 앞으로의 경력에 영향을 줄 거라고 말했어요.",
+   "key": "2026-11-13-am-b55",
+   "field": "drama",
+   "title": "School Spirits gets a fourth season",
+   "en": "'School Spirits' will return for Season 4. Milo Manheim and Jennifer Tilly will come back. Maria Dizzia moves up to series regular.",
+   "ko": "'스쿨 스피리츠' 시즌4가 나오고 밀로 맨하임 등이 돌아와요.",
    "gloss": {
-    "text": "epic",
-    "meaning": "대서사시 같은 영화",
-    "level": 2
+    "text": "series regular",
+    "meaning": "고정 출연자",
+    "level": 3
    },
    "source": {
     "name": "Variety",
-    "url": "https://variety.com/2026/film/global/tom-holland-the-odyssey-ambition-projects-1236945976/"
+    "url": "https://variety.com/2026/tv/news/school-spirits-season-4-milo-manheim-jennifer-tilly-1236946261/"
    }
   },
   {
@@ -915,19 +1027,35 @@
    }
   },
   {
-   "key": "2026-11-12-pm-b204",
+   "key": "2026-11-13-am-b56",
    "field": "pop-music",
-   "title": "Dua Lipa to headline Coachella 2027",
-   "en": "Dua Lipa will be the first British woman to headline Coachella. Tame Impala and SZA will also be at the top of the 2027 bill. Madonna and Diljit Dosanjh are on the line-up too.",
-   "ko": "두아 리파가 영국 여성 가수 최초로 2027 코첼라 헤드라이너가 돼요. 테임 임팔라와 SZA도 함께해요.",
+   "title": "Phoebe Bridgers adds 25 more tour dates",
+   "en": "Phoebe Bridgers is extending her Lost Tour. She added 25 more dates in North America in 2027, Variety reports.",
+   "ko": "피비 브리저스가 2027년 북미 공연 25회를 더 추가했어요.",
    "gloss": {
-    "text": "headline",
-    "meaning": "공연의 간판 출연자로 나서다",
+    "text": "extending",
+    "meaning": "연장하다",
     "level": 2
    },
    "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o?at_medium=RSS&at_campaign=rss"
+    "name": "Variety",
+    "url": "https://variety.com/2026/music/news/phoebe-bridgers-extends-lost-tour-north-america-2027-1236946343/"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b57",
+   "field": "games",
+   "title": "Xbox turns 25 and tries to start over again",
+   "en": "The first Xbox launched on November 15, 2001. It took on a market led by Sony and Nintendo. Twenty-five years later, The Verge says Xbox is in a similar position and is trying to reinvent itself again.",
+   "ko": "엑스박스가 25주년을 맞아 다시 변신을 시도한다고 해요.",
+   "gloss": {
+    "text": "reinvent itself",
+    "meaning": "스스로를 새롭게 바꾸다",
+    "level": 2
+   },
+   "source": {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad"
    }
   },
   {
@@ -947,147 +1075,99 @@
    }
   },
   {
-   "key": "2026-11-12-pm-b209",
+   "key": "2026-11-13-am-b58",
    "field": "celebs",
-   "title": "Wayne Rooney joins I'm A Celebrity",
-   "en": "Football star Wayne Rooney leads this year's I'm A Celebrity line-up. Gavin and Stacey actor Joanna Page and the YouTuber Sharky will join him.",
-   "ko": "축구 스타 웨인 루니가 올해 「I'm A Celebrity」 출연진의 선두에 섰어요. 조애나 페이지와 유튜버 샤키도 나와요.",
+   "title": "Actor Irma P Hall dies at 91",
+   "en": "Irma P Hall has died at the age of 91. The Guardian calls her a veteran actor and the star of The Ladykillers.",
+   "ko": "'더 레이디킬러스'의 배우 어마 P. 홀이 91세로 세상을 떠났어요.",
    "gloss": {
-    "text": "line-up",
-    "meaning": "출연진 명단",
-    "level": 1
-   },
-   "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b210",
-   "field": "celebs",
-   "title": "King Charles joins Elton John's radio show",
-   "en": "King Charles appears on Elton John's radio show, Rocket Hour. The episode was recorded in secret. It will air on the king's 78th birthday on Saturday.",
-   "ko": "찰스 3세가 엘턴 존의 라디오 쇼에 깜짝 출연해요. 78번째 생일인 토요일에 방송돼요.",
-   "gloss": {
-    "text": "in secret",
-    "meaning": "몰래, 비밀리에",
-    "level": 1
-   },
-   "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/c3qj5lnee5n0o?at_medium=RSS&at_campaign=rss"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b211",
-   "field": "soccer",
-   "title": "Harry Kane to break England caps record",
-   "en": "Harry Kane will play his 126th match for England against Croatia at Wembley. He will become the most capped player in the men's national team.",
-   "ko": "해리 케인이 크로아티아전에서 126번째 A매치를 뛰며 잉글랜드 남자 대표팀 최다 출전 선수가 돼요.",
-   "gloss": {
-    "text": "most capped",
-    "meaning": "국가대표 경기에 가장 많이 나선",
+    "text": "veteran",
+    "meaning": "경력 많은 베테랑",
     "level": 2
    },
    "source": {
     "name": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-england-caps-record-career-in-numbers-charts"
+    "url": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies"
    }
   },
   {
-   "key": "2026-11-12-pm-b212",
+   "key": "2026-11-13-am-b59",
    "field": "soccer",
-   "title": "USA pulls out of the U-17 World Cup",
-   "en": "The USA has withdrawn from the Under-17 World Cup in Qatar. The tournament starts next week. The team cited the risk of armed conflict.",
-   "ko": "미국이 다음 주 카타르에서 시작하는 U-17 월드컵에서 무력 충돌 위험을 이유로 빠지기로 했어요.",
+   "title": "Man United sack Carrick within 15 games",
+   "en": "BBC Sport looks at the chaos around Michael Carrick at Manchester United. He went from a two-year deal to being sacked within 15 games.",
+   "ko": "맨유가 두 해 계약을 한 카릭 감독을 15경기 안에 해임했어요.",
    "gloss": {
-    "text": "withdrawn",
-    "meaning": "대회 등에서 빠졌다",
+    "text": "sacked",
+    "meaning": "해고된",
     "level": 2
    },
    "source": {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss"
+    "name": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo"
    }
   },
   {
-   "key": "2026-11-12-pm-b213",
+   "key": "2026-11-13-am-b60",
    "field": "soccer",
-   "title": "Korean women to face North Korea in Olympic qualifiers",
-   "en": "South Korea's women's team will play North Korea in the last Asian group round for the 2028 Los Angeles Olympics. The draw was held by the Asian Football Confederation. A trip to Pyongyang is possible in December next year.",
-   "ko": "한국 여자 축구대표팀이 2028 LA 올림픽 아시아 예선에서 북한과 만나요. 내년 12월 평양 원정 가능성이 있어요.",
+   "title": "Crystal Palace sack manager Sage",
+   "en": "Crystal Palace have sacked Pierre Sage after 16 games. BBC Sport says Frank is in advanced talks to take over.",
+   "ko": "크리스털 팰리스가 16경기 만에 사지 감독을 해임했고 프랭크와 협상 중이에요.",
    "gloss": {
-    "text": "group round",
-    "meaning": "조별 라운드",
+    "text": "advanced talks",
+    "meaning": "막바지 협상",
     "level": 2
    },
    "source": {
-    "name": "Korea Herald",
-    "url": "https://www.koreaherald.com/article/10935596"
+    "name": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do"
    }
   },
   {
-   "key": "2026-11-12-pm-b214",
+   "key": "2026-11-13-am-b61",
+   "field": "soccer",
+   "title": "Robertson matches Scotland's cap record",
+   "en": "Andy Robertson has matched the Scotland cap record. The Guardian says he paid tribute to Kenny Dalglish.",
+   "ko": "스코틀랜드의 로버트슨이 대표팀 최다 출전 기록과 같아졌어요.",
+   "gloss": {
+    "text": "cap record",
+    "meaning": "A매치 출전 기록",
+    "level": 2
+   },
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record"
+   }
+  },
+  {
+   "key": "2026-11-13-am-b62",
    "field": "baseball",
-   "title": "Two unanimous Cy Young winners",
-   "en": "Cam Schlittler of the Yankees and Jacob Misiorowski of the Brewers won the Cy Young Awards. Both votes were unanimous. The award goes to the best pitcher in each league.",
-   "ko": "양키스 슐리틀러와 브루어스 미시오롭스키가 만장일치로 사이영상을 받았어요.",
+   "title": "Pete Crow-Armstrong has an MVP-worthy year",
+   "en": "ESPN tells the inside story of Pete Crow-Armstrong's MVP-worthy season. One quote in the title says, 'It's like a light switch went on.'",
+   "ko": "ESPN이 MVP급 시즌을 보낸 크로우암스트롱의 이야기를 다뤘어요.",
    "gloss": {
-    "text": "unanimous",
-    "meaning": "만장일치의",
-    "level": 2
+    "text": "MVP-worthy",
+    "meaning": "MVP감인",
+    "level": 1
    },
    "source": {
-    "name": "Korea Herald",
-    "url": "https://www.koreaherald.com/article/10935232"
+    "name": "ESPN",
+    "url": "https://www.espn.com/mlb/story/_/id/50452846/pete-crow-armstrong-national-league-mvp-pca-superstar"
    }
   },
   {
-   "key": "2026-11-12-pm-b215",
-   "field": "baseball",
-   "title": "LG Twins re-sign Austin Dean",
-   "en": "The LG Twins have re-signed Austin Dean on a one-year, $2 million deal. He is now the highest-paid foreign position player in KBO history.",
-   "ko": "LG 트윈스가 오스틴 딘과 1년 200만 달러에 재계약했어요. KBO 외국인 야수 최고 연봉이에요.",
-   "gloss": {
-    "text": "have re-signed",
-    "meaning": "재계약했다",
-    "level": 2
-   },
-   "source": {
-    "name": "Korea Herald",
-    "url": "https://www.koreaherald.com/article/10935168"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b216",
+   "key": "2026-11-13-am-b63",
    "field": "basketball",
-   "title": "Stephen Curry hurts his abdomen",
-   "en": "Stephen Curry hurt his right abdomen in the first quarter against the Rockets. Coach Steve Kerr said the team's concern is high. Curry will have an MRI.",
-   "ko": "스테픈 커리가 로키츠전 1쿼터에 오른쪽 복부를 다쳤어요. 커 감독은 우려가 크다고 했고 MRI 검사를 받아요.",
+   "title": "Embiid questionable, LeBron out vs. Raptors",
+   "en": "ESPN reports that 76ers player Joel Embiid is questionable with a foot problem. LeBron James is out with a back problem against the Raptors.",
+   "ko": "엠비드는 발 때문에 출전이 불투명하고 르브론은 허리로 결장해요.",
    "gloss": {
-    "text": "abdomen",
-    "meaning": "복부, 배",
+    "text": "questionable",
+    "meaning": "출전 여부 불확실한",
     "level": 2
    },
    "source": {
     "name": "ESPN",
-    "url": "https://www.espn.com/nba/story/_/id/50458218/curry-exits-vs-rockets-ruled-abdominal-soreness"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b217",
-   "field": "basketball",
-   "title": "Zion Williamson wants more accountability",
-   "en": "The Pelicans lost their fourth game in a row. Zion Williamson said the team must look itself in the mirror. He called for more accountability.",
-   "ko": "펠리컨스가 4연패에 빠지자 자이언 윌리엄슨이 선수들이 스스로를 돌아봐야 한다고 말했어요.",
-   "gloss": {
-    "text": "accountability",
-    "meaning": "책임감, 책임지는 자세",
-    "level": 3
-   },
-   "source": {
-    "name": "ESPN",
-    "url": "https://www.espn.com/nba/story/_/id/50459408/zion-williamson-calls-pelicans-another-unacceptable-blowout-loss"
+    "url": "https://www.espn.com/nba/story/_/id/50463008/76ers-joel-embiid-lebron-james-questionable-vs-raptors"
    }
   },
   {
@@ -1248,22 +1328,6 @@
    "source": {
     "name": "Nature",
     "url": "https://www.nature.com/articles/d41586-026-03448-7"
-   }
-  },
-  {
-   "key": "2026-11-12-pm-b228",
-   "field": "higher-ed",
-   "title": "AI makes coursework hard to grade",
-   "en": "England's Office for Students says AI has made it close to impossible to assess university coursework. It says universities should return to traditional exams and in-person presentations.",
-   "ko": "영국 대학 규제기관이 AI 탓에 과제 평가가 거의 불가능하다며 전통 시험과 대면 발표로 돌아가라고 했어요.",
-   "gloss": {
-    "text": "Office for Students",
-    "meaning": "영국 고등교육 규제 기관",
-    "level": 3
-   },
-   "source": {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator"
    }
   },
   {
