@@ -1,4 +1,4 @@
-// check-edition v7
+// check-edition v8
 // 캠퍼스친구 「나의 영어신문」 판 파일 검사 · 사용법: node scripts/check-edition.mjs editions/current.json
 import { readFileSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -15,6 +15,7 @@ const only = (o, req, where, opt = []) => { if (!isObj(o)) { bad(where + ': 객�
 const str = (v, where, max) => { if (typeof v !== 'string' || !v.trim()) { bad(where + ': 글자 칸이 비었음'); return false; }
   if (max && v.length > max) bad(where + ': ' + max + '자 초과(' + v.length + ')'); return true; };
 const SECTIONS = ['jobs', 'tech', 'money', 'world', 'campus', 'culture'];
+const FIELDS = ['job-hunt', 'intern', 'startup', 'invest', 'housing', 'marketing', 'accounting', 'trade', 'office', 'ai', 'coding', 'chips', 'robots', 'gamedev', 'security', 'gadgets', 'data', 'bigtech', 'cars', 'battery', 'architecture', 'materials', 'aviation', 'energy', 'transport', 'industrial-design', 'manufacturing', 'space', 'physics', 'chemistry', 'biology', 'climate', 'math', 'ocean', 'fossils', 'animals', 'medicine', 'nursing', 'pharma', 'brain', 'mind', 'fitness', 'nutrition', 'sleep', 'public-health', 'global', 'law', 'usa', 'europe', 'rights', 'green-policy', 'media', 'population', 'safety', 'history', 'philosophy', 'books', 'language', 'art', 'classical', 'design', 'religion', 'archaeology', 'movies', 'drama', 'kpop', 'pop-music', 'games', 'anime', 'creators', 'fashion', 'celebs', 'soccer', 'baseball', 'basketball', 'esports', 'travel', 'food', 'pets', 'relationships', 'living', 'campus-life', 'study-abroad', 'tuition', 'grad-school', 'funding', 'publishing', 'research-ethics', 'higher-ed', 'academic-jobs'];
 const TAGS = ['모두의 화제', '한국에 직접', '생활에 바로', '의견 갈림', '파장 큼'];
 const numBox = (n, w) => { if (only(n, ['value', 'caption', 'source'], w)) { str(n.value, w + ' value', 24); str(n.caption, w + ' caption', 60); str(n.source, w + ' source', 60); } };
 if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '판')) {
@@ -26,9 +27,10 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
   if (!Array.isArray(d.articles) || d.articles.length < 8 || d.articles.length > 40) bad('기사는 8~40편');
   else d.articles.forEach((a, i) => {
     const w = '기사' + (i + 1);
-    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources', 'quiz', 'job', 'talk'], w, ['tag', 'num', 'life', 'deep', 'story'])) return;
+    if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources', 'quiz', 'job', 'talk', 'field'], w, ['tag', 'num', 'life', 'deep', 'story'])) return;
     if (a.key !== d.edition + '-' + (i + 1)) bad(w + ': key 는 ' + d.edition + '-' + (i + 1));
     if (!SECTIONS.includes(a.section)) bad(w + ': section');
+    if (!FIELDS.includes(a.field)) bad(w + ': field 는 분야 열쇠 90개 가운데 하나');
     if ('tag' in a && !TAGS.includes(a.tag)) bad(w + ': tag');
     str(a.title, w + ' title', 120); str(a.easyKo, w + ' easyKo', 300); str(a.keySentence, w + ' keySentence', 300);
     let all = '', ok = false;
