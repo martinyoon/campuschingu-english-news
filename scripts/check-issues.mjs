@@ -1,4 +1,4 @@
-// check-issues v2
+// check-issues v3
 // 사용법: node scripts/check-issues.mjs issues/current.json
 import fs from 'node:fs';
 import path from 'node:path';
@@ -44,18 +44,19 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'reportCount', 'numbers', 
   const ed = d.edition;
   if (!/^\d{4}-\d{2}-\d{2}-(am|pm)$/.test(ed || '')) e('edition 꼴');
   if (typeof d.publishedAt !== 'string' || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?(Z|[+-]\d{2}:\d{2})$/.test(d.publishedAt)) e('publishedAt 꼴');
-  int(d.sourceCount, 1, 9999, 'sourceCount'); int(d.reportCount, 0, 9999, 'reportCount');
+  int(d.sourceCount, 1, 99999, 'sourceCount'); int(d.reportCount, 0, 99999, 'reportCount');
   if (!Array.isArray(d.numbers) || d.numbers.length > 6) e('numbers 6칸 이하');
   else d.numbers.forEach((n, i) => { if (only(n, ['value', 'caption', 'source'], `numbers[${i}]`)) { str(n.value, 24, `numbers[${i}].value`); str(n.caption, 60, `numbers[${i}].caption`); str(n.source, 60, `numbers[${i}].source`); } });
-  if (!Array.isArray(d.issues) || d.issues.length < 8 || d.issues.length > 60) e('issues 8~60개');
+  if (!Array.isArray(d.issues) || d.issues.length < 8 || d.issues.length > 200) e('issues 8~200개');
   const keys = new Set();
   (d.issues || []).forEach((it, i) => {
     const w = `issues[${i}]`;
-    if (!only(it, ['key', 'section', 'field', 'tag', 'title', 'gist', 'gistKo', 'easyKo', 'paragraphs', 'pro', 'glosses', 'views', 'heads', 'sources', 'lines', 'opinion', 'quiz', 'job', 'talk', 'story'], w)) return;
-    if (!new RegExp(`^${ed}-\\d{1,2}$`).test(it.key || '')) e(`${w}.key 꼴`);
+    if (!only(it, ['key', 'section', 'field', 'tag', 'desk', 'title', 'gist', 'gistKo', 'easyKo', 'paragraphs', 'pro', 'glosses', 'views', 'heads', 'sources', 'lines', 'opinion', 'quiz', 'job', 'talk', 'story'], w)) return;
+    if (!new RegExp(`^${ed}-\\d{1,3}$`).test(it.key || '')) e(`${w}.key 꼴`);
     if (keys.has(it.key)) e(`${w}.key 겹침`); keys.add(it.key);
     if (!SECTIONS.includes(it.section)) e(`${w}.section`);
     if (!FIELDS.includes(it.field)) e(`${w}.field(${it.field})`);
+    if (it.desk !== undefined && !['korea', 'ai'].includes(it.desk)) e(`${w}.desk`);
     if (it.tag !== undefined && !TAGS.includes(it.tag)) e(`${w}.tag`);
     str(it.title, 120, w + '.title'); str(it.gist, 300, w + '.gist'); str(it.gistKo, 300, w + '.gistKo'); str(it.easyKo, 300, w + '.easyKo');
     // paragraphs
@@ -129,7 +130,7 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'reportCount', 'numbers', 
       else T.phrases.forEach((p, k) => { if (only(p, ['en', 'ko'], `${w}.talk.phrases[${k}]`)) { str(p.en, 60, `${w}.talk.phrases[${k}].en`); str(p.ko, 60, `${w}.talk.phrases[${k}].ko`); } });
     }
     if (it.story !== undefined && only(it.story, ['prev', 'n'], w + '.story')) {
-      const m = /^(\d{4}-\d{2}-\d{2}-(am|pm))-\d{1,2}$/.exec(it.story.prev || '');
+      const m = /^(\d{4}-\d{2}-\d{2}-(am|pm))-\d{1,3}$/.exec(it.story.prev || '');
       if (!m) e(`${w}.story.prev 꼴`);
       else {
         if (!(m[1] < ed)) e(`${w}.story.prev 판이 이번 판보다 앞이 아님`);
