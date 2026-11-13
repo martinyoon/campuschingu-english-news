@@ -1,4 +1,4 @@
-// check-edition v8
+// check-edition v9
 // 캠퍼스친구 「나의 영어신문」 판 파일 검사 · 사용법: node scripts/check-edition.mjs editions/current.json
 import { readFileSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -24,7 +24,7 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'numbers', 'articles'], '�
   if (!Number.isInteger(d.sourceCount) || d.sourceCount < 1 || d.sourceCount > 999) bad('sourceCount 정수 1~999');
   if (!Array.isArray(d.numbers) || d.numbers.length > 6) bad('numbers 는 6칸 이하 배열');
   else d.numbers.forEach((n, i) => numBox(n, 'numbers' + (i + 1)));
-  if (!Array.isArray(d.articles) || d.articles.length < 8 || d.articles.length > 40) bad('기사는 8~40편');
+  if (!Array.isArray(d.articles) || d.articles.length < 8 || d.articles.length > 99) bad('기사는 8~99편');
   else d.articles.forEach((a, i) => {
     const w = '기사' + (i + 1);
     if (!only(a, ['key', 'section', 'title', 'easyKo', 'paragraphs', 'keySentence', 'glosses', 'sources', 'quiz', 'job', 'talk', 'field'], w, ['tag', 'num', 'life', 'deep', 'story'])) return;
