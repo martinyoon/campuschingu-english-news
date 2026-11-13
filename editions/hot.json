@@ -1,1049 +1,955 @@
 {
  "edition": "2026-11-13-pm",
- "publishedAt": "2026-11-13T18:41:56+09:00",
+ "publishedAt": "2026-11-13T21:26:06+09:00",
  "items": [
   {
    "key": "2026-11-13-pm-h1",
    "kind": "star",
-   "title": "Pochettino agrees to take over at Manchester United after Carrick",
-   "ko": "포체티노 감독이 카릭 감독 후임으로 맨체스터 유나이티드를 맡기로 합의했다고 해요.",
+   "title": "Jayden Daniels leads a late touchdown drive as the Commanders beat the Giants",
+   "ko": "대니얼스의 막판 터치다운 드라이브로 커맨더스가 자이언츠를 이겼어요.",
    "source": {
     "name": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/50452966/mauricio-pochettino-man-united-deal-sources"
+    "url": "https://www.espn.com/nfl/story/_/id/50466279/new-york-giants-washington-commanders-week-10-tnf"
    }
   },
   {
    "key": "2026-11-13-pm-h2",
-   "kind": "talk",
-   "title": "Airports - zero article or definite article?",
-   "ko": "공항 앞에 관사를 붙이느냐 마느냐를 묻는 영어 글이에요.",
-   "source": {
-    "name": "English Stack Exchange",
-    "url": "https://english.stackexchange.com/questions/641885/airports-zero-article-or-definite-article"
-   },
-   "score": 3,
-   "comments": 1
-  },
-  {
-   "key": "2026-11-13-pm-h3",
    "kind": "star",
-   "title": "Dolly Parton's last recording is released as a duet on a U2 song",
-   "ko": "돌리 파튼의 마지막 녹음이 U2 노래의 듀엣으로 공개됐어요.",
+   "title": "How the next James Bond will be announced, and what could go wrong",
+   "ko": "다음 제임스 본드 발표가 어떻게 이뤄질지, 무엇이 잘못될 수 있는지를 다뤘어요.",
    "source": {
-    "name": "Variety",
-    "url": "https://variety.com/2026/music/news/dolly-parton-last-song-u2-torn-final-vocals-1236946788/"
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007"
    }
   },
   {
-   "key": "2026-11-13-pm-h4",
+   "key": "2026-11-13-pm-h3",
    "kind": "talk",
-   "title": "Is \"exposé of\" or \"exposé on\" grammatically correct?",
-   "ko": "'exposé of'와 'exposé on' 중 어느 쪽이 문법적으로 맞는지 묻는 글이에요.",
+   "title": "Ask HN: Do you see a human written book more valuable than an AI written one?",
+   "ko": "사람이 쓴 책이 AI가 쓴 책보다 더 가치 있다고 보는지 묻는 글이에요.",
    "source": {
-    "name": "English Stack Exchange",
-    "url": "https://english.stackexchange.com/questions/641879/is-expos%c3%a9-of-or-expos%c3%a9-on-grammatically-correct"
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50481227"
    },
-   "score": 1,
-   "comments": 0
+   "score": 4,
+   "comments": 6
+  },
+  {
+   "key": "2026-11-13-pm-h4",
+   "kind": "star",
+   "title": "What happened to the diamond that went missing in an F1 crash?",
+   "ko": "F1 사고 때 사라진 다이아몬드가 어떻게 됐는지를 되짚었어요.",
+   "source": {
+    "name": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo"
+   }
   },
   {
    "key": "2026-11-13-pm-h5",
    "kind": "talk",
-   "title": "My AI agents found an unmapped Maya site?",
-   "ko": "AI 에이전트가 지도에 없는 마야 유적지를 찾은 걸까 하는 글이에요.",
+   "title": "NYC Council passes ban on 'surveillance pricing'",
+   "ko": "뉴욕시의회가 '감시 가격 책정'을 금지하는 법을 통과시켰어요.",
    "source": {
     "name": "Hacker News",
-    "url": "https://pietromiotti.com/latest/maya-site"
+    "url": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data"
    },
-   "score": 1032,
-   "comments": 391
+   "score": 61,
+   "comments": 31
   },
   {
    "key": "2026-11-13-pm-h6",
    "kind": "star",
-   "title": "Kane scores a penalty to win England's game against Croatia",
-   "ko": "해리 케인이 페널티킥을 넣어 잉글랜드가 크로아티아를 이겼어요.",
+   "title": "Muse play new songs live as their Wow! Signal tour begins",
+   "ko": "뮤즈가 투어를 시작하며 새 곡들을 라이브로 연주했어요.",
    "source": {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report"
+    "name": "NME",
+    "url": "https://www.nme.com/news/music/muse-debut-new-songs-live-and-stage-wow-signal-2026-uk-tour-footage-setlist-3975861"
    }
   },
   {
    "key": "2026-11-13-pm-h7",
-   "kind": "talk",
-   "title": "Apply for another position at same company while in hiring process",
-   "ko": "채용 절차가 진행 중인 회사의 다른 자리에 지원해도 되는지 묻는 글이에요.",
-   "source": {
-    "name": "Workplace Stack Exchange",
-    "url": "https://workplace.stackexchange.com/questions/203852/apply-for-another-position-at-same-company-while-in-hiring-process"
-   },
-   "score": 4,
-   "comments": 2
-  },
-  {
-   "key": "2026-11-13-pm-h8",
    "kind": "star",
-   "title": "Duran Duran drummer Roger Taylor leaves the band and retires",
-   "ko": "듀란 듀란의 로저 테일러가 밴드를 떠나며 은퇴한다고 밝혔어요.",
+   "title": "TWS wins first place for Call My Name on Music Bank",
+   "ko": "TWS가 뮤직뱅크에서 콜 마이 네임으로 1위를 했어요.",
    "source": {
-    "name": "NME",
-    "url": "https://www.nme.com/news/music/roger-taylor-steps-down-from-duran-duran-and-retires-this-is-one-of-the-hardest-decisions-ive-ever-had-to-make-3975801"
+    "name": "Soompi",
+    "url": "https://www.soompi.com/article/1886823wpp/watch-tws-takes-1st-win-for-call-my-name-on-music-bank-performances-by-jisoo-ateez-and-more"
    }
   },
   {
-   "key": "2026-11-13-pm-h9",
+   "key": "2026-11-13-pm-h8",
    "kind": "talk",
-   "title": "How to reply to manager/owner who makes accusations/complaints where I have evidence it happened differently?",
-   "ko": "증거가 있는데 상사가 다르게 비난할 때 어떻게 답하느냐고 묻는 글이에요.",
+   "title": "Do I need a visa for Mexico if I have a valid Italian residency permit?",
+   "ko": "이탈리아 거주 허가증이 있으면 멕시코 비자가 필요한지 묻는 질문이에요.",
    "source": {
-    "name": "Workplace Stack Exchange",
-    "url": "https://workplace.stackexchange.com/questions/203820/how-to-reply-to-manager-owner-who-makes-accusations-complaints-where-i-have-evid"
+    "name": "Travel Stack Exchange",
+    "url": "https://travel.stackexchange.com/questions/205851/do-i-need-a-visa-for-mexico-if-i-have-a-valid-italian-residency-permit"
    },
-   "score": 8,
-   "comments": 2
+   "score": 0,
+   "comments": 0
+  },
+  {
+   "key": "2026-11-13-pm-h9",
+   "kind": "star",
+   "title": "Ateez get ready to prove themselves again with a 15th EP",
+   "ko": "에이티즈가 열다섯 번째 EP로 다시 실력을 보여 주려 해요.",
+   "source": {
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10936252"
+   }
   },
   {
    "key": "2026-11-13-pm-h10",
-   "kind": "talk",
-   "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-   "ko": "TV 제조사 전부에 감시 방식에 대해 열일곱 가지를 물어본 결과를 정리한 글이에요.",
+   "kind": "star",
+   "title": "Fortnite teases a big reveal for its masked treasure man Captain X",
+   "ko": "포트나이트가 가면 쓴 보물 사냥꾼 캡틴 X의 큰 공개를 예고했어요.",
    "source": {
-    "name": "Hacker News",
-    "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions"
-   },
-   "score": 377,
-   "comments": 258
+    "name": "IGN",
+    "url": "https://www.ign.com/articles/after-giving-away-thousands-of-dollars-in-cosmetics-fortnite-is-teasing-a-big-reveal-for-captain-x-its-mysterious-masked-treasure-man-with-fan-guesses-ranging-from-mr-beast-to-obama"
+   }
   },
   {
    "key": "2026-11-13-pm-h11",
    "kind": "star",
-   "title": "Coachella 2027 names Tame Impala, SZA and Dua Lipa as headliners",
-   "ko": "2027년 코첼라 라인업에 테임 임팔라, SZA, 두아 리파가 올랐어요.",
+   "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
+   "ko": "티모시 샬라메와 젠데이아가 칠드런 인 니드 방송에서 라일런 클라크에게 장난을 쳤어요.",
    "source": {
-    "name": "Pitchfork",
-    "url": "https://pitchfork.com/story/coachella-2027-lineup-tame-impala-sza-and-dua-lipa/"
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o"
    }
   },
   {
    "key": "2026-11-13-pm-h12",
    "kind": "talk",
-   "title": "Can flight attendants legally block me in economy class, from assisting my disabled mom in business class?",
-   "ko": "승무원이 이코노미석에서 장애가 있는 어머니를 돕지 못하게 막을 수 있느냐고 묻는 글이에요.",
+   "title": "Thou still uneaten urn of gingerbread",
+   "ko": "생강과자로 만든 항아리에 관한 글이에요.",
    "source": {
-    "name": "Travel Stack Exchange",
-    "url": "https://travel.stackexchange.com/questions/205814/can-flight-attendants-legally-block-me-in-economy-class-from-assisting-my-disab"
-   },
-   "score": 19,
-   "comments": 1
+    "name": "MetaFilter",
+    "url": "https://www.metafilter.com/215150/Thou-still-uneaten-urn-of-gingerbread"
+   }
   },
   {
    "key": "2026-11-13-pm-h13",
    "kind": "star",
-   "title": "Messi is up for a record third MLS MVP award",
-   "ko": "메시가 MLS 최우수선수상 3번째 수상 기록에 도전하게 됐어요.",
+   "title": "Hulu sets a release date for The Spot with Claire Danes and Ewan McGregor",
+   "ko": "클레어 데인즈와 이완 맥그리거가 나오는 훌루 시리즈 더 스팟의 공개일이 정해졌어요.",
    "source": {
-    "name": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/50463634/mls-mvp-award-2026-lionel-messi-cavan-sullivan-griezmann"
+    "name": "Deadline",
+    "url": "https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/"
    }
   },
   {
    "key": "2026-11-13-pm-h14",
    "kind": "talk",
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "ko": "가짜 화재경보기 때문에 제인 스트리트의 뉴욕 데이터센터가 물에 잠길 뻔했다는 이야기예요.",
+   "title": "'Go down/up (to)' + public place",
+   "ko": "'go down/up (to)' 뒤에 공공장소를 붙이는 쓰임을 묻는 질문이에요.",
    "source": {
-    "name": "Hacker News",
-    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+    "name": "English Language Learners Stack Exchange",
+    "url": "https://ell.stackexchange.com/questions/376661/go-down-up-to-public-place"
    },
-   "score": 581,
-   "comments": 273
+   "score": 0,
+   "comments": 1
   },
   {
    "key": "2026-11-13-pm-h15",
-   "kind": "talk",
-   "title": "Does it make sense to contribute a chapter in book to an unknown publisher?",
-   "ko": "무명 출판사의 책에 한 챕터를 쓰는 게 괜찮은지 묻는 글이에요.",
+   "kind": "star",
+   "title": "Shygirl and Moby release new songs for the Club Kid soundtrack",
+   "ko": "샤이걸과 모비가 클럽 키드 사운드트랙의 새 곡을 냈어요.",
    "source": {
-    "name": "Academia Stack Exchange",
-    "url": "https://academia.stackexchange.com/questions/228061/does-it-make-sense-to-contribute-a-chapter-in-book-to-an-unknown-publisher"
-   },
-   "score": 9,
-   "comments": 2
+    "name": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/shygirl-moby-club-kid-soundtrack-a24-1235657425/"
+   }
   },
   {
    "key": "2026-11-13-pm-h16",
    "kind": "star",
-   "title": "aespa's 'LEMONADE' becomes their 12th music video with 100 million views",
-   "ko": "aespa의 'LEMONADE'가 12번째로 조회수 1억 회를 넘긴 뮤직비디오가 됐어요.",
+   "title": "Saba and Pivot Gang plan a 2027 North American tour",
+   "ko": "사바와 피벗 갱이 2027년 북미 투어를 계획해요.",
    "source": {
-    "name": "Soompi",
-    "url": "https://www.soompi.com/article/1886736wpp/aespas-lemonade-becomes-their-12th-mv-to-hit-100-million-views"
+    "name": "Pitchfork",
+    "url": "https://pitchfork.com/story/saba-and-pivot-gang-set-2027-north-american-tour/"
    }
   },
   {
    "key": "2026-11-13-pm-h17",
-   "kind": "talk",
-   "title": "Do people seriously pay $45 to download an article?",
-   "ko": "논문 한 편을 내려받는 데 정말 45달러를 내는 사람이 있느냐고 묻는 글이에요.",
-   "source": {
-    "name": "Academia Stack Exchange",
-    "url": "https://academia.stackexchange.com/questions/227982/do-people-seriously-pay-45-to-download-an-article"
-   },
-   "score": 33,
-   "comments": 6
-  },
-  {
-   "key": "2026-11-13-pm-h18",
    "kind": "star",
-   "title": "MachineGames confirms it is working on Wolfenstein 3",
-   "ko": "머신게임즈가 '울펜슈타인 3'를 개발 중이라고 확인했어요.",
+   "title": "Pixar's new movie Gatto gets its first in-depth trailer",
+   "ko": "픽사의 새 영화 가토가 처음으로 자세한 예고편을 공개했어요.",
    "source": {
-    "name": "IGN",
-    "url": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames"
+    "name": "Polygon",
+    "url": "https://www.polygon.com/pixar-gatto-trailer/"
    }
   },
   {
-   "key": "2026-11-13-pm-h19",
+   "key": "2026-11-13-pm-h18",
    "kind": "talk",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "ko": "유나이티드 항공이 AI 에이전트의 대리 항공권 예매를 금지했다는 소식이에요.",
+   "title": "Is a retroactive term limit law constitutional?",
+   "ko": "소급 적용되는 임기 제한법이 헌법에 맞는지 묻는 질문이에요.",
    "source": {
-    "name": "Hacker News",
-    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+    "name": "Law Stack Exchange",
+    "url": "https://law.stackexchange.com/questions/116992/is-a-retroactive-term-limit-law-constitutional"
    },
-   "score": 670,
-   "comments": 696
+   "score": 0,
+   "comments": 2
+  },
+  {
+   "key": "2026-11-13-pm-h19",
+   "kind": "star",
+   "title": "Malaysian war drama The Ghost and the Gun gets a worldwide Netflix release date",
+   "ko": "말레이시아 전쟁 드라마 더 고스트 앤 더 건이 전 세계 넷플릭스 공개를 확정했어요.",
+   "source": {
+    "name": "Variety",
+    "url": "https://variety.com/2026/tv/news/malaysian-war-drama-ghost-gun-netflix-global-1236946880/"
+   }
   },
   {
    "key": "2026-11-13-pm-h20",
    "kind": "talk",
-   "title": "PhD student is unfit for research, what to do?",
-   "ko": "연구에 맞지 않는 박사과정 학생이 어떻게 해야 하는지 묻는 글이에요.",
+   "title": "FAA Expands AI Advice to Manage Air Traffic Congestion Across Entire US Airspace",
+   "ko": "미국 연방항공청이 전국 하늘의 혼잡을 관리하는 데 AI 조언을 넓힌다는 소식이에요.",
    "source": {
-    "name": "Academia Stack Exchange",
-    "url": "https://academia.stackexchange.com/questions/227939/phd-student-is-unfit-for-research-what-to-do"
-   },
-   "score": 26,
-   "comments": 6
+    "name": "Slashdot",
+    "url": "https://slashdot.org/story/26/11/13/027258/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace"
+   }
   },
   {
    "key": "2026-11-13-pm-h21",
    "kind": "star",
-   "title": "Two pitchers win Cy Young awards by unanimous votes",
-   "ko": "두 투수가 만장일치로 사이영상을 받았어요.",
+   "title": "How the vampire newsroom thriller Red Ink was shot in a single take",
+   "ko": "흡혈귀 신문사 스릴러 레드 잉크를 원테이크로 찍은 방법을 다뤘어요.",
    "source": {
-    "name": "ESPN",
-    "url": "https://www.espn.com/mlb/story/_/id/50456772/brewers-misiorowski-yanks-schlittler-unanimous-cy-young-winners"
+    "name": "The Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/how-red-ink-pulled-off-a-single-take-1940s-vampire-thriller-1236754579/"
    }
   },
   {
    "key": "2026-11-13-pm-h22",
-   "kind": "talk",
-   "title": "Why is “back” used in “send solar energy back to Earth”?",
-   "ko": "'send solar energy back to Earth'에서 왜 'back'을 쓰는지 묻는 글이에요.",
+   "kind": "star",
+   "title": "Kings of Leon get a top debut on the Australian chart with O My Beloved",
+   "ko": "킹스 오브 레온이 새 앨범으로 호주 차트에 높은 순위로 첫 진입했어요.",
    "source": {
-    "name": "English Stack Exchange",
-    "url": "https://english.stackexchange.com/questions/641882/why-is-back-used-in-send-solar-energy-back-to-earth"
-   },
-   "score": 11,
-   "comments": 4
+    "name": "Billboard",
+    "url": "https://www.billboard.com/music/chart-beat/kings-of-leon-top-debut-aria-chart-o-my-beloved-1236381548/"
+   }
   },
   {
    "key": "2026-11-13-pm-h23",
    "kind": "star",
-   "title": "Blink-182 will headline the Download festival for the first time in 2027",
-   "ko": "블링크-182가 2027년 다운로드 페스티벌에서 처음으로 헤드라이너를 맡아요.",
+   "title": "Vikings say there is 'joy' as Cousins returns for his first full day",
+   "ko": "바이킹스가 커즌스의 복귀 첫날을 두고 팀에 \"기쁨\"이 돌았다고 말했어요.",
    "source": {
-    "name": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cm62pd078kk7o"
+    "name": "ESPN",
+    "url": "https://www.espn.com/nfl/story/_/id/50466164/vikings-hyped-welcome-back-leader-kirk-cousins-1st-day-practice"
    }
   },
   {
    "key": "2026-11-13-pm-h24",
-   "kind": "star",
-   "title": "id Software says it is making a new Doom game",
-   "ko": "id 소프트웨어가 새 '둠' 게임을 만들고 있다고 밝혔어요.",
+   "kind": "talk",
+   "title": "How do I determine the correct chord spelling when notes suggest two possible chords?",
+   "ko": "음이 두 코드로 읽힐 때 어떤 코드 표기가 맞는지 묻는 질문이에요.",
    "source": {
-    "name": "IGN",
-    "url": "https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin"
-   }
+    "name": "Music Stack Exchange",
+    "url": "https://music.stackexchange.com/questions/145484/how-do-i-determine-the-correct-chord-spelling-when-notes-suggest-two-possible-ch"
+   },
+   "score": 3,
+   "comments": 3
   },
   {
    "key": "2026-11-13-pm-h25",
-   "kind": "talk",
-   "title": "Team leader exhibits a strong Dunning-Kruger effect and makes everyone waste time. How to stop this?",
-   "ko": "자신감 넘치는 팀장이 모두의 시간을 낭비하게 할 때 어떻게 멈추게 하느냐고 묻는 글이에요.",
-   "source": {
-    "name": "Workplace Stack Exchange",
-    "url": "https://workplace.stackexchange.com/questions/203803/team-leader-exhibits-a-strong-dunning-kruger-effect-and-makes-everyone-waste-tim"
-   },
-   "score": 19,
-   "comments": 4
-  },
-  {
-   "key": "2026-11-13-pm-h26",
-   "kind": "talk",
-   "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-   "ko": "닌텐도가 깃허브에서 에뮬레이터와 펌웨어를 대거 내리게 했다는 소식이에요.",
-   "source": {
-    "name": "Hacker News",
-    "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep"
-   },
-   "score": 308,
-   "comments": 239
-  },
-  {
-   "key": "2026-11-13-pm-h27",
    "kind": "star",
-   "title": "Stephen Curry will miss at least two weeks with an oblique injury",
-   "ko": "스테픈 커리가 복사근 부상으로 최소 2주 동안 뛰지 못해요.",
+   "title": "Billie Piper talks about rivalry among women in the film industry and Oscar buzz for Elsinore",
+   "ko": "빌리 파이퍼가 영화계 여성들 사이의 경쟁과 엘시노어의 오스카 기대감을 이야기했어요.",
    "source": {
-    "name": "ESPN",
-    "url": "https://www.espn.com/nba/story/_/id/50462899/warriors-stephen-curry-least-2-weeks-oblique-tear"
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/film/2026/nov/13/billie-piper-women-industry-elsinore-oscar-buzz"
    }
   },
   {
-   "key": "2026-11-13-pm-h28",
-   "kind": "talk",
-   "title": "Another student answers questions for me at group meetings",
-   "ko": "그룹 미팅에서 다른 학생이 제 질문에 대신 답하는데 어떡하느냐고 묻는 글이에요.",
+   "key": "2026-11-13-pm-h26",
+   "kind": "star",
+   "title": "England win the Wheelchair World Cup for a third time",
+   "ko": "잉글랜드가 휠체어 월드컵에서 세 번째로 우승했어요.",
    "source": {
-    "name": "Academia Stack Exchange",
-    "url": "https://academia.stackexchange.com/questions/228043/another-student-answers-questions-for-me-at-group-meetings"
+    "name": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmlyd6kxk72po"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h27",
+   "kind": "talk",
+   "title": "Europe's electric car sales jump 49% as global EV sales grow",
+   "ko": "유럽의 전기차 판매가 49% 늘었다는 소식이에요.",
+   "source": {
+    "name": "Hacker News",
+    "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
    },
-   "score": 12,
-   "comments": 6
+   "score": 48,
+   "comments": 30
+  },
+  {
+   "key": "2026-11-13-pm-h28",
+   "kind": "star",
+   "title": "Alt-J announce their first UK tour in five years",
+   "ko": "알트제이가 5년 만의 영국 투어를 발표했어요.",
+   "source": {
+    "name": "NME",
+    "url": "https://www.nme.com/news/music/alt-j-announce-first-uk-tour-in-five-years-london-o2-date-buy-tickets-3975854"
+   }
   },
   {
    "key": "2026-11-13-pm-h29",
    "kind": "talk",
-   "title": "93% of paint splatters are valid Perl programs (2019)",
-   "ko": "페인트 튄 자국의 93%가 유효한 펄 프로그램이라는 재미있는 글이에요.",
+   "title": "Painting over an old radiator (that probably has lead paint)",
+   "ko": "납 페인트일 수 있는 오래된 라디에이터에 덧칠해도 되는지 묻는 질문이에요.",
    "source": {
-    "name": "Hacker News",
-    "url": "https://www.mcmillen.dev/sigbovik/"
+    "name": "Home Improvement Stack Exchange",
+    "url": "https://diy.stackexchange.com/questions/333751/painting-over-an-old-radiator-that-probably-has-lead-paint"
    },
-   "score": 571,
-   "comments": 79
+   "score": 1,
+   "comments": 1
   },
   {
    "key": "2026-11-13-pm-h30",
    "kind": "star",
-   "title": "P1Harmony sets a new first-week sales record with 'BLOW UP'",
-   "ko": "P1Harmony가 'BLOW UP'으로 첫 주 판매량 신기록을 세웠어요.",
+   "title": "The 2026 KBS Song Festival announces its artist lineup",
+   "ko": "2026 KBS 가요대축제가 출연 가수 라인업을 발표했어요.",
    "source": {
     "name": "Soompi",
-    "url": "https://www.soompi.com/article/1886627wpp/p1harmony-breaks-their-1st-week-sales-record-with-blow-up"
+    "url": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup"
    }
   },
   {
    "key": "2026-11-13-pm-h31",
-   "kind": "talk",
-   "title": "Why would the same job opening be reposted a few weeks later? Should I apply again?",
-   "ko": "같은 채용 공고가 몇 주 뒤 다시 올라오면 또 지원해도 되는지 묻는 글이에요.",
+   "kind": "star",
+   "title": "Billlie plans a fan concert to mark its fifth year",
+   "ko": "빌리가 데뷔 5주년을 맞아 팬 콘서트를 열어요.",
    "source": {
-    "name": "Workplace Stack Exchange",
-    "url": "https://workplace.stackexchange.com/questions/203824/why-would-the-same-job-opening-be-reposted-a-few-weeks-later-should-i-apply-aga"
-   },
-   "score": 14,
-   "comments": 4
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10936184"
+   }
   },
   {
    "key": "2026-11-13-pm-h32",
    "kind": "star",
-   "title": "Kevin Feige says Doctor Doom is not a Tony Stark variant in Avengers: Doomsday",
-   "ko": "케빈 파이기가 닥터 둠은 토니 스타크의 변형이 아니라고 확인해 줬어요.",
+   "title": "Skye Newman talks about her record-breaking run at Brixton Academy",
+   "ko": "스카이 뉴먼이 브릭스턴 아카데미 기록 공연의 소감을 전했어요.",
    "source": {
-    "name": "IGN",
-    "url": "https://www.ign.com/articles/doctor-doom-is-not-a-tony-stark-variant-in-avengers-doomsday-confirms-kevin-feige"
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo"
    }
   },
   {
    "key": "2026-11-13-pm-h33",
    "kind": "talk",
-   "title": "Can an unofficial souvenir stamp placed by a US border officer cause problems with my passport?",
-   "ko": "미국 국경 심사관이 찍어 준 비공식 기념 도장이 여권에 문제가 될지 묻는 글이에요.",
+   "title": "What is this disk around the hub of a public bicycle?",
+   "ko": "공공 자전거 허브에 달린 원판이 무엇인지 묻는 질문이에요.",
    "source": {
-    "name": "Travel Stack Exchange",
-    "url": "https://travel.stackexchange.com/questions/205833/can-an-unofficial-souvenir-stamp-placed-by-a-us-border-officer-cause-problems-wi"
+    "name": "Bicycles Stack Exchange",
+    "url": "https://bicycles.stackexchange.com/questions/100896/what-is-this-disk-around-the-hub-of-a-public-bicycle"
    },
-   "score": 12,
-   "comments": 1
+   "score": 4,
+   "comments": 2
   },
   {
    "key": "2026-11-13-pm-h34",
-   "kind": "talk",
-   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-   "ko": "공전에 약 280년이 걸리는 왜소행성 후보가 나타났다는 소식이에요.",
+   "kind": "star",
+   "title": "Yellowjackets cast says an emotional goodbye at the final-season premiere",
+   "ko": "옐로재킷츠 출연진이 마지막 시즌 시사회에서 아쉬운 작별 인사를 했어요.",
    "source": {
-    "name": "Hacker News",
-    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
-   },
-   "score": 302,
-   "comments": 125
+    "name": "Deadline",
+    "url": "https://deadline.com/2026/11/yellowjackets-cast-eulogizes-show-final-season-premiere-1237222092/"
+   }
   },
   {
    "key": "2026-11-13-pm-h35",
-   "kind": "star",
-   "title": "Arsenal hold Barcelona to a draw and stay unbeaten",
-   "ko": "아스널이 바르셀로나와 비기며 무패 행진을 이어 갔어요.",
+   "kind": "talk",
+   "title": "Siren culture",
+   "ko": "사이렌 문화를 소개하는 글이에요.",
    "source": {
-    "name": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo"
+    "name": "MetaFilter",
+    "url": "https://www.metafilter.com/215147/Siren-culture"
    }
   },
   {
    "key": "2026-11-13-pm-h36",
-   "kind": "talk",
-   "title": "“Your paper will be rejected if a reviewer can generate a better paper by using LLMs.”",
-   "ko": "논문 심사 의견에 'LLM이 더 잘 쓰면 탈락'이라는 말이 나왔는데 어떻게 보느냐고 묻는 글이에요.",
+   "kind": "star",
+   "title": "Hear Ella Langley's Hunger Games single Here Then We're Gone",
+   "ko": "엘라 랭글리의 헝거게임 싱글 히어 덴 위어 곤을 들을 수 있어요.",
    "source": {
-    "name": "Academia Stack Exchange",
-    "url": "https://academia.stackexchange.com/questions/228025/your-paper-will-be-rejected-if-a-reviewer-can-generate-a-better-paper-by-using"
-   },
-   "score": 14,
-   "comments": 7
+    "name": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/ella-langley-here-then-were-gone-hunger-games-single-1235657421/"
+   }
   },
   {
    "key": "2026-11-13-pm-h37",
    "kind": "star",
-   "title": "Wayne Rooney leads the cast of I'm A Celebrity",
-   "ko": "웨인 루니가 '아임 어 셀러브리티' 출연자 명단의 맨 앞에 올랐어요.",
+   "title": "Phoebe Bridgers adds more tour dates in 2027",
+   "ko": "피비 브리저스가 2027년 투어 일정을 늘렸어요.",
    "source": {
-    "name": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo"
+    "name": "Pitchfork",
+    "url": "https://pitchfork.com/story/phoebe-bridgers-extends-tour-into-2027/"
    }
   },
   {
    "key": "2026-11-13-pm-h38",
    "kind": "talk",
-   "title": "What is a phrase for a quick, slight, sideways tilt of the head indicating, clearly but gently, 'step aside in that direction'?",
-   "ko": "고개를 살짝 옆으로 기울여 부드럽게 '비켜 달라'는 뜻을 전하는 동작을 뭐라 부르는지 묻는 글이에요.",
+   "title": "Why do words accross completely different languages look so often like calques?",
+   "ko": "전혀 다른 언어의 단어들이 왜 이렇게 자주 말 그대로 옮긴 번역어처럼 보이는지 묻는 질문이에요.",
    "source": {
-    "name": "English Stack Exchange",
-    "url": "https://english.stackexchange.com/questions/641822/what-is-a-phrase-for-a-quick-slight-sideways-tilt-of-the-head-indicating-clea"
-   },
-   "score": 9,
-   "comments": 6
-  },
-  {
-   "key": "2026-11-13-pm-h39",
-   "kind": "star",
-   "title": "Spain welcome back Lamine Yamal for the match against England",
-   "ko": "스페인이 잉글랜드전을 앞두고 라민 야말의 복귀를 반겼어요.",
-   "source": {
-    "name": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/50465395/spain-yamal-record-streak-england"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h40",
-   "kind": "talk",
-   "title": "Ask HN: What are you working on? (November 2026)",
-   "ko": "2026년 11월에 여러분은 어떤 일을 하고 있느냐고 묻는 글이에요.",
-   "source": {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=50417407"
-   },
-   "score": 300,
-   "comments": 1070
-  },
-  {
-   "key": "2026-11-13-pm-h41",
-   "kind": "star",
-   "title": "The Game Awards 2026 will stream on Disney+",
-   "ko": "더 게임 어워드 2026이 디즈니+에서 방송돼요.",
-   "source": {
-    "name": "IGN",
-    "url": "https://www.ign.com/articles/the-game-awards-2026-are-coming-to-disney"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h42",
-   "kind": "talk",
-   "title": "Just like an Italian piazza, this garden has grown a community",
-   "ko": "이탈리아 광장처럼 공동체가 자라난 어느 정원 이야기예요.",
-   "source": {
-    "name": "MetaFilter",
-    "url": "https://www.metafilter.com/215151/Just-like-an-Italian-piazza-this-garden-has-grown-a-community"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h43",
-   "kind": "talk",
-   "title": "How can I deal with passengers asking me to lift their cabin baggage? What are tactics to avoid getting asked to (un)load others' carry-ons?",
-   "ko": "승객이 기내 짐을 들어 달라고 할 때 어떻게 피하느냐고 묻는 글이에요.",
-   "source": {
-    "name": "Travel Stack Exchange",
-    "url": "https://travel.stackexchange.com/questions/205819/how-can-i-deal-with-passengers-asking-me-to-lift-their-cabin-baggage-what-are-t"
-   },
-   "score": 12,
-   "comments": 2
-  },
-  {
-   "key": "2026-11-13-pm-h44",
-   "kind": "star",
-   "title": "Mike Myers says he might be in the Shrek spinoff 'Donkey'",
-   "ko": "마이크 마이어스가 슈렉 스핀오프 '동키'에 나올 수도 있다고 말했어요.",
-   "source": {
-    "name": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/mike-myers-shrek-spinoff-donkey-austin-powers-4-1236754333/"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h45",
-   "kind": "talk",
-   "title": "A life, seen through paper",
-   "ko": "종이를 통해 한 사람의 삶을 들여다보는 글이에요.",
-   "source": {
-    "name": "MetaFilter",
-    "url": "https://www.metafilter.com/215145/A-life-seen-through-paper"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h46",
-   "kind": "talk",
-   "title": "How do you successfully pivot a conversation when a recruiter reaches out for the wrong position?",
-   "ko": "엉뚱한 자리로 연락 온 리크루터와 대화를 어떻게 풀어 가는지 묻는 글이에요.",
-   "source": {
-    "name": "Workplace Stack Exchange",
-    "url": "https://workplace.stackexchange.com/questions/203796/how-do-you-successfully-pivot-a-conversation-when-a-recruiter-reaches-out-for-th"
-   },
-   "score": 9,
-   "comments": 5
-  },
-  {
-   "key": "2026-11-13-pm-h47",
-   "kind": "star",
-   "title": "Andreeva beats Sabalenka to reach the WTA Finals semifinals",
-   "ko": "안드레예바가 사발렌카를 꺾고 WTA 파이널스 준결승에 올랐어요.",
-   "source": {
-    "name": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/tennis/videos/cqrmg2w1038ro"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h48",
-   "kind": "star",
-   "title": "Stray Kids' Lee Know is preparing for a solo debut",
-   "ko": "스트레이 키즈의 리노가 솔로 데뷔를 준비 중이라고 확인됐어요.",
-   "source": {
-    "name": "Soompi",
-    "url": "https://www.soompi.com/article/1886285wpp/stray-kids-lee-know-confirmed-to-be-gearing-up-for-solo-debut"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h49",
-   "kind": "talk",
-   "title": "How to know what you don't know?",
-   "ko": "자신이 무엇을 모르는지 어떻게 알 수 있느냐고 묻는 글이에요.",
-   "source": {
-    "name": "Academia Stack Exchange",
-    "url": "https://academia.stackexchange.com/questions/228015/how-to-know-what-you-dont-know"
-   },
-   "score": 17,
-   "comments": 3
-  },
-  {
-   "key": "2026-11-13-pm-h50",
-   "kind": "talk",
-   "title": "Eurasian bitterns pretending to be reeds",
-   "ko": "유럽 알락해오라기가 갈대인 척하는 모습을 다룬 글이에요.",
-   "source": {
-    "name": "MetaFilter",
-    "url": "https://www.metafilter.com/215141/Eurasian-bitterns-pretending-to-be-reeds"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h51",
-   "kind": "star",
-   "title": "Resident Evil Requiem wins big at the Golden Joystick Awards",
-   "ko": "'레지던트 이블 레퀴엠'이 골든 조이스틱 어워드를 휩쓸었어요.",
-   "source": {
-    "name": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cmg46y76kz5no"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h52",
-   "kind": "talk",
-   "title": "Is \"notifying X to Y\" actually used in modern English?",
-   "ko": "'notifying X to Y'가 요즘 영어에서 실제로 쓰이는지 묻는 글이에요.",
-   "source": {
-    "name": "English Stack Exchange",
-    "url": "https://english.stackexchange.com/questions/641814/is-notifying-x-to-y-actually-used-in-modern-english"
-   },
-   "score": 9,
-   "comments": 2
-  },
-  {
-   "key": "2026-11-13-pm-h53",
-   "kind": "talk",
-   "title": "Every processor die anyone has photographed and given away",
-   "ko": "누군가 촬영해 공개한 모든 프로세서 칩 사진을 모아 놓은 글이에요.",
-   "source": {
-    "name": "MetaFilter",
-    "url": "https://www.metafilter.com/215142/Every-processor-die-anyone-has-photographed-and-given-away"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h54",
-   "kind": "star",
-   "title": "Pio Esposito scores twice for Italy against France",
-   "ko": "피오 에스포지토가 프랑스전에서 이탈리아의 두 골을 넣었어요.",
-   "source": {
-    "name": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/50465651/esposito-brace-italy-win-france-nations-league"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h55",
-   "kind": "talk",
-   "title": "Has loyalty to an institution become more highly valued than mobility?",
-   "ko": "이동성보다 기관에 대한 충성이 더 높이 평가받게 된 건지 묻는 글이에요.",
-   "source": {
-    "name": "Academia Stack Exchange",
-    "url": "https://academia.stackexchange.com/questions/227990/has-loyalty-to-an-institution-become-more-highly-valued-than-mobility"
-   },
-   "score": 17,
-   "comments": 3
-  },
-  {
-   "key": "2026-11-13-pm-h56",
-   "kind": "star",
-   "title": "Lisa shares the full setlist from night one of her Las Vegas residency",
-   "ko": "리사가 라스베이거스 공연 첫날의 전체 세트리스트를 공개했어요.",
-   "source": {
-    "name": "Billboard",
-    "url": "https://www.billboard.com/lists/lisa-viva-la-lisa-las-vegas-residency-setlist-every-song/"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h57",
-   "kind": "talk",
-   "title": "Deal with junior devs profusely using LLMs",
-   "ko": "LLM을 지나치게 쓰는 주니어 개발자를 어떻게 대해야 하느냐고 묻는 글이에요.",
-   "source": {
-    "name": "Workplace Stack Exchange",
-    "url": "https://workplace.stackexchange.com/questions/203865/deal-with-junior-devs-profusely-using-llms"
-   },
-   "score": 1,
-   "comments": 1
-  },
-  {
-   "key": "2026-11-13-pm-h58",
-   "kind": "talk",
-   "title": "Lessons from Japan's childcare system",
-   "ko": "일본의 보육 제도에서 배울 점을 다룬 글이에요.",
-   "source": {
-    "name": "MetaFilter",
-    "url": "https://www.metafilter.com/215140/Lessons-from-Japans-childcare-system"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h59",
-   "kind": "talk",
-   "title": "Could AI help decide the medals at the LA28 Olympics?",
-   "ko": "AI가 LA28 올림픽의 메달을 가리는 데 쓰일 수 있을지 묻는 글이에요.",
-   "source": {
-    "name": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/olympics/articles/ck8dvp681e94o"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h60",
-   "kind": "talk",
-   "title": "What is the shortest portmanteau? Is there one shorter than \"bit\"?",
-   "ko": "'bit'보다 짧은 혼성어(portmanteau)가 있는지 묻는 글이에요.",
-   "source": {
-    "name": "English Stack Exchange",
-    "url": "https://english.stackexchange.com/questions/641855/what-is-the-shortest-portmanteau-is-there-one-shorter-than-bit"
-   },
-   "score": 8,
-   "comments": 5
-  },
-  {
-   "key": "2026-11-13-pm-h61",
-   "kind": "star",
-   "title": "CL signs with THEBLACKLABEL and plans new music this month",
-   "ko": "CL이 더블랙레이블과 계약하고 이달 안에 신곡을 낸다고 해요.",
-   "source": {
-    "name": "Soompi",
-    "url": "https://www.soompi.com/article/1886533wpp/cl-signs-with-theblacklabel-to-release-new-music-in-november"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h62",
-   "kind": "talk",
-   "title": "\"The first Pacific Islander to visit Britain\"",
-   "ko": "영국을 처음 찾은 태평양 섬 출신 사람을 다룬 글이에요.",
-   "source": {
-    "name": "MetaFilter",
-    "url": "https://www.metafilter.com/215144/The-first-Pacific-Islander-to-visit-Britain"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h63",
-   "kind": "talk",
-   "title": "Meaning of \"The author takes full responsibility\"",
-   "ko": "'The author takes full responsibility'라는 말이 무슨 뜻인지 묻는 글이에요.",
-   "source": {
-    "name": "Academia Stack Exchange",
-    "url": "https://academia.stackexchange.com/questions/228077/meaning-of-the-author-takes-full-responsibility"
-   },
-   "score": 15,
-   "comments": 4
-  },
-  {
-   "key": "2026-11-13-pm-h64",
-   "kind": "star",
-   "title": "Beckham, Rapinoe, Altidore and Ertz are picked for the US Soccer Hall of Fame",
-   "ko": "베컴, 라피노, 알티도어, 어츠가 미국 축구 명예의 전당에 오르게 됐어요.",
-   "source": {
-    "name": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/50465897/rapinoe-altidore-ertz-national-soccer-hall-fame"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h65",
-   "kind": "talk",
-   "title": "Am I the kind of employee who gets praised for doing the work but never promoted?",
-   "ko": "일은 잘한다고 칭찬만 받고 승진은 못 하는 직원인지 고민을 묻는 글이에요.",
-   "source": {
-    "name": "Workplace Stack Exchange",
-    "url": "https://workplace.stackexchange.com/questions/203850/am-i-the-kind-of-employee-who-gets-praised-for-doing-the-work-but-never-promoted"
+    "name": "Linguistics Stack Exchange",
+    "url": "https://linguistics.stackexchange.com/questions/52925/why-do-words-accross-completely-different-languages-look-so-often-like-calques"
    },
    "score": 1,
    "comments": 0
   },
   {
-   "key": "2026-11-13-pm-h66",
+   "key": "2026-11-13-pm-h39",
    "kind": "star",
-   "title": "Beyoncé recreates Sade's 'Love Deluxe' album cover",
-   "ko": "비욘세가 새드의 '러브 디럭스' 앨범 표지를 똑같이 재현했어요.",
+   "title": "Tim Burton's dark fantasy film is now free on YouTube",
+   "ko": "팀 버튼의 다크 판타지 영화가 유튜브에서 무료로 공개됐어요.",
+   "source": {
+    "name": "Polygon",
+    "url": "https://www.polygon.com/corpse-bride-streaming-free-youtube-november-2026/"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h40",
+   "kind": "star",
+   "title": "Tony winner Lois Smith joins the cast of Outside of Cleveland",
+   "ko": "토니상 수상자 로이스 스미스가 아웃사이드 오브 클리블랜드에 합류했어요.",
+   "source": {
+    "name": "Variety",
+    "url": "https://variety.com/2026/film/actors/lois-smith-colin-west-outside-of-cleveland-alex-wolff-1236945021/"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h41",
+   "kind": "star",
+   "title": "Tyrese Gibson will star in the sports drama Under the Boards",
+   "ko": "타이리스 깁슨이 스포츠 드라마 언더 더 보즈에 출연해요.",
+   "source": {
+    "name": "The Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/tyrese-gibson-star-under-the-boards-scott-rosenfelt-1236754448/"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h42",
+   "kind": "talk",
+   "title": "Euclid Mission Data Release Spans More Than 900 Million Galaxies",
+   "ko": "유클리드 임무 자료가 9억 개 넘는 은하로 공개됐다는 소식이에요.",
+   "source": {
+    "name": "Slashdot",
+    "url": "https://science.slashdot.org/story/26/11/13/0146211/euclid-mission-data-release-spans-more-than-900-million-galaxies"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h43",
+   "kind": "talk",
+   "title": "Where to look for academic or scientific discussion of friendship",
+   "ko": "우정을 다룬 학술적·과학적 논의를 어디서 찾을지 묻는 질문이에요.",
+   "source": {
+    "name": "Philosophy Stack Exchange",
+    "url": "https://philosophy.stackexchange.com/questions/143290/where-to-look-for-academic-or-scientific-discussion-of-friendship"
+   },
+   "score": 3,
+   "comments": 0
+  },
+  {
+   "key": "2026-11-13-pm-h44",
+   "kind": "star",
+   "title": "Raiders finally start rookie QB Mendoza after sitting him",
+   "ko": "레이더스가 벤치에 두던 신인 쿼터백 멘도사를 드디어 쓰기로 한 결정을 다뤘어요.",
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nfl/story/_/id/50462155/raiders-starting-fernando-mendoza-plan-decision-graziano"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h45",
+   "kind": "star",
+   "title": "Review: Jessica Chastain's Netflix country-music thriller Heartland",
+   "ko": "제시카 채스테인이 나오는 넷플릭스 컨트리 음악 스릴러 하트랜드의 리뷰예요.",
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/film/2026/nov/13/heartland-review-jessica-chastain-netflix"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h46",
+   "kind": "star",
+   "title": "How Wales stopped Erling Haaland",
+   "ko": "웨일스가 홀란을 어떻게 막았는지를 다뤘어요.",
+   "source": {
+    "name": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h47",
+   "kind": "talk",
+   "title": "Did Franz Joseph I ever say \"the midwife of history is violence?\"",
+   "ko": "프란츠 요제프 1세가 '역사의 산파는 폭력이다'라고 말했는지 묻는 질문이에요.",
+   "source": {
+    "name": "History Stack Exchange",
+    "url": "https://history.stackexchange.com/questions/80451/did-franz-joseph-i-ever-say-the-midwife-of-history-is-violence"
+   },
+   "score": 0,
+   "comments": 0
+  },
+  {
+   "key": "2026-11-13-pm-h48",
+   "kind": "star",
+   "title": "Matt Lucas starts a podcast about celebrities who made big mistakes",
+   "ko": "맷 루카스가 유명인들의 큰 실수를 다루는 팟캐스트를 시작해요.",
+   "source": {
+    "name": "NME",
+    "url": "https://www.nme.com/news/tv/matt-lucas-podcast-howler-celebrities-who-have-made-huge-mistakes-3975856"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h49",
+   "kind": "talk",
+   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+   "ko": "구독이 필요한 300달러짜리 자수기를 보고 직접 앱을 만든 이야기예요.",
+   "source": {
+    "name": "Hacker News",
+    "url": "https://github.com/simpsoka/zigzag"
+   },
+   "score": 567,
+   "comments": 194
+  },
+  {
+   "key": "2026-11-13-pm-h50",
+   "kind": "star",
+   "title": "A deadly fight to survive in the drama White Blast takes a dangerous turn",
+   "ko": "드라마 화이트 블라스트에서 생존을 건 싸움이 위험하게 흘러가요.",
+   "source": {
+    "name": "Soompi",
+    "url": "https://www.soompi.com/article/1886778wpp/koo-kyo-hwan-and-kim-yun-seoks-fight-for-survival-takes-a-dangerous-turn-in-white-blast"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h51",
+   "kind": "star",
+   "title": "aespa gives a new spin to the classic carol Santa Baby",
+   "ko": "에스파가 크리스마스 캐럴 산타 베이비를 새롭게 불렀어요.",
+   "source": {
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10936087"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h52",
+   "kind": "star",
+   "title": "The Ocarina of Time remake producer says the ReDeads were first meant to be scarier",
+   "ko": "젤다 시간의 오카리나 리메이크 제작자가 레드데드를 원래 더 무섭게 만들려 했다고 했어요.",
+   "source": {
+    "name": "IGN",
+    "url": "https://www.ign.com/articles/maybe-weve-gone-a-step-too-far-ocarina-of-time-remake-producer-reveals-the-games-redeads-were-originally-supposed-to-be-even-scarier"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h53",
+   "kind": "talk",
+   "title": "Strategies for obtaining actionable feedback on a paper manuscript",
+   "ko": "논문 원고에 대해 쓸모 있는 피드백을 얻는 방법을 묻는 질문이에요.",
+   "source": {
+    "name": "Academia Stack Exchange",
+    "url": "https://academia.stackexchange.com/questions/228080/strategies-for-obtaining-actionable-feedback-on-a-paper-manuscript"
+   },
+   "score": 4,
+   "comments": 3
+  },
+  {
+   "key": "2026-11-13-pm-h54",
+   "kind": "star",
+   "title": "Bond producer becomes the first female president of a film school",
+   "ko": "본드 영화 제작자가 영화 학교의 첫 여성 총장이 됐어요.",
+   "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cq36gngnk09do"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h55",
+   "kind": "star",
+   "title": "Chris Colfer says he is talking about a Glee reboot",
+   "ko": "크리스 콜퍼가 글리 리부트에 대해 이야기 중이라고 했어요.",
+   "source": {
+    "name": "Deadline",
+    "url": "https://deadline.com/2026/11/chris-colfer-conversation-glee-reboot-1237222143/"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h56",
+   "kind": "star",
+   "title": "Daddy Yankee's Latin Grammys medley was a big show",
+   "ko": "다디 양키의 라틴 그래미 메들리 무대가 큰 쇼였다는 평이에요.",
+   "source": {
+    "name": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/daddy-yankee-latin-grammys-coachella-preview-ll-cool-j-1235655734/"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h57",
+   "kind": "talk",
+   "title": "What aspects of \"A Moment of War\" are historically unreliable?",
+   "ko": "'A Moment of War'에서 역사적으로 믿기 어려운 부분이 무엇인지 묻는 질문이에요.",
+   "source": {
+    "name": "Literature Stack Exchange",
+    "url": "https://literature.stackexchange.com/questions/32451/what-aspects-of-a-moment-of-war-are-historically-unreliable"
+   },
+   "score": 3,
+   "comments": 0
+  },
+  {
+   "key": "2026-11-13-pm-h58",
+   "kind": "star",
+   "title": "The Weeknd sings karaoke in the video for Hong Kong",
+   "ko": "위켄드가 홍콩 뮤직비디오에서 노래방 장면을 보여 줘요.",
    "source": {
     "name": "Pitchfork",
-    "url": "https://pitchfork.com/story/beyonce-recreates-sades-love-deluxe-album-cover/"
+    "url": "https://pitchfork.com/story/the-weeknd-broods-sings-karaoke-in-hong-kong-video/"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h59",
+   "kind": "star",
+   "title": "26 years later, Charles Schulz's final Peanuts strip is still a classic",
+   "ko": "찰스 슐츠의 마지막 피너츠 만화가 26년이 지나도 명작으로 꼽혀요.",
+   "source": {
+    "name": "Polygon",
+    "url": "https://www.polygon.com/peanuts-final-comic-strip-charlie-brown/"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h60",
+   "kind": "star",
+   "title": "Harden scores 32 points in a throwback game to lead the Cavaliers",
+   "ko": "하든이 32점을 넣으며 예전 같은 활약으로 캐벌리어스를 이끌었어요.",
+   "source": {
+    "name": "ESPN",
+    "url": "https://www.espn.com/nba/story/_/id/50458667/cavaliers-james-harden-ends-slow-start-season-high-32-points-beat-knicks"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h61",
+   "kind": "star",
+   "title": "Review: legal thriller The Good Daughter, with Brendan Gleeson",
+   "ko": "브렌던 글리슨이 나오는 법정 스릴러 굿 도터의 리뷰예요.",
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/the-good-daughter-review-brendan-gleeson-rose-byrne-meghann-fahy"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h62",
+   "kind": "talk",
+   "title": "Old sci-fi story about a boy deciding between his parents and wolf-like beings they warned him against",
+   "ko": "부모가 경고한 늑대 같은 존재와 부모 사이에서 고민하는 소년이 나오는 옛 SF 소설을 찾는 질문이에요.",
+   "source": {
+    "name": "Science Fiction & Fantasy Stack Exchange",
+    "url": "https://scifi.stackexchange.com/questions/306477/old-sci-fi-story-about-a-boy-deciding-between-his-parents-and-wolf-like-beings-t"
+   },
+   "score": 7,
+   "comments": 0
+  },
+  {
+   "key": "2026-11-13-pm-h63",
+   "kind": "star",
+   "title": "How Riley went from KSI's trainer to a world-title dream",
+   "ko": "라일리가 KSI의 트레이너에서 세계 타이틀을 꿈꾸는 선수가 된 이야기예요.",
+   "source": {
+    "name": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/boxing/articles/c623jlg88yymo"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h64",
+   "kind": "talk",
+   "title": "Study Hard, Get a Career, Get Ahead? It's Not What It Used to Be",
+   "ko": "공부 열심히 하고 취업하면 앞서 간다는 말이 예전 같지 않다는 글이에요.",
+   "source": {
+    "name": "Hacker News",
+    "url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html"
+   },
+   "score": 6,
+   "comments": 2
+  },
+  {
+   "key": "2026-11-13-pm-h65",
+   "kind": "star",
+   "title": "U2 announce a Live On The BBC special from a small Tate Modern show",
+   "ko": "U2가 테이트 모던 공연을 담은 BBC 특집 방송을 발표했어요.",
+   "source": {
+    "name": "NME",
+    "url": "https://www.nme.com/news/music/u2-announce-live-on-the-bbc-special-intimate-tate-modern-show-watch-3975831"
+   }
+  },
+  {
+   "key": "2026-11-13-pm-h66",
+   "kind": "star",
+   "title": "Jin Se-yeon signs with Fantagio",
+   "ko": "진세연이 판타지오와 계약했어요.",
+   "source": {
+    "name": "Soompi",
+    "url": "https://www.soompi.com/article/1886536wpp/jin-se-yeon-signs-with-fantagio"
    }
   },
   {
    "key": "2026-11-13-pm-h67",
    "kind": "talk",
-   "title": "An Oligarch wants your trees",
-   "ko": "한 올리가르히가 시민들의 나무를 원한다는 글이에요.",
+   "title": "Ask HN: What % of HN is now AI-generated?",
+   "ko": "해커뉴스 글 중 AI가 쓴 비율이 얼마나 되는지 묻는 글이에요.",
    "source": {
-    "name": "MetaFilter",
-    "url": "https://www.metafilter.com/215143/An-Oligarch-wants-your-trees"
-   }
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50473788"
+   },
+   "score": 4,
+   "comments": 2
   },
   {
    "key": "2026-11-13-pm-h68",
-   "kind": "talk",
-   "title": "Ask HN: Do you still enjoy coding in C++?",
-   "ko": "요즘도 C++로 코딩하는 게 즐거운지 묻는 글이에요.",
+   "kind": "star",
+   "title": "Movies in theaters this week in Korea",
+   "ko": "이번 주 한국 극장에서 볼 수 있는 영화를 소개했어요.",
    "source": {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=50423371"
-   },
-   "score": 62,
-   "comments": 89
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10935514"
+   }
   },
   {
    "key": "2026-11-13-pm-h69",
-   "kind": "star",
-   "title": "Fable shows four minutes of new gameplay",
-   "ko": "'페이블'이 새 플레이 영상 4분을 공개했어요.",
+   "kind": "talk",
+   "title": "A new GDC survey shows more AI use among game developers",
+   "ko": "GDC 설문에서 게임 개발자들의 AI 사용이 늘었다고 나왔어요.",
    "source": {
     "name": "IGN",
-    "url": "https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay"
+    "url": "https://www.ign.com/articles/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey"
    }
   },
   {
    "key": "2026-11-13-pm-h70",
-   "kind": "talk",
-   "title": "Dad Issues in Space: 50th anniversary release",
-   "ko": "'Dad Issues in Space'의 50주년 기념 출시를 다룬 글이에요.",
+   "kind": "star",
+   "title": "Rockets' Smart is suspended for three games for a punch",
+   "ko": "로키츠의 스마트가 주먹을 휘둘러 3경기 출전 정지를 받았어요.",
    "source": {
-    "name": "MetaFilter",
-    "url": "https://www.metafilter.com/215146/Dad-Issues-in-Space-50th-anniversary-release"
+    "name": "ESPN",
+    "url": "https://www.espn.com/nba/story/_/id/50465316/rockets-marcus-smart-suspended-three-games-punch"
    }
   },
   {
    "key": "2026-11-13-pm-h71",
    "kind": "talk",
-   "title": "Is \"belie\" correctly used in the movie My Salinger Year (2021)?",
-   "ko": "영화 '마이 샐린저 이어'에서 'belie'를 제대로 쓴 건지 묻는 글이에요.",
+   "title": "Is there a 'right amount' of AI?",
+   "ko": "AI에는 '알맞은 양'이 있는지 묻는 글이에요.",
    "source": {
-    "name": "English Stack Exchange",
-    "url": "https://english.stackexchange.com/questions/641866/is-belie-correctly-used-in-the-movie-my-salinger-year-2021"
+    "name": "Hacker News",
+    "url": "https://coyotetracks.org/blog/right-amount-of-ai/"
    },
    "score": 5,
    "comments": 2
   },
   {
    "key": "2026-11-13-pm-h72",
-   "kind": "star",
-   "title": "The Lakers win their seventh straight game despite injuries",
-   "ko": "부상자가 많은 레이커스가 7연승을 이어 갔어요.",
+   "kind": "talk",
+   "title": "Zimbabwean author cleared of using AI to write a prize-winning story",
+   "ko": "짐바브웨 작가가 상 받은 이야기를 AI로 썼다는 의심에서 벗어났어요.",
    "source": {
-    "name": "ESPN",
-    "url": "https://www.espn.com/nba/story/_/id/50459249/reaves-exits-heel-injury-banged-lakers-win-again"
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story"
    }
   },
   {
    "key": "2026-11-13-pm-h73",
-   "kind": "star",
-   "title": "EXO-KASE announces the dates and cities for its first fan concert tour",
-   "ko": "EXO-KASE가 첫 팬 콘서트 투어의 날짜와 도시를 발표했어요.",
+   "kind": "talk",
+   "title": "Baggage lost in connection at CDG",
+   "ko": "샤를 드골 공항에서 환승하다 짐을 잃어버렸을 때를 묻는 질문이에요.",
    "source": {
-    "name": "Soompi",
-    "url": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city"
-   }
+    "name": "Travel Stack Exchange",
+    "url": "https://travel.stackexchange.com/questions/205849/baggage-lost-in-connection-at-cdg"
+   },
+   "score": 0,
+   "comments": 0
   },
   {
    "key": "2026-11-13-pm-h74",
-   "kind": "talk",
-   "title": "How to sleep comfortable at airport?",
-   "ko": "공항에서 편하게 자려면 어떻게 하느냐고 묻는 글이에요.",
+   "kind": "star",
+   "title": "Crystal Palace sack Sage after 16 games",
+   "ko": "크리스털 팰리스가 16경기 만에 사주 감독을 내보냈어요.",
    "source": {
-    "name": "Travel Stack Exchange",
-    "url": "https://travel.stackexchange.com/questions/205816/how-to-sleep-comfortable-at-airport"
-   },
-   "score": 0,
-   "comments": 1
+    "name": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do"
+   }
   },
   {
    "key": "2026-11-13-pm-h75",
-   "kind": "talk",
-   "title": "SpaceX To Invest $74 Billion Into Data Center Construction Projects In Texas, Arizona",
-   "ko": "스페이스X가 텍사스와 애리조나의 데이터센터 건설에 740억 달러를 투자한다는 소식이에요.",
+   "kind": "star",
+   "title": "Ausmus is hired as the new Astros manager",
+   "ko": "오스머스가 휴스턴 애스트로스의 새 감독으로 정해졌어요.",
    "source": {
-    "name": "Slashdot",
-    "url": "https://slashdot.org/story/26/11/13/0121210/spacex-to-invest-74-billion-into-data-center-construction-projects-in-texas-arizona"
+    "name": "ESPN",
+    "url": "https://www.espn.com/mlb/story/_/id/50453386/source-astros-hire-brad-ausmus-new-manager"
    }
   },
   {
    "key": "2026-11-13-pm-h76",
    "kind": "star",
-   "title": "Sony brings back a $2.5 billion Spider-Man hit with new footage",
-   "ko": "소니가 25억 달러를 번 스파이더맨 영화를 새 영상과 함께 다시 선보인대요.",
+   "title": "Morgan Rogers says it is a lie that Cole Palmer does not want to play for England",
+   "ko": "모건 로저스가 팔머가 잉글랜드 대표를 원치 않는다는 말은 거짓이라고 했어요.",
    "source": {
-    "name": "Polygon",
-    "url": "https://www.polygon.com/spider-man-brand-new-day-rerelease-extended-new-footage-cameos/"
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england"
    }
   },
   {
    "key": "2026-11-13-pm-h77",
    "kind": "talk",
-   "title": "In Michael (2026), why does the mother hesitate and request the autograph for \"Pauline\" instead of her son Max?",
-   "ko": "영화 '마이클(2026)'에서 어머니가 아들 맥스 대신 '폴린'에게 줄 사인을 왜 망설이는지 묻는 글이에요.",
+   "title": "Is the preposition \"despite\" used properly in this sentence?",
+   "ko": "문장에서 전치사 'despite'를 제대로 썼는지 묻는 질문이에요.",
    "source": {
-    "name": "Movies & TV Stack Exchange",
-    "url": "https://movies.stackexchange.com/questions/133513/in-michael-2026-why-does-the-mother-hesitate-and-request-the-autograph-for-p"
+    "name": "English Language Learners Stack Exchange",
+    "url": "https://ell.stackexchange.com/questions/376660/is-the-preposition-despite-used-properly-in-this-sentence"
    },
-   "score": 9,
-   "comments": 1
+   "score": 0,
+   "comments": 0
   },
   {
    "key": "2026-11-13-pm-h78",
-   "kind": "talk",
-   "title": "Whoop Launches a Social Network Where Every User Has a 'Verified Heartbeat'",
-   "ko": "웁(Whoop)이 모든 사용자가 '검증된 심박'을 가진 소셜 네트워크를 선보였어요.",
+   "kind": "star",
+   "title": "McIlroy makes a strong start in his bid to equal Montgomerie's record",
+   "ko": "매킬로이가 몽고메리의 기록과 같아지려는 도전을 좋은 출발로 시작했어요.",
    "source": {
-    "name": "Slashdot",
-    "url": "https://tech.slashdot.org/story/26/11/13/0135237/whoop-launches-a-social-network-where-every-user-has-a-verified-heartbeat"
+    "name": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/golf/articles/cwlymny900ezo"
    }
   },
   {
    "key": "2026-11-13-pm-h79",
-   "kind": "star",
-   "title": "Gang Dong-won and Kim Go-eun will star in a new historical fantasy romance drama",
-   "ko": "강동원과 김고은이 새 사극 판타지 로맨스 드라마에 출연하기로 했어요.",
+   "kind": "talk",
+   "title": "AI Is Destroying the Trust Between Writers and Readers",
+   "ko": "AI가 글쓴이와 독자 사이의 믿음을 무너뜨리고 있다는 글이에요.",
    "source": {
-    "name": "Soompi",
-    "url": "https://www.soompi.com/article/1886157wpp/gang-dong-won-and-kim-go-eun-confirmed-to-star-in-new-historical-fantasy-romance-drama-the-twilight-between-us"
-   }
+    "name": "Hacker News",
+    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+   },
+   "score": 9,
+   "comments": 0
   },
   {
    "key": "2026-11-13-pm-h80",
-   "kind": "talk",
-   "title": "Why is the Aries 1B Space Station to Moon shuttle's landing gear in 2001: A Space Odyssey retractable if it only operates in a vacuum?",
-   "ko": "영화 '2001 스페이스 오디세이'의 셔틀 착륙 장치가 왜 접히는지 묻는 글이에요.",
+   "kind": "star",
+   "title": "Braves agree a three-year, $35 million deal with reliever Phillips",
+   "ko": "애틀랜타가 불펜 필립스와 3년 3,500만 달러에 계약하기로 했어요.",
    "source": {
-    "name": "Science Fiction & Fantasy Stack Exchange",
-    "url": "https://scifi.stackexchange.com/questions/306446/why-is-the-aries-1b-space-station-to-moon-shuttles-landing-gear-in-2001-a-spac"
-   },
-   "score": 16,
-   "comments": 1
+    "name": "ESPN",
+    "url": "https://www.espn.com/mlb/story/_/id/50464197/braves-reliever-evan-phillips-agree-3-year-35m-deal"
+   }
   },
   {
    "key": "2026-11-13-pm-h81",
    "kind": "star",
-   "title": "Why Tarantino first fired two actresses from Inglourious Basterds",
-   "ko": "타란티노가 '바스터즈'에서 두 배우를 처음에 왜 해고했는지 다룬 글이에요.",
+   "title": "Robertson matches Scotland's cap record and thanks Kenny Dalglish",
+   "ko": "로버트슨이 스코틀랜드 최다 출전 기록과 같아지며 달글리시에게 감사를 전했어요.",
    "source": {
-    "name": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-fired-melanie-laurent-isabelle-huppert-inglourious-basterds-1236754336/"
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record"
    }
   },
   {
    "key": "2026-11-13-pm-h82",
-   "kind": "talk",
-   "title": "What was Tom Riddle’s pet at Hogwarts?",
-   "ko": "톰 리들이 호그와트에서 키운 애완동물이 무엇이었는지 묻는 글이에요.",
+   "kind": "star",
+   "title": "Why Lionel Messi will not 'do a Wrexham' with Cornellà",
+   "ko": "메시가 코르넬라를 두고 렉섬 같은 구단 인수는 하지 않을 이유를 다뤘어요.",
    "source": {
-    "name": "Science Fiction & Fantasy Stack Exchange",
-    "url": "https://scifi.stackexchange.com/questions/306377/what-was-tom-riddle-s-pet-at-hogwarts"
-   },
-   "score": 14,
-   "comments": 2
+    "name": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat"
+   }
   },
   {
    "key": "2026-11-13-pm-h83",
    "kind": "talk",
-   "title": "Google Pushes Privacy Angle As Gemini-Powered Smartglasses Debut",
-   "ko": "구글이 제미나이 스마트 안경을 선보이며 개인정보 보호를 앞세웠어요.",
+   "title": "Can a person own copyright for an act of destruction, not creation?",
+   "ko": "무언가를 창조하지 않고 파괴한 행위에도 저작권이 생기는지 묻는 질문이에요.",
    "source": {
-    "name": "Slashdot",
-    "url": "https://yro.slashdot.org/story/26/11/12/1831251/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut"
-   }
+    "name": "Law Stack Exchange",
+    "url": "https://law.stackexchange.com/questions/116987/can-a-person-own-copyright-for-an-act-of-destruction-not-creation"
+   },
+   "score": 2,
+   "comments": 3
   },
   {
    "key": "2026-11-13-pm-h84",
    "kind": "star",
-   "title": "Darth Vader's lightsaber from two Star Wars films sells for nearly $5 million",
-   "ko": "두 편의 스타워즈 영화에 쓰인 다스 베이더의 광선검이 약 500만 달러에 팔렸어요.",
+   "title": "Carlsen arrives in London for the Super Rapid chess tournament",
+   "ko": "칼센이 런던 클래식 슈퍼 래피드 체스 대회를 위해 런던에 왔어요.",
    "source": {
     "name": "The Guardian",
-    "url": "https://www.theguardian.com/film/2026/nov/13/star-wars-darth-vader-lightsaber-sells-for-nearly-5m-auction"
+    "url": "https://www.theguardian.com/sport/2026/nov/13/chess-carlsen-comes-to-town-with-tantalising-tests-for-london-classic-super-rapid"
    }
   },
   {
    "key": "2026-11-13-pm-h85",
-   "kind": "talk",
-   "title": "What was the first game to allow selecting a gender beyond Male/Female?",
-   "ko": "성별을 남녀 말고 고를 수 있게 한 첫 게임이 무엇인지 묻는 글이에요.",
-   "source": {
-    "name": "Arqade (Gaming Stack Exchange)",
-    "url": "https://gaming.stackexchange.com/questions/420739/what-was-the-first-game-to-allow-selecting-a-gender-beyond-male-female"
-   },
-   "score": 10,
-   "comments": 1
-  },
-  {
-   "key": "2026-11-13-pm-h86",
    "kind": "star",
-   "title": "Law & Order: SVU reaches its 600th episode",
-   "ko": "'로 앤드 오더: SVU'가 600번째 에피소드를 맞았어요.",
+   "title": "Zion calls out the Pelicans after another big loss",
+   "ko": "자이언 윌리엄슨이 또 크게 진 뒤 펠리컨스 동료들에게 쓴소리를 했어요.",
    "source": {
-    "name": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-features/law-and-order-svu-600th-episode-showrunner-interview-1236754391/"
+    "name": "ESPN",
+    "url": "https://www.espn.com/nba/story/_/id/50459408/zion-williamson-calls-pelicans-another-unacceptable-blowout-loss"
    }
   },
   {
-   "key": "2026-11-13-pm-h87",
+   "key": "2026-11-13-pm-h86",
    "kind": "talk",
-   "title": "Iconic First Image of Black Hole Holds Up To Scrutiny",
-   "ko": "첫 블랙홀 이미지가 검증을 견뎌 냈다는 소식이에요.",
+   "title": "Richard Posner has died",
+   "ko": "리처드 포스너가 세상을 떠났다는 소식이에요.",
    "source": {
-    "name": "Slashdot",
-    "url": "https://science.slashdot.org/story/26/11/12/0312210/iconic-first-image-of-black-hole-holds-up-to-scrutiny"
+    "name": "Hacker News",
+    "url": "https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge"
+   },
+   "score": 49,
+   "comments": 9
+  },
+  {
+   "key": "2026-11-13-pm-h87",
+   "kind": "star",
+   "title": "The 20 most jaw-dropping documentaries, ranked",
+   "ko": "입이 떡 벌어지는 다큐멘터리 20편의 순위를 매겼어요.",
+   "source": {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked"
    }
   },
   {
    "key": "2026-11-13-pm-h88",
    "kind": "talk",
-   "title": "How to win a cow's trust so you can pet it?",
-   "ko": "소의 신뢰를 얻어 쓰다듬으려면 어떻게 하느냐고 묻는 글이에요.",
+   "title": "Should I use humidifier with electric guitar?",
+   "ko": "일렉트릭 기타에 가습기를 써도 되는지 묻는 질문이에요.",
    "source": {
-    "name": "Pets Stack Exchange",
-    "url": "https://pets.stackexchange.com/questions/26082/how-to-win-a-cows-trust-so-you-can-pet-it"
+    "name": "Music Stack Exchange",
+    "url": "https://music.stackexchange.com/questions/145488/should-i-use-humidifier-with-electric-guitar"
    },
-   "score": 4,
-   "comments": 2
+   "score": 0,
+   "comments": 0
   },
   {
    "key": "2026-11-13-pm-h89",
    "kind": "star",
-   "title": "Review: Johnny Depp plays Scrooge in the new film Ebenezer",
-   "ko": "조니 뎁이 스크루지를 연기한 영화 '에버니저'의 리뷰예요.",
+   "title": "Braves GM shuts down talk of trading Acuña: 'We need him'",
+   "ko": "애틀랜타 단장이 아쿠나 트레이드설을 \"우리에겐 그가 필요하다\"며 일축했어요.",
    "source": {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens"
+    "name": "ESPN",
+    "url": "https://www.espn.com/mlb/story/_/id/50448746/braves-gm-emphatically-shuts-ronald-acuna-trade-rumors"
    }
   },
   {
    "key": "2026-11-13-pm-h90",
-   "kind": "talk",
-   "title": "What is platonic fish?",
-   "ko": "'플라토닉 피시'가 무엇이냐고 묻는 요리 글이에요.",
-   "source": {
-    "name": "Cooking Stack Exchange",
-    "url": "https://cooking.stackexchange.com/questions/137349/what-is-platonic-fish"
-   },
-   "score": 10,
-   "comments": 1
-  },
-  {
-   "key": "2026-11-13-pm-h91",
    "kind": "star",
-   "title": "Valheim is getting its own comic book series",
-   "ko": "'발하임'이 만화 시리즈로도 나온다고 해요.",
+   "title": "Folk legend Judy Collins remembers Joni Mitchell singing to her over the phone",
+   "ko": "포크 가수 주디 콜린스가 조니 미첼이 전화로 노래해 준 일을 떠올렸어요.",
    "source": {
-    "name": "IGN",
-    "url": "https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h92",
-   "kind": "talk",
-   "title": "Power Grids On 5 Continents Pulse Every 60s. Scientists Think They Know Why",
-   "ko": "5개 대륙의 전력망이 60초마다 맥박처럼 변한다는 소식이에요.",
-   "source": {
-    "name": "Slashdot",
-    "url": "https://hardware.slashdot.org/story/26/11/11/2347221/power-grids-on-5-continents-pulse-every-60s-scientists-think-they-know-why"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h93",
-   "kind": "talk",
-   "title": "Does running reduce strength gains from weightlifting?",
-   "ko": "달리기가 근력 운동의 효과를 떨어뜨리는지 묻는 글이에요.",
-   "source": {
-    "name": "Fitness Stack Exchange",
-    "url": "https://fitness.stackexchange.com/questions/48927/does-running-reduce-strength-gains-from-weightlifting"
-   },
-   "score": 2,
-   "comments": 4
-  },
-  {
-   "key": "2026-11-13-pm-h94",
-   "kind": "star",
-   "title": "Today co-host Savannah Guthrie extends her NBC News contract",
-   "ko": "'투데이' 공동 진행자 새비너 거스리가 NBC 뉴스와 계약을 연장했어요.",
-   "source": {
-    "name": "Deadline",
-    "url": "https://deadline.com/2026/11/savannah-guthrie-today-contract-1237222260/"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h95",
-   "kind": "talk",
-   "title": "Sunken SS United States Set To Become World's Largest Artificial Reef",
-   "ko": "가라앉은 SS 유나이티드 스테이츠호가 세계에서 가장 큰 인공 어초가 된다는 소식이에요.",
-   "source": {
-    "name": "Slashdot",
-    "url": "https://news.slashdot.org/story/26/11/11/238236/sunken-ss-united-states-set-to-become-worlds-largest-artificial-reef"
-   }
-  },
-  {
-   "key": "2026-11-13-pm-h96",
-   "kind": "star",
-   "title": "IVE, RIIZE and ILLIT top the Circle weekly charts",
-   "ko": "IVE, RIIZE, ILLIT이 서클 주간 차트 1위에 올랐어요.",
-   "source": {
-    "name": "Soompi",
-    "url": "https://www.soompi.com/article/1886133wpp/ive-riize-and-illit-top-circle-weekly-charts-a2o-earns-triple-crown"
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/music/2026/nov/12/joni-mitchell-sang-both-sides-now-over-the-phone-to-me-folk-music-legend-judy-collins-on-her-87-remarkable-years"
    }
   }
  ]
