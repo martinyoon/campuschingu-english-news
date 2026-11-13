@@ -1,82 +1,87 @@
 [
- {
-  "edition": "2026-11-13-am",
-  "publishedAt": "2026-11-13T04:29:17+09:00",
-  "lead": "Naver Wins Its First AI Factory Customer in a 2 Trillion Won Computing Deal"
- },
- {
-  "edition": "2026-11-12-pm",
-  "publishedAt": "2026-11-12T18:50:00+09:00",
-  "lead": "Seoul stocks end a two-day rally as Nvidia worries weigh on chip shares"
- },
- {
-  "edition": "2026-11-12-am",
-  "publishedAt": "2026-11-12T04:21:19+09:00",
-  "lead": "Russia and Ukraine Agree to Swap Prisoners but Make No Big Breakthrough"
- },
- {
-  "edition": "2026-11-11-pm",
-  "publishedAt": "2026-11-11T18:50:00+09:00",
-  "lead": "Korea Adds 139,000 Jobs in October, but Fewer Young People Are Working"
- },
- {
-  "edition": "2026-11-11-am",
-  "publishedAt": "2026-11-11T04:23:00+09:00",
-  "lead": "Anthropic Sets a Price Range for Its Huge Stock Market Debut"
- },
- {
-  "edition": "2026-11-10-pm",
-  "publishedAt": "2026-11-10T18:17:32+09:00",
-  "lead": "Korea's main stock index jumps 4.4% as oil falls and chip shares rally"
- },
- {
-  "edition": "2026-11-10-am",
-  "publishedAt": "2026-11-10T04:21:29+09:00",
-  "lead": "South Korea's Kosdaq has lost almost half its value since April"
- },
- {
-  "edition": "2026-11-09-pm",
-  "publishedAt": "2026-11-09T18:26:10+09:00",
-  "lead": "Korea fines Baemin and Coupang Eats 631.9 billion won over pressure on restaurants"
- },
- {
-  "edition": "2026-11-09-am",
-  "publishedAt": "2026-11-09T04:22:53+09:00",
-  "lead": "US voters push back on data centers, and Korean power equipment makers feel the risk"
- },
- {
-  "edition": "2026-11-08-pm",
-  "publishedAt": "2026-11-08T18:22:07+09:00",
-  "lead": "Most new regular jobs go to workers aged 60 and over, while young adults lose ground"
- },
- {
-  "edition": "2026-11-08-am",
-  "publishedAt": "2026-11-08T04:20:37+09:00",
-  "lead": "Posco workers vote down a wage deal, sending pay talks back to the table"
- },
- {
-  "edition": "2026-11-07-pm",
-  "publishedAt": "2026-11-07T18:21:24+09:00",
-  "lead": "Chip stocks crash on AI fears, then US tech shares bounce back a little"
- },
- {
-  "edition": "2026-11-07-am",
-  "publishedAt": "2026-11-07T04:19:23+09:00",
-  "lead": "New bomb threats hit European flights for the third time this week"
- },
- {
-  "edition": "2026-11-06-pm",
-  "publishedAt": "2026-11-06T18:21:52+09:00",
-  "lead": "Kospi falls 6% as AI fears spread after the US midterm elections"
- },
- {
-  "edition": "2026-11-06-am",
-  "publishedAt": "2026-11-06T04:17:50+09:00",
-  "lead": "South Korea Posts a Record $61 Billion Surplus, and Asks if the Boom Can Last"
- },
- {
-  "edition": "2026-11-05-pm",
-  "publishedAt": "2026-11-05T21:24:51+09:00",
-  "lead": "The World Reacts to the Democrats' Big Win in the US Midterms"
- }
+  {
+    "edition": "2026-11-13-pm",
+    "publishedAt": "2026-11-13T13:14:49+09:00",
+    "lead": "US envoys meet Putin, then Zelensky, as Europe is invited to the next peace talks"
+  },
+  {
+    "edition": "2026-11-13-am",
+    "publishedAt": "2026-11-13T04:29:17+09:00",
+    "lead": "Naver Wins Its First AI Factory Customer in a 2 Trillion Won Computing Deal"
+  },
+  {
+    "edition": "2026-11-12-pm",
+    "publishedAt": "2026-11-12T18:50:00+09:00",
+    "lead": "Seoul stocks end a two-day rally as Nvidia worries weigh on chip shares"
+  },
+  {
+    "edition": "2026-11-12-am",
+    "publishedAt": "2026-11-12T04:21:19+09:00",
+    "lead": "Russia and Ukraine Agree to Swap Prisoners but Make No Big Breakthrough"
+  },
+  {
+    "edition": "2026-11-11-pm",
+    "publishedAt": "2026-11-11T18:50:00+09:00",
+    "lead": "Korea Adds 139,000 Jobs in October, but Fewer Young People Are Working"
+  },
+  {
+    "edition": "2026-11-11-am",
+    "publishedAt": "2026-11-11T04:23:00+09:00",
+    "lead": "Anthropic Sets a Price Range for Its Huge Stock Market Debut"
+  },
+  {
+    "edition": "2026-11-10-pm",
+    "publishedAt": "2026-11-10T18:17:32+09:00",
+    "lead": "Korea's main stock index jumps 4.4% as oil falls and chip shares rally"
+  },
+  {
+    "edition": "2026-11-10-am",
+    "publishedAt": "2026-11-10T04:21:29+09:00",
+    "lead": "South Korea's Kosdaq has lost almost half its value since April"
+  },
+  {
+    "edition": "2026-11-09-pm",
+    "publishedAt": "2026-11-09T18:26:10+09:00",
+    "lead": "Korea fines Baemin and Coupang Eats 631.9 billion won over pressure on restaurants"
+  },
+  {
+    "edition": "2026-11-09-am",
+    "publishedAt": "2026-11-09T04:22:53+09:00",
+    "lead": "US voters push back on data centers, and Korean power equipment makers feel the risk"
+  },
+  {
+    "edition": "2026-11-08-pm",
+    "publishedAt": "2026-11-08T18:22:07+09:00",
+    "lead": "Most new regular jobs go to workers aged 60 and over, while young adults lose ground"
+  },
+  {
+    "edition": "2026-11-08-am",
+    "publishedAt": "2026-11-08T04:20:37+09:00",
+    "lead": "Posco workers vote down a wage deal, sending pay talks back to the table"
+  },
+  {
+    "edition": "2026-11-07-pm",
+    "publishedAt": "2026-11-07T18:21:24+09:00",
+    "lead": "Chip stocks crash on AI fears, then US tech shares bounce back a little"
+  },
+  {
+    "edition": "2026-11-07-am",
+    "publishedAt": "2026-11-07T04:19:23+09:00",
+    "lead": "New bomb threats hit European flights for the third time this week"
+  },
+  {
+    "edition": "2026-11-06-pm",
+    "publishedAt": "2026-11-06T18:21:52+09:00",
+    "lead": "Kospi falls 6% as AI fears spread after the US midterm elections"
+  },
+  {
+    "edition": "2026-11-06-am",
+    "publishedAt": "2026-11-06T04:17:50+09:00",
+    "lead": "South Korea Posts a Record $61 Billion Surplus, and Asks if the Boom Can Last"
+  },
+  {
+    "edition": "2026-11-05-pm",
+    "publishedAt": "2026-11-05T21:24:51+09:00",
+    "lead": "The World Reacts to the Democrats' Big Win in the US Midterms"
+  }
 ]
