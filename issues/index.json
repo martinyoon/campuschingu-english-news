@@ -1,7 +1,12 @@
 [
-  {
-    "edition": "2026-11-13-pm",
-    "publishedAt": "2026-11-13T23:15:50+09:00",
-    "lead": "Microsoft Outage Hits Outlook, Teams and Copilot Around the World"
-  }
+ {
+  "edition": "2026-11-14-am",
+  "publishedAt": "2026-11-14T04:35:29+09:00",
+  "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Pay for Purchases"
+ },
+ {
+  "edition": "2026-11-13-pm",
+  "publishedAt": "2026-11-13T23:15:50+09:00",
+  "lead": "Microsoft Outage Hits Outlook, Teams and Copilot Around the World"
+ }
 ]
