@@ -1,4 +1,4 @@
-// missing-words v2 — 캠퍼스친구 「나의 영어신문」 빠진 낱말 찾기(2026-11-07 · 사이트가 넣어 둔 도구 · 일꾼은 돌리기만 하고 고치지 않는다)
+// missing-words v3 — 캠퍼스친구 「나의 영어신문」 빠진 낱말 찾기(2026-11-07 · 사이트가 넣어 둔 도구 · 일꾼은 돌리기만 하고 고치지 않는다)
 // 사용법: node tools/missing-words.mjs issues/current.json (옛 기사판 = editions/current.json)
 // 판(제목 + 문단 영어)의 낱말 가운데 사이트 낱말 사전(tools/lexicon.txt = 영단어장 카드)에도 뜻 사전(dict/words.json)에도 없는 낱말을 찍는다.
 // 낱말 자르기 · 원형 맞추기 = 사이트 규칙(src/lib/world-english-words.ts)을 옮김 — 단 «꼴 바뀜»(-s · -es · -ies · -ed · -d · -ing · 불규칙 · 기능어 꼴)만 「있음」으로 친다.
@@ -91,7 +91,7 @@ let d;
 try { d = JSON.parse(readFileSync(file, 'utf8')); } catch (e) { console.log('판을 읽을 수 없음: ' + e.message); process.exit(1); }
 const count = new Map(); const where = new Map();
 for (const a of [...(d.articles ?? []), ...(d.issues ?? [])]) { // 이슈판(2026-11-13 · issues/current.json) = issues · 옛 기사판 = articles
-  for (const text of [a.title ?? '', ...(a.paragraphs ?? []).map((p) => p.en ?? '')]) {
+  for (const text of [a.title ?? '', ...(a.paragraphs ?? []).map((p) => p.en ?? ''), ...(a.pro ?? []).map((p) => p.en ?? '')]) { // v3(2026-11-13 밤) = 원문 수준 이야기(pro)도
     for (const sentence of text.split(/(?<=[.!?])\s+/)) {
       for (const m of sentence.matchAll(WORD_RE)) {
         const raw = m[0];
