@@ -1,4 +1,4 @@
-// check-issues v1
+// check-issues v2
 // 사용법: node scripts/check-issues.mjs issues/current.json
 import fs from 'node:fs';
 import path from 'node:path';
@@ -51,7 +51,7 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'reportCount', 'numbers', 
   const keys = new Set();
   (d.issues || []).forEach((it, i) => {
     const w = `issues[${i}]`;
-    if (!only(it, ['key', 'section', 'field', 'tag', 'title', 'gist', 'gistKo', 'easyKo', 'paragraphs', 'glosses', 'views', 'heads', 'sources', 'lines', 'opinion', 'quiz', 'job', 'talk', 'story'], w)) return;
+    if (!only(it, ['key', 'section', 'field', 'tag', 'title', 'gist', 'gistKo', 'easyKo', 'paragraphs', 'pro', 'glosses', 'views', 'heads', 'sources', 'lines', 'opinion', 'quiz', 'job', 'talk', 'story'], w)) return;
     if (!new RegExp(`^${ed}-\\d{1,2}$`).test(it.key || '')) e(`${w}.key 꼴`);
     if (keys.has(it.key)) e(`${w}.key 겹침`); keys.add(it.key);
     if (!SECTIONS.includes(it.section)) e(`${w}.section`);
@@ -70,13 +70,21 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'reportCount', 'numbers', 
       p.sents.forEach((s, k) => { if (only(s, ['en', 'ko'], `${pw}.sents[${k}]`)) { str(s.en, 400, `${pw}.sents[${k}].en`); str(s.ko, 300, `${pw}.sents[${k}].ko`); } });
       if (p.sents.map((s) => s.en).join(' ') !== p.en) e(`${pw}: sents en 이음 != en`);
     });
+    let proText = '';
+    if (it.pro === undefined) e(`${w}.pro 없음`);
+    else if (!Array.isArray(it.pro) || !Array.isArray(it.paragraphs) || it.pro.length !== it.paragraphs.length) e(`${w}.pro 개수가 paragraphs 와 다름`);
+    else {
+      let pw = 0;
+      it.pro.forEach((p, j) => { if (only(p, ['en'], `${w}.pro[${j}]`)) { str(p.en, 1400, `${w}.pro[${j}].en`); if (typeof p.en === 'string') { proText += p.en + '\n'; pw += words(p.en).length; } } });
+      if (pw < 150 || pw > 900) e(`${w}: pro 낱말 ${pw} (150~900)`);
+    }
     const wc = words(story).length;
     if (wc < 150 || wc > 650) e(`${w}: 이야기 낱말 ${wc} (150~650)`);
     // glosses
     if (!Array.isArray(it.glosses)) e(`${w}.glosses 없음`);
     else {
       if (it.glosses.length > 80) e(`${w}.glosses 80 넘음`);
-      const sl = story.toLowerCase();
+      const sl = (story + '\n' + proText).toLowerCase();
       it.glosses.forEach((g, k) => { if (only(g, ['text', 'meaning', 'level'], `${w}.glosses[${k}]`)) { str(g.text, 40, `${w}.glosses[${k}].text`); str(g.meaning, 60, `${w}.glosses[${k}].meaning`); int(g.level, 0, 4, `${w}.glosses[${k}].level`); if (typeof g.text === 'string' && !sl.includes(g.text.toLowerCase())) e(`${w}.glosses[${k}] "${g.text}" 이야기에 없음`); } });
     }
     // views
