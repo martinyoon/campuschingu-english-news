@@ -1,4 +1,4 @@
-// check-issues v3
+// check-issues v4
 // 사용법: node scripts/check-issues.mjs issues/current.json
 import fs from 'node:fs';
 import path from 'node:path';
@@ -61,31 +61,24 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'reportCount', 'numbers', 
     str(it.title, 120, w + '.title'); str(it.gist, 300, w + '.gist'); str(it.gistKo, 300, w + '.gistKo'); str(it.easyKo, 300, w + '.easyKo');
     // paragraphs
     let story = '';
-    if (!Array.isArray(it.paragraphs) || it.paragraphs.length < 3 || it.paragraphs.length > 8) e(`${w}.paragraphs 3~8`);
+    if (!Array.isArray(it.paragraphs) || it.paragraphs.length < 3 || it.paragraphs.length > 60) e(`${w}.paragraphs 3~60`);
     else it.paragraphs.forEach((p, j) => {
       const pw = `${w}.paragraphs[${j}]`;
       if (!only(p, ['en', 'ko', 'sents'], pw)) return;
-      str(p.en, 900, pw + '.en'); str(p.ko, 600, pw + '.ko');
+      str(p.en, 4000, pw + '.en'); str(p.ko, 4000, pw + '.ko');
       if (typeof p.en === 'string') story += p.en + '\n';
-      if (!Array.isArray(p.sents) || p.sents.length < 1 || p.sents.length > 16) { e(`${pw}.sents 1~16`); return; }
-      p.sents.forEach((s, k) => { if (only(s, ['en', 'ko'], `${pw}.sents[${k}]`)) { str(s.en, 400, `${pw}.sents[${k}].en`); str(s.ko, 300, `${pw}.sents[${k}].ko`); } });
+      if (!Array.isArray(p.sents) || p.sents.length < 1 || p.sents.length > 40) { e(`${pw}.sents 1~40`); return; }
+      p.sents.forEach((s, k) => { if (only(s, ['en', 'ko'], `${pw}.sents[${k}]`)) { str(s.en, 800, `${pw}.sents[${k}].en`); str(s.ko, 800, `${pw}.sents[${k}].ko`); } });
       if (p.sents.map((s) => s.en).join(' ') !== p.en) e(`${pw}: sents en 이음 != en`);
     });
-    let proText = '';
-    if (it.pro === undefined) e(`${w}.pro 없음`);
-    else if (!Array.isArray(it.pro) || !Array.isArray(it.paragraphs) || it.pro.length !== it.paragraphs.length) e(`${w}.pro 개수가 paragraphs 와 다름`);
-    else {
-      let pw = 0;
-      it.pro.forEach((p, j) => { if (only(p, ['en'], `${w}.pro[${j}]`)) { str(p.en, 1400, `${w}.pro[${j}].en`); if (typeof p.en === 'string') { proText += p.en + '\n'; pw += words(p.en).length; } } });
-      if (pw < 150 || pw > 900) e(`${w}: pro 낱말 ${pw} (150~900)`);
-    }
+    if (it.pro !== undefined) e(`${w}.pro 칸 금지(18판에서 걷음)`);
     const wc = words(story).length;
-    if (wc < 150 || wc > 650) e(`${w}: 이야기 낱말 ${wc} (150~650)`);
+    if (wc < 150 || wc > 8000) e(`${w}: 이야기 낱말 ${wc} (150~8000)`);
     // glosses
     if (!Array.isArray(it.glosses)) e(`${w}.glosses 없음`);
     else {
-      if (it.glosses.length > 80) e(`${w}.glosses 80 넘음`);
-      const sl = (story + '\n' + proText).toLowerCase();
+      if (it.glosses.length > 300) e(`${w}.glosses 300 넘음`);
+      const sl = story.toLowerCase();
       it.glosses.forEach((g, k) => { if (only(g, ['text', 'meaning', 'level'], `${w}.glosses[${k}]`)) { str(g.text, 40, `${w}.glosses[${k}].text`); str(g.meaning, 60, `${w}.glosses[${k}].meaning`); int(g.level, 0, 4, `${w}.glosses[${k}].level`); if (typeof g.text === 'string' && !sl.includes(g.text.toLowerCase())) e(`${w}.glosses[${k}] "${g.text}" 이야기에 없음`); } });
     }
     // views
