@@ -1,4 +1,4 @@
-// missing-words v3 — 캠퍼스친구 「나의 영어신문」 빠진 낱말 찾기(2026-11-07 · 사이트가 넣어 둔 도구 · 일꾼은 돌리기만 하고 고치지 않는다)
+// missing-words v3(2026-11-17 · 붙임표 말 so-called · year-old 를 한 줄로 찍고 그 안의 반쪽 낱말 · 이름 음절(jong · un)은 따로 찍지 않음) · v2 — 캠퍼스친구 「나의 영어신문」 빠진 낱말 찾기(2026-11-07 · 사이트가 넣어 둔 도구 · 일꾼은 돌리기만 하고 고치지 않는다)
 // 사용법: node tools/missing-words.mjs issues/current.json (옛 기사판 = editions/current.json)
 // 판(제목 + 문단 영어)의 낱말 가운데 사이트 낱말 사전(tools/lexicon.txt = 영단어장 카드)에도 뜻 사전(dict/words.json)에도 없는 낱말을 찍는다.
 // 낱말 자르기 · 원형 맞추기 = 사이트 규칙(src/lib/world-english-words.ts)을 옮김 — 단 «꼴 바뀜»(-s · -es · -ies · -ed · -d · -ing · 불규칙 · 기능어 꼴)만 「있음」으로 친다.
@@ -55,6 +55,8 @@ const NO_LEMMA = new Set(['sometimes', 'tired', 'cooker']);
 const CLITICS = new Set(["'s", "'re", "'m", "'ve", "'ll", "'d"]);
 const NOT_BODY = { ca: 'can', wo: 'will', sha: 'shall' };
 const WORD_RE = /[A-Za-z]+(?:['’][A-Za-z]+)*/g;
+/** 붙임표 말(v3 · 사이트 english-news.ts COMPOUND_RE 와 같음) — 앞이 글자 · 따옴표가 아닌 자리 · 글자 덩어리를 붙임표로 이음. */
+const COMPOUND_RE = /(?<![A-Za-z'’])[A-Za-z]+(?:-[A-Za-z]+)+(?![A-Za-z])/g;
 function firstPart(raw) {
   const w = raw.replace(/’/g, "'").toLowerCase();
   if (w.endsWith("n't")) { const body = w.slice(0, -3); return NOT_BODY[body] ?? body; }
@@ -91,14 +93,23 @@ let d;
 try { d = JSON.parse(readFileSync(file, 'utf8')); } catch (e) { console.log('판을 읽을 수 없음: ' + e.message); process.exit(1); }
 const count = new Map(); const where = new Map();
 for (const a of [...(d.articles ?? []), ...(d.issues ?? [])]) { // 이슈판(2026-11-13 · issues/current.json) = issues · 옛 기사판 = articles
-  for (const text of [a.title ?? '', ...(a.paragraphs ?? []).map((p) => p.en ?? ''), ...(a.pro ?? []).map((p) => p.en ?? '')]) { // v3(2026-11-13 밤) = 원문 수준 이야기(pro)도
+  for (const text of [a.title ?? '', ...(a.paragraphs ?? []).map((p) => p.en ?? '')]) {
     for (const sentence of text.split(/(?<=[.!?])\s+/)) {
-      for (const m of sentence.matchAll(WORD_RE)) {
+      for (const m of sentence.replace(COMPOUND_RE, (c) => ' '.repeat(c.length)).matchAll(WORD_RE)) {
         const raw = m[0];
         if (CLITICS.has(raw.toLowerCase())) continue;
         const w = firstPart(raw);
         if (w.length < 2 || NO_LEMMA.has(w) || !/^[a-z][a-z']*$/.test(w)) continue;
         if (found(w)) continue;
+        count.set(w, (count.get(w) ?? 0) + 1);
+        if (!where.has(w)) where.set(w, sentence.trim().slice(0, 160));
+      }
+      // 붙임표 말(v3) — 사이트는 한 조각으로 찾는다(모두 대문자로 시작하는 US-China 같은 말은 사이트가 낱말마다 읽으니 빼고)
+      for (const m of sentence.matchAll(COMPOUND_RE)) {
+        const w = m[0].toLowerCase();
+        if (m[0].split('-').every((p) => /^[A-Z]/.test(p)) || w.length > 40 || LEX.has(w) || Object.hasOwn(DICT, w)) continue;
+        // 사람 이름(성 + 붙임표 이름 = Kim Jong-un · Lee Jae-sung)은 사전에 적지 않는다 — 14-2번에서 그 이슈 glosses 에 성까지 통째로
+        if (/^[A-Z][a-z]+(?:-[a-z]+)+$/.test(m[0]) && /(?:^|[^A-Za-z])[A-Z][a-z]+ $/.test(sentence.slice(0, m.index))) continue;
         count.set(w, (count.get(w) ?? 0) + 1);
         if (!where.has(w)) where.set(w, sentence.trim().slice(0, 160));
       }
