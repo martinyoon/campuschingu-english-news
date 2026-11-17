@@ -1,4 +1,4 @@
-// check-issues v4
+// check-issues v5
 // 사용법: node scripts/check-issues.mjs issues/current.json
 import fs from 'node:fs';
 import path from 'node:path';
@@ -51,14 +51,14 @@ if (only(d, ['edition', 'publishedAt', 'sourceCount', 'reportCount', 'numbers', 
   const keys = new Set();
   (d.issues || []).forEach((it, i) => {
     const w = `issues[${i}]`;
-    if (!only(it, ['key', 'section', 'field', 'tag', 'desk', 'title', 'gist', 'gistKo', 'easyKo', 'paragraphs', 'pro', 'glosses', 'views', 'heads', 'sources', 'lines', 'opinion', 'quiz', 'job', 'talk', 'story'], w)) return;
+    if (!only(it, ['key', 'section', 'field', 'tag', 'desk', 'title', 'titleKo', 'gist', 'gistKo', 'easyKo', 'paragraphs', 'pro', 'glosses', 'views', 'heads', 'sources', 'lines', 'opinion', 'quiz', 'job', 'talk', 'story'], w)) return;
     if (!new RegExp(`^${ed}-\\d{1,3}$`).test(it.key || '')) e(`${w}.key 꼴`);
     if (keys.has(it.key)) e(`${w}.key 겹침`); keys.add(it.key);
     if (!SECTIONS.includes(it.section)) e(`${w}.section`);
     if (!FIELDS.includes(it.field)) e(`${w}.field(${it.field})`);
     if (it.desk !== undefined && !['korea', 'ai'].includes(it.desk)) e(`${w}.desk`);
     if (it.tag !== undefined && !TAGS.includes(it.tag)) e(`${w}.tag`);
-    str(it.title, 120, w + '.title'); str(it.gist, 300, w + '.gist'); str(it.gistKo, 300, w + '.gistKo'); str(it.easyKo, 300, w + '.easyKo');
+    str(it.title, 120, w + '.title'); str(it.titleKo, 200, w + '.titleKo'); str(it.gist, 300, w + '.gist'); str(it.gistKo, 300, w + '.gistKo'); str(it.easyKo, 300, w + '.easyKo');
     // paragraphs
     let story = '';
     if (!Array.isArray(it.paragraphs) || it.paragraphs.length < 3 || it.paragraphs.length > 60) e(`${w}.paragraphs 3~60`);
