@@ -10,10 +10,10 @@ const bad = (m) => errs.push(m);
 let d;
 try { d = JSON.parse(readFileSync(file, 'utf8')); } catch (e) { console.log('JSON을 읽을 수 없음: ' + e.message); process.exit(1); }
 if (!d || typeof d !== 'object' || Array.isArray(d)) { console.log('사전은 { 낱말: { meaning, level, added } } 꼴의 객체여야 함'); process.exit(1); }
-const WORD_RE = /^[a-z][a-z']{0,39}$/;
+const WORD_RE = /^(?=.{1,40}$)[a-z][a-z']*(?:-[a-z][a-z']*)*$/; // v2(2026-11-17) = 붙임표 말(so-called · year-old)도 한 줄 · 사이트 ENGLISH_NEWS_DICT_WORD_RE 와 같음
 const EDITION_RE = /^\d{4}-\d{2}-\d{2}-(am|pm)$/;
 for (const [w, v] of Object.entries(d)) {
-  if (!WORD_RE.test(w)) bad(`${w}: 낱말은 소문자 하나(a-z 와 ' · 붙임표 없음) · 40자 이하`);
+  if (!WORD_RE.test(w)) bad(`${w}: 낱말은 소문자 하나 또는 붙임표 말(a-z 와 ' · 붙임표는 낱말 사이에만) · 40자 이하`);
   if (!v || typeof v !== 'object' || Array.isArray(v)) { bad(`${w}: 값이 객체가 아님`); continue; }
   for (const k of Object.keys(v)) if (!['meaning', 'level', 'added'].includes(k)) bad(`${w}: 모르는 칸 ${k}`);
   if (typeof v.meaning !== 'string' || !v.meaning.trim()) bad(`${w}: meaning 이 비었음`);
