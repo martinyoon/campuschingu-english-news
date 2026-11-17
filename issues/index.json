@@ -1,1 +1,42 @@
-[{"edition": "2026-11-17-am", "publishedAt": "2026-11-17T04:35:33+09:00", "lead": "Nvidia Board Resists Push to Reinstate Huang as Backers, Trump and Investors Weigh In"}, {"edition": "2026-11-16-pm", "publishedAt": "2026-11-16T18:29:22+09:00", "lead": "Estonia to Close All Russian Border Crossings After Foiled Arson Attack on Drone Maker"}, {"edition": "2026-11-16-am", "publishedAt": "2026-11-16T04:25:33+09:00", "lead": "Italy Fines Meta €805 Million Over Facebook's Access to Android Users' Photos Without Consent"}, {"edition": "2026-11-15-pm", "publishedAt": "2026-11-15T18:37:51+09:00", "lead": "Italy Fines Meta €805 Million Over Facebook's Gallery Access on Android"}, {"edition": "2026-11-15-am", "publishedAt": "2026-11-15T04:33:31+09:00", "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Shop for You"}, {"edition": "2026-11-14-am", "publishedAt": "2026-11-14T04:35:29+09:00", "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Pay for Purchases"}, {"edition": "2026-11-13-pm", "publishedAt": "2026-11-13T23:15:50+09:00", "lead": "Microsoft Outage Hits Outlook, Teams and Copilot Around the World"}]
+[
+ {
+  "edition": "2026-11-17-pm",
+  "publishedAt": "2026-11-17T18:31:08+09:00",
+  "lead": "Trump Says He May Meet Kim Jong-un in China as Experts Doubt North Korea Will Feature at Trilateral Summit"
+ },
+ {
+  "edition": "2026-11-17-am",
+  "publishedAt": "2026-11-17T04:35:33+09:00",
+  "lead": "Nvidia Board Resists Push to Reinstate Huang as Backers, Trump and Investors Weigh In"
+ },
+ {
+  "edition": "2026-11-16-pm",
+  "publishedAt": "2026-11-16T18:29:22+09:00",
+  "lead": "Estonia to Close All Russian Border Crossings After Foiled Arson Attack on Drone Maker"
+ },
+ {
+  "edition": "2026-11-16-am",
+  "publishedAt": "2026-11-16T04:25:33+09:00",
+  "lead": "Italy Fines Meta €805 Million Over Facebook's Access to Android Users' Photos Without Consent"
+ },
+ {
+  "edition": "2026-11-15-pm",
+  "publishedAt": "2026-11-15T18:37:51+09:00",
+  "lead": "Italy Fines Meta €805 Million Over Facebook's Gallery Access on Android"
+ },
+ {
+  "edition": "2026-11-15-am",
+  "publishedAt": "2026-11-15T04:33:31+09:00",
+  "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Shop for You"
+ },
+ {
+  "edition": "2026-11-14-am",
+  "publishedAt": "2026-11-14T04:35:29+09:00",
+  "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Pay for Purchases"
+ },
+ {
+  "edition": "2026-11-13-pm",
+  "publishedAt": "2026-11-13T23:15:50+09:00",
+  "lead": "Microsoft Outage Hits Outlook, Teams and Copilot Around the World"
+ }
+]
