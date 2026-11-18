@@ -37833,5 +37833,995 @@
     "meaning": "나이키(미국 스포츠 용품 브랜드)",
     "level": 0,
     "added": "2026-11-18-pm"
+  },
+  "bytedance": {
+    "meaning": "바이트댄스(틱톡을 만든 중국 IT 회사)",
+    "level": 0,
+    "added": "2026-11-19-am"
+  },
+  "caucus": {
+    "meaning": "정당 의원 총회, 코커스",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "neira": {
+    "meaning": "네이라(현대자동차의 7인승 전기 SUV)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "tnw": {
+    "meaning": "더 넥스트 웹(TNW, 기술 뉴스 매체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "yongbyon": {
+    "meaning": "영변(북한 핵시설이 있는 곳)",
+    "level": 0,
+    "added": "2026-11-19-am"
+  },
+  "docket": {
+    "meaning": "소송 사건표(매체 '데모크라시 도킷'의 뒷부분)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "epidemic": {
+    "meaning": "전염병, 유행병",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "nuseirat": {
+    "meaning": "누세이라트(가자지구 중부의 난민촌)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "tencent": {
+    "meaning": "텐센트(중국 IT 대기업)",
+    "level": 0,
+    "added": "2026-11-19-am"
+  },
+  "cidrap": {
+    "meaning": "시드랩(미국 감염병 연구·정책 센터)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "gao": {
+    "meaning": "미국 회계감사원(GAO)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "ranked-choice": {
+    "meaning": "순위 선택식의(후보에 순위를 매겨 뽑는 투표)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "regular-season": {
+    "meaning": "정규 시즌(의)",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "seven-seat": {
+    "meaning": "7인승의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "andina": {
+    "meaning": "안디나(페루 국영 통신사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "aceh": {
+    "meaning": "아체(인도네시아 수마트라섬 북쪽 끝 지방)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "cogat": {
+    "meaning": "코가트(이스라엘 국방부의 팔레스타인 민간 업무 기관)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "foundational": {
+    "meaning": "기초가 되는, 기본적인",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "gaikindo": {
+    "meaning": "가이킨도(인도네시아 자동차산업협회)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "hydroxide": {
+    "meaning": "수산화물",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "itdaily": {
+    "meaning": "ITdaily(네덜란드 IT 매체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "kangson": {
+    "meaning": "강선(평양 남서쪽의 북한 핵시설이 있는 곳)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "light-year": {
+    "meaning": "광년(빛이 1년 동안 가는 거리)",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "motoroids": {
+    "meaning": "모토로이즈(자동차 전문 매체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "oil-producing": {
+    "meaning": "석유를 생산하는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "pursuit": {
+    "meaning": "추구, 추격",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "rfi": {
+    "meaning": "프랑스 국제 라디오(RFI)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "topelectricsuv": {
+    "meaning": "TopElectricSUV(전기 SUV 전문 매체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "avepoint": {
+    "meaning": "아베포인트(미국 데이터 보안 소프트웨어 회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "avx": {
+    "meaning": "AVX(CPU의 고속 연산 명령 집합)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "bernama": {
+    "meaning": "베르나마(말레이시아 국영 통신사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "biospace": {
+    "meaning": "바이오스페이스(생명과학 전문 매체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "blind-spot": {
+    "meaning": "사각지대",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "bluelink": {
+    "meaning": "블루링크(현대차의 커넥티드카 서비스)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "co-host": {
+    "meaning": "공동 주최국, 공동 진행자",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "doritos": {
+    "meaning": "도리토스(과자 브랜드)",
+    "level": 0,
+    "added": "2026-11-19-am"
+  },
+  "dundee": {
+    "meaning": "던디(스코틀랜드의 도시)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "elo": {
+    "meaning": "엘로(경기 실력을 점수로 나타내는 방식)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "etoro": {
+    "meaning": "이토로(투자 플랫폼 회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "explainer": {
+    "meaning": "해설 기사, 설명 자료",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "exploitable": {
+    "meaning": "악용될 수 있는",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "externally": {
+    "meaning": "외부로, 바깥에",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "extremism": {
+    "meaning": "극단주의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "hamas-controlled": {
+    "meaning": "하마스가 장악한",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "leonida": {
+    "meaning": "레오니다(GTA 6의 가상 주, 플로리다가 모델)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "long-standing": {
+    "meaning": "오래된, 오랜",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "maga": {
+    "meaning": "마가(MAGA, 트럼프 지지 운동의 구호)",
+    "level": 0,
+    "added": "2026-11-19-am"
+  },
+  "maha": {
+    "meaning": "마하(MAHA, '미국을 다시 건강하게' 운동)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "mgx": {
+    "meaning": "MGX(아랍에미리트의 AI 투자회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "misrepresent": {
+    "meaning": "사실과 다르게 말하다, 속이다",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "mrna": {
+    "meaning": "mRNA(백신에 쓰이는 전령 RNA)",
+    "level": 0,
+    "added": "2026-11-19-am"
+  },
+  "negotiation": {
+    "meaning": "협상",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "nintendo": {
+    "meaning": "닌텐도",
+    "level": 0,
+    "added": "2026-11-19-am"
+  },
+  "one-run": {
+    "meaning": "1점만 낸(야구)",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "opb": {
+    "meaning": "OPB(미국 오리건주 공영방송)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "oregonian": {
+    "meaning": "오리건주 사람",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "pre-order": {
+    "meaning": "예약 주문(하다)",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "quartet": {
+    "meaning": "4인조, 사중주",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "realtime": {
+    "meaning": "실시간(의)",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "robinhood": {
+    "meaning": "로빈후드(미국 주식 거래 앱 회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "ruta": {
+    "meaning": "루타(우크라이나 쪽 순항미사일 이름)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "rwandan": {
+    "meaning": "르완다의, 르완다 사람",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "spoiler": {
+    "meaning": "표를 갈라 먹는 후보, 훼방꾼",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "spotlight": {
+    "meaning": "주목, 관심",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "talos": {
+    "meaning": "탈로스(시스코의 보안 연구팀)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "temasek": {
+    "meaning": "테마섹(싱가포르 국영 투자회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "three-row": {
+    "meaning": "3열의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "thrower": {
+    "meaning": "던지는 사람",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "trade-off": {
+    "meaning": "맞바꿈, 절충",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "tumaini": {
+    "meaning": "투마이니(에볼라 백신 시험 이름)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "two-day": {
+    "meaning": "이틀간의",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "two-run": {
+    "meaning": "2점짜리(야구)",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "two-thirds": {
+    "meaning": "3분의 2",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "ultrafast": {
+    "meaning": "초고속의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "universally": {
+    "meaning": "널리, 보편적으로",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "unseat": {
+    "meaning": "자리에서 몰아내다, 낙선시키다",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "upstream": {
+    "meaning": "상류의, 원료 단계의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "vest": {
+    "meaning": "(주식 등 권리가) 확정되다, 조끼",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "wedlock": {
+    "meaning": "혼인 관계(outside wedlock은 혼외)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "whenever": {
+    "meaning": "~할 때마다, 언제든",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "zaire": {
+    "meaning": "자이르(에볼라 바이러스 종류 이름)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "abortion-rights": {
+    "meaning": "낙태권을 옹호하는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "acclamation": {
+    "meaning": "박수로 뽑음(표결 없이 추대)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "adenoviral": {
+    "meaning": "아데노바이러스의",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "age-appropriate": {
+    "meaning": "나이에 맞는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "ai-agent": {
+    "meaning": "AI 에이전트(스스로 일하는 인공지능)",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "ai-enabled": {
+    "meaning": "AI를 활용하는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "ai-first": {
+    "meaning": "AI를 우선으로 하는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "ai-led": {
+    "meaning": "AI가 이끄는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "ai-linked": {
+    "meaning": "AI와 관련된",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "airpods": {
+    "meaning": "에어팟(애플 무선 이어폰)",
+    "level": 0,
+    "added": "2026-11-19-am"
+  },
+  "akamai": {
+    "meaning": "아카마이(미국 인터넷 보안·전송 회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "al-mughraqa": {
+    "meaning": "알무그라카(가자지구 중부 지역)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "always-on": {
+    "meaning": "항상 켜져 작동하는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "ampere": {
+    "meaning": "암페어(전류 단위)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "amplify": {
+    "meaning": "키우다, 증폭시키다",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "analogue": {
+    "meaning": "아날로그, 비슷한 것",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "anonymization": {
+    "meaning": "익명화",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "anti-doping": {
+    "meaning": "도핑 방지의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "application-specific": {
+    "meaning": "특정 용도에 한정된",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "artifactory": {
+    "meaning": "아티팩토리(JFrog의 소프트웨어 저장 도구)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "azov": {
+    "meaning": "아조프(흑해 북쪽의 아조프해)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "back-end": {
+    "meaning": "백엔드(서버 쪽 뒷단)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "baku": {
+    "meaning": "바쿠(아제르바이잔의 수도)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "basecamp": {
+    "meaning": "베이스캠프(등반 기지; 여기선 생명공학 회사 이름)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "battalion": {
+    "meaning": "대대(군대 부대 단위)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "battery-sector": {
+    "meaning": "배터리 업계",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "best-of-seven": {
+    "meaning": "7전 4선승제의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "best-rated": {
+    "meaning": "가장 높게 평가받은",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "bestinvest": {
+    "meaning": "베스트인베스트(영국 투자 플랫폼)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "better-than-expected": {
+    "meaning": "예상보다 좋은",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "binary": {
+    "meaning": "이진법의(0과 1로 된)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "bioengineering": {
+    "meaning": "생명공학",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "biopharmatrend": {
+    "meaning": "바이오파마트렌드(제약·바이오 전문 매체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "biren": {
+    "meaning": "비렌(중국 AI 반도체 회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "blockchain-based": {
+    "meaning": "블록체인 기반의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "blocker": {
+    "meaning": "막는 것, 장애물",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "blogger": {
+    "meaning": "블로거",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "blur": {
+    "meaning": "흐릿하게 하다, 경계를 흐리다",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "boilerplate": {
+    "meaning": "판에 박힌 문구",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "bracelet": {
+    "meaning": "팔찌",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "bremen": {
+    "meaning": "브레멘(독일의 도시)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "brighthr": {
+    "meaning": "브라이트HR(영국 인사관리 소프트웨어 회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "brit": {
+    "meaning": "브릿(영국의 음악 시상식 BRIT Awards)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "built-in": {
+    "meaning": "내장된",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "bukavu": {
+    "meaning": "부카부(콩고민주공화국 동부 도시)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "bumper": {
+    "meaning": "범퍼",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "bureij": {
+    "meaning": "부레이지(가자지구 중부 난민촌)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "burundi": {
+    "meaning": "부룬디(아프리카 중부의 나라)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "cajamarca": {
+    "meaning": "카하마르카(페루 북부 도시)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "capital-intensive": {
+    "meaning": "자본이 많이 드는",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "carbonate": {
+    "meaning": "탄산염",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "careen": {
+    "meaning": "마구 질주하다",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "centrifuge": {
+    "meaning": "원심분리기",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "chadox": {
+    "meaning": "ChAdOx1(옥스퍼드대의 백신 기술 이름)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "changer": {
+    "meaning": "바꾸는 것(game changer는 판도를 바꾸는 것)",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "chinese-owned": {
+    "meaning": "중국 소유의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "chip-related": {
+    "meaning": "반도체 관련",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "chip-sector": {
+    "meaning": "반도체 업계",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "chunky": {
+    "meaning": "두툼한, 투박한",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "cikarang": {
+    "meaning": "찌까랑(인도네시아 서자바의 산업도시)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "cisa": {
+    "meaning": "미국 사이버보안·인프라보안국(CISA)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "city-state": {
+    "meaning": "도시 국가",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "climate-vulnerable": {
+    "meaning": "기후 변화에 취약한",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "climbdown": {
+    "meaning": "물러섬, 양보",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "closed-door": {
+    "meaning": "비공개의",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "co-benefits": {
+    "meaning": "함께 얻는 부수적 이익",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "co-creator": {
+    "meaning": "공동 창작자",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "co-senior": {
+    "meaning": "공동 책임자의(공동 교신 저자의)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "code-in-box": {
+    "meaning": "다운로드 코드가 든 상자 판매 방식",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "coincidence": {
+    "meaning": "우연의 일치",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "coinpedia": {
+    "meaning": "코인피디아(가상화폐 전문 매체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "collision-avoidance": {
+    "meaning": "충돌 방지의",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "compassion": {
+    "meaning": "연민, 동정심",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "compiler": {
+    "meaning": "컴파일러(프로그램 번역기)",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "computer-marking": {
+    "meaning": "컴퓨터로 채점하는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "connected-car": {
+    "meaning": "커넥티드카(인터넷에 연결된 자동차)",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "constituent": {
+    "meaning": "유권자, 구성 요소",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "contact-tracing": {
+    "meaning": "접촉자 추적",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "contagious": {
+    "meaning": "전염되는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "corex": {
+    "meaning": "코렉스(중국 AI 반도체 회사 '일루바타 코렉스')",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "corretto": {
+    "meaning": "코레토(아마존의 자바 배포판)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "covid-era": {
+    "meaning": "코로나19 시기의",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "cowork": {
+    "meaning": "코워크(마이크로소프트의 AI 서비스 이름)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "crust": {
+    "meaning": "(얼음) 껍질, 지각",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "dakota": {
+    "meaning": "다코타(미국 '사우스다코타주'의 뒷부분)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "de-risked": {
+    "meaning": "위험을 줄인",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "debt-fuelled": {
+    "meaning": "빚으로 키운",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "debt-ridden": {
+    "meaning": "빚에 시달리는",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "decades-old": {
+    "meaning": "수십 년 된",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "deletion": {
+    "meaning": "삭제",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "democrat-controlled": {
+    "meaning": "민주당이 장악한",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "demolition": {
+    "meaning": "철거, 파괴",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "destinus": {
+    "meaning": "데스티누스(네덜란드 기반 방위·드론 회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "digitize": {
+    "meaning": "디지털화하다",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "director-general": {
+    "meaning": "사무총장, 총국장",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "disgrace": {
+    "meaning": "수치, 망신",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "diy": {
+    "meaning": "직접 만들기(DIY)",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "dynamite": {
+    "meaning": "다이너마이트(BTS 노래 제목), 폭약",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "early-termination": {
+    "meaning": "중도 해지의",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "ebola-free": {
+    "meaning": "에볼라 환자가 없는",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "eclipse": {
+    "meaning": "일식, 이클립스(자바 배포판 이름 일부)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "eight-run": {
+    "meaning": "8점을 낸(야구)",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "eighteen-year-old": {
+    "meaning": "18살의",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "elasticsearch": {
+    "meaning": "엘라스틱서치(검색·데이터 분석 소프트웨어)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "electromobility": {
+    "meaning": "전기 이동수단, 전동화",
+    "level": 4,
+    "added": "2026-11-19-am"
+  },
+  "enflame": {
+    "meaning": "엔플레임(중국 AI 반도체 회사)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "english-language": {
+    "meaning": "영어로 된",
+    "level": 1,
+    "added": "2026-11-19-am"
+  },
+  "ervebo": {
+    "meaning": "에르베보(에볼라 백신 이름)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "eurogamer": {
+    "meaning": "유로게이머(게임 전문 매체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "europa": {
+    "meaning": "유로파(목성의 위성)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "exchange-rate": {
+    "meaning": "환율",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "expansive": {
+    "meaning": "광범위한, 폭넓은",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "exponentially": {
+    "meaning": "기하급수적으로",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "ey": {
+    "meaning": "EY(회계법인 이름)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "fairvote": {
+    "meaning": "페어보트(선거제도 개혁 단체)",
+    "level": 3,
+    "added": "2026-11-19-am"
+  },
+  "famously": {
+    "meaning": "유명하게도",
+    "level": 2,
+    "added": "2026-11-19-am"
+  },
+  "fan-boy": {
+    "meaning": "열성 팬(남자)",
+    "level": 2,
+    "added": "2026-11-19-am"
   }
 }
