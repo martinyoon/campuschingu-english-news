@@ -36623,5 +36623,1215 @@
     "meaning": "지인들",
     "level": 1,
     "added": "2026-11-18-am"
+  },
+  "waymo": {
+    "meaning": "웨이모(구글 계열 자율주행 택시 회사)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "globalfoundries": {
+    "meaning": "글로벌파운드리스(미국 반도체 위탁생산 회사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "freeway": {
+    "meaning": "고속도로",
+    "level": 1,
+    "added": "2026-11-18-pm"
+  },
+  "freeways": {
+    "meaning": "고속도로(여러 곳)",
+    "level": 1,
+    "added": "2026-11-18-pm"
+  },
+  "kinexys": {
+    "meaning": "키넥시스(JP모건의 블록체인 결제 사업)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "glastonbury": {
+    "meaning": "글래스턴베리(영국 대형 음악 축제)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "ofqual": {
+    "meaning": "오펄(영국 시험·자격 규제 기관)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "omnilert": {
+    "meaning": "옴니러트(AI 총기 탐지 시스템 업체)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "abortion": {
+    "meaning": "낙태",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "abortions": {
+    "meaning": "낙태(여러 건)",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "anti-abortion": {
+    "meaning": "낙태에 반대하는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "aesa": {
+    "meaning": "능동 전자주사식 레이더 방식(AESA)",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "large-scale": {
+    "meaning": "대규모의",
+    "level": 1,
+    "added": "2026-11-18-pm"
+  },
+  "semafor": {
+    "meaning": "세마포(미국 뉴스 매체)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "substrate": {
+    "meaning": "기판, 바탕층",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "substrates": {
+    "meaning": "기판(반도체 부품의 바탕판)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "wreckage": {
+    "meaning": "잔해",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "a-level": {
+    "meaning": "영국 대학 입학용 시험(A레벨)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "a-levels": {
+    "meaning": "영국 대학 입학용 시험(A레벨, 복수)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "bbb": {
+    "meaning": "신용등급 BBB(투자적격 중 낮은 등급)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "crocs": {
+    "meaning": "크록스(구멍 뚫린 신발 브랜드)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "driverless": {
+    "meaning": "운전자가 없는",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "in-house": {
+    "meaning": "사내의, 자체의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "kenwood": {
+    "meaning": "켄우드(미국 볼티모어 카운티의 고등학교 이름)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "longest-running": {
+    "meaning": "가장 오래 이어진",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "mai": {
+    "meaning": "MAI(마이크로소프트의 AI 조직·모델 이름)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "manufacturer": {
+    "meaning": "제조업체",
+    "level": 1,
+    "added": "2026-11-18-pm"
+  },
+  "mlccs": {
+    "meaning": "적층 세라믹 콘덴서(MLCC, 복수)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "mlcc": {
+    "meaning": "적층 세라믹 콘덴서",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "multifunction": {
+    "meaning": "다기능의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "on-site": {
+    "meaning": "현장의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "rebellion": {
+    "meaning": "리벨리온(AI 방공 시스템 기업), 반란",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "sb": {
+    "meaning": "SB(미국 주 법안 번호에 붙는 약자)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "wearable": {
+    "meaning": "착용형의, 몸에 착용하는 기기",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "acquittal": {
+    "meaning": "무죄 판결",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "after-hours": {
+    "meaning": "정규 거래 시간 이후의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "agibot": {
+    "meaning": "애지봇(중국 로봇 회사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "ai-assisted": {
+    "meaning": "AI의 도움을 받은",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "all-time": {
+    "meaning": "역대의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "bolivia": {
+    "meaning": "볼리비아(남미 나라)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "calif": {
+    "meaning": "캘리프(보안 스타트업)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "co-founder": {
+    "meaning": "공동 창업자",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "cybergym": {
+    "meaning": "사이버짐(AI 보안 능력 평가 순위표)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "day-to-day": {
+    "meaning": "나날의, 일상의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "firearm": {
+    "meaning": "총기",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "flare-up": {
+    "meaning": "갑작스러운 충돌·확산",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "high-performance": {
+    "meaning": "고성능의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "human-made": {
+    "meaning": "사람이 만든",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "life-altering": {
+    "meaning": "삶을 바꿀 만큼 중대한",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "mifepristone": {
+    "meaning": "미페프리스톤(먹는 낙태약)",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "private-sector": {
+    "meaning": "민간 부문의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "radical": {
+    "meaning": "급진적인",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "refrain": {
+    "meaning": "삼가다, 자제하다",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "reproductive": {
+    "meaning": "생식의, 출산과 관련된",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "rigorously": {
+    "meaning": "엄격하게",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "sbb": {
+    "meaning": "SBB(삼성SDI 배터리 백업 제품 이름)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "shared-growth": {
+    "meaning": "상생, 함께 성장함",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "sheikh": {
+    "meaning": "셰이크(아랍권 존칭), 셰이크 이사 공군기지 이름의 일부",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "short-range": {
+    "meaning": "단거리의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "siliconangle": {
+    "meaning": "실리콘앵글(미국 IT 매체)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "singapore-based": {
+    "meaning": "싱가포르에 본사를 둔",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "slow-moving": {
+    "meaning": "느리게 움직이는",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "solid-state": {
+    "meaning": "반도체 기반의, 고체 상태의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "superintelligence": {
+    "meaning": "초지능",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "tech-related": {
+    "meaning": "기술과 관련된",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "test-takers": {
+    "meaning": "시험 응시자들",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "third-largest": {
+    "meaning": "세 번째로 큰",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "third-party": {
+    "meaning": "제3자의, 외부 업체의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "trio": {
+    "meaning": "3인조",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "uncover": {
+    "meaning": "밝혀내다",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "unitree": {
+    "meaning": "유니트리(중국 로봇 회사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "us-made": {
+    "meaning": "미국산의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "vapes": {
+    "meaning": "전자담배",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "vermont": {
+    "meaning": "버몬트(미국 북동부 주)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "ai-based": {
+    "meaning": "AI 기반의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "ai-created": {
+    "meaning": "AI가 만든",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "airborne": {
+    "meaning": "공중에 떠 있는",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "alarmingly": {
+    "meaning": "놀랄 만큼 위협적으로",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "alaskan": {
+    "meaning": "알래스카의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "alaskans": {
+    "meaning": "알래스카 주민들",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "alphabet-owned": {
+    "meaning": "알파벳(구글 모회사)이 소유한",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "alto": {
+    "meaning": "팔로알토(미국 캘리포니아 도시)의 일부, 알토(낮은 음역)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "amish": {
+    "meaning": "아미시(현대 문명을 멀리하는 기독교 공동체)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "analogues": {
+    "meaning": "유사한 것, 비슷한 사례",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "analytica": {
+    "meaning": "애널리티카(중동 위험 컨설팅 회사 이름의 일부)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "andaman": {
+    "meaning": "안다만(인도양의 바다)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "ansan": {
+    "meaning": "안산(경기도 도시)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "anti-cheating": {
+    "meaning": "부정행위 방지의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "apparel": {
+    "meaning": "의류",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "appropriately": {
+    "meaning": "적절하게",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "armored": {
+    "meaning": "장갑을 두른, 방탄의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "arms-embargo": {
+    "meaning": "무기 금수 조치 대상의",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "asean-related": {
+    "meaning": "아세안(동남아시아 국가 연합)과 관련된",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "asset-intensive": {
+    "meaning": "설비·자산이 많이 드는",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "atelier": {
+    "meaning": "작업실, 공방",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "authorise": {
+    "meaning": "허가하다",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "automatable": {
+    "meaning": "자동화할 수 있는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "axe": {
+    "meaning": "일자리를 없애다, 도끼",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "axiym": {
+    "meaning": "액시엄(결제 서비스 회사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "baa": {
+    "meaning": "무디스 신용등급 Baa(투자적격 등급대)",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "baedal": {
+    "meaning": "배달(배달의민족 이름의 앞부분)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "bahraini": {
+    "meaning": "바레인의, 바레인 사람",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "beaten-down": {
+    "meaning": "크게 떨어진",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "belongings": {
+    "meaning": "소지품",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "big-six": {
+    "meaning": "주요 여섯 부문의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "billion-dollar": {
+    "meaning": "10억 달러 규모의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "biopharmaceutical": {
+    "meaning": "바이오의약품의",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "blissoo": {
+    "meaning": "블리수(블랙핑크 지수가 세운 회사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "bootcamp": {
+    "meaning": "단기 집중 교육 과정",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "breman": {
+    "meaning": "브레만(네덜란드 설비 회사 이름)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "brute-force": {
+    "meaning": "무차별 대입 방식의, 힘으로 밀어붙이는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "buddy": {
+    "meaning": "버디(AI 쇼핑 비서 이름), 친구",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "build-out": {
+    "meaning": "설비 확충",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "burlingame": {
+    "meaning": "벌링게임(미국 캘리포니아 도시)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "burlington": {
+    "meaning": "벌링턴(미국 버몬트주 도시)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "callable": {
+    "meaning": "상환 요구가 가능한",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "capacitors": {
+    "meaning": "축전기, 콘덴서",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "caregiving": {
+    "meaning": "돌봄",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "case-by-case": {
+    "meaning": "사례별로 하는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "catalyst": {
+    "meaning": "촉매, 변화를 일으키는 계기",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "centauri": {
+    "meaning": "센타우리(가까운 별 알파 센타우리의 이름)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "changers": {
+    "meaning": "판도를 바꾸는 것(game changers의 일부)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "cisco": {
+    "meaning": "시스코(미국 네트워크 장비 회사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "clearest": {
+    "meaning": "가장 분명한",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "co-chairman": {
+    "meaning": "공동 회장",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "co-chief": {
+    "meaning": "공동 대표",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "co-designing": {
+    "meaning": "함께 설계하는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "co-led": {
+    "meaning": "공동으로 이끈",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "cohabitation": {
+    "meaning": "동거",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "cologne": {
+    "meaning": "쾰른(독일 도시), 향수",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "company-managed": {
+    "meaning": "회사가 관리하는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "confidentiality": {
+    "meaning": "기밀 유지",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "consciousness": {
+    "meaning": "의식",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "consolidation": {
+    "meaning": "통합, 정리",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "contractually": {
+    "meaning": "계약상으로",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "copenhagen": {
+    "meaning": "코펜하겐(덴마크 수도)",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "counter-drone": {
+    "meaning": "드론 대응용의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "crewless": {
+    "meaning": "승무원 없는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "customer-vetting": {
+    "meaning": "고객 심사",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "cvss": {
+    "meaning": "CVSS(보안 취약점 위험 점수 체계)",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "cyber-espionage": {
+    "meaning": "사이버 첩보 활동",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "cylinder": {
+    "meaning": "실린더, 원통",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "dealings": {
+    "meaning": "거래, 관계",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "dealmaking": {
+    "meaning": "거래 성사 활동",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "debt-fueled": {
+    "meaning": "빚으로 키운",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "deckers": {
+    "meaning": "데커스(우그·호카 브랜드의 모회사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "dehumanisation": {
+    "meaning": "비인간화",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "densely": {
+    "meaning": "빽빽하게",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "denuclearisation": {
+    "meaning": "비핵화",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "dependency": {
+    "meaning": "의존",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "descendants": {
+    "meaning": "디센던츠(디즈니 영화 제목), 후손",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "deviate": {
+    "meaning": "벗어나다",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "disco": {
+    "meaning": "디스코(춤추는 신나는 음악)",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "disproportionately": {
+    "meaning": "불균형하게 많이",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "dmm": {
+    "meaning": "DMM(일본 기업, DMM 비트코인)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "dmv": {
+    "meaning": "차량관리국(DMV, 미국 주 기관)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "dresden": {
+    "meaning": "드레스덴(독일 도시)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "drug-design": {
+    "meaning": "신약 설계",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "drug-discovery": {
+    "meaning": "신약 발굴",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "electromagnetic": {
+    "meaning": "전자기의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "embroiled": {
+    "meaning": "분쟁에 휘말린",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "emotionally": {
+    "meaning": "감정적으로",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "enlarge": {
+    "meaning": "넓히다, 키우다",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "entry-level": {
+    "meaning": "신입 수준의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "eth": {
+    "meaning": "ETH(이더리움의 암호화폐 단위)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "evolutionary": {
+    "meaning": "진화의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "exceptionally": {
+    "meaning": "유난히, 매우",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "exclusive-contract": {
+    "meaning": "전속 계약",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "expectation": {
+    "meaning": "기대",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "expedition": {
+    "meaning": "탐험, 원정",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "exploit-writing": {
+    "meaning": "보안 취약점 공격 코드 작성",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "fact-finding": {
+    "meaning": "실태 파악 조사",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "fair-trade": {
+    "meaning": "공정 거래",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "fairtrade": {
+    "meaning": "페어트레이드(공정무역 인증 상표)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "fda-approved": {
+    "meaning": "FDA(미국 식품의약국)가 승인한",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "fearful": {
+    "meaning": "두려워하는",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "female-dominated": {
+    "meaning": "여성이 다수인",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "final-round": {
+    "meaning": "최종 라운드의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "fintech": {
+    "meaning": "핀테크(금융과 기술의 결합)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "first-choice": {
+    "meaning": "1순위 선택의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "fishermen": {
+    "meaning": "어부들",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "fitch": {
+    "meaning": "피치(신용평가사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "flatness": {
+    "meaning": "평평함",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "follow-on": {
+    "meaning": "후속의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "follow-up": {
+    "meaning": "후속 조치, 후속의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "foodpanda": {
+    "meaning": "푸드판다(배달 앱 이름)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "forward-looking": {
+    "meaning": "미래 지향적인",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "four-fold": {
+    "meaning": "4배의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "four-legged": {
+    "meaning": "다리가 넷인",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "fruit-flavored": {
+    "meaning": "과일 맛이 나는",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "gigawatt-hours": {
+    "meaning": "기가와트시(전력량 단위)",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "gimpo": {
+    "meaning": "김포(경기도 도시, 공항)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "ginco": {
+    "meaning": "진코(일본 암호화폐 거래소)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "glasgow": {
+    "meaning": "글래스고(영국 스코틀랜드 도시)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "gliese": {
+    "meaning": "글리제(항성 목록 이름)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "gmp": {
+    "meaning": "GMP(의약품 제조 품질관리 기준)",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "goal-pursuing": {
+    "meaning": "목표를 추구하는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "goalpost": {
+    "meaning": "골대",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "gocheok": {
+    "meaning": "고척(서울 구로구 지역)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "government-led": {
+    "meaning": "정부 주도의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "graniteshares": {
+    "meaning": "그라나이트셰어스(미국 ETF 운용사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "greenoaks": {
+    "meaning": "그린오크스(미국 투자사)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "grid-scale": {
+    "meaning": "전력망 규모의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "grio": {
+    "meaning": "더 그리오(미국 뉴스 매체)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "group-affiliate": {
+    "meaning": "그룹 계열사",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "gumi": {
+    "meaning": "구미(경북 도시)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "gun-detection": {
+    "meaning": "총기 탐지",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "gyeongbuk": {
+    "meaning": "경북(경상북도)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "gyn": {
+    "meaning": "산부인과(ob-gyn의 뒷부분)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hai": {
+    "meaning": "HAI(스탠퍼드 인간 중심 AI 연구소)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hallenstadion": {
+    "meaning": "할렌슈타디온(스위스 취리히의 공연장)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hamburg": {
+    "meaning": "함부르크(독일 도시)",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "hankook": {
+    "meaning": "한국타이어(Hankook)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hard-working": {
+    "meaning": "부지런한",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "hdt": {
+    "meaning": "HDT(HD현대로보틱스 로봇 모델명의 앞부분)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "headtopics": {
+    "meaning": "헤드토픽스(뉴스 모음 사이트)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "health-related": {
+    "meaning": "건강과 관련된",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "hedge": {
+    "meaning": "헤지(위험 회피), 울타리",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "heliosphere": {
+    "meaning": "태양권(태양풍이 닿는 영역)",
+    "level": 4,
+    "added": "2026-11-18-pm"
+  },
+  "helm": {
+    "meaning": "지휘 자리, 배의 키",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "high-nickel": {
+    "meaning": "니켈 함량이 높은",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "high-quality": {
+    "meaning": "고품질의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "high-speed": {
+    "meaning": "고속의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "high-stakes": {
+    "meaning": "중대한 결과가 걸린",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "higher-than-normal": {
+    "meaning": "평소보다 높은",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "highest-charting": {
+    "meaning": "차트 최고 순위의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hoka": {
+    "meaning": "호카(운동화 브랜드)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "holts": {
+    "meaning": "홀츠(글래스턴베리 무대 West Holts의 일부)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hormozgan": {
+    "meaning": "호르모즈간(이란 남부 주)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hotspur": {
+    "meaning": "홋스퍼(토트넘 축구단 이름의 일부)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hungary-based": {
+    "meaning": "헝가리에 본사를 둔",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "hungerstation": {
+    "meaning": "헝거스테이션(사우디 배달 앱)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "hydro": {
+    "meaning": "하이드로(글래스고 공연장 이름의 일부), 수력의",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "icloud": {
+    "meaning": "아이클라우드(애플의 클라우드 서비스)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "immunology": {
+    "meaning": "면역학",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "implicator": {
+    "meaning": "임플리케이터(뉴스레터 이름)",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "in-store": {
+    "meaning": "매장 내의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "in-vehicle": {
+    "meaning": "차량 내의",
+    "level": 2,
+    "added": "2026-11-18-pm"
+  },
+  "inadequate": {
+    "meaning": "불충분한",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "ineffective": {
+    "meaning": "효과 없는",
+    "level": 3,
+    "added": "2026-11-18-pm"
+  },
+  "mbc": {
+    "meaning": "MBC(한국의 지상파 방송사 문화방송)",
+    "level": 0,
+    "added": "2026-11-18-pm"
+  },
+  "nike": {
+    "meaning": "나이키(미국 스포츠 용품 브랜드)",
+    "level": 0,
+    "added": "2026-11-18-pm"
   }
 }
