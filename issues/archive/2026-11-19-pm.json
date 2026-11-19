@@ -3177,6 +3177,11 @@
      "text": "legislative",
      "meaning": "입법의",
      "level": 3
+    },
+    {
+     "text": "genocide",
+     "meaning": "집단 학살",
+     "level": 2
     }
    ],
    "views": [
@@ -6294,6 +6299,11 @@
      "text": "black-and-white",
      "meaning": "흑백의",
      "level": 1
+    },
+    {
+     "text": "furious",
+     "meaning": "몹시 화난",
+     "level": 1
     }
    ],
    "views": [
@@ -8270,6 +8280,11 @@
     {
      "text": "antenna",
      "meaning": "안테나",
+     "level": 1
+    },
+    {
+     "text": "unseen",
+     "meaning": "이전에 보이지 않던",
      "level": 1
     }
    ],
@@ -15014,6 +15029,21 @@
      "text": "unprecedented",
      "meaning": "전례 없는",
      "level": 3
+    },
+    {
+     "text": "atrocities",
+     "meaning": "잔혹 행위",
+     "level": 3
+    },
+    {
+     "text": "genocidal",
+     "meaning": "집단 학살의",
+     "level": 3
+    },
+    {
+     "text": "systematic",
+     "meaning": "조직적인, 체계적인",
+     "level": 3
     }
    ],
    "views": [
@@ -17267,6 +17297,16 @@
      "text": "Bron's",
      "meaning": "브론(베팅 앱) 소유주의",
      "level": 3
+    },
+    {
+     "text": "affiliation",
+     "meaning": "제휴·소속 관계",
+     "level": 2
+    },
+    {
+     "text": "deceptive",
+     "meaning": "소비자를 속이는",
+     "level": 2
     }
    ],
    "views": [
@@ -18927,6 +18967,11 @@
      "text": "response",
      "meaning": "대응",
      "level": 1
+    },
+    {
+     "text": "emblem",
+     "meaning": "상징물",
+     "level": 2
     }
    ],
    "heads": [
@@ -20013,6 +20058,11 @@
     {
      "text": "accumulates",
      "meaning": "쌓이다",
+     "level": 2
+    },
+    {
+     "text": "successive",
+     "meaning": "잇따른",
      "level": 2
     }
    ],
@@ -21603,6 +21653,11 @@
     {
      "text": "materializes",
      "meaning": "현실로 나타나다",
+     "level": 3
+    },
+    {
+     "text": "demographic",
+     "meaning": "인구(구조)의",
      "level": 3
     }
    ],
@@ -23635,6 +23690,16 @@
      "text": "apparent",
      "meaning": "분명한",
      "level": 2
+    },
+    {
+     "text": "Châtaigniers en fleurs",
+     "meaning": "꽃 핀 밤나무(반 고흐 그림 제목)",
+     "level": 3
+    },
+    {
+     "text": "annexation",
+     "meaning": "병합(1938년 독일의 오스트리아 합병)",
+     "level": 3
     }
    ],
    "views": [
@@ -27261,6 +27326,16 @@
     {
      "text": "management",
      "meaning": "관리",
+     "level": 2
+    },
+    {
+     "text": "deceptive",
+     "meaning": "속임수를 쓴",
+     "level": 2
+    },
+    {
+     "text": "furious",
+     "meaning": "몹시 화난",
      "level": 2
     }
    ],
@@ -30892,6 +30967,11 @@
      "text": "milestone",
      "meaning": "중요한 고비(이정표)",
      "level": 2
+    },
+    {
+     "text": "Pastor",
+     "meaning": "목사",
+     "level": 1
     }
    ],
    "views": [
@@ -32071,6 +32151,11 @@
      "text": "pending",
      "meaning": "계류 중인·결론이 안 난",
      "level": 3
+    },
+    {
+     "text": "affiliation",
+     "meaning": "소속",
+     "level": 2
     }
    ],
    "views": [
@@ -35721,6 +35806,11 @@
      "text": "involving",
      "meaning": "~이 관련된",
      "level": 2
+    },
+    {
+     "text": "Kinexys Insights",
+     "meaning": "키넥시스 인사이트(JP모건 키넥시스 부문 연구 조직)",
+     "level": 3
     }
    ],
    "views": [
@@ -41833,6 +41923,11 @@
      "text": "unfolds",
      "meaning": "전개된다",
      "level": 3
+    },
+    {
+     "text": "unseen",
+     "meaning": "이전에 없던, 보이지 않던",
+     "level": 1
     }
    ],
    "views": [
@@ -43010,6 +43105,11 @@
      "text": "findings",
      "meaning": "연구 결과",
      "level": 2
+    },
+    {
+     "text": "demographic",
+     "meaning": "인구 통계의",
+     "level": 3
     }
    ],
    "sources": [
@@ -45605,6 +45705,11 @@
      "text": "decisive",
      "meaning": "결정적인",
      "level": 3
+    },
+    {
+     "text": "successive",
+     "meaning": "잇따른",
+     "level": 2
     }
    ],
    "sources": [
@@ -47638,6 +47743,11 @@
      "text": "dependence",
      "meaning": "의존",
      "level": 2
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 1
     }
    ],
    "sources": [
@@ -48668,6 +48778,11 @@
     {
      "text": "improvements",
      "meaning": "개선",
+     "level": 2
+    },
+    {
+     "text": "systematic",
+     "meaning": "조직적인·체계적인",
      "level": 2
     }
    ],
@@ -49726,6 +49841,11 @@
     {
      "text": "projection",
      "meaning": "추정·전망",
+     "level": 3
+    },
+    {
+     "text": "systematic",
+     "meaning": "전반적인, 체계적인",
      "level": 3
     }
    ],
@@ -53485,6 +53605,16 @@
      "text": "operations",
      "meaning": "가동",
      "level": 2
+    },
+    {
+     "text": "reluctance",
+     "meaning": "꺼리는 태도",
+     "level": 2
+    },
+    {
+     "text": "Luxembourg",
+     "meaning": "룩셈부르크",
+     "level": 1
     }
    ],
    "views": [
@@ -56676,6 +56806,16 @@
      "text": "specifications",
      "meaning": "상세 사양",
      "level": 2
+    },
+    {
+     "text": "emblem",
+     "meaning": "상징 문양, 로고",
+     "level": 3
+    },
+    {
+     "text": "cladding",
+     "meaning": "외장 패널(차체 하부 덧댐)",
+     "level": 4
     }
    ],
    "views": [
@@ -57421,6 +57561,11 @@
     {
      "text": "Preferred Tickets",
      "meaning": "우선 구매 좌석 티켓",
+     "level": 2
+    },
+    {
+     "text": "outlets",
+     "meaning": "매체·언론사",
      "level": 2
     }
    ],
@@ -60676,6 +60821,11 @@
      "text": "uncertain",
      "meaning": "불확실한",
      "level": 2
+    },
+    {
+     "text": "United Kingdom",
+     "meaning": "영국",
+     "level": 0
     }
    ],
    "sources": [
@@ -62748,6 +62898,11 @@
     {
      "text": "entirely",
      "meaning": "전적으로",
+     "level": 2
+    },
+    {
+     "text": "fullest",
+     "meaning": "최대한도의",
      "level": 2
     }
    ],
@@ -68862,6 +69017,11 @@
      "text": "lawmakers",
      "meaning": "의원들",
      "level": 2
+    },
+    {
+     "text": "containment",
+     "meaning": "봉쇄·통제",
+     "level": 3
     }
    ],
    "views": [
@@ -71329,6 +71489,11 @@
      "text": "habitats",
      "meaning": "서식지",
      "level": 2
+    },
+    {
+     "text": "Nathaly Guerrero",
+     "meaning": "나탈리 게레로(연구자)",
+     "level": 3
     }
    ],
    "views": [
@@ -76569,6 +76734,11 @@
      "text": "summit",
      "meaning": "정상회의",
      "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
     }
    ],
    "views": [
@@ -77655,6 +77825,11 @@
     {
      "text": "destination",
      "meaning": "명소·목적지",
+     "level": 2
+    },
+    {
+     "text": "observatory",
+     "meaning": "전망대",
      "level": 2
     }
    ],
@@ -79774,6 +79949,11 @@
      "text": "cited",
      "meaning": "언급했다",
      "level": 2
+    },
+    {
+     "text": "unscripted",
+     "meaning": "대본에 없는, 즉흥적인",
+     "level": 3
     }
    ],
    "views": [
@@ -84542,6 +84722,11 @@
      "text": "unlikely",
      "meaning": "~할 것 같지 않은",
      "level": 1
+    },
+    {
+     "text": "premature",
+     "meaning": "성급한",
+     "level": 3
     }
    ],
    "key": "2026-11-19-pm-96"
@@ -86573,6 +86758,16 @@
      "text": "ambitious",
      "meaning": "야심 찬",
      "level": 2
+    },
+    {
+     "text": "canal",
+     "meaning": "(귀)관·외이도",
+     "level": 2
+    },
+    {
+     "text": "adjustable",
+     "meaning": "조절 가능한",
+     "level": 1
     }
    ],
    "sources": [
@@ -88315,6 +88510,11 @@
      "text": "weighing",
      "meaning": "저울질하다",
      "level": 2
+    },
+    {
+     "text": "fullest",
+     "meaning": "가장 상세한, 가장 완전한",
+     "level": 1
     }
    ],
    "sources": [
@@ -92255,6 +92455,11 @@
      "text": "favoured",
      "meaning": "선호했다·지지했다",
      "level": 2
+    },
+    {
+     "text": "reluctance",
+     "meaning": "망설임, 소극적 태도(AI 도입에 대한 주저)",
+     "level": 2
     }
    ],
    "views": [
@@ -95852,6 +96057,11 @@
      "text": "oven",
      "meaning": "오븐",
      "level": 1
+    },
+    {
+     "text": "successive",
+     "meaning": "연속된",
+     "level": 2
     }
    ],
    "views": [
@@ -102142,6 +102352,11 @@
      "text": "opening-hour",
      "meaning": "개장 시간",
      "level": 2
+    },
+    {
+     "text": "empress",
+     "meaning": "황후",
+     "level": 2
     }
    ],
    "views": [
@@ -103562,6 +103777,11 @@
      "text": "beforehand",
      "meaning": "미리",
      "level": 2
+    },
+    {
+     "text": "unseen",
+     "meaning": "보이지 않는, 숨어 있는",
+     "level": 1
     }
    ],
    "views": [
@@ -104058,6 +104278,11 @@
      "text": "broader",
      "meaning": "더 폭넓은",
      "level": 1
+    },
+    {
+     "text": "likeness",
+     "meaning": "(사람의) 초상·닮은 모습",
+     "level": 3
     }
    ],
    "views": [
@@ -110779,6 +111004,11 @@
      "text": "previously",
      "meaning": "이전에",
      "level": 1
+    },
+    {
+     "text": "adjustable",
+     "meaning": "높이를 조절할 수 있는",
+     "level": 2
     }
    ],
    "views": [
@@ -115512,6 +115742,11 @@
     {
      "text": "essential",
      "meaning": "필수적인",
+     "level": 2
+    },
+    {
+     "text": "reluctance",
+     "meaning": "망설임, 소극적 태도",
      "level": 2
     }
    ],
