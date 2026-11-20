@@ -3970,6 +3970,421 @@
      "text": "Keza MacDonald",
      "meaning": "케자 맥도널드(가디언 게임 평론가)",
      "level": 0
+    },
+    {
+     "text": "epic",
+     "meaning": "대작, 서사시급 대형 작품",
+     "level": 2
+    },
+    {
+     "text": "midnight",
+     "meaning": "자정",
+     "level": 0
+    },
+    {
+     "text": "reception",
+     "meaning": "반응, 평가",
+     "level": 1
+    },
+    {
+     "text": "critics",
+     "meaning": "평론가들",
+     "level": 1
+    },
+    {
+     "text": "alike",
+     "meaning": "모두 똑같이, ~도 마찬가지로",
+     "level": 2
+    },
+    {
+     "text": "historic",
+     "meaning": "역사적인",
+     "level": 1
+    },
+    {
+     "text": "citing",
+     "meaning": "~을 인용하여",
+     "level": 2
+    },
+    {
+     "text": "intelligence",
+     "meaning": "정보(분석) 업체의 '정보'",
+     "level": 1
+    },
+    {
+     "text": "analytics",
+     "meaning": "데이터 분석 전문",
+     "level": 2
+    },
+    {
+     "text": "estimated",
+     "meaning": "추정했다",
+     "level": 2
+    },
+    {
+     "text": "generate",
+     "meaning": "(수익 등을) 만들어내다",
+     "level": 1
+    },
+    {
+     "text": "Guardian",
+     "meaning": "영국 일간지 가디언",
+     "level": 0
+    },
+    {
+     "text": "fictional",
+     "meaning": "허구의, 지어낸",
+     "level": 1
+    },
+    {
+     "text": "inspired",
+     "meaning": "~에서 영감을 받은(모티브로 한)",
+     "level": 1
+    },
+    {
+     "text": "review",
+     "meaning": "리뷰, 평",
+     "level": 1
+    },
+    {
+     "text": "outset",
+     "meaning": "초반, 시작 시점",
+     "level": 2
+    },
+    {
+     "text": "flee",
+     "meaning": "달아나다, 도주하다",
+     "level": 2
+    },
+    {
+     "text": "modest",
+     "meaning": "소박한, 변변찮은",
+     "level": 2
+    },
+    {
+     "text": "reviewer",
+     "meaning": "평론을 쓴 사람",
+     "level": 1
+    },
+    {
+     "text": "neon-lit",
+     "meaning": "네온 불빛이 환한",
+     "level": 2
+    },
+    {
+     "text": "BBC Newsbeat's",
+     "meaning": "BBC 뉴스비트(BBC의 청소년·청년 뉴스)",
+     "level": 3
+    },
+    {
+     "text": "roundup",
+     "meaning": "종합 정리 기사",
+     "level": 2
+    },
+    {
+     "text": "Yussef Cole",
+     "meaning": "유세프 콜(뉴욕타임스 평론가)",
+     "level": 3
+    },
+    {
+     "text": "consequences",
+     "meaning": "결과, 대가",
+     "level": 1
+    },
+    {
+     "text": "Paul Tassi",
+     "meaning": "폴 타시(포브스 기고가)",
+     "level": 3
+    },
+    {
+     "text": "recall",
+     "meaning": "기억해 내다",
+     "level": 1
+    },
+    {
+     "text": "echoed",
+     "meaning": "(의견을) 되풀이해 동조하다",
+     "level": 2
+    },
+    {
+     "text": "verdict",
+     "meaning": "(평가) 판정, 평가",
+     "level": 2
+    },
+    {
+     "text": "praised",
+     "meaning": "칭찬했다",
+     "level": 1
+    },
+    {
+     "text": "realism",
+     "meaning": "현실감",
+     "level": 2
+    },
+    {
+     "text": "collide",
+     "meaning": "충돌하다, 부딪히다",
+     "level": 2
+    },
+    {
+     "text": "Chris Tapsell",
+     "meaning": "크리스 탭셀(유로게이머 기자)",
+     "level": 3
+    },
+    {
+     "text": "posters",
+     "meaning": "게시글을 올리는 사람들",
+     "level": 2
+    },
+    {
+     "text": "newly",
+     "meaning": "새로(갓)",
+     "level": 1
+    },
+    {
+     "text": "glowing",
+     "meaning": "극찬 일색의, 호의적인",
+     "level": 2
+    },
+    {
+     "text": "minority",
+     "meaning": "소수(의견)",
+     "level": 2
+    },
+    {
+     "text": "most-nominated",
+     "meaning": "가장 많이 후보에 오른",
+     "level": 2
+    },
+    {
+     "text": "gathered",
+     "meaning": "모았다",
+     "level": 1
+    },
+    {
+     "text": "reactions",
+     "meaning": "반응",
+     "level": 1
+    },
+    {
+     "text": "rewards",
+     "meaning": "보상해 주다",
+     "level": 1
+    },
+    {
+     "text": "patience",
+     "meaning": "인내심",
+     "level": 1
+    },
+    {
+     "text": "chaos",
+     "meaning": "혼란, 난장판",
+     "level": 2
+    },
+    {
+     "text": "Pete Langhelt",
+     "meaning": "피트 랭헬트(영국 독자)",
+     "level": 3
+    },
+    {
+     "text": "dynamic",
+     "meaning": "관계의 흐름, 상호작용",
+     "level": 2
+    },
+    {
+     "text": "retiree",
+     "meaning": "은퇴한 사람",
+     "level": 2
+    },
+    {
+     "text": "grocery",
+     "meaning": "식료품 구매",
+     "level": 1
+    },
+    {
+     "text": "incredible",
+     "meaning": "믿기 힘들 만큼 대단한",
+     "level": 1
+    },
+    {
+     "text": "identified",
+     "meaning": "~로 신원이 밝혀진",
+     "level": 2
+    },
+    {
+     "text": "Clint",
+     "meaning": "클린트(시카고 음악업계 독자)",
+     "level": 3
+    },
+    {
+     "text": "leaves",
+     "meaning": "(주로 ~을) 남기다, 불러일으키다",
+     "level": 1
+    },
+    {
+     "text": "spilled",
+     "meaning": "(영향이) 넘쳐 흘러나갔다",
+     "level": 2
+    },
+    {
+     "text": "skipped",
+     "meaning": "결근·결석했다",
+     "level": 1
+    },
+    {
+     "text": "overnight",
+     "meaning": "밤샘의",
+     "level": 1
+    },
+    {
+     "text": "urged",
+     "meaning": "강력히 촉구했다",
+     "level": 2
+    },
+    {
+     "text": "pupils",
+     "meaning": "학생들(영국식)",
+     "level": 2
+    },
+    {
+     "text": "amid",
+     "meaning": "~가 우려되는 가운데",
+     "level": 2
+    },
+    {
+     "text": "absences",
+     "meaning": "결석, 결근",
+     "level": 2
+    },
+    {
+     "text": "revived",
+     "meaning": "되살렸다",
+     "level": 2
+    },
+    {
+     "text": "administers",
+     "meaning": "운영·관리한다",
+     "level": 2
+    },
+    {
+     "text": "assigned",
+     "meaning": "(등급을) 부여했다",
+     "level": 2
+    },
+    {
+     "text": "Developers",
+     "meaning": "개발자들",
+     "level": 1
+    },
+    {
+     "text": "questionnaire",
+     "meaning": "설문지",
+     "level": 2
+    },
+    {
+     "text": "footage",
+     "meaning": "영상 자료",
+     "level": 2
+    },
+    {
+     "text": "dialogue",
+     "meaning": "대사, 대화",
+     "level": 1
+    },
+    {
+     "text": "Sadie West",
+     "meaning": "새디 웨스트(게임 등급 심사관)",
+     "level": 3
+    },
+    {
+     "text": "sexually",
+     "meaning": "성적으로",
+     "level": 1
+    },
+    {
+     "text": "graphic",
+     "meaning": "노골적인",
+     "level": 2
+    },
+    {
+     "text": "trigger",
+     "meaning": "(자동으로) 유발하다",
+     "level": 2
+    },
+    {
+     "text": "automatic",
+     "meaning": "자동적인",
+     "level": 1
+    },
+    {
+     "text": "column",
+     "meaning": "칼럼, 기고란",
+     "level": 1
+    },
+    {
+     "text": "Athletes",
+     "meaning": "운동선수들",
+     "level": 1
+    },
+    {
+     "text": "invite",
+     "meaning": "(집에) 초대하다",
+     "level": 1
+    },
+    {
+     "text": "deputy",
+     "meaning": "부(副), 차석의",
+     "level": 2
+    },
+    {
+     "text": "affectionate",
+     "meaning": "애정 어린",
+     "level": 2
+    },
+    {
+     "text": "ridicule",
+     "meaning": "조롱",
+     "level": 2
+    },
+    {
+     "text": "strain",
+     "meaning": "부담을 주다, 압박하다",
+     "level": 2
+    },
+    {
+     "text": "broadband",
+     "meaning": "광대역 인터넷망",
+     "level": 2
+    },
+    {
+     "text": "attendance",
+     "meaning": "출석",
+     "level": 1
+    },
+    {
+     "text": "recur",
+     "meaning": "되풀이되다",
+     "level": 3
+    },
+    {
+     "text": "critical",
+     "meaning": "비평가들의, 평단의",
+     "level": 2
+    },
+    {
+     "text": "consensus",
+     "meaning": "합의, 중론",
+     "level": 3
+    },
+    {
+     "text": "opening-week",
+     "meaning": "개봉 첫 주의",
+     "level": 1
+    },
+    {
+     "text": "fades",
+     "meaning": "사그라지다",
+     "level": 2
     }
    ],
    "views": [
@@ -9697,6 +10112,211 @@
      "text": "cloud",
      "meaning": "어두운 분위기",
      "level": 2
+    },
+    {
+     "text": "turbulent",
+     "meaning": "혼란스러웠던, 풍파가 많았던",
+     "level": 2
+    },
+    {
+     "text": "margin",
+     "meaning": "점수 차",
+     "level": 1
+    },
+    {
+     "text": "flattered",
+     "meaning": "(실제보다) 좋아 보이게 했다",
+     "level": 3
+    },
+    {
+     "text": "hesitant",
+     "meaning": "머뭇거리는, 소극적인",
+     "level": 2
+    },
+    {
+     "text": "piled",
+     "meaning": "쌓아 올렸다(슈팅을 많이 기록)",
+     "level": 2
+    },
+    {
+     "text": "th-minute",
+     "meaning": "전반 35분의(경기 시간 표현)",
+     "level": 1
+    },
+    {
+     "text": "denied",
+     "meaning": "막아냈다",
+     "level": 2
+    },
+    {
+     "text": "offense",
+     "meaning": "공격진",
+     "level": 1
+    },
+    {
+     "text": "conceded",
+     "meaning": "인정했다",
+     "level": 2
+    },
+    {
+     "text": "praising",
+     "meaning": "칭찬하며",
+     "level": 1
+    },
+    {
+     "text": "Respectfully",
+     "meaning": "삼가 말씀드리면, 정중하게",
+     "level": 2
+    },
+    {
+     "text": "satisfied",
+     "meaning": "만족한",
+     "level": 1
+    },
+    {
+     "text": "apologized",
+     "meaning": "사과했다",
+     "level": 1
+    },
+    {
+     "text": "nd",
+     "meaning": "32위 등 순위 서수 접미(nd)",
+     "level": 1
+    },
+    {
+     "text": "th-ranked",
+     "meaning": "~위에 오른",
+     "level": 1
+    },
+    {
+     "text": "reportedly",
+     "meaning": "알려진 바로는",
+     "level": 2
+    },
+    {
+     "text": "threatened",
+     "meaning": "위협했다",
+     "level": 1
+    },
+    {
+     "text": "retire",
+     "meaning": "은퇴하다",
+     "level": 1
+    },
+    {
+     "text": "international",
+     "meaning": "국가 대항의",
+     "level": 1
+    },
+    {
+     "text": "unhappy",
+     "meaning": "불만스러운",
+     "level": 1
+    },
+    {
+     "text": "dispute",
+     "meaning": "논란, 분쟁",
+     "level": 2
+    },
+    {
+     "text": "urging",
+     "meaning": "강하게 요구하는",
+     "level": 2
+    },
+    {
+     "text": "prompting",
+     "meaning": "~를 낳으며, 촉발하며",
+     "level": 3
+    },
+    {
+     "text": "supporters",
+     "meaning": "지지자들",
+     "level": 1
+    },
+    {
+     "text": "disappointing",
+     "meaning": "실망스러운",
+     "level": 1
+    },
+    {
+     "text": "outcome",
+     "meaning": "결과",
+     "level": 1
+    },
+    {
+     "text": "communicated",
+     "meaning": "소통했다",
+     "level": 1
+    },
+    {
+     "text": "responsibility",
+     "meaning": "책임",
+     "level": 1
+    },
+    {
+     "text": "intercepted",
+     "meaning": "가로챘다",
+     "level": 2
+    },
+    {
+     "text": "committed",
+     "meaning": "저질렀다",
+     "level": 2
+    },
+    {
+     "text": "national-team",
+     "meaning": "국가대표팀(의)",
+     "level": 1
+    },
+    {
+     "text": "intensity",
+     "meaning": "강도, 세기",
+     "level": 2
+    },
+    {
+     "text": "exit",
+     "meaning": "탈락, 퇴장",
+     "level": 1
+    },
+    {
+     "text": "resigned",
+     "meaning": "사임했다",
+     "level": 2
+    },
+    {
+     "text": "oversee",
+     "meaning": "감독하다, 총괄하다",
+     "level": 2
+    },
+    {
+     "text": "leadership",
+     "meaning": "지도부, 리더십",
+     "level": 2
+    },
+    {
+     "text": "depending",
+     "meaning": "~에 따라",
+     "level": 1
+    },
+    {
+     "text": "postponed",
+     "meaning": "연기했다",
+     "level": 2
+    },
+    {
+     "text": "tournament",
+     "meaning": "대회",
+     "level": 1
+    },
+    {
+     "text": "citing",
+     "meaning": "~를 이유로 들며",
+     "level": 2
+    },
+    {
+     "text": "election",
+     "meaning": "선거",
+     "level": 1
     }
    ],
    "views": [
@@ -15432,6 +16052,66 @@
      "text": "tender",
      "meaning": "제출하다",
      "level": 2
+    },
+    {
+     "text": "formally",
+     "meaning": "공식적으로",
+     "level": 2
+    },
+    {
+     "text": "availability",
+     "meaning": "(선수 영입) 가능 여부",
+     "level": 2
+    },
+    {
+     "text": "reigning",
+     "meaning": "현재 보유 중인(직전 시즌 우승한)",
+     "level": 3
+    },
+    {
+     "text": "officials",
+     "meaning": "관계자들",
+     "level": 1
+    },
+    {
+     "text": "agreement",
+     "meaning": "협약, 합의",
+     "level": 1
+    },
+    {
+     "text": "professional",
+     "meaning": "프로 선수",
+     "level": 1
+    },
+    {
+     "text": "amateur",
+     "meaning": "아마추어",
+     "level": 1
+    },
+    {
+     "text": "formal",
+     "meaning": "공식적인",
+     "level": 1
+    },
+    {
+     "text": "inquiry",
+     "meaning": "문의",
+     "level": 2
+    },
+    {
+     "text": "Lions",
+     "meaning": "삼성 라이온즈(KBO 팀)",
+     "level": 1
+    },
+    {
+     "text": "dozen",
+     "meaning": "12일(열두 개)",
+     "level": 1
+    },
+    {
+     "text": "pitcher",
+     "meaning": "투수",
+     "level": 0
     }
    ],
    "views": [
@@ -19530,6 +20210,81 @@
      "text": "South Korea",
      "meaning": "대한민국",
      "level": 0
+    },
+    {
+     "text": "essential",
+     "meaning": "필수적인",
+     "level": 2
+    },
+    {
+     "text": "reviewing",
+     "meaning": "검토한 뒤",
+     "level": 2
+    },
+    {
+     "text": "consistent",
+     "meaning": "~와 부합하는",
+     "level": 3
+    },
+    {
+     "text": "agreement",
+     "meaning": "합의",
+     "level": 2
+    },
+    {
+     "text": "reportedly",
+     "meaning": "보도에 따르면",
+     "level": 2
+    },
+    {
+     "text": "proposed",
+     "meaning": "제안했다",
+     "level": 1
+    },
+    {
+     "text": "proceed",
+     "meaning": "진행하다",
+     "level": 2
+    },
+    {
+     "text": "typically",
+     "meaning": "보통, 통상",
+     "level": 2
+    },
+    {
+     "text": "examine",
+     "meaning": "조사하다",
+     "level": 2
+    },
+    {
+     "text": "detention",
+     "meaning": "구금",
+     "level": 3
+    },
+    {
+     "text": "identify",
+     "meaning": "파악하다, 찾아내다",
+     "level": 2
+    },
+    {
+     "text": "official",
+     "meaning": "공식적으로",
+     "level": 2
+    },
+    {
+     "text": "development",
+     "meaning": "(새로운) 사태, 전개",
+     "level": 2
+    },
+    {
+     "text": "regarding",
+     "meaning": "~에 관한",
+     "level": 2
+    },
+    {
+     "text": "international",
+     "meaning": "국제적인",
+     "level": 1
     }
    ],
    "views": [
@@ -23922,6 +24677,51 @@
      "text": "weapons",
      "meaning": "무기",
      "level": 1
+    },
+    {
+     "text": "related",
+     "meaning": "관련된",
+     "level": 1
+    },
+    {
+     "text": "Naval",
+     "meaning": "해군의",
+     "level": 2
+    },
+    {
+     "text": "Propulsion",
+     "meaning": "추진(력)",
+     "level": 3
+    },
+    {
+     "text": "consulted",
+     "meaning": "자문을 구했다",
+     "level": 3
+    },
+    {
+     "text": "ensure",
+     "meaning": "보장하다, 확실히 하다",
+     "level": 2
+    },
+    {
+     "text": "technical",
+     "meaning": "기술적인",
+     "level": 1
+    },
+    {
+     "text": "communication",
+     "meaning": "소통, 의사 교환",
+     "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
+    },
+    {
+     "text": "cooperate",
+     "meaning": "협력하다",
+     "level": 2
     }
    ],
    "views": [
@@ -27987,6 +28787,121 @@
      "text": "runs",
      "meaning": "실행된다",
      "level": 1
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 1
+    },
+    {
+     "text": "desktop",
+     "meaning": "데스크톱(컴퓨터용)",
+     "level": 1
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 1
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 1
+    },
+    {
+     "text": "navigating",
+     "meaning": "(화면을) 이동·조작하며 다니기",
+     "level": 2
+    },
+    {
+     "text": "browsing",
+     "meaning": "(웹을) 둘러보기",
+     "level": 1
+    },
+    {
+     "text": "menus",
+     "meaning": "(화면의) 메뉴들",
+     "level": 1
+    },
+    {
+     "text": "organizing",
+     "meaning": "정리하기",
+     "level": 1
+    },
+    {
+     "text": "folders",
+     "meaning": "폴더들",
+     "level": 1
+    },
+    {
+     "text": "criteria",
+     "meaning": "기준, 조건",
+     "level": 3
+    },
+    {
+     "text": "PDFs",
+     "meaning": "PDF 문서 파일들",
+     "level": 1
+    },
+    {
+     "text": "cited",
+     "meaning": "언급했다, 인용했다",
+     "level": 2
+    },
+    {
+     "text": "listing",
+     "meaning": "(물품을) 올리기, 목록에 올리기",
+     "level": 2
+    },
+    {
+     "text": "initially",
+     "meaning": "처음에는",
+     "level": 1
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
+    },
+    {
+     "text": "expand",
+     "meaning": "확대하다",
+     "level": 2
+    },
+    {
+     "text": "broader",
+     "meaning": "더 폭넓은",
+     "level": 2
+    },
+    {
+     "text": "appointments",
+     "meaning": "(병원·미용 등) 예약",
+     "level": 1
+    },
+    {
+     "text": "separately",
+     "meaning": "따로, 별도로",
+     "level": 2
+    },
+    {
+     "text": "posed",
+     "meaning": "(위험을) 일으키는, 제기하는",
+     "level": 3
+    },
+    {
+     "text": "preview",
+     "meaning": "미리보기",
+     "level": 1
+    },
+    {
+     "text": "signaling",
+     "meaning": "~임을 시사하는",
+     "level": 2
+    },
+    {
+     "text": "convenience",
+     "meaning": "편의, 편리함",
+     "level": 2
     }
    ],
    "views": [
@@ -34528,6 +35443,91 @@
      "text": "campus",
      "meaning": "캠퍼스",
      "level": 1
+    },
+    {
+     "text": "publicly",
+     "meaning": "공개적으로, 공적으로",
+     "level": 2
+    },
+    {
+     "text": "widen",
+     "meaning": "넓히다, 확대하다",
+     "level": 2
+    },
+    {
+     "text": "officials",
+     "meaning": "관계자들",
+     "level": 1
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 1
+    },
+    {
+     "text": "treatments",
+     "meaning": "치료법들",
+     "level": 2
+    },
+    {
+     "text": "academic",
+     "meaning": "학계의, 학문적인",
+     "level": 2
+    },
+    {
+     "text": "cited",
+     "meaning": "인용된",
+     "level": 2
+    },
+    {
+     "text": "estimated",
+     "meaning": "추정된",
+     "level": 2
+    },
+    {
+     "text": "construction",
+     "meaning": "건설",
+     "level": 1
+    },
+    {
+     "text": "depends",
+     "meaning": "~에 달려 있다",
+     "level": 1
+    },
+    {
+     "text": "materials",
+     "meaning": "자료, 서류",
+     "level": 2
+    },
+    {
+     "text": "NVIDIA-powered",
+     "meaning": "엔비디아 칩으로 구동되는",
+     "level": 2
+    },
+    {
+     "text": "UB",
+     "meaning": "UB(뉴욕주립대 버펄로 캠퍼스)",
+     "level": 3
+    },
+    {
+     "text": "institutions",
+     "meaning": "기관들",
+     "level": 2
+    },
+    {
+     "text": "dramatically",
+     "meaning": "극적으로",
+     "level": 2
+    },
+    {
+     "text": "development",
+     "meaning": "(기술의) 개발",
+     "level": 1
+    },
+    {
+     "text": "completion",
+     "meaning": "완공, 마무리",
+     "level": 2
     }
    ],
    "views": [
@@ -40442,6 +41442,61 @@
      "text": "completed",
      "meaning": "(패스를) 성공시켰다",
      "level": 1
+    },
+    {
+     "text": "dismal",
+     "meaning": "끔찍한, 형편없는",
+     "level": 2
+    },
+    {
+     "text": "competitive",
+     "meaning": "접전의, 경쟁이 되는",
+     "level": 2
+    },
+    {
+     "text": "briefly",
+     "meaning": "잠깐, 짧은 시간",
+     "level": 1
+    },
+    {
+     "text": "offense",
+     "meaning": "공격진, 공격",
+     "level": 1
+    },
+    {
+     "text": "citing",
+     "meaning": "~를 인용해",
+     "level": 2
+    },
+    {
+     "text": "piled",
+     "meaning": "쌓아올렸다(많은 야드를 기록)",
+     "level": 2
+    },
+    {
+     "text": "praise",
+     "meaning": "칭찬",
+     "level": 1
+    },
+    {
+     "text": "receptions",
+     "meaning": "패스 받기(리시브)",
+     "level": 2
+    },
+    {
+     "text": "whom",
+     "meaning": "~한 (그를)",
+     "level": 1
+    },
+    {
+     "text": "offensive",
+     "meaning": "공격 쪽의",
+     "level": 1
+    },
+    {
+     "text": "veterans",
+     "meaning": "노장 선수들",
+     "level": 2
     }
    ],
    "views": [
@@ -47001,6 +48056,441 @@
      "text": "franchise",
      "meaning": "(영화) 프랜차이즈, 연작 시리즈",
      "level": 3
+    },
+    {
+     "text": "London-born",
+     "meaning": "런던에서 태어난",
+     "level": 1
+    },
+    {
+     "text": "official",
+     "meaning": "공식적인",
+     "level": 1
+    },
+    {
+     "text": "announced",
+     "meaning": "발표된",
+     "level": 1
+    },
+    {
+     "text": "cinemas",
+     "meaning": "영화관들(영국식)",
+     "level": 1
+    },
+    {
+     "text": "production",
+     "meaning": "제작",
+     "level": 1
+    },
+    {
+     "text": "entrusted",
+     "meaning": "(막중한 일을) 맡게 된",
+     "level": 3
+    },
+    {
+     "text": "honour",
+     "meaning": "영광",
+     "level": 1
+    },
+    {
+     "text": "speculation",
+     "meaning": "추측, 억측",
+     "level": 2
+    },
+    {
+     "text": "heavily",
+     "meaning": "크게, 깊이",
+     "level": 1
+    },
+    {
+     "text": "involved",
+     "meaning": "관여한",
+     "level": 1
+    },
+    {
+     "text": "initially",
+     "meaning": "처음에는",
+     "level": 1
+    },
+    {
+     "text": "notable",
+     "meaning": "주목할 만한",
+     "level": 2
+    },
+    {
+     "text": "admission",
+     "meaning": "인정, 시인",
+     "level": 2
+    },
+    {
+     "text": "typically",
+     "meaning": "대개, 흔히",
+     "level": 2
+    },
+    {
+     "text": "old-fashioned",
+     "meaning": "예스러운, 전통적인",
+     "level": 2
+    },
+    {
+     "text": "costume",
+     "meaning": "의상, 분장 옷",
+     "level": 1
+    },
+    {
+     "text": "Director",
+     "meaning": "감독",
+     "level": 1
+    },
+    {
+     "text": "Rob",
+     "meaning": "롭(로버트의 애칭)",
+     "level": 1
+    },
+    {
+     "text": "Sicario",
+     "meaning": "시카리오(드니 빌뇌브 감독 영화)",
+     "level": 3
+    },
+    {
+     "text": "Dune",
+     "meaning": "듄(SF 영화 시리즈)",
+     "level": 0
+    },
+    {
+     "text": "Peaky",
+     "meaning": "피키 블라인더스(영국 드라마) 제목의 일부",
+     "level": 3
+    },
+    {
+     "text": "script",
+     "meaning": "대본",
+     "level": 2
+    },
+    {
+     "text": "intends",
+     "meaning": "~할 작정이다",
+     "level": 2
+    },
+    {
+     "text": "widely",
+     "meaning": "널리",
+     "level": 1
+    },
+    {
+     "text": "commercially",
+     "meaning": "상업적으로",
+     "level": 2
+    },
+    {
+     "text": "cautious",
+     "meaning": "신중한",
+     "level": 2
+    },
+    {
+     "text": "amid",
+     "meaning": "~한 가운데",
+     "level": 2
+    },
+    {
+     "text": "lure",
+     "meaning": "끌어들이다",
+     "level": 2
+    },
+    {
+     "text": "insiders",
+     "meaning": "내부 소식통들",
+     "level": 3
+    },
+    {
+     "text": "gamble",
+     "meaning": "모험, 도박",
+     "level": 2
+    },
+    {
+     "text": "newcomer",
+     "meaning": "신인",
+     "level": 2
+    },
+    {
+     "text": "predicted",
+     "meaning": "예측했다",
+     "level": 1
+    },
+    {
+     "text": "newsletter",
+     "meaning": "뉴스레터",
+     "level": 2
+    },
+    {
+     "text": "boring",
+     "meaning": "지루한",
+     "level": 1
+    },
+    {
+     "text": "stake",
+     "meaning": "(이해관계, 걸린 것) 판돈",
+     "level": 3
+    },
+    {
+     "text": "commentary",
+     "meaning": "논평, 해설",
+     "level": 2
+    },
+    {
+     "text": "likewise",
+     "meaning": "마찬가지로",
+     "level": 2
+    },
+    {
+     "text": "veteran",
+     "meaning": "베테랑",
+     "level": 2
+    },
+    {
+     "text": "Harry Potter",
+     "meaning": "해리 포터(영화 시리즈)",
+     "level": 0
+    },
+    {
+     "text": "Goblet",
+     "meaning": "불의 잔(해리 포터 영화 부제)의 '잔'",
+     "level": 1
+    },
+    {
+     "text": "unusual",
+     "meaning": "이례적인, 독특한",
+     "level": 2
+    },
+    {
+     "text": "independent",
+     "meaning": "독립(영화)의",
+     "level": 2
+    },
+    {
+     "text": "Werner Herzog",
+     "meaning": "베르너 헤어초크(독일 영화감독)",
+     "level": 3
+    },
+    {
+     "text": "Matt Reeves's",
+     "meaning": "맷 리브스(영화감독, 더 배트맨)",
+     "level": 3
+    },
+    {
+     "text": "second-biggest",
+     "meaning": "두 번째로 큰",
+     "level": 1
+    },
+    {
+     "text": "pandemic",
+     "meaning": "팬데믹",
+     "level": 1
+    },
+    {
+     "text": "Spider",
+     "meaning": "스파이더맨(영화)",
+     "level": 0
+    },
+    {
+     "text": "real-life",
+     "meaning": "실제의, 현실의",
+     "level": 1
+    },
+    {
+     "text": "Predator",
+     "meaning": "프레데터(영화 제목)",
+     "level": 3
+    },
+    {
+     "text": "Critics",
+     "meaning": "평론가들",
+     "level": 1
+    },
+    {
+     "text": "weighed",
+     "meaning": "(의견을) 저울질하다, 평가하다",
+     "level": 2
+    },
+    {
+     "text": "repeatedly",
+     "meaning": "거듭해서",
+     "level": 2
+    },
+    {
+     "text": "descriptor",
+     "meaning": "묘사하는 말",
+     "level": 3
+    },
+    {
+     "text": "handsome",
+     "meaning": "잘생긴",
+     "level": 1
+    },
+    {
+     "text": "enriched",
+     "meaning": "풍성해졌다, 더욱 높아졌다",
+     "level": 3
+    },
+    {
+     "text": "losers",
+     "meaning": "패배자들",
+     "level": 1
+    },
+    {
+     "text": "effectively",
+     "meaning": "사실상",
+     "level": 2
+    },
+    {
+     "text": "spy",
+     "meaning": "스파이, 첩보원",
+     "level": 1
+    },
+    {
+     "text": "audition",
+     "meaning": "오디션, 시험 무대",
+     "level": 1
+    },
+    {
+     "text": "Academics",
+     "meaning": "학자들",
+     "level": 2
+    },
+    {
+     "text": "commentators",
+     "meaning": "해설가들",
+     "level": 2
+    },
+    {
+     "text": "scholar",
+     "meaning": "학자",
+     "level": 2
+    },
+    {
+     "text": "embodied",
+     "meaning": "구현했다, 체현했다",
+     "level": 3
+    },
+    {
+     "text": "confident",
+     "meaning": "자신감 있는",
+     "level": 1
+    },
+    {
+     "text": "vulnerability",
+     "meaning": "취약성",
+     "level": 3
+    },
+    {
+     "text": "physically",
+     "meaning": "신체적으로",
+     "level": 2
+    },
+    {
+     "text": "emotionally",
+     "meaning": "감정적으로",
+     "level": 2
+    },
+    {
+     "text": "wounded",
+     "meaning": "상처 입은",
+     "level": 2
+    },
+    {
+     "text": "predictable",
+     "meaning": "예측 가능한, 뻔한",
+     "level": 2
+    },
+    {
+     "text": "unconventional",
+     "meaning": "틀에 얽매이지 않는",
+     "level": 3
+    },
+    {
+     "text": "extend",
+     "meaning": "확장하다, 넓히다",
+     "level": 2
+    },
+    {
+     "text": "producer",
+     "meaning": "제작자",
+     "level": 1
+    },
+    {
+     "text": "anticipated",
+     "meaning": "예상했다",
+     "level": 2
+    },
+    {
+     "text": "depend",
+     "meaning": "~에 달려 있다",
+     "level": 1
+    },
+    {
+     "text": "compelling",
+     "meaning": "설득력 있는, 흥미진진한",
+     "level": 2
+    },
+    {
+     "text": "villains",
+     "meaning": "악당들",
+     "level": 1
+    },
+    {
+     "text": "triggered",
+     "meaning": "촉발했다, 일으켰다",
+     "level": 2
+    },
+    {
+     "text": "Guardian",
+     "meaning": "영국 일간지 가디언",
+     "level": 0
+    },
+    {
+     "text": "apparent",
+     "meaning": "겉보기의, 명백한",
+     "level": 2
+    },
+    {
+     "text": "sea-launched",
+     "meaning": "바다에서 발사된",
+     "level": 2
+    },
+    {
+     "text": "missiles",
+     "meaning": "미사일들",
+     "level": 1
+    },
+    {
+     "text": "infected",
+     "meaning": "(질병·기술 등에) 감염된, 오염된",
+     "level": 2
+    },
+    {
+     "text": "altogether",
+     "meaning": "완전히",
+     "level": 1
+    },
+    {
+     "text": "recasting",
+     "meaning": "배우를 새로 바꾸는 것",
+     "level": 2
+    },
+    {
+     "text": "Marvel-style",
+     "meaning": "마블 영화식의",
+     "level": 1
+    },
+    {
+     "text": "Observers",
+     "meaning": "관찰자들",
+     "level": 2
+    },
+    {
+     "text": "fate",
+     "meaning": "운명",
+     "level": 2
     }
    ],
    "views": [
@@ -52029,6 +53519,116 @@
     {
      "text": "duration",
      "meaning": "기간",
+     "level": 1
+    },
+    {
+     "text": "once-daily",
+     "meaning": "하루 한 번 복용하는",
+     "level": 2
+    },
+    {
+     "text": "pill",
+     "meaning": "알약",
+     "level": 1
+    },
+    {
+     "text": "eliminate",
+     "meaning": "없애다, 제거하다",
+     "level": 2
+    },
+    {
+     "text": "treatment",
+     "meaning": "치료",
+     "level": 1
+    },
+    {
+     "text": "whom",
+     "meaning": "그들 모두(관계대명사 whom)",
+     "level": 2
+    },
+    {
+     "text": "unclear",
+     "meaning": "불확실한, 분명치 않은",
+     "level": 1
+    },
+    {
+     "text": "approved",
+     "meaning": "승인된",
+     "level": 1
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
+    },
+    {
+     "text": "pancreatic",
+     "meaning": "췌장의",
+     "level": 2
+    },
+    {
+     "text": "Dozens",
+     "meaning": "수십 개의",
+     "level": 1
+    },
+    {
+     "text": "percentage",
+     "meaning": "비율, 백분율",
+     "level": 1
+    },
+    {
+     "text": "responses",
+     "meaning": "반응(치료 반응)",
+     "level": 2
+    },
+    {
+     "text": "Prof",
+     "meaning": "교수(Professor 약어)",
+     "level": 1
+    },
+    {
+     "text": "potentially",
+     "meaning": "잠재적으로, 어쩌면",
+     "level": 2
+    },
+    {
+     "text": "significantly",
+     "meaning": "상당히, 크게",
+     "level": 2
+    },
+    {
+     "text": "gene",
+     "meaning": "유전자",
+     "level": 1
+    },
+    {
+     "text": "organs",
+     "meaning": "장기들",
+     "level": 1
+    },
+    {
+     "text": "diagnosis",
+     "meaning": "진단",
+     "level": 2
+    },
+    {
+     "text": "necessarily",
+     "meaning": "반드시 ~는 아니다",
+     "level": 2
+    },
+    {
+     "text": "Symptoms",
+     "meaning": "증상들",
+     "level": 1
+    },
+    {
+     "text": "paler",
+     "meaning": "더 옅은(창백한)",
+     "level": 1
+    },
+    {
+     "text": "tiredness",
+     "meaning": "피로, 피곤함",
      "level": 1
     }
    ],
