@@ -1,77 +1,82 @@
 [
-  {
-    "edition": "2026-11-21-am",
-    "publishedAt": "2026-11-21T04:20:02+09:00",
-    "lead": "Anthropic Shares Slide Toward IPO Price as Tech Sell-Off Pushes S&P 500 Into Correction"
-  },
-  {
-    "edition": "2026-11-20-pm",
-    "publishedAt": "2026-11-20T18:21:43+09:00",
-    "lead": "Anthropic Rings Nasdaq Bell After Record $81 Billion IPO, but AI Worries Linger"
-  },
-  {
-    "edition": "2026-11-20-am",
-    "publishedAt": "2026-11-20T04:19:50+09:00",
-    "lead": "Anthropic Raises Record $81.3bn in Nasdaq Debut, Hitting $2tn Value Before Shares Retreat"
-  },
-  {
-    "edition": "2026-11-19-pm",
-    "publishedAt": "2026-11-19T18:32:06+09:00",
-    "lead": "Anthropic Prices Record IPO at $83 a Share, Raising $81.3 Billion at a $1.5 Trillion Valuation"
-  },
-  {
-    "edition": "2026-11-19-am",
-    "publishedAt": "2026-11-19T04:19:53+09:00",
-    "lead": "Nvidia Halts Shipments of US-Approved Hopper AI Chips to China, Interim CEO Says"
-  },
-  {
-    "edition": "2026-11-18-pm",
-    "publishedAt": "2026-11-18T18:46:00+09:00",
-    "lead": "Trump Says He May Meet Kim Jong-un in China as Kremlin Signals Putin Is Open to a Meeting"
-  },
-  {
-    "edition": "2026-11-18-am",
-    "publishedAt": "2026-11-18T04:26:07+09:00",
-    "lead": "Trump Says US Taking Reported Iranian 'Dirty Bomb' Plot 'Very Seriously' as Tehran Calls CNN Report Baseless"
-  },
-  {
-    "edition": "2026-11-17-pm",
-    "publishedAt": "2026-11-17T18:31:08+09:00",
-    "lead": "Trump Says He May Meet Kim Jong-un in China as Experts Doubt North Korea Will Feature at Trilateral Summit"
-  },
-  {
-    "edition": "2026-11-17-am",
-    "publishedAt": "2026-11-17T04:35:33+09:00",
-    "lead": "Nvidia Board Resists Push to Reinstate Huang as Backers, Trump and Investors Weigh In"
-  },
-  {
-    "edition": "2026-11-16-pm",
-    "publishedAt": "2026-11-16T18:29:22+09:00",
-    "lead": "Estonia to Close All Russian Border Crossings After Foiled Arson Attack on Drone Maker"
-  },
-  {
-    "edition": "2026-11-16-am",
-    "publishedAt": "2026-11-16T04:25:33+09:00",
-    "lead": "Italy Fines Meta €805 Million Over Facebook's Access to Android Users' Photos Without Consent"
-  },
-  {
-    "edition": "2026-11-15-pm",
-    "publishedAt": "2026-11-15T18:37:51+09:00",
-    "lead": "Italy Fines Meta €805 Million Over Facebook's Gallery Access on Android"
-  },
-  {
-    "edition": "2026-11-15-am",
-    "publishedAt": "2026-11-15T04:33:31+09:00",
-    "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Shop for You"
-  },
-  {
-    "edition": "2026-11-14-am",
-    "publishedAt": "2026-11-14T04:35:29+09:00",
-    "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Pay for Purchases"
-  },
-  {
-    "edition": "2026-11-13-pm",
-    "publishedAt": "2026-11-13T23:15:50+09:00",
-    "lead": "Microsoft Outage Hits Outlook, Teams and Copilot Around the World"
-  }
+ {
+  "edition": "2026-11-21-pm",
+  "publishedAt": "2026-11-21T18:19:55+09:00",
+  "lead": "Trump Says Korean Peninsula Dangers Came Up at Summit With Xi and Putin as Kim Stays Out of Sight"
+ },
+ {
+  "edition": "2026-11-21-am",
+  "publishedAt": "2026-11-21T04:20:02+09:00",
+  "lead": "Anthropic Shares Slide Toward IPO Price as Tech Sell-Off Pushes S&P 500 Into Correction"
+ },
+ {
+  "edition": "2026-11-20-pm",
+  "publishedAt": "2026-11-20T18:21:43+09:00",
+  "lead": "Anthropic Rings Nasdaq Bell After Record $81 Billion IPO, but AI Worries Linger"
+ },
+ {
+  "edition": "2026-11-20-am",
+  "publishedAt": "2026-11-20T04:19:50+09:00",
+  "lead": "Anthropic Raises Record $81.3bn in Nasdaq Debut, Hitting $2tn Value Before Shares Retreat"
+ },
+ {
+  "edition": "2026-11-19-pm",
+  "publishedAt": "2026-11-19T18:32:06+09:00",
+  "lead": "Anthropic Prices Record IPO at $83 a Share, Raising $81.3 Billion at a $1.5 Trillion Valuation"
+ },
+ {
+  "edition": "2026-11-19-am",
+  "publishedAt": "2026-11-19T04:19:53+09:00",
+  "lead": "Nvidia Halts Shipments of US-Approved Hopper AI Chips to China, Interim CEO Says"
+ },
+ {
+  "edition": "2026-11-18-pm",
+  "publishedAt": "2026-11-18T18:46:00+09:00",
+  "lead": "Trump Says He May Meet Kim Jong-un in China as Kremlin Signals Putin Is Open to a Meeting"
+ },
+ {
+  "edition": "2026-11-18-am",
+  "publishedAt": "2026-11-18T04:26:07+09:00",
+  "lead": "Trump Says US Taking Reported Iranian 'Dirty Bomb' Plot 'Very Seriously' as Tehran Calls CNN Report Baseless"
+ },
+ {
+  "edition": "2026-11-17-pm",
+  "publishedAt": "2026-11-17T18:31:08+09:00",
+  "lead": "Trump Says He May Meet Kim Jong-un in China as Experts Doubt North Korea Will Feature at Trilateral Summit"
+ },
+ {
+  "edition": "2026-11-17-am",
+  "publishedAt": "2026-11-17T04:35:33+09:00",
+  "lead": "Nvidia Board Resists Push to Reinstate Huang as Backers, Trump and Investors Weigh In"
+ },
+ {
+  "edition": "2026-11-16-pm",
+  "publishedAt": "2026-11-16T18:29:22+09:00",
+  "lead": "Estonia to Close All Russian Border Crossings After Foiled Arson Attack on Drone Maker"
+ },
+ {
+  "edition": "2026-11-16-am",
+  "publishedAt": "2026-11-16T04:25:33+09:00",
+  "lead": "Italy Fines Meta €805 Million Over Facebook's Access to Android Users' Photos Without Consent"
+ },
+ {
+  "edition": "2026-11-15-pm",
+  "publishedAt": "2026-11-15T18:37:51+09:00",
+  "lead": "Italy Fines Meta €805 Million Over Facebook's Gallery Access on Android"
+ },
+ {
+  "edition": "2026-11-15-am",
+  "publishedAt": "2026-11-15T04:33:31+09:00",
+  "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Shop for You"
+ },
+ {
+  "edition": "2026-11-14-am",
+  "publishedAt": "2026-11-14T04:35:29+09:00",
+  "lead": "OpenAI Launches ChatGPT Wallet So AI Agents Can Pay for Purchases"
+ },
+ {
+  "edition": "2026-11-13-pm",
+  "publishedAt": "2026-11-13T23:15:50+09:00",
+  "lead": "Microsoft Outage Hits Outlook, Teams and Copilot Around the World"
+ }
 ]
