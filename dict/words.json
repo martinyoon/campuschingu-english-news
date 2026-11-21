@@ -44389,288 +44389,2374 @@
     "level": 4,
     "added": "2026-11-21-am"
   },
-  "ubisoft": {"meaning":"유비소프트(프랑스 게임 회사)","level":0,"added":"2026-11-21-pm"},
-  "etsy": {"meaning":"엣시(수공예품 온라인 장터)","level":3,"added":"2026-11-21-pm"},
-  "bayer": {"meaning":"바이엘(독일 제약·화학 회사)","level":0,"added":"2026-11-21-pm"},
-  "hindmarsh": {"meaning":"힌드마시(영국 의사 이름)","level":3,"added":"2026-11-21-pm"},
-  "zecler": {"meaning":"미셸 제클레르(프랑스 음악 프로듀서)","level":3,"added":"2026-11-21-pm"},
-  "edible": {"meaning":"먹을 수 있는","level":2,"added":"2026-11-21-pm"},
-  "nacua": {"meaning":"나쿠아(미국 풋볼 선수 퓨카 나쿠아)","level":3,"added":"2026-11-21-pm"},
-  "schiffer": {"meaning":"쉬퍼(미국 외교 전문가 이름)","level":3,"added":"2026-11-21-pm"},
-  "clearlake": {"meaning":"클리어레이크(미국 투자 회사)","level":3,"added":"2026-11-21-pm"},
-  "norwegian": {"meaning":"노르웨이의, 노르웨이 사람","level":1,"added":"2026-11-21-pm"},
-  "quebec": {"meaning":"퀘벡(캐나다 주·도시)","level":3,"added":"2026-11-21-pm"},
-  "shah": {"meaning":"샤(네팔 총리 발렌드라 샤의 성)","level":3,"added":"2026-11-21-pm"},
-  "superconducting": {"meaning":"초전도의","level":3,"added":"2026-11-21-pm"},
-  "cps": {"meaning":"영국 검찰청(CPS)","level":3,"added":"2026-11-21-pm"},
-  "dandzbergs": {"meaning":"단츠베르그스(라트비아 출신 청년 이름)","level":3,"added":"2026-11-21-pm"},
-  "elliptic": {"meaning":"엘립틱(블록체인 분석 회사)","level":3,"added":"2026-11-21-pm"},
-  "letby": {"meaning":"렛비(영국 간호사 루시 렛비)","level":3,"added":"2026-11-21-pm"},
-  "motherbrain": {"meaning":"마더브레인(유비소프트 AI 자회사 이름)","level":3,"added":"2026-11-21-pm"},
-  "programmatic": {"meaning":"전공 프로그램 단위의, 프로그램 방식의","level":3,"added":"2026-11-21-pm"},
-  "rinderknecht": {"meaning":"린더크네트(팰리세이즈 산불 방화범 이름)","level":3,"added":"2026-11-21-pm"},
-  "yc": {"meaning":"와이콤비네이터(YC, 미국 스타트업 투자사)","level":3,"added":"2026-11-21-pm"},
-  "azizan": {"meaning":"아지잔(MIT 교수 이름)","level":3,"added":"2026-11-21-pm"},
-  "bolsonaro": {"meaning":"보우소나루(전 브라질 대통령)","level":0,"added":"2026-11-21-pm"},
-  "cosmax": {"meaning":"코스맥스(한국 화장품 제조 회사)","level":0,"added":"2026-11-21-pm"},
-  "ginger": {"meaning":"생강","level":1,"added":"2026-11-21-pm"},
-  "gmc": {"meaning":"영국 일반의료위원회(GMC)","level":3,"added":"2026-11-21-pm"},
-  "haerin": {"meaning":"해린(뉴진스 멤버)","level":0,"added":"2026-11-21-pm"},
-  "missouri": {"meaning":"미주리(미국 주)","level":3,"added":"2026-11-21-pm"},
-  "openrouter": {"meaning":"오픈라우터(AI 모델 중개 서비스)","level":3,"added":"2026-11-21-pm"},
-  "reseller": {"meaning":"재판매업자","level":3,"added":"2026-11-21-pm"},
-  "usns": {"meaning":"미 해군 군수지원함(USNS) 접두어","level":3,"added":"2026-11-21-pm"},
-  "boehly": {"meaning":"보엘리(첼시 공동 구단주 토드 보엘리)","level":3,"added":"2026-11-21-pm"},
-  "dexterous": {"meaning":"손재주 좋은, 정교한","level":3,"added":"2026-11-21-pm"},
-  "exhuma": {"meaning":"파묘(한국 오컬트 영화)","level":0,"added":"2026-11-21-pm"},
-  "glyphosate": {"meaning":"글리포세이트(제초제 성분)","level":4,"added":"2026-11-21-pm"},
-  "high-tech": {"meaning":"첨단 기술의","level":1,"added":"2026-11-21-pm"},
-  "kuo": {"meaning":"궈(애널리스트 궈밍치)","level":3,"added":"2026-11-21-pm"},
-  "licensure": {"meaning":"면허 부여, 면허 제도","level":4,"added":"2026-11-21-pm"},
-  "lucrative": {"meaning":"수익성이 높은","level":3,"added":"2026-11-21-pm"},
-  "nardelli": {"meaning":"나르델리(영국 스타트업 창업자 이름)","level":3,"added":"2026-11-21-pm"},
-  "newsasia": {"meaning":"뉴스아시아(싱가포르 방송 채널 뉴스아시아)","level":3,"added":"2026-11-21-pm"},
-  "open-ended": {"meaning":"개방형의, 제한 없는","level":3,"added":"2026-11-21-pm"},
-  "paik": {"meaning":"백(백종원의 성)","level":0,"added":"2026-11-21-pm"},
-  "pichai": {"meaning":"피차이(구글 CEO 순다르 피차이)","level":0,"added":"2026-11-21-pm"},
-  "pod": {"meaning":"꼬투리, 작은 캡슐","level":2,"added":"2026-11-21-pm"},
-  "polemos": {"meaning":"폴레모스(방산 스타트업 이름)","level":3,"added":"2026-11-21-pm"},
-  "sczygiol": {"meaning":"시지올(독일 학생 대표 이름)","level":3,"added":"2026-11-21-pm"},
-  "telecast": {"meaning":"방송, 텔레비전 중계","level":3,"added":"2026-11-21-pm"},
-  "uclh": {"meaning":"런던대학병원 신탁(UCLH)","level":3,"added":"2026-11-21-pm"},
-  "aba": {"meaning":"미국변호사협회(ABA)","level":3,"added":"2026-11-21-pm"},
-  "accredit": {"meaning":"인가하다, 인증하다","level":3,"added":"2026-11-21-pm"},
-  "adversarial": {"meaning":"적대적인","level":3,"added":"2026-11-21-pm"},
-  "antisemitic": {"meaning":"반유대주의적인","level":3,"added":"2026-11-21-pm"},
-  "borland": {"meaning":"보를런드(호주 경제학자 이름)","level":3,"added":"2026-11-21-pm"},
-  "breunig": {"meaning":"브뤼니히(호주 경제학자 이름)","level":3,"added":"2026-11-21-pm"},
-  "conmebol": {"meaning":"남미축구연맹(CONMEBOL)","level":3,"added":"2026-11-21-pm"},
-  "creed": {"meaning":"신조, (게임 '어쌔신 크리드'의) 크리드","level":3,"added":"2026-11-21-pm"},
-  "ek": {"meaning":"에크(스포티파이 창업자 다니엘 에크)","level":3,"added":"2026-11-21-pm"},
-  "ether": {"meaning":"이더(암호화폐 이더리움의 코인), 에테르","level":2,"added":"2026-11-21-pm"},
-  "govinfosecurity": {"meaning":"거브인포시큐리티(보안 전문 매체)","level":3,"added":"2026-11-21-pm"},
-  "halifax": {"meaning":"핼리팩스(캐나다 도시)","level":3,"added":"2026-11-21-pm"},
-  "hodgson": {"meaning":"호지슨(영국 의사 이름)","level":3,"added":"2026-11-21-pm"},
-  "kathmandu": {"meaning":"카트만두(네팔 수도)","level":0,"added":"2026-11-21-pm"},
-  "kharagpur": {"meaning":"카라그푸르(인도 도시)","level":3,"added":"2026-11-21-pm"},
-  "lepora": {"meaning":"레포라(영국 로봇공학 교수 이름)","level":3,"added":"2026-11-21-pm"},
-  "lindblad": {"meaning":"린드블라드(F1 드라이버 아르비드 린드블라드)","level":3,"added":"2026-11-21-pm"},
-  "low-income": {"meaning":"저소득의","level":1,"added":"2026-11-21-pm"},
-  "lujan": {"meaning":"루한(미국 상원의원 이름)","level":3,"added":"2026-11-21-pm"},
-  "michel": {"meaning":"미셸(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "monsanto": {"meaning":"몬산토(미국 농업 회사)","level":0,"added":"2026-11-21-pm"},
-  "multistep": {"meaning":"여러 단계의","level":2,"added":"2026-11-21-pm"},
-  "nijjar": {"meaning":"니자르(시크교 분리주의 지도자 이름)","level":3,"added":"2026-11-21-pm"},
-  "non-public": {"meaning":"비공개의","level":2,"added":"2026-11-21-pm"},
-  "notpla": {"meaning":"놋플라(영국 친환경 포장 회사)","level":3,"added":"2026-11-21-pm"},
-  "open-world": {"meaning":"오픈 월드(자유롭게 돌아다니는 방식의)","level":2,"added":"2026-11-21-pm"},
-  "ormond": {"meaning":"오먼드(런던 그레이트 오먼드 스트리트 아동병원)","level":3,"added":"2026-11-21-pm"},
-  "paradox": {"meaning":"역설, 모순","level":2,"added":"2026-11-21-pm"},
-  "plantier": {"meaning":"플랑티에(프랑스 경찰관 이름)","level":3,"added":"2026-11-21-pm"},
-  "post-brexit": {"meaning":"브렉시트 이후의","level":2,"added":"2026-11-21-pm"},
-  "power-sharing": {"meaning":"권력 분담(의)","level":3,"added":"2026-11-21-pm"},
-  "prevalence": {"meaning":"유병률, 널리 퍼져 있음","level":3,"added":"2026-11-21-pm"},
-  "sarah": {"meaning":"세라(사람 이름)","level":0,"added":"2026-11-21-pm"},
-  "supernatural": {"meaning":"초자연적인","level":2,"added":"2026-11-21-pm"},
-  "taggar": {"meaning":"태거(와이콤비네이터 파트너 이름)","level":3,"added":"2026-11-21-pm"},
-  "tamara": {"meaning":"타마라(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "taxation": {"meaning":"과세, 세금 제도","level":2,"added":"2026-11-21-pm"},
-  "theological": {"meaning":"신학의","level":3,"added":"2026-11-21-pm"},
-  "tihenko": {"meaning":"티헨코(청년 개발자 이름)","level":3,"added":"2026-11-21-pm"},
-  "tondeux": {"meaning":"통되(프랑스 경찰관 이름)","level":3,"added":"2026-11-21-pm"},
-  "unpredictable": {"meaning":"예측할 수 없는","level":2,"added":"2026-11-21-pm"},
-  "url": {"meaning":"인터넷 주소(URL)","level":2,"added":"2026-11-21-pm"},
-  "viewership": {"meaning":"시청자 수, 시청률","level":3,"added":"2026-11-21-pm"},
-  "wally": {"meaning":"월리(사람 이름 월리 쉬라)","level":3,"added":"2026-11-21-pm"},
-  "weedkiller": {"meaning":"제초제","level":3,"added":"2026-11-21-pm"},
-  "acknowledgment": {"meaning":"인정, 법적 인지","level":2,"added":"2026-11-21-pm"},
-  "ai-guided": {"meaning":"AI가 이끄는","level":2,"added":"2026-11-21-pm"},
-  "ai-intensive": {"meaning":"AI 집약적인","level":3,"added":"2026-11-21-pm"},
-  "artiverse": {"meaning":"아티버스(게임 업계 매체)","level":3,"added":"2026-11-21-pm"},
-  "autocomplete": {"meaning":"자동 완성","level":2,"added":"2026-11-21-pm"},
-  "balendra": {"meaning":"발렌드라(네팔 총리 이름)","level":3,"added":"2026-11-21-pm"},
-  "bhairahawa": {"meaning":"바이라하와(네팔 도시)","level":3,"added":"2026-11-21-pm"},
-  "bild": {"meaning":"빌트(독일 신문)","level":3,"added":"2026-11-21-pm"},
-  "boyer": {"meaning":"보이어(미국 판사 이름)","level":3,"added":"2026-11-21-pm"},
-  "ccus": {"meaning":"탄소 포집·활용·저장(CCUS)","level":3,"added":"2026-11-21-pm"},
-  "changelog": {"meaning":"변경 내역","level":3,"added":"2026-11-21-pm"},
-  "choreographed": {"meaning":"정교하게 짜인, 안무된","level":3,"added":"2026-11-21-pm"},
-  "coinjoin": {"meaning":"코인조인(암호화폐 섞기 기법)","level":4,"added":"2026-11-21-pm"},
-  "colapinto": {"meaning":"콜라핀토(F1 드라이버 이름)","level":3,"added":"2026-11-21-pm"},
-  "combinator": {"meaning":"콤비네이터(와이콤비네이터의 뒷말)","level":3,"added":"2026-11-21-pm"},
-  "computer-use": {"meaning":"컴퓨터 사용(AI가 컴퓨터를 직접 조작하는 기능)","level":3,"added":"2026-11-21-pm"},
-  "cryogenic": {"meaning":"극저온의","level":4,"added":"2026-11-21-pm"},
-  "cupffee": {"meaning":"컵피(불가리아 식용 컵 스타트업)","level":3,"added":"2026-11-21-pm"},
-  "daesung": {"meaning":"대성(빅뱅 멤버)","level":0,"added":"2026-11-21-pm"},
-  "damion": {"meaning":"데이미언(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "denniss": {"meaning":"데니스(호주 경제학자 이름)","level":3,"added":"2026-11-21-pm"},
-  "detrimental": {"meaning":"해로운","level":3,"added":"2026-11-21-pm"},
-  "dixit": {"meaning":"딕싯(네팔 정치 분석가 이름)","level":3,"added":"2026-11-21-pm"},
-  "durnell": {"meaning":"더넬(미국 원고 이름)","level":3,"added":"2026-11-21-pm"},
-  "duvenhage": {"meaning":"두벤하허(남아공 정치 분석가 이름)","level":3,"added":"2026-11-21-pm"},
-  "eghbali": {"meaning":"에그발리(첼시 공동 구단주 이름)","level":3,"added":"2026-11-21-pm"},
-  "energy-like": {"meaning":"에너지 비슷한","level":3,"added":"2026-11-21-pm"},
-  "essayli": {"meaning":"에사일리(미국 연방검사 이름)","level":3,"added":"2026-11-21-pm"},
-  "ethical": {"meaning":"윤리적인","level":2,"added":"2026-11-21-pm"},
-  "euronews": {"meaning":"유로뉴스(유럽 방송사)","level":3,"added":"2026-11-21-pm"},
-  "excessively": {"meaning":"지나치게","level":2,"added":"2026-11-21-pm"},
-  "extraction": {"meaning":"추출, (AI 모델 지식) 빼내기","level":2,"added":"2026-11-21-pm"},
-  "fastest-growing": {"meaning":"가장 빠르게 성장하는","level":1,"added":"2026-11-21-pm"},
-  "fine-tuning": {"meaning":"미세 조정","level":3,"added":"2026-11-21-pm"},
-  "for-credit": {"meaning":"학점이 인정되는","level":3,"added":"2026-11-21-pm"},
-  "front-row": {"meaning":"맨 앞줄의","level":2,"added":"2026-11-21-pm"},
-  "ghana": {"meaning":"가나(아프리카 나라)","level":0,"added":"2026-11-21-pm"},
-  "git": {"meaning":"깃(코드 버전 관리 도구)","level":3,"added":"2026-11-21-pm"},
-  "gyeongbu": {"meaning":"경부(경부선)","level":0,"added":"2026-11-21-pm"},
-  "hackathon": {"meaning":"해커톤(개발자 아이디어 경연)","level":2,"added":"2026-11-21-pm"},
-  "heath": {"meaning":"히스, 황야(햄스테드히스 지명)","level":3,"added":"2026-11-21-pm"},
-  "hyein": {"meaning":"혜인(뉴진스 멤버)","level":0,"added":"2026-11-21-pm"},
-  "hyper": {"meaning":"하이퍼(SK 계열 AI 데이터센터 회사), 과도한","level":3,"added":"2026-11-21-pm"},
-  "ice-cream": {"meaning":"아이스크림","level":0,"added":"2026-11-21-pm"},
-  "iit": {"meaning":"인도공과대학(IIT)","level":3,"added":"2026-11-21-pm"},
-  "indic": {"meaning":"인도 계통의","level":3,"added":"2026-11-21-pm"},
-  "index": {"meaning":"지수, 색인","level":2,"added":"2026-11-21-pm"},
-  "internet-only": {"meaning":"인터넷 전용의","level":2,"added":"2026-11-21-pm"},
-  "intestinal": {"meaning":"장의, 창자의","level":3,"added":"2026-11-21-pm"},
-  "january-to-september": {"meaning":"1월부터 9월까지의","level":2,"added":"2026-11-21-pm"},
-  "khalistan": {"meaning":"칼리스탄(시크교 독립 국가 주장 지역)","level":3,"added":"2026-11-21-pm"},
-  "know-how": {"meaning":"노하우, 전문 기술","level":2,"added":"2026-11-21-pm"},
-  "kobick": {"meaning":"코빅(미국 연방판사 이름)","level":3,"added":"2026-11-21-pm"},
-  "kozo": {"meaning":"고조(일본 인물 이름)","level":3,"added":"2026-11-21-pm"},
-  "lachman": {"meaning":"라크먼(산불 이름)","level":3,"added":"2026-11-21-pm"},
-  "lagakos": {"meaning":"라가코스(경제학자 이름)","level":3,"added":"2026-11-21-pm"},
-  "lapersonne": {"meaning":"라페르손(프랑스 경찰관 이름)","level":3,"added":"2026-11-21-pm"},
-  "launcher": {"meaning":"발사대, 발사기","level":2,"added":"2026-11-21-pm"},
-  "lofgren": {"meaning":"로프그렌(미국 하원의원 이름)","level":3,"added":"2026-11-21-pm"},
-  "low-productivity": {"meaning":"생산성이 낮은","level":2,"added":"2026-11-21-pm"},
-  "lymphoma": {"meaning":"림프종","level":4,"added":"2026-11-21-pm"},
-  "machine-learning": {"meaning":"머신러닝, 기계 학습","level":2,"added":"2026-11-21-pm"},
-  "mafia": {"meaning":"마피아, 비밀 조직","level":1,"added":"2026-11-21-pm"},
-  "markey": {"meaning":"마키(미국 상원의원 에드 마키)","level":3,"added":"2026-11-21-pm"},
-  "masullo": {"meaning":"마술로(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "mayoral": {"meaning":"시장의","level":2,"added":"2026-11-21-pm"},
-  "medchembench": {"meaning":"메드켐벤치(AI 신약 개발 평가 시험)","level":3,"added":"2026-11-21-pm"},
-  "mk": {"meaning":"MK당(남아공 정당 움콘토 웨 시즈웨)","level":3,"added":"2026-11-21-pm"},
-  "mobilesyrup": {"meaning":"모바일시럽(캐나다 IT 매체)","level":3,"added":"2026-11-21-pm"},
-  "molten": {"meaning":"녹은, 용융된","level":3,"added":"2026-11-21-pm"},
-  "moneytoday": {"meaning":"머니투데이(한국 경제 매체)","level":0,"added":"2026-11-21-pm"},
-  "moodera": {"meaning":"무데라(MIT 연구원 이름)","level":3,"added":"2026-11-21-pm"},
-  "mugunghwa": {"meaning":"무궁화호(한국 열차)","level":0,"added":"2026-11-21-pm"},
-  "multibillion-dollar": {"meaning":"수십억 달러 규모의","level":2,"added":"2026-11-21-pm"},
-  "municipality": {"meaning":"지방자치단체, 시·군·구","level":3,"added":"2026-11-21-pm"},
-  "narendra": {"meaning":"나렌드라(인도 총리 모디의 이름)","level":3,"added":"2026-11-21-pm"},
-  "naturalize": {"meaning":"귀화시키다","level":3,"added":"2026-11-21-pm"},
-  "net-zero": {"meaning":"탄소 순배출 제로의","level":3,"added":"2026-11-21-pm"},
-  "neurological": {"meaning":"신경(학)의","level":3,"added":"2026-11-21-pm"},
-  "nieuwerburgh": {"meaning":"니우어버그(컬럼비아대 교수 이름)","level":3,"added":"2026-11-21-pm"},
-  "nigel": {"meaning":"나이절(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "noggin": {"meaning":"노긴(영국 신용평가 회사), 머리","level":3,"added":"2026-11-21-pm"},
-  "non-hodgkin": {"meaning":"비호지킨(림프종 종류)","level":4,"added":"2026-11-21-pm"},
-  "non-nuclear-weapon": {"meaning":"핵무기 비보유의","level":3,"added":"2026-11-21-pm"},
-  "nonvolatile": {"meaning":"비휘발성의","level":4,"added":"2026-11-21-pm"},
-  "numerical": {"meaning":"수치의, 숫자의","level":3,"added":"2026-11-21-pm"},
-  "o'shaughnessy": {"meaning":"오셰이너시(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "odm": {"meaning":"ODM(주문자 설계·개발 생산 업체)","level":3,"added":"2026-11-21-pm"},
-  "old-fashioned": {"meaning":"구식의, 전통적인","level":1,"added":"2026-11-21-pm"},
-  "opt-out": {"meaning":"거부 선택(권), 탈퇴","level":3,"added":"2026-11-21-pm"},
-  "ossman": {"meaning":"오스먼(엣시 임원 이름)","level":3,"added":"2026-11-21-pm"},
-  "overly": {"meaning":"지나치게","level":2,"added":"2026-11-21-pm"},
-  "perpetual": {"meaning":"영구적인","level":3,"added":"2026-11-21-pm"},
-  "peterson": {"meaning":"피터슨(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "philosophical": {"meaning":"철학적인","level":2,"added":"2026-11-21-pm"},
-  "pokhara": {"meaning":"포카라(네팔 도시)","level":3,"added":"2026-11-21-pm"},
-  "post-mortem": {"meaning":"사후 분석, 부검","level":3,"added":"2026-11-21-pm"},
-  "pretoria": {"meaning":"프리토리아(남아공 행정 수도)","level":3,"added":"2026-11-21-pm"},
-  "purely": {"meaning":"순전히, 오로지","level":1,"added":"2026-11-21-pm"},
-  "pusateri": {"meaning":"푸사테리(OpenAI 대변인 이름)","level":3,"added":"2026-11-21-pm"},
-  "questionable": {"meaning":"의심스러운, 문제 있는","level":2,"added":"2026-11-21-pm"},
-  "rae": {"meaning":"레이(전 인도 대사 이름)","level":3,"added":"2026-11-21-pm"},
-  "real-life": {"meaning":"현실의, 실제의","level":1,"added":"2026-11-21-pm"},
-  "reasonably": {"meaning":"합리적으로, 상당히","level":2,"added":"2026-11-21-pm"},
-  "reignite": {"meaning":"다시 불붙이다","level":3,"added":"2026-11-21-pm"},
-  "reorganization": {"meaning":"개편, 재조직","level":2,"added":"2026-11-21-pm"},
-  "resentment": {"meaning":"분노, 억울함","level":2,"added":"2026-11-21-pm"},
-  "resistive": {"meaning":"저항의, 저항성의","level":3,"added":"2026-11-21-pm"},
-  "saemaeul": {"meaning":"새마을호(한국 열차)","level":0,"added":"2026-11-21-pm"},
-  "sang-cheol": {"meaning":"상철(한국 사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "sapsis": {"meaning":"삽시스(MIT 교수 이름)","level":3,"added":"2026-11-21-pm"},
-  "sarault": {"meaning":"사로(캐나다 스피드스케이팅 선수 이름)","level":3,"added":"2026-11-21-pm"},
-  "schirra": {"meaning":"쉬라(우주비행사 월리 쉬라)","level":3,"added":"2026-11-21-pm"},
-  "schwartz": {"meaning":"슈워츠(미국 CDC 국장 에리카 슈워츠)","level":3,"added":"2026-11-21-pm"},
-  "seeger": {"meaning":"시거(미국 변호사 이름)","level":3,"added":"2026-11-21-pm"},
-  "seodaejeon": {"meaning":"서대전(대전의 철도역)","level":0,"added":"2026-11-21-pm"},
-  "shipowner": {"meaning":"선주","level":2,"added":"2026-11-21-pm"},
-  "steep": {"meaning":"가파른","level":2,"added":"2026-11-21-pm"},
-  "sundar": {"meaning":"순다르(구글 CEO 이름)","level":0,"added":"2026-11-21-pm"},
-  "suppress": {"meaning":"진압하다, 억누르다","level":3,"added":"2026-11-21-pm"},
-  "sutherland": {"meaning":"서덜랜드(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "swana": {"meaning":"스와나(남아공 정치 분석가 이름)","level":3,"added":"2026-11-21-pm"},
-  "tran": {"meaning":"짠(베트남계 엔지니어 이름)","level":3,"added":"2026-11-21-pm"},
-  "triso": {"meaning":"TRISO(코팅 입자 핵연료)","level":4,"added":"2026-11-21-pm"},
-  "undefined": {"meaning":"정의되지 않은","level":2,"added":"2026-11-21-pm"},
-  "unicorn": {"meaning":"유니콘(상상의 동물), 기업가치 10억 달러 스타트업","level":1,"added":"2026-11-21-pm"},
-  "unpopular": {"meaning":"인기 없는","level":1,"added":"2026-11-21-pm"},
-  "upturn": {"meaning":"상승, 호전","level":3,"added":"2026-11-21-pm"},
-  "vakil": {"meaning":"바킬(스탠퍼드대 수학 교수 이름)","level":3,"added":"2026-11-21-pm"},
-  "vintage": {"meaning":"포도 수확 연도, 빈티지","level":2,"added":"2026-11-21-pm"},
-  "vow": {"meaning":"맹세하다, 다짐하다","level":2,"added":"2026-11-21-pm"},
-  "wachter": {"meaning":"바흐터(옥스퍼드대 교수 이름)","level":3,"added":"2026-11-21-pm"},
-  "wagner": {"meaning":"바그너(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "winnipeg": {"meaning":"위니펙(캐나다 도시)","level":3,"added":"2026-11-21-pm"},
-  "wyss": {"meaning":"비스(스위스 자선가 이름)","level":3,"added":"2026-11-21-pm"},
-  "young-sook": {"meaning":"영숙(한국 사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "zakharova": {"meaning":"자하로바(러시아 외무부 대변인)","level":3,"added":"2026-11-21-pm"},
-  "zdnet": {"meaning":"지디넷(IT 전문 매체)","level":3,"added":"2026-11-21-pm"},
-  "abdomen": {"meaning":"배, 복부","level":3,"added":"2026-11-21-pm"},
-  "abramovich": {"meaning":"아브라모비치(첼시 전 구단주)","level":3,"added":"2026-11-21-pm"},
-  "abundant": {"meaning":"풍부한","level":2,"added":"2026-11-21-pm"},
-  "accumulation": {"meaning":"축적, 쌓임","level":2,"added":"2026-11-21-pm"},
-  "afire": {"meaning":"불이 붙은","level":3,"added":"2026-11-21-pm"},
-  "after-party": {"meaning":"뒤풀이 파티","level":2,"added":"2026-11-21-pm"},
-  "agent-based": {"meaning":"에이전트 기반의","level":2,"added":"2026-11-21-pm"},
-  "agent-style": {"meaning":"에이전트 방식의","level":2,"added":"2026-11-21-pm"},
-  "agrifood": {"meaning":"농식품(의)","level":3,"added":"2026-11-21-pm"},
-  "ai-set": {"meaning":"AI가 정한","level":2,"added":"2026-11-21-pm"},
-  "ai-specific": {"meaning":"AI에 특화된","level":2,"added":"2026-11-21-pm"},
-  "ai-written": {"meaning":"AI가 쓴","level":2,"added":"2026-11-21-pm"},
-  "aimaletdinova": {"meaning":"아이말레디노바(러시아 출신 스케이터 이름)","level":3,"added":"2026-11-21-pm"},
-  "air-purifying": {"meaning":"공기 정화의","level":2,"added":"2026-11-21-pm"},
-  "airbnb": {"meaning":"에어비앤비(숙박 공유 회사)","level":0,"added":"2026-11-21-pm"},
-  "al-houthi": {"meaning":"알후티(예멘 후티 반군 지도자)","level":3,"added":"2026-11-21-pm"},
-  "al-malki": {"meaning":"알말리키(사우디 대변인 이름)","level":3,"added":"2026-11-21-pm"},
-  "albert": {"meaning":"앨버트(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "aleksandrs": {"meaning":"알렉산드르스(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "alistair": {"meaning":"앨러스테어(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "all-hands": {"meaning":"전 직원(회의)의","level":2,"added":"2026-11-21-pm"},
-  "all-white": {"meaning":"온통 흰색의","level":1,"added":"2026-11-21-pm"},
-  "aloisio": {"meaning":"알로이지우(브라질 관리 이름)","level":3,"added":"2026-11-21-pm"},
-  "altadena": {"meaning":"알타디나(미국 캘리포니아 지역)","level":3,"added":"2026-11-21-pm"},
-  "amelie": {"meaning":"아멜리(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "amend": {"meaning":"개정하다, 수정하다","level":3,"added":"2026-11-21-pm"},
-  "analytical": {"meaning":"분석적인","level":2,"added":"2026-11-21-pm"},
-  "andre": {"meaning":"앙드레(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "andrej": {"meaning":"안드레이(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "anglia": {"meaning":"앵글리아(영국 동부 지역)","level":3,"added":"2026-11-21-pm"},
-  "annie": {"meaning":"애니(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "anti-immigrant": {"meaning":"반이민의","level":2,"added":"2026-11-21-pm"},
-  "anticorruption": {"meaning":"부패 방지의","level":3,"added":"2026-11-21-pm"},
-  "antoinette": {"meaning":"앙투아네트(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "anua": {"meaning":"아누아(한국 화장품 브랜드)","level":3,"added":"2026-11-21-pm"},
-  "arista": {"meaning":"아리스타(미국 네트워크 장비 회사)","level":3,"added":"2026-11-21-pm"},
-  "around-the-clock": {"meaning":"24시간 계속되는","level":2,"added":"2026-11-21-pm"},
-  "arsel": {"meaning":"아르셀(캐나다 마케팅 교수 이름)","level":3,"added":"2026-11-21-pm"},
-  "arvid": {"meaning":"아르비드(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "ashwaq": {"meaning":"아슈와크(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "assay": {"meaning":"분석, 검정","level":4,"added":"2026-11-21-pm"},
-  "astra-level": {"meaning":"아스트라 수준의(AI 모델 Astra급)","level":3,"added":"2026-11-21-pm"},
-  "asturias": {"meaning":"아스투리아스(미국 교수 이름)","level":3,"added":"2026-11-21-pm"},
-  "asymmetrical": {"meaning":"비대칭의","level":3,"added":"2026-11-21-pm"},
-  "attacker-linked": {"meaning":"공격자와 연결된","level":3,"added":"2026-11-21-pm"},
-  "attic": {"meaning":"다락방","level":2,"added":"2026-11-21-pm"},
-  "attorney-filed": {"meaning":"변호사가 제출한","level":3,"added":"2026-11-21-pm"},
-  "auer": {"meaning":"아우어(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "aurelien": {"meaning":"오렐리앵(사람 이름)","level":3,"added":"2026-11-21-pm"},
-  "autoregressive": {"meaning":"자기회귀의","level":4,"added":"2026-11-21-pm"},
-  "auxiliary": {"meaning":"보조의","level":3,"added":"2026-11-21-pm"},
-  "avma": {"meaning":"미국수의사회(AVMA)","level":3,"added":"2026-11-21-pm"}
+  "ubisoft": {
+    "meaning": "유비소프트(프랑스 게임 회사)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "etsy": {
+    "meaning": "엣시(수공예품 온라인 장터)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "bayer": {
+    "meaning": "바이엘(독일 제약·화학 회사)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "hindmarsh": {
+    "meaning": "힌드마시(영국 의사 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "zecler": {
+    "meaning": "미셸 제클레르(프랑스 음악 프로듀서)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "edible": {
+    "meaning": "먹을 수 있는",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "nacua": {
+    "meaning": "나쿠아(미국 풋볼 선수 퓨카 나쿠아)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "schiffer": {
+    "meaning": "쉬퍼(미국 외교 전문가 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "clearlake": {
+    "meaning": "클리어레이크(미국 투자 회사)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "norwegian": {
+    "meaning": "노르웨이의, 노르웨이 사람",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "quebec": {
+    "meaning": "퀘벡(캐나다 주·도시)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "shah": {
+    "meaning": "샤(네팔 총리 발렌드라 샤의 성)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "superconducting": {
+    "meaning": "초전도의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "cps": {
+    "meaning": "영국 검찰청(CPS)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "dandzbergs": {
+    "meaning": "단츠베르그스(라트비아 출신 청년 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "elliptic": {
+    "meaning": "엘립틱(블록체인 분석 회사)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "letby": {
+    "meaning": "렛비(영국 간호사 루시 렛비)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "motherbrain": {
+    "meaning": "마더브레인(유비소프트 AI 자회사 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "programmatic": {
+    "meaning": "전공 프로그램 단위의, 프로그램 방식의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "rinderknecht": {
+    "meaning": "린더크네트(팰리세이즈 산불 방화범 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "yc": {
+    "meaning": "와이콤비네이터(YC, 미국 스타트업 투자사)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "azizan": {
+    "meaning": "아지잔(MIT 교수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "bolsonaro": {
+    "meaning": "보우소나루(전 브라질 대통령)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "cosmax": {
+    "meaning": "코스맥스(한국 화장품 제조 회사)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "ginger": {
+    "meaning": "생강",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "gmc": {
+    "meaning": "영국 일반의료위원회(GMC)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "haerin": {
+    "meaning": "해린(뉴진스 멤버)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "missouri": {
+    "meaning": "미주리(미국 주)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "openrouter": {
+    "meaning": "오픈라우터(AI 모델 중개 서비스)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "reseller": {
+    "meaning": "재판매업자",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "usns": {
+    "meaning": "미 해군 군수지원함(USNS) 접두어",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "boehly": {
+    "meaning": "보엘리(첼시 공동 구단주 토드 보엘리)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "dexterous": {
+    "meaning": "손재주 좋은, 정교한",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "exhuma": {
+    "meaning": "파묘(한국 오컬트 영화)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "glyphosate": {
+    "meaning": "글리포세이트(제초제 성분)",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "high-tech": {
+    "meaning": "첨단 기술의",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "kuo": {
+    "meaning": "궈(애널리스트 궈밍치)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "licensure": {
+    "meaning": "면허 부여, 면허 제도",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "lucrative": {
+    "meaning": "수익성이 높은",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "nardelli": {
+    "meaning": "나르델리(영국 스타트업 창업자 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "newsasia": {
+    "meaning": "뉴스아시아(싱가포르 방송 채널 뉴스아시아)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "open-ended": {
+    "meaning": "개방형의, 제한 없는",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "paik": {
+    "meaning": "백(백종원의 성)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "pichai": {
+    "meaning": "피차이(구글 CEO 순다르 피차이)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "pod": {
+    "meaning": "꼬투리, 작은 캡슐",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "polemos": {
+    "meaning": "폴레모스(방산 스타트업 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "sczygiol": {
+    "meaning": "시지올(독일 학생 대표 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "telecast": {
+    "meaning": "방송, 텔레비전 중계",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "uclh": {
+    "meaning": "런던대학병원 신탁(UCLH)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "aba": {
+    "meaning": "미국변호사협회(ABA)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "accredit": {
+    "meaning": "인가하다, 인증하다",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "adversarial": {
+    "meaning": "적대적인",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "antisemitic": {
+    "meaning": "반유대주의적인",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "borland": {
+    "meaning": "보를런드(호주 경제학자 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "breunig": {
+    "meaning": "브뤼니히(호주 경제학자 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "conmebol": {
+    "meaning": "남미축구연맹(CONMEBOL)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "creed": {
+    "meaning": "신조, (게임 '어쌔신 크리드'의) 크리드",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "ek": {
+    "meaning": "에크(스포티파이 창업자 다니엘 에크)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "ether": {
+    "meaning": "이더(암호화폐 이더리움의 코인), 에테르",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "govinfosecurity": {
+    "meaning": "거브인포시큐리티(보안 전문 매체)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "halifax": {
+    "meaning": "핼리팩스(캐나다 도시)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "hodgson": {
+    "meaning": "호지슨(영국 의사 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "kathmandu": {
+    "meaning": "카트만두(네팔 수도)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "kharagpur": {
+    "meaning": "카라그푸르(인도 도시)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "lepora": {
+    "meaning": "레포라(영국 로봇공학 교수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "lindblad": {
+    "meaning": "린드블라드(F1 드라이버 아르비드 린드블라드)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "low-income": {
+    "meaning": "저소득의",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "lujan": {
+    "meaning": "루한(미국 상원의원 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "michel": {
+    "meaning": "미셸(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "monsanto": {
+    "meaning": "몬산토(미국 농업 회사)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "multistep": {
+    "meaning": "여러 단계의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "nijjar": {
+    "meaning": "니자르(시크교 분리주의 지도자 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "non-public": {
+    "meaning": "비공개의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "notpla": {
+    "meaning": "놋플라(영국 친환경 포장 회사)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "open-world": {
+    "meaning": "오픈 월드(자유롭게 돌아다니는 방식의)",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "ormond": {
+    "meaning": "오먼드(런던 그레이트 오먼드 스트리트 아동병원)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "paradox": {
+    "meaning": "역설, 모순",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "plantier": {
+    "meaning": "플랑티에(프랑스 경찰관 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "post-brexit": {
+    "meaning": "브렉시트 이후의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "power-sharing": {
+    "meaning": "권력 분담(의)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "prevalence": {
+    "meaning": "유병률, 널리 퍼져 있음",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "sarah": {
+    "meaning": "세라(사람 이름)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "supernatural": {
+    "meaning": "초자연적인",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "taggar": {
+    "meaning": "태거(와이콤비네이터 파트너 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "tamara": {
+    "meaning": "타마라(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "taxation": {
+    "meaning": "과세, 세금 제도",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "theological": {
+    "meaning": "신학의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "tihenko": {
+    "meaning": "티헨코(청년 개발자 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "tondeux": {
+    "meaning": "통되(프랑스 경찰관 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "unpredictable": {
+    "meaning": "예측할 수 없는",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "url": {
+    "meaning": "인터넷 주소(URL)",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "viewership": {
+    "meaning": "시청자 수, 시청률",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "wally": {
+    "meaning": "월리(사람 이름 월리 쉬라)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "weedkiller": {
+    "meaning": "제초제",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "acknowledgment": {
+    "meaning": "인정, 법적 인지",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "ai-guided": {
+    "meaning": "AI가 이끄는",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "ai-intensive": {
+    "meaning": "AI 집약적인",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "artiverse": {
+    "meaning": "아티버스(게임 업계 매체)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "autocomplete": {
+    "meaning": "자동 완성",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "balendra": {
+    "meaning": "발렌드라(네팔 총리 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "bhairahawa": {
+    "meaning": "바이라하와(네팔 도시)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "bild": {
+    "meaning": "빌트(독일 신문)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "boyer": {
+    "meaning": "보이어(미국 판사 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "ccus": {
+    "meaning": "탄소 포집·활용·저장(CCUS)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "changelog": {
+    "meaning": "변경 내역",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "choreographed": {
+    "meaning": "정교하게 짜인, 안무된",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "coinjoin": {
+    "meaning": "코인조인(암호화폐 섞기 기법)",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "colapinto": {
+    "meaning": "콜라핀토(F1 드라이버 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "combinator": {
+    "meaning": "콤비네이터(와이콤비네이터의 뒷말)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "computer-use": {
+    "meaning": "컴퓨터 사용(AI가 컴퓨터를 직접 조작하는 기능)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "cryogenic": {
+    "meaning": "극저온의",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "cupffee": {
+    "meaning": "컵피(불가리아 식용 컵 스타트업)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "daesung": {
+    "meaning": "대성(빅뱅 멤버)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "damion": {
+    "meaning": "데이미언(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "denniss": {
+    "meaning": "데니스(호주 경제학자 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "detrimental": {
+    "meaning": "해로운",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "dixit": {
+    "meaning": "딕싯(네팔 정치 분석가 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "durnell": {
+    "meaning": "더넬(미국 원고 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "duvenhage": {
+    "meaning": "두벤하허(남아공 정치 분석가 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "eghbali": {
+    "meaning": "에그발리(첼시 공동 구단주 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "energy-like": {
+    "meaning": "에너지 비슷한",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "essayli": {
+    "meaning": "에사일리(미국 연방검사 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "ethical": {
+    "meaning": "윤리적인",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "euronews": {
+    "meaning": "유로뉴스(유럽 방송사)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "excessively": {
+    "meaning": "지나치게",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "extraction": {
+    "meaning": "추출, (AI 모델 지식) 빼내기",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "fastest-growing": {
+    "meaning": "가장 빠르게 성장하는",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "fine-tuning": {
+    "meaning": "미세 조정",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "for-credit": {
+    "meaning": "학점이 인정되는",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "front-row": {
+    "meaning": "맨 앞줄의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "ghana": {
+    "meaning": "가나(아프리카 나라)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "git": {
+    "meaning": "깃(코드 버전 관리 도구)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "gyeongbu": {
+    "meaning": "경부(경부선)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "hackathon": {
+    "meaning": "해커톤(개발자 아이디어 경연)",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "heath": {
+    "meaning": "히스, 황야(햄스테드히스 지명)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "hyein": {
+    "meaning": "혜인(뉴진스 멤버)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "hyper": {
+    "meaning": "하이퍼(SK 계열 AI 데이터센터 회사), 과도한",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "ice-cream": {
+    "meaning": "아이스크림",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "iit": {
+    "meaning": "인도공과대학(IIT)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "indic": {
+    "meaning": "인도 계통의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "index": {
+    "meaning": "지수, 색인",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "internet-only": {
+    "meaning": "인터넷 전용의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "intestinal": {
+    "meaning": "장의, 창자의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "january-to-september": {
+    "meaning": "1월부터 9월까지의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "khalistan": {
+    "meaning": "칼리스탄(시크교 독립 국가 주장 지역)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "know-how": {
+    "meaning": "노하우, 전문 기술",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "kobick": {
+    "meaning": "코빅(미국 연방판사 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "kozo": {
+    "meaning": "고조(일본 인물 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "lachman": {
+    "meaning": "라크먼(산불 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "lagakos": {
+    "meaning": "라가코스(경제학자 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "lapersonne": {
+    "meaning": "라페르손(프랑스 경찰관 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "launcher": {
+    "meaning": "발사대, 발사기",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "lofgren": {
+    "meaning": "로프그렌(미국 하원의원 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "low-productivity": {
+    "meaning": "생산성이 낮은",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "lymphoma": {
+    "meaning": "림프종",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "machine-learning": {
+    "meaning": "머신러닝, 기계 학습",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "mafia": {
+    "meaning": "마피아, 비밀 조직",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "markey": {
+    "meaning": "마키(미국 상원의원 에드 마키)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "masullo": {
+    "meaning": "마술로(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "mayoral": {
+    "meaning": "시장의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "medchembench": {
+    "meaning": "메드켐벤치(AI 신약 개발 평가 시험)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "mk": {
+    "meaning": "MK당(남아공 정당 움콘토 웨 시즈웨)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "mobilesyrup": {
+    "meaning": "모바일시럽(캐나다 IT 매체)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "molten": {
+    "meaning": "녹은, 용융된",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "moneytoday": {
+    "meaning": "머니투데이(한국 경제 매체)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "moodera": {
+    "meaning": "무데라(MIT 연구원 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "mugunghwa": {
+    "meaning": "무궁화호(한국 열차)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "multibillion-dollar": {
+    "meaning": "수십억 달러 규모의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "municipality": {
+    "meaning": "지방자치단체, 시·군·구",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "narendra": {
+    "meaning": "나렌드라(인도 총리 모디의 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "naturalize": {
+    "meaning": "귀화시키다",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "net-zero": {
+    "meaning": "탄소 순배출 제로의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "neurological": {
+    "meaning": "신경(학)의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "nieuwerburgh": {
+    "meaning": "니우어버그(컬럼비아대 교수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "nigel": {
+    "meaning": "나이절(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "noggin": {
+    "meaning": "노긴(영국 신용평가 회사), 머리",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "non-hodgkin": {
+    "meaning": "비호지킨(림프종 종류)",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "non-nuclear-weapon": {
+    "meaning": "핵무기 비보유의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "nonvolatile": {
+    "meaning": "비휘발성의",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "numerical": {
+    "meaning": "수치의, 숫자의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "o'shaughnessy": {
+    "meaning": "오셰이너시(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "odm": {
+    "meaning": "ODM(주문자 설계·개발 생산 업체)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "old-fashioned": {
+    "meaning": "구식의, 전통적인",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "opt-out": {
+    "meaning": "거부 선택(권), 탈퇴",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "ossman": {
+    "meaning": "오스먼(엣시 임원 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "overly": {
+    "meaning": "지나치게",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "perpetual": {
+    "meaning": "영구적인",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "peterson": {
+    "meaning": "피터슨(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "philosophical": {
+    "meaning": "철학적인",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "pokhara": {
+    "meaning": "포카라(네팔 도시)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "post-mortem": {
+    "meaning": "사후 분석, 부검",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "pretoria": {
+    "meaning": "프리토리아(남아공 행정 수도)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "purely": {
+    "meaning": "순전히, 오로지",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "pusateri": {
+    "meaning": "푸사테리(OpenAI 대변인 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "questionable": {
+    "meaning": "의심스러운, 문제 있는",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "rae": {
+    "meaning": "레이(전 인도 대사 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "real-life": {
+    "meaning": "현실의, 실제의",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "reasonably": {
+    "meaning": "합리적으로, 상당히",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "reignite": {
+    "meaning": "다시 불붙이다",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "reorganization": {
+    "meaning": "개편, 재조직",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "resentment": {
+    "meaning": "분노, 억울함",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "resistive": {
+    "meaning": "저항의, 저항성의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "saemaeul": {
+    "meaning": "새마을호(한국 열차)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "sang-cheol": {
+    "meaning": "상철(한국 사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "sapsis": {
+    "meaning": "삽시스(MIT 교수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "sarault": {
+    "meaning": "사로(캐나다 스피드스케이팅 선수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "schirra": {
+    "meaning": "쉬라(우주비행사 월리 쉬라)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "schwartz": {
+    "meaning": "슈워츠(미국 CDC 국장 에리카 슈워츠)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "seeger": {
+    "meaning": "시거(미국 변호사 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "seodaejeon": {
+    "meaning": "서대전(대전의 철도역)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "shipowner": {
+    "meaning": "선주",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "steep": {
+    "meaning": "가파른",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "sundar": {
+    "meaning": "순다르(구글 CEO 이름)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "suppress": {
+    "meaning": "진압하다, 억누르다",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "sutherland": {
+    "meaning": "서덜랜드(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "swana": {
+    "meaning": "스와나(남아공 정치 분석가 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "tran": {
+    "meaning": "짠(베트남계 엔지니어 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "triso": {
+    "meaning": "TRISO(코팅 입자 핵연료)",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "undefined": {
+    "meaning": "정의되지 않은",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "unicorn": {
+    "meaning": "유니콘(상상의 동물), 기업가치 10억 달러 스타트업",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "unpopular": {
+    "meaning": "인기 없는",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "upturn": {
+    "meaning": "상승, 호전",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "vakil": {
+    "meaning": "바킬(스탠퍼드대 수학 교수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "vintage": {
+    "meaning": "포도 수확 연도, 빈티지",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "vow": {
+    "meaning": "맹세하다, 다짐하다",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "wachter": {
+    "meaning": "바흐터(옥스퍼드대 교수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "wagner": {
+    "meaning": "바그너(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "winnipeg": {
+    "meaning": "위니펙(캐나다 도시)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "wyss": {
+    "meaning": "비스(스위스 자선가 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "young-sook": {
+    "meaning": "영숙(한국 사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "zakharova": {
+    "meaning": "자하로바(러시아 외무부 대변인)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "zdnet": {
+    "meaning": "지디넷(IT 전문 매체)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "abdomen": {
+    "meaning": "배, 복부",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "abramovich": {
+    "meaning": "아브라모비치(첼시 전 구단주)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "abundant": {
+    "meaning": "풍부한",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "accumulation": {
+    "meaning": "축적, 쌓임",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "afire": {
+    "meaning": "불이 붙은",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "after-party": {
+    "meaning": "뒤풀이 파티",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "agent-based": {
+    "meaning": "에이전트 기반의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "agent-style": {
+    "meaning": "에이전트 방식의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "agrifood": {
+    "meaning": "농식품(의)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "ai-set": {
+    "meaning": "AI가 정한",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "ai-specific": {
+    "meaning": "AI에 특화된",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "ai-written": {
+    "meaning": "AI가 쓴",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "aimaletdinova": {
+    "meaning": "아이말레디노바(러시아 출신 스케이터 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "air-purifying": {
+    "meaning": "공기 정화의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "airbnb": {
+    "meaning": "에어비앤비(숙박 공유 회사)",
+    "level": 0,
+    "added": "2026-11-21-pm"
+  },
+  "al-houthi": {
+    "meaning": "알후티(예멘 후티 반군 지도자)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "al-malki": {
+    "meaning": "알말리키(사우디 대변인 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "albert": {
+    "meaning": "앨버트(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "aleksandrs": {
+    "meaning": "알렉산드르스(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "alistair": {
+    "meaning": "앨러스테어(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "all-hands": {
+    "meaning": "전 직원(회의)의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "all-white": {
+    "meaning": "온통 흰색의",
+    "level": 1,
+    "added": "2026-11-21-pm"
+  },
+  "aloisio": {
+    "meaning": "알로이지우(브라질 관리 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "altadena": {
+    "meaning": "알타디나(미국 캘리포니아 지역)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "amelie": {
+    "meaning": "아멜리(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "amend": {
+    "meaning": "개정하다, 수정하다",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "analytical": {
+    "meaning": "분석적인",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "andre": {
+    "meaning": "앙드레(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "andrej": {
+    "meaning": "안드레이(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "anglia": {
+    "meaning": "앵글리아(영국 동부 지역)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "annie": {
+    "meaning": "애니(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "anti-immigrant": {
+    "meaning": "반이민의",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "anticorruption": {
+    "meaning": "부패 방지의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "antoinette": {
+    "meaning": "앙투아네트(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "anua": {
+    "meaning": "아누아(한국 화장품 브랜드)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "arista": {
+    "meaning": "아리스타(미국 네트워크 장비 회사)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "around-the-clock": {
+    "meaning": "24시간 계속되는",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "arsel": {
+    "meaning": "아르셀(캐나다 마케팅 교수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "arvid": {
+    "meaning": "아르비드(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "ashwaq": {
+    "meaning": "아슈와크(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "assay": {
+    "meaning": "분석, 검정",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "astra-level": {
+    "meaning": "아스트라 수준의(AI 모델 Astra급)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "asturias": {
+    "meaning": "아스투리아스(미국 교수 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "asymmetrical": {
+    "meaning": "비대칭의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "attacker-linked": {
+    "meaning": "공격자와 연결된",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "attic": {
+    "meaning": "다락방",
+    "level": 2,
+    "added": "2026-11-21-pm"
+  },
+  "attorney-filed": {
+    "meaning": "변호사가 제출한",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "auer": {
+    "meaning": "아우어(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "aurelien": {
+    "meaning": "오렐리앵(사람 이름)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "autoregressive": {
+    "meaning": "자기회귀의",
+    "level": 4,
+    "added": "2026-11-21-pm"
+  },
+  "auxiliary": {
+    "meaning": "보조의",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "avma": {
+    "meaning": "미국수의사회(AVMA)",
+    "level": 3,
+    "added": "2026-11-21-pm"
+  },
+  "finnish": {
+    "meaning": "핀란드의, 핀란드 사람의",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "barnham": {
+    "meaning": "반햄(영국 서퍽의 마을)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "sec": {
+    "meaning": "SEC(미국 증권거래위원회)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "unc": {
+    "meaning": "유엔군사령부(UNC)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "adnoc": {
+    "meaning": "아드녹(아부다비 국영 석유회사)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "bacterial": {
+    "meaning": "세균의, 박테리아의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "compaction": {
+    "meaning": "압축, 다지기",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "guasave": {
+    "meaning": "과사베(멕시코 시날로아주 도시)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "photonic": {
+    "meaning": "광자의, 광자공학의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "regolith": {
+    "meaning": "레골리스, 천체 표면의 풍화토",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "usfk": {
+    "meaning": "주한미군(USFK)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "asml": {
+    "meaning": "ASML(네덜란드 반도체 장비 회사)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "colorectal": {
+    "meaning": "결장과 직장의, 대장의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "flex": {
+    "meaning": "플렉스(특징 편집 시스템 이름)",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "iti": {
+    "meaning": "ITI(인도 산업훈련원)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "kaliningrad": {
+    "meaning": "칼리닌그라드(러시아 도시·영토)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "long-running": {
+    "meaning": "오래 계속되는, 장기간의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "nevada": {
+    "meaning": "네바다(미국 주)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "open-weight": {
+    "meaning": "오픈 웨이트의(가중치 공개)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "pluto": {
+    "meaning": "명왕성",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "selloff": {
+    "meaning": "대량 매도, 투매",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "sheinbaum": {
+    "meaning": "셰인바움(멕시코 대통령)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "votebeat": {
+    "meaning": "보트비트(미국 선거 전문 매체)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "baltic": {
+    "meaning": "발트해의, 발트 지역의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "binder": {
+    "meaning": "바인더, 결합제",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "cerebrospinal": {
+    "meaning": "뇌척수의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "clea": {
+    "meaning": "CLEA(영연방 법학교육협회)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "eindhoven": {
+    "meaning": "에인트호번(네덜란드 도시)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "exclave": {
+    "meaning": "외국 영토 속의 자국 영토, 분리 영토",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "fentanyl": {
+    "meaning": "펜타닐(강력한 마약성 진통제)",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "gig": {
+    "meaning": "소규모 공연, 일자리",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "gyeongnam": {
+    "meaning": "경남FC(K리그2 프로축구단)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "haymitch": {
+    "meaning": "헤이미치(헝거게임 등장인물)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "helsinki": {
+    "meaning": "헬싱키(핀란드 수도)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "hodeidah": {
+    "meaning": "호데이다(예멘 항구 도시)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "idle": {
+    "meaning": "가동하지 않는, 놀고 있는",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "incidence": {
+    "meaning": "발생률, 발생 빈도",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "kvantify": {
+    "meaning": "크반티파이(덴마크 양자 소프트웨어 회사)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "left-footed": {
+    "meaning": "왼발의, 왼발잡이의",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "lsi": {
+    "meaning": "LSI(시스템 반도체, 대규모 집적회로)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "million-selling": {
+    "meaning": "100만 장 팔린, 밀리언셀러의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "mro": {
+    "meaning": "MRO(함정 정비·수리·오버홀 사업)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "photonics": {
+    "meaning": "광자공학",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "pm": {
+    "meaning": "오후",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "preparedness": {
+    "meaning": "대비, 준비 태세",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "salience": {
+    "meaning": "두드러짐, 현저성",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "seafloor": {
+    "meaning": "해저",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "six-inch": {
+    "meaning": "6인치의",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "sparta": {
+    "meaning": "스파르타(선박 이름, 고대 그리스 도시국가)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "suffolk": {
+    "meaning": "서퍽(영국 잉글랜드 주)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "swe-bench": {
+    "meaning": "SWE-bench(AI 소프트웨어 개발 능력 평가)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "tomahawk": {
+    "meaning": "토마호크(미국 순항미사일)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "trans-neptunian": {
+    "meaning": "해왕성 바깥의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "twickenham": {
+    "meaning": "트위크넘(런던 럭비 경기장)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "unitar": {
+    "meaning": "유엔훈련조사연구소(UNITAR)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "vibrio": {
+    "meaning": "비브리오(세균 속)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "amyloid-beta": {
+    "meaning": "아밀로이드 베타(뇌 단백질)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "body-wall": {
+    "meaning": "체벽의, 몸벽의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "chaeryeong": {
+    "meaning": "채령(ITZY 멤버)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "code-named": {
+    "meaning": "암호명이 붙은",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "cognitively": {
+    "meaning": "인지적으로",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "colonoscopy": {
+    "meaning": "대장내시경 검사",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "compatibility": {
+    "meaning": "호환성, 양립",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "connectome": {
+    "meaning": "커넥톰(뇌 신경 연결망)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "counter-terrorism": {
+    "meaning": "대테러, 테러 방지",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "curriculum": {
+    "meaning": "교육과정, 커리큘럼",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "developmental": {
+    "meaning": "발달의, 발육의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "door-to-door": {
+    "meaning": "집집마다 방문하는",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "drastic": {
+    "meaning": "극단적인, 과감한",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "egdi": {
+    "meaning": "전자정부발전지수(유엔)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "exterior": {
+    "meaning": "외부, 겉면",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "fossilisation": {
+    "meaning": "화석화",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "ftse": {
+    "meaning": "FTSE 지수(영국 주가지수)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "full-history": {
+    "meaning": "전체 이력의, 전체 기록의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "gandhi": {
+    "meaning": "간디(인도 독립운동 지도자)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "hamgyong": {
+    "meaning": "함경(북한 지역 이름)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "heatwave": {
+    "meaning": "폭염",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "highest-level": {
+    "meaning": "최고위급의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "honey-trap": {
+    "meaning": "미인계",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "horrible": {
+    "meaning": "끔찍한",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "inauguration": {
+    "meaning": "취임(식)",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "indium": {
+    "meaning": "인듐(금속 원소)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "initiate": {
+    "meaning": "시작하다, 착수하다",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "jeddah": {
+    "meaning": "제다(사우디아라비아 도시)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "jizan": {
+    "meaning": "지잔(사우디아라비아 도시)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "knowingly": {
+    "meaning": "알면서, 고의로",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "literal": {
+    "meaning": "글자 그대로의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "low-cost": {
+    "meaning": "저비용의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "macaulay": {
+    "meaning": "매콜리(영국 정치가)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "machine-generated": {
+    "meaning": "기계가 생성한",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "marijuana": {
+    "meaning": "마리화나, 대마초",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "marvell": {
+    "meaning": "마벨(미국 반도체 회사)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "measles-free": {
+    "meaning": "홍역이 퇴치된",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "measles-rubella": {
+    "meaning": "홍역·풍진",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "mega": {
+    "meaning": "거대한",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "members-elect": {
+    "meaning": "당선자들",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "mentally": {
+    "meaning": "정신적으로",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "mid-sized": {
+    "meaning": "중간 규모의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "midwestern": {
+    "meaning": "미국 중서부의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "mobilize": {
+    "meaning": "동원하다",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "multiyear": {
+    "meaning": "다년간의",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "neurovascular": {
+    "meaning": "신경혈관의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "non-college": {
+    "meaning": "대학 교육을 받지 않은",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "non-rem": {
+    "meaning": "비렘(수면 단계)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "orban": {
+    "meaning": "오르반(헝가리 총리)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "overarching": {
+    "meaning": "전반적인, 포괄적인",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "pacers": {
+    "meaning": "페이서스(NBA 인디애나 팀)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "pan-european": {
+    "meaning": "범유럽의",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "particulate": {
+    "meaning": "미립자",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "phosphide": {
+    "meaning": "인화물",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "pregnancy": {
+    "meaning": "임신",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "pretraining": {
+    "meaning": "사전 훈련",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "python": {
+    "meaning": "파이썬(프로그래밍 언어), 비단뱀",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "real-time": {
+    "meaning": "실시간의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "redevelopment": {
+    "meaning": "재개발",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "repeal": {
+    "meaning": "폐지하다",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "rubella": {
+    "meaning": "풍진",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "schengen": {
+    "meaning": "솅겐(유럽 국경 개방 협정 지역)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "secretariat": {
+    "meaning": "사무국",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "self-contained": {
+    "meaning": "독립된, 자급자족형의",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "seongnam": {
+    "meaning": "성남(경기도 도시)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "seven-year": {
+    "meaning": "7년간의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "shimbun": {
+    "meaning": "신문(일본어)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "single-season": {
+    "meaning": "한 시즌의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "six-month": {
+    "meaning": "6개월의",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "slovakia": {
+    "meaning": "슬로바키아",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "sserafim": {
+    "meaning": "르세라핌(K팝 걸그룹)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "state-run": {
+    "meaning": "국영의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "stern": {
+    "meaning": "선미, 엄격한",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "sufficient": {
+    "meaning": "충분한",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "supergroup": {
+    "meaning": "슈퍼그룹",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "template": {
+    "meaning": "템플릿, 견본",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "therapeutic": {
+    "meaning": "치료의",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "three-week": {
+    "meaning": "3주간의",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "tie-break": {
+    "meaning": "타이브레이크",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "title-clinching": {
+    "meaning": "우승을 확정 짓는",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "tno": {
+    "meaning": "티엔오(네덜란드 응용과학 연구기관)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "top-ranked": {
+    "meaning": "최상위 랭킹의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "tranche": {
+    "meaning": "트랜치(채권 등의 분할 발행분)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "unsolved": {
+    "meaning": "풀리지 않은",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "vascular": {
+    "meaning": "혈관의",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "vasiliev": {
+    "meaning": "바실리예프(우크라이나·미국 국적 래퍼의 성)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "wennink": {
+    "meaning": "베닝크(전 ASML 최고경영자)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "workaround": {
+    "meaning": "우회책",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "worthy": {
+    "meaning": "가치 있는",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "yomiuri": {
+    "meaning": "요미우리(일본 신문사)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "abolition": {
+    "meaning": "폐지",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "acre": {
+    "meaning": "에이커(넓이 단위)",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "across-the-board": {
+    "meaning": "전면적인",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "action-packed": {
+    "meaning": "액션이 가득한",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "adaptively": {
+    "meaning": "적응적으로",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "adipec": {
+    "meaning": "아디펙(아부다비 국제 석유 박람회)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "aeronautics": {
+    "meaning": "항공학",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "age-adjusted": {
+    "meaning": "연령 보정된",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "age-appropriateness": {
+    "meaning": "연령 적합성",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "age-related": {
+    "meaning": "노화와 관련된",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "ai-native": {
+    "meaning": "AI 중심의",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "al-mawasi": {
+    "meaning": "알마와시(가자지구의 지역)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "all-out": {
+    "meaning": "총력의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "amicus": {
+    "meaning": "법정의 친구(제3자 의견 제출자)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "anatomical": {
+    "meaning": "해부학적인",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "animal-borne": {
+    "meaning": "동물이 옮기는",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "antenatal": {
+    "meaning": "출산 전의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "anti-imperialism": {
+    "meaning": "반제국주의",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "anti-japanese": {
+    "meaning": "반일의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "anxiously": {
+    "meaning": "초조하게",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "arbitrum": {
+    "meaning": "아비트럼(이더리움 확장 네트워크)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "arizona-based": {
+    "meaning": "애리조나에 본사를 둔",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "asset-freeze": {
+    "meaning": "자산 동결",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "astronautics": {
+    "meaning": "우주항행학",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "at-bat": {
+    "meaning": "타석, 타수",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "atmospheric": {
+    "meaning": "대기의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "autobiographical": {
+    "meaning": "자전적인",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "backstory": {
+    "meaning": "배경 이야기",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "bailiwick": {
+    "meaning": "관할 구역",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "baron": {
+    "meaning": "남작, 거물",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "basic-skincare": {
+    "meaning": "기초 스킨케어",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "baton": {
+    "meaning": "지휘봉, 곤봉",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "bellevue": {
+    "meaning": "벨뷰(뉴욕의 병원 이름)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "bengal": {
+    "meaning": "벵골(인도 동부 지방)",
+    "level": 3,
+    "added": "2026-11-22-am"
+  },
+  "best-selling": {
+    "meaning": "가장 많이 팔리는",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "biobank": {
+    "meaning": "바이오뱅크(생체 시료 보관소)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "bioethical": {
+    "meaning": "생명윤리의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "biomolecular": {
+    "meaning": "생체분자의",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "biomolecule": {
+    "meaning": "생체분자",
+    "level": 4,
+    "added": "2026-11-22-am"
+  },
+  "biz": {
+    "meaning": "사업(business의 줄임말)",
+    "level": 1,
+    "added": "2026-11-22-am"
+  },
+  "blood-based": {
+    "meaning": "혈액 기반의",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "bluewings": {
+    "meaning": "블루윙즈(수원 삼성 축구단)",
+    "level": 0,
+    "added": "2026-11-22-am"
+  },
+  "bonus-point": {
+    "meaning": "보너스 승점",
+    "level": 2,
+    "added": "2026-11-22-am"
+  },
+  "boostback": {
+    "meaning": "부스트백(로켓 역추진 연소)",
+    "level": 4,
+    "added": "2026-11-22-am"
+  }
 }
