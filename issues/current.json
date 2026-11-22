@@ -3027,6 +3027,16 @@
      "text": "unresolved",
      "meaning": "(문제가) 해결되지 않은",
      "level": 2
+    },
+    {
+     "text": "rebooking",
+     "meaning": "(항공편을) 다시 예약하는 것",
+     "level": 2
+    },
+    {
+     "text": "Tuvalu's",
+     "meaning": "투발루(남태평양의 작은 섬나라)",
+     "level": 3
     }
    ],
    "views": [
@@ -4736,6 +4746,66 @@
      "text": "unclear",
      "meaning": "불분명한",
      "level": 1
+    },
+    {
+     "text": "operation",
+     "meaning": "(체포) 작전",
+     "level": 1
+    },
+    {
+     "text": "cocaine",
+     "meaning": "코카인(마약의 일종)",
+     "level": 1
+    },
+    {
+     "text": "marijuana",
+     "meaning": "마리화나(대마초)",
+     "level": 1
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
+    },
+    {
+     "text": "analysts",
+     "meaning": "분석가들",
+     "level": 1
+    },
+    {
+     "text": "gunfire",
+     "meaning": "총격",
+     "level": 2
+    },
+    {
+     "text": "explosives",
+     "meaning": "폭발물",
+     "level": 2
+    },
+    {
+     "text": "troops",
+     "meaning": "군 병력",
+     "level": 1
+    },
+    {
+     "text": "deployed",
+     "meaning": "배치된",
+     "level": 1
+    },
+    {
+     "text": "civilians",
+     "meaning": "민간인",
+     "level": 1
+    },
+    {
+     "text": "commended",
+     "meaning": "칭찬했다",
+     "level": 2
+    },
+    {
+     "text": "dealers",
+     "meaning": "(마약) 판매상",
+     "level": 1
     }
    ],
    "views": [
@@ -5982,6 +6052,11 @@
      "text": "outlets",
      "meaning": "매체, 언론사",
      "level": 2
+    },
+    {
+     "text": "Tish's",
+     "meaning": "티시(마일리 사이러스 어머니 티시 사이러스)의",
+     "level": 3
     }
    ],
    "views": [
@@ -12131,6 +12206,56 @@
      "text": "allocation",
      "meaning": "(지분) 배정, 할당",
      "level": 2
+    },
+    {
+     "text": "locked-up",
+     "meaning": "(매각이 제한돼) 묶여 있는",
+     "level": 3
+    },
+    {
+     "text": "stake",
+     "meaning": "지분",
+     "level": 2
+    },
+    {
+     "text": "operations",
+     "meaning": "영업 활동(실제 사업 운영)",
+     "level": 2
+    },
+    {
+     "text": "majority",
+     "meaning": "과반수",
+     "level": 1
+    },
+    {
+     "text": "surveillance",
+     "meaning": "감시",
+     "level": 2
+    },
+    {
+     "text": "populations",
+     "meaning": "특정 집단(인구 집단)",
+     "level": 2
+    },
+    {
+     "text": "sharply",
+     "meaning": "급격하게",
+     "level": 1
+    },
+    {
+     "text": "debut",
+     "meaning": "(증시) 첫 거래, 상장 데뷔",
+     "level": 2
+    },
+    {
+     "text": "losers",
+     "meaning": "(주가가 내린) 하락 종목",
+     "level": 1
+    },
+    {
+     "text": "markers",
+     "meaning": "다음에 지켜볼 지표·이정표",
+     "level": 2
     }
    ],
    "views": [
@@ -13162,6 +13287,31 @@
     {
      "text": "championships",
      "meaning": "(팀·드라이버) 챔피언십",
+     "level": 1
+    },
+    {
+     "text": "respectively",
+     "meaning": "각각 차례대로",
+     "level": 2
+    },
+    {
+     "text": "tiring",
+     "meaning": "(경기가) 지치게 하는",
+     "level": 1
+    },
+    {
+     "text": "abandoning",
+     "meaning": "(새 규정을) 폐기하는 것",
+     "level": 2
+    },
+    {
+     "text": "regulations",
+     "meaning": "규정",
+     "level": 2
+    },
+    {
+     "text": "review",
+     "meaning": "(드라이버들의) 평가·반응",
      "level": 1
     }
    ],
@@ -14878,6 +15028,56 @@
      "text": "longtime",
      "meaning": "오랫동안 집권한",
      "level": 2
+    },
+    {
+     "text": "partially",
+     "meaning": "부분적으로",
+     "level": 1
+    },
+    {
+     "text": "submerged",
+     "meaning": "물에 잠긴",
+     "level": 2
+    },
+    {
+     "text": "naval",
+     "meaning": "해군의",
+     "level": 1
+    },
+    {
+     "text": "diplomatic",
+     "meaning": "외교적",
+     "level": 2
+    },
+    {
+     "text": "warehouses",
+     "meaning": "창고",
+     "level": 1
+    },
+    {
+     "text": "insisting",
+     "meaning": "강력히 주장하며",
+     "level": 2
+    },
+    {
+     "text": "assets",
+     "meaning": "(국가) 자산",
+     "level": 2
+    },
+    {
+     "text": "Russian-linked",
+     "meaning": "러시아와 연관된",
+     "level": 2
+    },
+    {
+     "text": "tanker",
+     "meaning": "(액화가스 등) 운반선, 유조선",
+     "level": 1
+    },
+    {
+     "text": "commander",
+     "meaning": "군 사령관",
+     "level": 1
     }
    ],
    "views": [
@@ -15939,6 +16139,21 @@
      "text": "elections",
      "meaning": "선거",
      "level": 1
+    },
+    {
+     "text": "Douye Diri",
+     "meaning": "도위 디리(나이지리아 바옐사주 주지사)",
+     "level": 3
+    },
+    {
+     "text": "Bayo Onanuga",
+     "meaning": "바요 오나누가(나이지리아 대통령 보좌관)",
+     "level": 3
+    },
+    {
+     "text": "Ebiuwou Koku-Obiyai",
+     "meaning": "에비우우 코쿠오비야이(바옐사주 정보 담당 위원)",
+     "level": 3
     }
    ],
    "views": [
@@ -17039,6 +17254,21 @@
     {
      "text": "Booth",
      "meaning": "영화 제목 속 인물 이름 부스",
+     "level": 3
+    },
+    {
+     "text": "Lionsgate's",
+     "meaning": "라이온스게이트(미국 영화사)의",
+     "level": 3
+    },
+    {
+     "text": "United Kingdom",
+     "meaning": "영국",
+     "level": 0
+    },
+    {
+     "text": "Rentrak's",
+     "meaning": "렌트랙(박스오피스 집계 회사)의",
      "level": 3
     }
    ],
@@ -20565,6 +20795,101 @@
      "text": "expectations",
      "meaning": "예상치, 기대",
      "level": 2
+    },
+    {
+     "text": "assessed",
+     "meaning": "평가했다",
+     "level": 2
+    },
+    {
+     "text": "exceeding",
+     "meaning": "초과하는",
+     "level": 2
+    },
+    {
+     "text": "legitimate",
+     "meaning": "정당한(합법적인)",
+     "level": 2
+    },
+    {
+     "text": "rumors",
+     "meaning": "루머, 소문",
+     "level": 1
+    },
+    {
+     "text": "manipulation",
+     "meaning": "(시세) 조작",
+     "level": 2
+    },
+    {
+     "text": "turmoil",
+     "meaning": "(시장) 혼란",
+     "level": 2
+    },
+    {
+     "text": "justify",
+     "meaning": "정당화하다",
+     "level": 2
+    },
+    {
+     "text": "intervention",
+     "meaning": "(시장) 개입",
+     "level": 2
+    },
+    {
+     "text": "short-selling",
+     "meaning": "공매도의",
+     "level": 3
+    },
+    {
+     "text": "margin",
+     "meaning": "(공매도) 증거금",
+     "level": 3
+    },
+    {
+     "text": "requirement",
+     "meaning": "요건(비율 기준)",
+     "level": 2
+    },
+    {
+     "text": "prompting",
+     "meaning": "촉발하며",
+     "level": 2
+    },
+    {
+     "text": "trigger",
+     "meaning": "(발동) 계기·조건",
+     "level": 2
+    },
+    {
+     "text": "criteria",
+     "meaning": "기준",
+     "level": 2
+    },
+    {
+     "text": "unresolved",
+     "meaning": "해결되지 않은",
+     "level": 2
+    },
+    {
+     "text": "reversal",
+     "meaning": "반전, 되돌림",
+     "level": 2
+    },
+    {
+     "text": "encourage",
+     "meaning": "장려하다",
+     "level": 1
+    },
+    {
+     "text": "supply-demand",
+     "meaning": "수요와 공급의",
+     "level": 2
+    },
+    {
+     "text": "imbalances",
+     "meaning": "불균형",
+     "level": 2
     }
    ],
    "views": [
@@ -21727,6 +22052,26 @@
      "text": "reunited",
      "meaning": "다시 뭉쳤다",
      "level": 2
+    },
+    {
+     "text": "Bliss",
+     "meaning": "엔하이픈 앨범 「The Sin: Bliss」의 부제",
+     "level": 3
+    },
+    {
+     "text": "Heeseung's",
+     "meaning": "희승(엔하이픈 전 멤버)의",
+     "level": 3
+    },
+    {
+     "text": "debut",
+     "meaning": "(가수) 데뷔",
+     "level": 1
+    },
+    {
+     "text": "GiiiRip",
+     "meaning": "빅뱅의 깜짝 공개 디지털 싱글 제목",
+     "level": 3
     }
    ],
    "views": [
@@ -22738,6 +23083,21 @@
     {
      "text": "drone",
      "meaning": "드론(무인기)",
+     "level": 1
+    },
+    {
+     "text": "officials",
+     "meaning": "관계자들",
+     "level": 1
+    },
+    {
+     "text": "collapsed",
+     "meaning": "무너졌다",
+     "level": 1
+    },
+    {
+     "text": "investigation",
+     "meaning": "조사",
      "level": 1
     }
    ],
@@ -24482,6 +24842,11 @@
      "text": "broadcaster",
      "meaning": "방송사",
      "level": 2
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 1
     }
    ],
    "views": [
@@ -26939,6 +27304,16 @@
      "text": "Lineker",
      "meaning": "리네커(전 잉글랜드 축구 스타·방송인)",
      "level": 0
+    },
+    {
+     "text": "inquiry",
+     "meaning": "(경찰) 조사",
+     "level": 2
+    },
+    {
+     "text": "ballroom",
+     "meaning": "(댄스) 무도장",
+     "level": 1
     }
    ],
    "views": [
@@ -27867,6 +28242,11 @@
      "text": "Confortola",
      "meaning": "콘포르톨라(이탈리아 쇼트트랙 선수)",
      "level": 3
+    },
+    {
+     "text": "bronze",
+     "meaning": "동메달",
+     "level": 1
     }
    ],
    "views": [
@@ -28569,6 +28949,61 @@
      "text": "enhance",
      "meaning": "높이다, 강화하다",
      "level": 2
+    },
+    {
+     "text": "generation",
+     "meaning": "세대",
+     "level": 1
+    },
+    {
+     "text": "professionals",
+     "meaning": "전문가들",
+     "level": 1
+    },
+    {
+     "text": "official",
+     "meaning": "관계자",
+     "level": 1
+    },
+    {
+     "text": "infrastructure",
+     "meaning": "(연구) 기반 시설",
+     "level": 2
+    },
+    {
+     "text": "broaden",
+     "meaning": "넓히다",
+     "level": 1
+    },
+    {
+     "text": "laboratories",
+     "meaning": "실험실",
+     "level": 1
+    },
+    {
+     "text": "materials",
+     "meaning": "(신)소재",
+     "level": 2
+    },
+    {
+     "text": "excited",
+     "meaning": "들뜨고 기쁜, 기대되는",
+     "level": 1
+    },
+    {
+     "text": "accelerate",
+     "meaning": "(영향을) 더 빠르게 하다, 앞당기다",
+     "level": 2
+    },
+    {
+     "text": "commitment",
+     "meaning": "약속·공약(기부 약속)",
+     "level": 2
+    },
+    {
+     "text": "computing",
+     "meaning": "컴퓨팅(연산 처리) 능력",
+     "level": 1
     }
    ],
    "views": [
@@ -29928,6 +30363,31 @@
      "text": "disclosed",
      "meaning": "공개했다",
      "level": 2
+    },
+    {
+     "text": "unexpected",
+     "meaning": "예상치 못한, 뜻밖의",
+     "level": 1
+    },
+    {
+     "text": "attacker",
+     "meaning": "공격자(해커)",
+     "level": 1
+    },
+    {
+     "text": "unidentified",
+     "meaning": "신원이 확인되지 않은",
+     "level": 2
+    },
+    {
+     "text": "resume",
+     "meaning": "(중단됐다가) 다시 시작하다",
+     "level": 2
+    },
+    {
+     "text": "explanation",
+     "meaning": "해명, 설명",
+     "level": 1
     }
    ],
    "views": [
@@ -31034,6 +31494,21 @@
     {
      "text": "upfront",
      "meaning": "선불의, 미리 내는",
+     "level": 2
+    },
+    {
+     "text": "excluded",
+     "meaning": "제외된",
+     "level": 2
+    },
+    {
+     "text": "significant",
+     "meaning": "상당한, 큰 규모의",
+     "level": 2
+    },
+    {
+     "text": "identify",
+     "meaning": "(위험을) 확인하다, 찾아내다",
      "level": 2
     }
    ],
@@ -33080,6 +33555,11 @@
      "text": "likened",
      "meaning": "비유했다",
      "level": 3
+    },
+    {
+     "text": "Hehir",
+     "meaning": "안나 헤이르(미래생명연구소 관계자)",
+     "level": 3
     }
    ],
    "views": [
@@ -34176,6 +34656,11 @@
      "text": "explore",
      "meaning": "탐사하다",
      "level": 1
+    },
+    {
+     "text": "identified",
+     "meaning": "(선박이) 확인된, 신원이 파악된",
+     "level": 2
     }
    ],
    "views": [
@@ -37196,6 +37681,46 @@
      "text": "transparency",
      "meaning": "투명성",
      "level": 2
+    },
+    {
+     "text": "developers",
+     "meaning": "개발사, 개발자들",
+     "level": 1
+    },
+    {
+     "text": "measurements",
+     "meaning": "측정값, 수치",
+     "level": 2
+    },
+    {
+     "text": "productively",
+     "meaning": "효과적으로, 쓸모 있게",
+     "level": 2
+    },
+    {
+     "text": "algorithmic",
+     "meaning": "알고리즘(문제 해결 절차)과 관련된",
+     "level": 3
+    },
+    {
+     "text": "behavior",
+     "meaning": "(AI의) 행동, 작동 방식",
+     "level": 1
+    },
+    {
+     "text": "successor",
+     "meaning": "후속 기술, 뒤를 잇는 것",
+     "level": 2
+    },
+    {
+     "text": "sharply",
+     "meaning": "크게, 급격히",
+     "level": 2
+    },
+    {
+     "text": "capability",
+     "meaning": "능력, 성능",
+     "level": 2
     }
    ],
    "views": [
@@ -38397,6 +38922,11 @@
      "text": "substantial",
      "meaning": "상당한",
      "level": 2
+    },
+    {
+     "text": "Hoang Long Construction Consultancy",
+     "meaning": "호앙롱 건설컨설팅(베트남 업체)",
+     "level": 3
     }
    ],
    "views": [
@@ -39078,6 +39608,11 @@
      "text": "lenders",
      "meaning": "대출 기관들",
      "level": 3
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
     }
    ],
    "paragraphs": [
@@ -40458,6 +40993,41 @@
      "text": "crises",
      "meaning": "위기들",
      "level": 2
+    },
+    {
+     "text": "officials",
+     "meaning": "관계자들, 당국자들",
+     "level": 1
+    },
+    {
+     "text": "official",
+     "meaning": "(모스크 소속) 관계자, 직원",
+     "level": 1
+    },
+    {
+     "text": "civilian",
+     "meaning": "민간인의, 민간인이 사는",
+     "level": 2
+    },
+    {
+     "text": "neighborhood",
+     "meaning": "동네, 주거 지역",
+     "level": 1
+    },
+    {
+     "text": "alleged",
+     "meaning": "(증거 없이) 주장된, 혐의가 제기된",
+     "level": 2
+    },
+    {
+     "text": "operations",
+     "meaning": "(드론) 작전, 군사 활동",
+     "level": 2
+    },
+    {
+     "text": "violations",
+     "meaning": "(국제법) 위반",
+     "level": 2
     }
    ],
    "views": [
@@ -41094,6 +41664,31 @@
      "text": "universal",
      "meaning": "보편적인",
      "level": 2
+    },
+    {
+     "text": "Lee A-in",
+     "meaning": "이아인(한국 배우)",
+     "level": 3
+    },
+    {
+     "text": "Renata Vaca",
+     "meaning": "레나타 바카(배우)",
+     "level": 3
+    },
+    {
+     "text": "Silia Kapsis",
+     "meaning": "실리아 캅시스(배우)",
+     "level": 3
+    },
+    {
+     "text": "Aliyah Turner",
+     "meaning": "알리야 터너(배우)",
+     "level": 3
+    },
+    {
+     "text": "Park Ju-bi",
+     "meaning": "박주비(한국 배우)",
+     "level": 3
     }
    ],
    "views": [
@@ -42455,6 +43050,26 @@
      "text": "insufficient",
      "meaning": "불충분한",
      "level": 2
+    },
+    {
+     "text": "cinemas",
+     "meaning": "영화관, 극장",
+     "level": 1
+    },
+    {
+     "text": "highest-rated",
+     "meaning": "평점이 가장 높은",
+     "level": 2
+    },
+    {
+     "text": "criminal",
+     "meaning": "범죄(조직)의, 범죄를 저지르는",
+     "level": 1
+    },
+    {
+     "text": "behaviour",
+     "meaning": "행동(폭력적 행동)",
+     "level": 1
     }
    ],
    "views": [
@@ -43605,6 +44220,46 @@
      "text": "environmental",
      "meaning": "환경적인",
      "level": 1
+    },
+    {
+     "text": "academic",
+     "meaning": "학술의, 학교(교육) 관련",
+     "level": 2
+    },
+    {
+     "text": "strengthen",
+     "meaning": "(보호 장치를) 강화하다",
+     "level": 2
+    },
+    {
+     "text": "significant",
+     "meaning": "중대한, 상당한",
+     "level": 2
+    },
+    {
+     "text": "review",
+     "meaning": "(개인정보·보안) 검토",
+     "level": 2
+    },
+    {
+     "text": "commitment",
+     "meaning": "(구매) 확정, 약속",
+     "level": 2
+    },
+    {
+     "text": "recommendations",
+     "meaning": "(교수진의) 권고안, 제안",
+     "level": 2
+    },
+    {
+     "text": "ethical",
+     "meaning": "윤리적인",
+     "level": 2
+    },
+    {
+     "text": "deepen",
+     "meaning": "(불평등을) 심화시키다",
+     "level": 2
     }
    ],
    "views": [
@@ -44232,6 +44887,31 @@
      "text": "employers",
      "meaning": "고용주, 회사들",
      "level": 1
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능(인공지능의 '지능')",
+     "level": 1
+    },
+    {
+     "text": "performance",
+     "meaning": "(직원의) 업무 성과",
+     "level": 1
+    },
+    {
+     "text": "reviews",
+     "meaning": "(인사) 평가",
+     "level": 2
+    },
+    {
+     "text": "salespeople",
+     "meaning": "영업 직원들",
+     "level": 1
+    },
+    {
+     "text": "automating",
+     "meaning": "자동화하는 것",
+     "level": 2
     }
    ],
    "views": [
@@ -45960,6 +46640,21 @@
     {
      "text": "personnel",
      "meaning": "인력, 직원",
+     "level": 2
+    },
+    {
+     "text": "widely",
+     "meaning": "널리, 폭넓게",
+     "level": 1
+    },
+    {
+     "text": "git",
+     "meaning": "깃(코드 버전 관리 도구) 접속",
+     "level": 3
+    },
+    {
+     "text": "verify",
+     "meaning": "(실제로 그런지) 확인하다",
      "level": 2
     }
    ],
@@ -51560,6 +52255,11 @@
      "text": "semiconductors",
      "meaning": "반도체",
      "level": 2
+    },
+    {
+     "text": "boom",
+     "meaning": "(AI) 호황, 붐",
+     "level": 1
     }
    ],
    "views": [
@@ -52658,6 +53358,36 @@
     {
      "text": "liquefied",
      "meaning": "액화된",
+     "level": 2
+    },
+    {
+     "text": "heightened",
+     "meaning": "높아진, 고조된",
+     "level": 2
+    },
+    {
+     "text": "broader",
+     "meaning": "더 폭넓은",
+     "level": 1
+    },
+    {
+     "text": "division",
+     "meaning": "(회사의) 사업 부문",
+     "level": 2
+    },
+    {
+     "text": "widened",
+     "meaning": "(매각 대상을) 넓혔다",
+     "level": 1
+    },
+    {
+     "text": "operations",
+     "meaning": "(기존) 사업, 운영",
+     "level": 2
+    },
+    {
+     "text": "agreement",
+     "meaning": "(당사자 간) 합의",
      "level": 2
     }
    ],
@@ -57461,6 +58191,11 @@
      "text": "urged",
      "meaning": "촉구했다",
      "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
     }
    ],
    "views": [
@@ -57947,6 +58682,36 @@
      "text": "percentage",
      "meaning": "(퍼센트) 포인트",
      "level": 1
+    },
+    {
+     "text": "inflation",
+     "meaning": "물가 상승(률)",
+     "level": 1
+    },
+    {
+     "text": "expansion",
+     "meaning": "(경제) 성장, 확장",
+     "level": 2
+    },
+    {
+     "text": "respectively",
+     "meaning": "각각",
+     "level": 2
+    },
+    {
+     "text": "revision",
+     "meaning": "(전망) 수정, 상향 조정",
+     "level": 2
+    },
+    {
+     "text": "exceptional",
+     "meaning": "이례적인, 유난히 좋은",
+     "level": 2
+    },
+    {
+     "text": "chip-driven",
+     "meaning": "반도체가 이끈",
+     "level": 2
     }
    ],
    "views": [
@@ -60527,6 +61292,16 @@
      "text": "urged",
      "meaning": "촉구했다",
      "level": 2
+    },
+    {
+     "text": "officials",
+     "meaning": "관계자들, 공직자들",
+     "level": 1
+    },
+    {
+     "text": "construction",
+     "meaning": "건설, 공사",
+     "level": 1
     }
    ],
    "views": [
@@ -64318,6 +65093,26 @@
      "text": "dozen",
      "meaning": "십여 개, 수십",
      "level": 1
+    },
+    {
+     "text": "exposed",
+     "meaning": "(다문화를) 접하게 된, 노출된",
+     "level": 2
+    },
+    {
+     "text": "partnerships",
+     "meaning": "(대학 간) 제휴, 협력",
+     "level": 2
+    },
+    {
+     "text": "excluded",
+     "meaning": "제외된",
+     "level": 2
+    },
+    {
+     "text": "strengthen",
+     "meaning": "(한국어 교육을) 강화하다",
+     "level": 2
     }
    ],
    "views": [
@@ -67298,6 +68093,26 @@
      "text": "Chilean",
      "meaning": "칠레의, 칠레 사람(의)",
      "level": 0
+    },
+    {
+     "text": "published",
+     "meaning": "발표했다, 공개했다",
+     "level": 1
+    },
+    {
+     "text": "findings",
+     "meaning": "조사 결과",
+     "level": 2
+    },
+    {
+     "text": "population",
+     "meaning": "인구",
+     "level": 1
+    },
+    {
+     "text": "underlying",
+     "meaning": "바탕에 깔린, 원자료의",
+     "level": 2
     }
    ],
    "views": [
@@ -67802,6 +68617,36 @@
      "text": "dozens",
      "meaning": "수십 가지",
      "level": 1
+    },
+    {
+     "text": "unveiled",
+     "meaning": "공개된, 발표된",
+     "level": 2
+    },
+    {
+     "text": "diagnosed",
+     "meaning": "(병을) 진단받은",
+     "level": 2
+    },
+    {
+     "text": "organs",
+     "meaning": "(몸의) 장기",
+     "level": 1
+    },
+    {
+     "text": "encouraging",
+     "meaning": "고무적인, 희망을 주는",
+     "level": 2
+    },
+    {
+     "text": "valuable",
+     "meaning": "값진, 소중한",
+     "level": 1
+    },
+    {
+     "text": "tumour",
+     "meaning": "종양",
+     "level": 2
     }
    ],
    "views": [
