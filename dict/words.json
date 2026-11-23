@@ -50293,5 +50293,820 @@
     "meaning": "크론(정해진 시각에 작업을 실행하는 도구)",
     "level": 4,
     "added": "2026-11-23-pm"
+  },
+  "hz": {
+    "meaning": "헤르츠(진동수 단위)",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "nakwol": {
+    "meaning": "낙월(전남 영광의 섬, 해상풍력단지 이름)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "slake": {
+    "meaning": "(갈증·욕구를) 풀다, 해소하다",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "corvette": {
+    "meaning": "코르벳함(소형 호위 군함)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "hanbit": {
+    "meaning": "한빛(전남 영광 해상풍력 사업 이름)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "unrwa": {
+    "meaning": "유엔 팔레스타인 난민구호기구",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "fide": {
+    "meaning": "국제체스연맹(FIDE)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "lxi": {
+    "meaning": "로마 숫자 61",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "openworks": {
+    "meaning": "오픈웍스(오픈AI의 소기업 AI 코칭 프로그램)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "white-collar": {
+    "meaning": "사무직의, 화이트칼라의",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "fail-to-pass": {
+    "meaning": "실패에서 통과로 바뀌는(테스트 기준)",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "free-agent": {
+    "meaning": "자유계약선수(FA)",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "handoff": {
+    "meaning": "인수인계, 업무 넘겨주기",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "high-risk": {
+    "meaning": "고위험의",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "leningrad": {
+    "meaning": "레닌그라드(상트페테르부르크의 옛 이름)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "loviisa": {
+    "meaning": "로비사(핀란드 남부 해안 도시)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "merkury": {
+    "meaning": "메르쿠리(러시아 코르벳함 이름)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "one-millisecond": {
+    "meaning": "1밀리초의",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "pixel": {
+    "meaning": "화소, 픽셀",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "protothema": {
+    "meaning": "프로토테마(그리스 신문)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "redistricting": {
+    "meaning": "선거구 재획정",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "richmond": {
+    "meaning": "리치먼드(미국 버지니아주 주도)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "techtarget": {
+    "meaning": "테크타깃(미국 IT 전문 매체)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "tightly": {
+    "meaning": "단단히, 엄격하게",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "undisputed": {
+    "meaning": "이의 없는, 확고한",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "windsor": {
+    "meaning": "윈저(영국 왕실 가문명, 잉글랜드 도시)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "yeonggwang": {
+    "meaning": "영광(전남 영광군)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "abta": {
+    "meaning": "영국여행업협회",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "actionaid": {
+    "meaning": "액션에이드(국제 구호 단체)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "ai-literacy": {
+    "meaning": "인공지능 활용 능력",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "air-conditioner": {
+    "meaning": "에어컨",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "anti-corruption": {
+    "meaning": "부패 방지의",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "army-aligned": {
+    "meaning": "군 편에 선, 군과 연대한",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "auteur": {
+    "meaning": "작가주의 감독",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "bade": {
+    "meaning": "말했다, 명했다(bid의 과거형)",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "barbados": {
+    "meaning": "바베이도스(카리브해 섬나라)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "bessemer": {
+    "meaning": "베서머(미국 벤처캐피털 회사)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "bingx": {
+    "meaning": "빙엑스(암호화폐 거래소)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "blackstone": {
+    "meaning": "블랙스톤(미국 대형 투자회사)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "bomber": {
+    "meaning": "폭격기, 폭탄 테러범",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "brutal": {
+    "meaning": "잔혹한, 야만적인",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "cagey": {
+    "meaning": "신중한, 말을 아끼는",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "canvass": {
+    "meaning": "선거운동을 하다, 여론을 조사하다",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "ccdh": {
+    "meaning": "디지털혐오대응센터(CCDH)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "co-hosting": {
+    "meaning": "공동 개최",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "coin-flip": {
+    "meaning": "동전 던지기, 반반의 확률",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "coming-of-age": {
+    "meaning": "성장을 다룬, 성장기의",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "consensus-based": {
+    "meaning": "합의에 기반한",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "consul": {
+    "meaning": "영사",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "creole": {
+    "meaning": "크리올어(혼합 언어)",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "crusade": {
+    "meaning": "십자군, 개혁 운동",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "cyprus": {
+    "meaning": "키프로스(지중해 섬나라)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "diana": {
+    "meaning": "다이애나(영국 왕세자빈)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "firmus": {
+    "meaning": "파이어머스(호주의 AI 데이터센터 기업)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "embraer": {
+    "meaning": "엠브라에르(브라질 항공기 제조사)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "leaker": {
+    "meaning": "유출자, 정보를 몰래 흘리는 사람",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "dnc": {
+    "meaning": "민주당 전국위원회(DNC, 미국 민주당 최고 조직)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "tcr": {
+    "meaning": "TCR(투어링카 레이싱 시리즈)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "honeywell": {
+    "meaning": "허니웰(미국 제조·기술 기업)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "laffan": {
+    "meaning": "라스라판(카타르의 LNG 산업 도시)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "narrow": {
+    "meaning": "좁은, 좁히다",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "pac": {
+    "meaning": "정치활동위원회(PAC, 정치자금 모금 단체)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "skyscanner": {
+    "meaning": "스카이스캐너(영국의 항공권 비교 사이트)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "cone": {
+    "meaning": "원뿔, 콘",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "felix": {
+    "meaning": "필릭스(스트레이 키즈 멤버)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "full-group": {
+    "meaning": "완전체의, 멤버 전원이 참여하는",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "hands-on": {
+    "meaning": "직접 해 보는, 실습의",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "hii": {
+    "meaning": "HII(미국 군함 건조 기업)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "indiewire": {
+    "meaning": "인디와이어(미국 영화 전문 매체)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "kilowatt-hour": {
+    "meaning": "킬로와트시(전력량 단위)",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "mastcam": {
+    "meaning": "마스트캠(화성 탐사 로버의 카메라)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "reimpose": {
+    "meaning": "다시 부과하다, 재도입하다",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "ritual": {
+    "meaning": "의식, 의례",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "seoultech": {
+    "meaning": "서울과학기술대학교(SeoulTech)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "sexualize": {
+    "meaning": "성적 대상으로 만들다",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "supremacy": {
+    "meaning": "우위, 패권",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "tele": {
+    "meaning": "원거리를 뜻하는 접두어, 텔레비전",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "traveller": {
+    "meaning": "여행자",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "unthinkable": {
+    "meaning": "생각할 수 없는, 상상도 못 할",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "year-olds": {
+    "meaning": "~살 된 사람들",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "accel": {
+    "meaning": "액셀(미국 벤처 투자사)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "ah": {
+    "meaning": "아, 아하(감탄사)",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "ai-skilled": {
+    "meaning": "AI 활용 능력이 있는",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "airlifter": {
+    "meaning": "대형 군수송기",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "annapurna": {
+    "meaning": "안나푸르나(히말라야 봉우리)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "army-held": {
+    "meaning": "군이 장악한",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "ayodhya": {
+    "meaning": "아요디아(인도 북부 도시)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "baht": {
+    "meaning": "바트(태국 화폐 단위)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "best-reviewed": {
+    "meaning": "평가가 가장 좋은",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "bidirectional": {
+    "meaning": "양방향의",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "bridgetown": {
+    "meaning": "브리지타운(바베이도스의 수도)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "bulacan": {
+    "meaning": "불라칸(필리핀의 주)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "bvlgari": {
+    "meaning": "불가리(이탈리아 명품 보석 브랜드)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "career-high": {
+    "meaning": "개인 최고 기록(의)",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "casement": {
+    "meaning": "여닫이창",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "catch-up": {
+    "meaning": "따라잡기, 만회",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "chainsmokers": {
+    "meaning": "체인스모커스(미국 EDM 듀오)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "cinemacon": {
+    "meaning": "시네마콘(미국 영화 산업 박람회)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "clearinghouse": {
+    "meaning": "정보 교환 센터, 어음교환소",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "cologny": {
+    "meaning": "콜로니(스위스 제네바 근교 도시)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "compensatory": {
+    "meaning": "보상의, 보충의",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "concertgoer": {
+    "meaning": "콘서트 관객",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "conservatively": {
+    "meaning": "보수적으로, 신중하게",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "corpus": {
+    "meaning": "말뭉치, 문헌 자료 모음",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "creature": {
+    "meaning": "생물, 괴물",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "crispr-like": {
+    "meaning": "크리스퍼와 비슷한",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "dayone": {
+    "meaning": "데이원(데이터센터 기업)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "destroyer": {
+    "meaning": "구축함, 파괴하는 사람",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "disallow": {
+    "meaning": "허용하지 않다, 인정하지 않다",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "spielberg": {
+    "meaning": "스필버그(미국 영화감독)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "roman": {
+    "meaning": "로마의, 로마 사람",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "hawk": {
+    "meaning": "매, 매파",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "ethiopian": {
+    "meaning": "에티오피아의, 에티오피아 사람",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "nepali": {
+    "meaning": "네팔의, 네팔 사람",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "taipei": {
+    "meaning": "타이베이(대만의 수도)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "alverca": {
+    "meaning": "알베르카(포르투갈의 도시)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "baeksang": {
+    "meaning": "백상(예술대상 이름)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "brightness": {
+    "meaning": "밝기, 밝음",
+    "level": 1,
+    "added": "2026-11-24-am"
+  },
+  "capita": {
+    "meaning": "머릿수(per capita는 1인당)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "customization": {
+    "meaning": "맞춤 제작",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "exclusivity": {
+    "meaning": "독점, 배타성",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "flightglobal": {
+    "meaning": "플라이트글로벌(항공 전문 매체)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "geely": {
+    "meaning": "지리자동차(중국 자동차 회사)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "hamnet": {
+    "meaning": "햄닛(셰익스피어 가족을 다룬 영화)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "high-altitude": {
+    "meaning": "고고도의, 높은 고도의",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "jabalia": {
+    "meaning": "자발리아(가자지구 북부 지역)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "madras": {
+    "meaning": "마드라스(인도 첸나이의 옛 이름)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "ocha": {
+    "meaning": "OCHA(유엔 인도주의업무조정국)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "petersburg": {
+    "meaning": "상트페테르부르크(러시아 도시)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "pre-pandemic": {
+    "meaning": "팬데믹 이전의",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "redeveloped": {
+    "meaning": "재개발된",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "serang": {
+    "meaning": "세랑(인도네시아의 지역)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "signing": {
+    "meaning": "계약 체결, 영입",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "techrepublic": {
+    "meaning": "테크리퍼블릭(IT 전문 매체)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "tendency": {
+    "meaning": "경향, 성향",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "two-time": {
+    "meaning": "두 번의, 2회 우승한",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "unwise": {
+    "meaning": "현명하지 못한",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "walt": {
+    "meaning": "월트(디즈니 창업자 이름)",
+    "level": 0,
+    "added": "2026-11-24-am"
+  },
+  "accountancy": {
+    "meaning": "회계, 회계 업무",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "ai-exposed": {
+    "meaning": "AI 영향을 많이 받는",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "anti-aircraft": {
+    "meaning": "대공의, 대공 방어의",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "appleinsider": {
+    "meaning": "애플인사이더(애플 전문 매체)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "atreides": {
+    "meaning": "아트레이데스(벤처 투자사)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "backstabber": {
+    "meaning": "배신자",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "betrayal": {
+    "meaning": "배신",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "blare": {
+    "meaning": "요란하게 울리다",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "bombay": {
+    "meaning": "봄베이(인도 뭄바이의 옛 이름)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "brazilian-built": {
+    "meaning": "브라질에서 만든",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "by-election": {
+    "meaning": "보궐선거",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "cannes-winning": {
+    "meaning": "칸에서 수상한",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "causal": {
+    "meaning": "인과 관계의",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "charleston": {
+    "meaning": "찰스턴(미국 사우스캐롤라이나주 도시)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "cikande": {
+    "meaning": "치칸데(인도네시아의 지역)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "citris": {
+    "meaning": "시트리스(미국 대학 연구 센터)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "cloudflare": {
+    "meaning": "클라우드플레어(미국 인터넷 보안 회사)",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "co-found": {
+    "meaning": "공동 창업하다",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "come-from-behind": {
+    "meaning": "역전의",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "complete-task": {
+    "meaning": "과제 완수",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "condensate": {
+    "meaning": "응축물, 천연가스에서 나온 액체 연료",
+    "level": 4,
+    "added": "2026-11-24-am"
+  },
+  "countless": {
+    "meaning": "셀 수 없이 많은",
+    "level": 2,
+    "added": "2026-11-24-am"
+  },
+  "creditworthy": {
+    "meaning": "신용도가 높은",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "crucially": {
+    "meaning": "결정적으로",
+    "level": 3,
+    "added": "2026-11-24-am"
+  },
+  "dalles": {
+    "meaning": "달레스(미국 오리건주 도시)",
+    "level": 3,
+    "added": "2026-11-24-am"
   }
 }
