@@ -49313,5 +49313,985 @@
     "meaning": "대형 화면의, 영화관 스크린의",
     "level": 1,
     "added": "2026-11-23-am"
+  },
+  "hanbok": {
+    "meaning": "한복(한국 전통 의복)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "innotek": {
+    "meaning": "LG이노텍(LG 계열 전자부품 회사)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "jera": {
+    "meaning": "제라(일본 최대 발전용 연료 회사)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "observer": {
+    "meaning": "관찰자, 참관인",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "trench": {
+    "meaning": "해구(깊은 바닷속 골짜기), 도랑",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "forearc": {
+    "meaning": "전호(섭입대에서 해구와 화산호 사이 지역)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "hiv": {
+    "meaning": "HIV(에이즈를 일으키는 바이러스)",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "ligo": {
+    "meaning": "라이고(미국 중력파 관측소)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "midwives": {
+    "meaning": "조산사들(출산을 돕는 전문가)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "nber": {
+    "meaning": "전미경제연구소(미국 민간 경제 연구 단체)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "supernovae": {
+    "meaning": "초신성들(별이 폭발하는 현상)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "swindon": {
+    "meaning": "스윈던(잉글랜드 도시·축구팀)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "gic": {
+    "meaning": "싱가포르투자청(싱가포르 국부펀드)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "mantle": {
+    "meaning": "(맡게 되는) 역할·책무, 망토",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "pleos": {
+    "meaning": "플레오스(현대차 차량용 소프트웨어 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "recount": {
+    "meaning": "재검표, 다시 세다",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "subduction": {
+    "meaning": "섭입(한 판이 다른 판 밑으로 들어감)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "zerobaseone": {
+    "meaning": "제로베이스원(한국 보이그룹)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "asme": {
+    "meaning": "ASME(미국기계학회, 기계 안전 인증 기관)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "co-op": {
+    "meaning": "협동조합, 코옵(맨체스터 공연장 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "fixed-term": {
+    "meaning": "기간제의, 정해진 기간의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "gangnam-gu": {
+    "meaning": "강남구(서울의 구)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "gender-based": {
+    "meaning": "성별에 따른, 성별 기반의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "gravitational-wave": {
+    "meaning": "중력파의(시공간의 물결)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "hide-and-seek": {
+    "meaning": "숨바꼭질",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "ipad": {
+    "meaning": "아이패드(애플 태블릿)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "matte": {
+    "meaning": "무광의, 광택 없는",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "pyroclastic": {
+    "meaning": "화쇄성의(화산 분출물로 이루어진)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "rcm": {
+    "meaning": "왕립조산사협회(영국 조산사 단체)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "solar-mass": {
+    "meaning": "태양 질량(천체 질량 단위)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "unnecessarily": {
+    "meaning": "불필요하게",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "virgo": {
+    "meaning": "비르고(이탈리아 중력파 관측소), 처녀자리",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "andalusia": {
+    "meaning": "안달루시아(스페인 남부 지방)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "azteca": {
+    "meaning": "아스테카 경기장(멕시코시티)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "bungeoppang": {
+    "meaning": "붕어빵",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "catalan": {
+    "meaning": "카탈루냐의, 카탈루냐 사람(스페인 지역)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "cheil": {
+    "meaning": "제일은행(옛 한국 시중은행)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "chinook": {
+    "meaning": "치누크(미군 대형 수송 헬기)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "cinematic": {
+    "meaning": "영화의, 영화 같은",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "citibank": {
+    "meaning": "씨티은행(미국 대형 은행)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "concertgoers": {
+    "meaning": "공연 관객들",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "cube": {
+    "meaning": "정육면체, 세제곱",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "dog-walking": {
+    "meaning": "반려견 산책시키기",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "durban": {
+    "meaning": "더반(남아프리카공화국 항구 도시)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "earthjustice": {
+    "meaning": "어스저스티스(미국 환경 법률 단체)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "edith": {
+    "meaning": "에디스(AI 유방암 검진 임상시험 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "english-speaking": {
+    "meaning": "영어를 쓰는",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "essay-based": {
+    "meaning": "논술형의, 서술 중심의",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "exa": {
+    "meaning": "엑사(AI 검색 서비스 회사 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "extra-high-voltage": {
+    "meaning": "초고압의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "face-centered": {
+    "meaning": "면심의(각 면 중앙에 원자가 있는)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "firecrawl": {
+    "meaning": "파이어크롤(웹 데이터 수집 서비스 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "first-innings": {
+    "meaning": "첫 이닝의(크리켓)",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "fourth-quarter": {
+    "meaning": "4분기의",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "fuji": {
+    "meaning": "후지(일본 지명, 후지산)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "galicia": {
+    "meaning": "갈리시아(스페인 북서부 지방)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "gleo": {
+    "meaning": "글레오(현대차 AI 비서 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "gqeberha": {
+    "meaning": "그케베하(남아공 도시, 옛 포트엘리자베스)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "halk": {
+    "meaning": "할크(튀르키예 방송 채널 'Halk TV' 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "hanfu": {
+    "meaning": "한푸(중국 전통 의상)",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "hawkeye": {
+    "meaning": "호크아이(마블 영웅·드라마 이름)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "high-precision": {
+    "meaning": "고정밀의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "hiv-positive": {
+    "meaning": "HIV 양성의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "inframarginal": {
+    "meaning": "한계 안쪽의(경제학 용어)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "jongno": {
+    "meaning": "종로(서울 중심 지역)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "kagra": {
+    "meaning": "가그라(일본 중력파 관측소)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "kiet": {
+    "meaning": "산업연구원(한국 경제 연구기관)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "kodiak": {
+    "meaning": "코디액(차 색상 이름), 알래스카 불곰",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "large-cap": {
+    "meaning": "대형주의, 시가총액이 큰",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "live-fire": {
+    "meaning": "실탄 사격의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "mammogram": {
+    "meaning": "유방 엑스선 촬영",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "mariana": {
+    "meaning": "마리아나(서태평양 제도·해구 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "meta-analysis": {
+    "meaning": "메타분석(여러 연구를 합쳐 분석)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "mini-bubble": {
+    "meaning": "작은 거품(소규모 버블)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "mini-games": {
+    "meaning": "미니게임",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "molecularly": {
+    "meaning": "분자 수준에서",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "most-watched": {
+    "meaning": "가장 많이 시청된",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "mpo": {
+    "meaning": "MPO(유럽의 수성 탐사선)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "mugello": {
+    "meaning": "무젤로(이탈리아 경주 서킷 지명)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "narration": {
+    "meaning": "내레이션, 해설",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "neighbourhood": {
+    "meaning": "동네, 이웃",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "neutron": {
+    "meaning": "중성자",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "nitrous": {
+    "meaning": "니트러스(투어 이름), 아산화질소의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "nll": {
+    "meaning": "북방한계선(NLL, 서해 해상 경계선)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "novita": {
+    "meaning": "노비타(AI 서비스 제공 회사 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "ny": {
+    "meaning": "뉴욕(New York 줄임말)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "one-off": {
+    "meaning": "일회성의",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "optimal": {
+    "meaning": "최적의",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "oxide": {
+    "meaning": "산화물",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "picomolar": {
+    "meaning": "피코몰 농도(1조분의 1몰)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "pier": {
+    "meaning": "부두, 선착장",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "polonium": {
+    "meaning": "폴로늄(방사성 원소)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "post-credits": {
+    "meaning": "엔딩 크레딧 뒤의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "premier-class": {
+    "meaning": "최상위 등급의(모토GP)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "private-label": {
+    "meaning": "자체 브랜드의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "propel": {
+    "meaning": "프로펠(사업 이름), 추진하다",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "ps": {
+    "meaning": "PS(마력 단위), 추신",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "psychologist": {
+    "meaning": "심리학자",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "psychosocial": {
+    "meaning": "심리사회적인",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "pump-making": {
+    "meaning": "펌프 제조의",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "rare-earth": {
+    "meaning": "희토류의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "reactivity": {
+    "meaning": "반응성",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "round-the-clock": {
+    "meaning": "24시간 내내의",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "science-fiction": {
+    "meaning": "공상과학, SF",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "sozcu": {
+    "meaning": "쇠즈쥐(튀르키예 야권 언론사)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "spectacular": {
+    "meaning": "화려한 볼거리(특집 쇼), 장관인",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "stoic": {
+    "meaning": "금욕적인, 태연한",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "sumbakkokjil": {
+    "meaning": "숨바꼭질(Mnet 공포 예능 제목)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "swansea": {
+    "meaning": "스완지(웨일스 도시)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "tapgol": {
+    "meaning": "탑골(서울 종로 탑골공원)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "totally": {
+    "meaning": "완전히",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "trauma": {
+    "meaning": "트라우마, 정신적 충격",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "ultrasensitive": {
+    "meaning": "초고감도의",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "urine": {
+    "meaning": "소변, 오줌",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "warden": {
+    "meaning": "교도소장",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "warwick": {
+    "meaning": "워릭(영국 도시·대학)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "wedge": {
+    "meaning": "괴리(경제 용어), 쐐기",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "wellington": {
+    "meaning": "웰링턴(뉴질랜드 수도)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "yeonpyeong": {
+    "meaning": "연평도(서해 섬)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "zambian": {
+    "meaning": "잠비아의, 잠비아 사람",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "acidity": {
+    "meaning": "산성도",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "actor-singer": {
+    "meaning": "배우 겸 가수",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "ad-supported": {
+    "meaning": "광고로 운영되는",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "addenbrooke": {
+    "meaning": "애든브룩(영국 케임브리지 병원 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "admittedly": {
+    "meaning": "인정하건대, 솔직히",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "afptv": {
+    "meaning": "AFPTV(프랑스 AFP통신의 영상 서비스)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "ai-found": {
+    "meaning": "AI가 찾아낸",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "all-in": {
+    "meaning": "전부 걸고 뛰어든",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "allianz": {
+    "meaning": "알리안츠(독일 보험사), 상파울루 경기장 이름",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "amundi": {
+    "meaning": "아문디(유럽 최대 자산운용사)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "angolite": {
+    "meaning": "앙골라이트(앙골라 교도소 잡지 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "anticheating": {
+    "meaning": "부정행위 방지의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "antifragile": {
+    "meaning": "안티프래질(르세라핌 앨범 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "antiretroviral": {
+    "meaning": "항레트로바이러스제(에이즈 치료제)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "aragon": {
+    "meaning": "아라곤(스페인 지방)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "arithmetically": {
+    "meaning": "산술적으로",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "assertive": {
+    "meaning": "적극적인, 단호한",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "atlascloud": {
+    "meaning": "아틀라스클라우드(AI 서비스 업체 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "aukus": {
+    "meaning": "오커스(미국·영국·호주 안보 동맹)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "bang-bang": {
+    "meaning": "뱅뱅(양 극단 값만 택하는 방식)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "barakah": {
+    "meaning": "바라카(아랍에미리트 원자력 발전소)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "basque": {
+    "meaning": "바스크(스페인 북부 지방, 사람)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "bastrop": {
+    "meaning": "배스트롭(미국 텍사스 도시)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "besiktas": {
+    "meaning": "베식타시(이스탄불 지역)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "big-ticket": {
+    "meaning": "값비싼, 고가의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "billion-plus": {
+    "meaning": "10억 이상의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "billion-won": {
+    "meaning": "10억 원 규모의",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "blitz": {
+    "meaning": "블리츠(수비수 돌진), 급습",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "bloc-based": {
+    "meaning": "진영 중심의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "bloodiest": {
+    "meaning": "가장 피비린내 나는",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "blu-ray": {
+    "meaning": "블루레이(고화질 영상 디스크)",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "bookshelves": {
+    "meaning": "책장들",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "bosphorus": {
+    "meaning": "보스포루스(튀르키예 해협)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "bouncy": {
+    "meaning": "통통 튀는, 경쾌한",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "bow-wielding": {
+    "meaning": "활을 든",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "bravest": {
+    "meaning": "가장 용감한",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "brother-in-law": {
+    "meaning": "매형, 처남(인척 남성)",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "bullhorns": {
+    "meaning": "확성기들",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "bunker": {
+    "meaning": "벙커, 방공호",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "business-affiliated": {
+    "meaning": "기업과 연계된",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "buttonless": {
+    "meaning": "단추 없는",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "cafe-style": {
+    "meaning": "카페 같은",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "capacity-building": {
+    "meaning": "역량 강화",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "casework": {
+    "meaning": "민원 처리 업무",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "castile": {
+    "meaning": "카스티야(스페인 중부 지방)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "cedar": {
+    "meaning": "시더(미국 도시 이름의 일부), 삼나무",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "celltrion": {
+    "meaning": "셀트리온(한국 바이오 제약 회사)",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "centurion": {
+    "meaning": "(크리켓) 100점 득점 선수",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "chart-toppers": {
+    "meaning": "차트 1위곡들",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "cheollik": {
+    "meaning": "철릭(한복 겉옷의 한 종류)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "chessboards": {
+    "meaning": "체스판들",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "chesterfield": {
+    "meaning": "체스터필드(잉글랜드 축구팀)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "christchurch": {
+    "meaning": "크라이스트처치(뉴질랜드 도시)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "chubu": {
+    "meaning": "주부(일본 중부 지방, 전력회사 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "cleanview": {
+    "meaning": "클린뷰(데이터센터 추적 서비스 이름)",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "closed-source": {
+    "meaning": "소스를 공개하지 않는",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "cloud-hosted": {
+    "meaning": "클라우드에서 운영되는",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "clown": {
+    "meaning": "광대",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "co-author": {
+    "meaning": "공동 저자",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "co-directed": {
+    "meaning": "공동 연출한",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "co-head": {
+    "meaning": "공동 책임자",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "color-graded": {
+    "meaning": "색보정한",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "colosseums": {
+    "meaning": "콜로세움들, 원형 경기장",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "comprehensively": {
+    "meaning": "포괄적으로, 전면적으로",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "comptroller-elect": {
+    "meaning": "당선된 회계감사관(당선인)",
+    "level": 4,
+    "added": "2026-11-23-pm"
+  },
+  "conan": {
+    "meaning": "코난(일본 만화 '명탐정 코난')",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "constable": {
+    "meaning": "경찰관, 순경",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "correlation": {
+    "meaning": "상관관계",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "couches": {
+    "meaning": "소파들",
+    "level": 1,
+    "added": "2026-11-23-pm"
+  },
+  "councilor": {
+    "meaning": "시의원, 의원",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "cowboy": {
+    "meaning": "카우보이",
+    "level": 0,
+    "added": "2026-11-23-pm"
+  },
+  "craftsmen": {
+    "meaning": "장인들, 공예가들",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "creepy": {
+    "meaning": "으스스한, 소름 끼치는",
+    "level": 2,
+    "added": "2026-11-23-pm"
+  },
+  "criminality": {
+    "meaning": "범죄 행위",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "crisis-management": {
+    "meaning": "위기 관리의",
+    "level": 3,
+    "added": "2026-11-23-pm"
+  },
+  "cron": {
+    "meaning": "크론(정해진 시각에 작업을 실행하는 도구)",
+    "level": 4,
+    "added": "2026-11-23-pm"
   }
 }
