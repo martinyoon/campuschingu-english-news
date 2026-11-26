@@ -604,6 +604,461 @@
      "text": "cling",
      "meaning": "매달리다",
      "level": 2
+    },
+    {
+     "text": "production",
+     "meaning": "(핵물질) 생산",
+     "level": 1
+    },
+    {
+     "text": "inspected",
+     "meaning": "시찰했다",
+     "level": 2
+    },
+    {
+     "text": "newly",
+     "meaning": "새로",
+     "level": 1
+    },
+    {
+     "text": "equipment",
+     "meaning": "(핵발전용) 설비·장비",
+     "level": 1
+    },
+    {
+     "text": "located",
+     "meaning": "(~에) 위치한",
+     "level": 1
+    },
+    {
+     "text": "review",
+     "meaning": "(진전 상황을) 점검하다",
+     "level": 2
+    },
+    {
+     "text": "reaffirmed",
+     "meaning": "재확인했다",
+     "level": 3
+    },
+    {
+     "text": "pledged",
+     "meaning": "약속했다",
+     "level": 2
+    },
+    {
+     "text": "strengthen",
+     "meaning": "강화하다",
+     "level": 2
+    },
+    {
+     "text": "official",
+     "meaning": "관리, 당국자",
+     "level": 1
+    },
+    {
+     "text": "materials",
+     "meaning": "(핵)물질",
+     "level": 1
+    },
+    {
+     "text": "capacity",
+     "meaning": "(생산) 능력",
+     "level": 2
+    },
+    {
+     "text": "arsenal",
+     "meaning": "(핵)무기고, 보유 무기",
+     "level": 3
+    },
+    {
+     "text": "manufacturing",
+     "meaning": "제조, 생산",
+     "level": 2
+    },
+    {
+     "text": "utilizing",
+     "meaning": "활용하는 것",
+     "level": 3
+    },
+    {
+     "text": "urgent",
+     "meaning": "시급한",
+     "level": 2
+    },
+    {
+     "text": "cited",
+     "meaning": "(근거로) 언급했다",
+     "level": 3
+    },
+    {
+     "text": "inevitable",
+     "meaning": "피할 수 없는",
+     "level": 3
+    },
+    {
+     "text": "apparent",
+     "meaning": "겉으로 보이는, 분명한",
+     "level": 3
+    },
+    {
+     "text": "reference",
+     "meaning": "(~에 대한) 언급",
+     "level": 2
+    },
+    {
+     "text": "declared",
+     "meaning": "선언했다, 규정했다",
+     "level": 2
+    },
+    {
+     "text": "blurred",
+     "meaning": "흐릿하게 처리된",
+     "level": 3
+    },
+    {
+     "text": "uranium",
+     "meaning": "우라늄",
+     "level": 2
+    },
+    {
+     "text": "analysts",
+     "meaning": "분석가들",
+     "level": 2
+    },
+    {
+     "text": "standardized",
+     "meaning": "규격화된, 표준화된",
+     "level": 3
+    },
+    {
+     "text": "previously",
+     "meaning": "이전에, 앞서",
+     "level": 2
+    },
+    {
+     "text": "undisclosed",
+     "meaning": "공개되지 않았던",
+     "level": 3
+    },
+    {
+     "text": "diversifying",
+     "meaning": "다양화하고 있는",
+     "level": 3
+    },
+    {
+     "text": "accused",
+     "meaning": "비난했다",
+     "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "allies",
+     "meaning": "동맹국들",
+     "level": 2
+    },
+    {
+     "text": "pursuing",
+     "meaning": "추진하며",
+     "level": 2
+    },
+    {
+     "text": "encouraging",
+     "meaning": "부추기며, 장려하며",
+     "level": 2
+    },
+    {
+     "text": "acquire",
+     "meaning": "(잠수함을) 확보하다",
+     "level": 2
+    },
+    {
+     "text": "partnership",
+     "meaning": "(안보) 협력체",
+     "level": 2
+    },
+    {
+     "text": "ease",
+     "meaning": "(이전을) 쉽게 하다, 완화하다",
+     "level": 2
+    },
+    {
+     "text": "capability",
+     "meaning": "(핵) 능력",
+     "level": 2
+    },
+    {
+     "text": "Denying",
+     "meaning": "부정하는 것",
+     "level": 2
+    },
+    {
+     "text": "recognition",
+     "meaning": "인정",
+     "level": 2
+    },
+    {
+     "text": "failure",
+     "meaning": "실패",
+     "level": 1
+    },
+    {
+     "text": "approval",
+     "meaning": "승인",
+     "level": 2
+    },
+    {
+     "text": "strength",
+     "meaning": "(억제할) 힘, 능력",
+     "level": 1
+    },
+    {
+     "text": "worst-case",
+     "meaning": "최악의",
+     "level": 3
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 2
+    },
+    {
+     "text": "plunder",
+     "meaning": "(지위를) 빼앗다, 약탈하다",
+     "level": 4
+    },
+    {
+     "text": "constitution",
+     "meaning": "헌법",
+     "level": 2
+    },
+    {
+     "text": "inspection",
+     "meaning": "(핵시설) 시찰",
+     "level": 2
+    },
+    {
+     "text": "widely",
+     "meaning": "널리",
+     "level": 2
+    },
+    {
+     "text": "speculated",
+     "meaning": "추측이 무성했던",
+     "level": 3
+    },
+    {
+     "text": "summit",
+     "meaning": "정상회의",
+     "level": 2
+    },
+    {
+     "text": "publicly",
+     "meaning": "공개적으로",
+     "level": 2
+    },
+    {
+     "text": "necessarily",
+     "meaning": "반드시",
+     "level": 2
+    },
+    {
+     "text": "formal",
+     "meaning": "공식적인",
+     "level": 2
+    },
+    {
+     "text": "abandon",
+     "meaning": "포기하다",
+     "level": 2
+    },
+    {
+     "text": "absence",
+     "meaning": "(언급의) 부재, 없음",
+     "level": 2
+    },
+    {
+     "text": "dialogue",
+     "meaning": "대화",
+     "level": 2
+    },
+    {
+     "text": "agenda",
+     "meaning": "(논의) 의제",
+     "level": 2
+    },
+    {
+     "text": "fundamentally",
+     "meaning": "근본적으로",
+     "level": 3
+    },
+    {
+     "text": "reshaped",
+     "meaning": "재편되다",
+     "level": 3
+    },
+    {
+     "text": "permanently",
+     "meaning": "영구히",
+     "level": 2
+    },
+    {
+     "text": "mutual",
+     "meaning": "상호 간의",
+     "level": 2
+    },
+    {
+     "text": "confident",
+     "meaning": "자신하는",
+     "level": 2
+    },
+    {
+     "text": "remarks",
+     "meaning": "발언",
+     "level": 2
+    },
+    {
+     "text": "amid",
+     "meaning": "~가운데, ~속에",
+     "level": 3
+    },
+    {
+     "text": "dispute",
+     "meaning": "분쟁",
+     "level": 2
+    },
+    {
+     "text": "blast",
+     "meaning": "(지뢰) 폭발",
+     "level": 3
+    },
+    {
+     "text": "wounded",
+     "meaning": "부상을 입혔다",
+     "level": 2
+    },
+    {
+     "text": "apology",
+     "meaning": "사과",
+     "level": 2
+    },
+    {
+     "text": "investigation",
+     "meaning": "(공동) 조사",
+     "level": 2
+    },
+    {
+     "text": "intent",
+     "meaning": "의도",
+     "level": 2
+    },
+    {
+     "text": "expand",
+     "meaning": "확대하다",
+     "level": 2
+    },
+    {
+     "text": "Spokesperson",
+     "meaning": "대변인",
+     "level": 2
+    },
+    {
+     "text": "justify",
+     "meaning": "정당화하다",
+     "level": 3
+    },
+    {
+     "text": "development",
+     "meaning": "(핵) 개발",
+     "level": 1
+    },
+    {
+     "text": "comply",
+     "meaning": "(결의를) 따르다, 준수하다",
+     "level": 3
+    },
+    {
+     "text": "resolutions",
+     "meaning": "(안보리) 결의",
+     "level": 3
+    },
+    {
+     "text": "bilateral",
+     "meaning": "양자 간의",
+     "level": 3
+    },
+    {
+     "text": "consultative",
+     "meaning": "협의의, 자문의",
+     "level": 4
+    },
+    {
+     "text": "framework",
+     "meaning": "틀, 체계",
+     "level": 3
+    },
+    {
+     "text": "deterrence",
+     "meaning": "억제(력)",
+     "level": 3
+    },
+    {
+     "text": "combines",
+     "meaning": "결합한다",
+     "level": 2
+    },
+    {
+     "text": "blueprint",
+     "meaning": "청사진, 구상",
+     "level": 3
+    },
+    {
+     "text": "wiping",
+     "meaning": "(~을) 없애는",
+     "level": 2
+    },
+    {
+     "text": "leadership",
+     "meaning": "(북한) 지도부",
+     "level": 2
+    },
+    {
+     "text": "commitment",
+     "meaning": "(방위) 공약, 약속",
+     "level": 3
+    },
+    {
+     "text": "capabilities",
+     "meaning": "(군사) 능력",
+     "level": 3
+    },
+    {
+     "text": "increasingly",
+     "meaning": "점점 더",
+     "level": 2
+    },
+    {
+     "text": "reportedly",
+     "meaning": "보도에 따르면",
+     "level": 3
+    },
+    {
+     "text": "arranging",
+     "meaning": "조율하고 있는",
+     "level": 2
+    },
+    {
+     "text": "Hwasan",
+     "meaning": "화산(북한 전술핵탄두 계열 이름)",
+     "level": 3
+    },
+    {
+     "text": "United Nations",
+     "meaning": "국제연합(UN)",
+     "level": 0
     }
    ],
    "views": [
@@ -1235,6 +1690,306 @@
      "text": "detected",
      "meaning": "발견된",
      "level": 2
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 2
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 2
+    },
+    {
+     "text": "bloc",
+     "meaning": "(유럽연합) 연합체, 블록",
+     "level": 3
+    },
+    {
+     "text": "publicly",
+     "meaning": "공개적으로",
+     "level": 2
+    },
+    {
+     "text": "intrusion",
+     "meaning": "침입",
+     "level": 3
+    },
+    {
+     "text": "investigators",
+     "meaning": "조사관들",
+     "level": 2
+    },
+    {
+     "text": "operation",
+     "meaning": "(공격) 작전, 활동",
+     "level": 2
+    },
+    {
+     "text": "cybercampaign",
+     "meaning": "(해킹) 사이버 공격 작전",
+     "level": 4
+    },
+    {
+     "text": "elaborate",
+     "meaning": "상세히 설명하다",
+     "level": 3
+    },
+    {
+     "text": "perpetrator",
+     "meaning": "가해자, 범인",
+     "level": 4
+    },
+    {
+     "text": "response",
+     "meaning": "대응",
+     "level": 2
+    },
+    {
+     "text": "institution",
+     "meaning": "(EU) 기관",
+     "level": 2
+    },
+    {
+     "text": "employs",
+     "meaning": "고용하고 있다",
+     "level": 2
+    },
+    {
+     "text": "knocked",
+     "meaning": "(시스템을) 먹통으로 만들었다",
+     "level": 3
+    },
+    {
+     "text": "exposed",
+     "meaning": "노출시켰을",
+     "level": 3
+    },
+    {
+     "text": "prompting",
+     "meaning": "촉발하며, ~하게 만들며",
+     "level": 3
+    },
+    {
+     "text": "convene",
+     "meaning": "소집하다",
+     "level": 4
+    },
+    {
+     "text": "urgent",
+     "meaning": "긴급한",
+     "level": 2
+    },
+    {
+     "text": "acknowledged",
+     "meaning": "인정했다",
+     "level": 2
+    },
+    {
+     "text": "temporarily",
+     "meaning": "일시적으로",
+     "level": 2
+    },
+    {
+     "text": "staff-wide",
+     "meaning": "직원 전체에 걸친",
+     "level": 3
+    },
+    {
+     "text": "disclosure",
+     "meaning": "(사실) 공개",
+     "level": 3
+    },
+    {
+     "text": "amid",
+     "meaning": "~가운데",
+     "level": 3
+    },
+    {
+     "text": "supermarkets",
+     "meaning": "슈퍼마켓",
+     "level": 1
+    },
+    {
+     "text": "broadcasters",
+     "meaning": "방송사",
+     "level": 3
+    },
+    {
+     "text": "coordinated",
+     "meaning": "조직적인",
+     "level": 3
+    },
+    {
+     "text": "summoned",
+     "meaning": "(항의차) 불러들였다",
+     "level": 3
+    },
+    {
+     "text": "ambassador",
+     "meaning": "대사",
+     "level": 2
+    },
+    {
+     "text": "cyberattacks",
+     "meaning": "사이버 공격",
+     "level": 2
+    },
+    {
+     "text": "freezers",
+     "meaning": "냉동고",
+     "level": 2
+    },
+    {
+     "text": "defrost",
+     "meaning": "(얼음이) 녹다",
+     "level": 3
+    },
+    {
+     "text": "accusation",
+     "meaning": "비난, 의혹 제기",
+     "level": 3
+    },
+    {
+     "text": "denied",
+     "meaning": "부인했다",
+     "level": 2
+    },
+    {
+     "text": "Separately",
+     "meaning": "별도로",
+     "level": 3
+    },
+    {
+     "text": "hackers",
+     "meaning": "해커들",
+     "level": 2
+    },
+    {
+     "text": "lean",
+     "meaning": "(~에) 의존하다",
+     "level": 3
+    },
+    {
+     "text": "involving",
+     "meaning": "~와 관련된",
+     "level": 3
+    },
+    {
+     "text": "hacking",
+     "meaning": "해킹",
+     "level": 2
+    },
+    {
+     "text": "break-ins",
+     "meaning": "침입, 무단 접속",
+     "level": 3
+    },
+    {
+     "text": "downtime",
+     "meaning": "(시스템) 가동 중단",
+     "level": 4
+    },
+    {
+     "text": "organizations",
+     "meaning": "조직, 기관",
+     "level": 2
+    },
+    {
+     "text": "flaws",
+     "meaning": "결함",
+     "level": 2
+    },
+    {
+     "text": "hacks",
+     "meaning": "해킹",
+     "level": 2
+    },
+    {
+     "text": "coincides",
+     "meaning": "시기가 겹치다",
+     "level": 3
+    },
+    {
+     "text": "malicious",
+     "meaning": "악의적인",
+     "level": 3
+    },
+    {
+     "text": "unprecedented",
+     "meaning": "전례 없는",
+     "level": 3
+    },
+    {
+     "text": "memory-corruption",
+     "meaning": "메모리 손상(오류)",
+     "level": 4
+    },
+    {
+     "text": "bugs",
+     "meaning": "(프로그램) 버그, 오류",
+     "level": 2
+    },
+    {
+     "text": "vulnerabilities",
+     "meaning": "보안 취약점",
+     "level": 3
+    },
+    {
+     "text": "unmitigated",
+     "meaning": "완화되지 않은, 방치된",
+     "level": 4
+    },
+    {
+     "text": "stem",
+     "meaning": "(~에서) 비롯되다",
+     "level": 3
+    },
+    {
+     "text": "piled",
+     "meaning": "쌓였다",
+     "level": 3
+    },
+    {
+     "text": "typically",
+     "meaning": "보통, 대개",
+     "level": 2
+    },
+    {
+     "text": "passwords",
+     "meaning": "비밀번호",
+     "level": 1
+    },
+    {
+     "text": "developers",
+     "meaning": "개발자들",
+     "level": 2
+    },
+    {
+     "text": "unnoticed",
+     "meaning": "눈치채지 못한",
+     "level": 3
+    },
+    {
+     "text": "cyber",
+     "meaning": "사이버의",
+     "level": 2
+    },
+    {
+     "text": "obsolete",
+     "meaning": "쓸모없게 된",
+     "level": 3
+    },
+    {
+     "text": "foundations",
+     "meaning": "기본 토대",
+     "level": 3
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 1
     }
    ],
    "views": [
@@ -1796,6 +2551,66 @@
     {
      "text": "Moscow",
      "meaning": "모스크바(러시아 정부)",
+     "level": 1
+    },
+    {
+     "text": "departure",
+     "meaning": "(스위스 사무소 직원의) 출국, 철수",
+     "level": 2
+    },
+    {
+     "text": "closure",
+     "meaning": "(사무소) 폐쇄",
+     "level": 2
+    },
+    {
+     "text": "declared",
+     "meaning": "선언했다, 규정했다",
+     "level": 2
+    },
+    {
+     "text": "impose",
+     "meaning": "(제재를) 부과하다",
+     "level": 3
+    },
+    {
+     "text": "accused",
+     "meaning": "혐의를 받아 왔다",
+     "level": 2
+    },
+    {
+     "text": "involvement",
+     "meaning": "연루, 관여",
+     "level": 3
+    },
+    {
+     "text": "reopened",
+     "meaning": "다시 문을 열었다",
+     "level": 2
+    },
+    {
+     "text": "relations",
+     "meaning": "(외교) 관계",
+     "level": 2
+    },
+    {
+     "text": "Diplomatic",
+     "meaning": "외교의",
+     "level": 2
+    },
+    {
+     "text": "dialogue",
+     "meaning": "대화",
+     "level": 2
+    },
+    {
+     "text": "commitment",
+     "meaning": "(대화 유지) 의지, 약속",
+     "level": 3
+    },
+    {
+     "text": "missiles",
+     "meaning": "미사일",
      "level": 1
     }
    ],
@@ -2561,6 +3376,226 @@
      "text": "dropped",
      "meaning": "뺐다",
      "level": 1
+    },
+    {
+     "text": "resuming",
+     "meaning": "재개하며",
+     "level": 2
+    },
+    {
+     "text": "pause",
+     "meaning": "(인상) 중단, 숨 고르기",
+     "level": 2
+    },
+    {
+     "text": "outweighed",
+     "meaning": "(우려를) 앞질렀다, 더 컸다",
+     "level": 4
+    },
+    {
+     "text": "consumer",
+     "meaning": "소비자, 소비의",
+     "level": 2
+    },
+    {
+     "text": "sharply",
+     "meaning": "대폭, 크게",
+     "level": 2
+    },
+    {
+     "text": "revision",
+     "meaning": "(전망) 수정",
+     "level": 3
+    },
+    {
+     "text": "upward",
+     "meaning": "상향의, 위쪽으로의",
+     "level": 2
+    },
+    {
+     "text": "adjustment",
+     "meaning": "조정",
+     "level": 2
+    },
+    {
+     "text": "estimates",
+     "meaning": "추정치, 전망치",
+     "level": 2
+    },
+    {
+     "text": "persistent",
+     "meaning": "끈질긴, 지속되는",
+     "level": 3
+    },
+    {
+     "text": "global",
+     "meaning": "세계적인",
+     "level": 1
+    },
+    {
+     "text": "shipments",
+     "meaning": "(수출) 선적량, 출하",
+     "level": 2
+    },
+    {
+     "text": "easing",
+     "meaning": "(상승세가) 누그러지며",
+     "level": 2
+    },
+    {
+     "text": "nudged",
+     "meaning": "(조금) 올렸다",
+     "level": 3
+    },
+    {
+     "text": "projection",
+     "meaning": "전망",
+     "level": 3
+    },
+    {
+     "text": "citing",
+     "meaning": "(이유로) 들며",
+     "level": 3
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "response",
+     "meaning": "(~에 대한) 대응",
+     "level": 2
+    },
+    {
+     "text": "likened",
+     "meaning": "~에 비유했다",
+     "level": 4
+    },
+    {
+     "text": "pledge",
+     "meaning": "약속, 방침 표명",
+     "level": 3
+    },
+    {
+     "text": "slightly",
+     "meaning": "약간",
+     "level": 2
+    },
+    {
+     "text": "pressure",
+     "meaning": "압박",
+     "level": 2
+    },
+    {
+     "text": "higher-than-expected",
+     "meaning": "예상보다 높은",
+     "level": 3
+    },
+    {
+     "text": "widened",
+     "meaning": "(격차를) 벌렸을",
+     "level": 2
+    },
+    {
+     "text": "steady",
+     "meaning": "(금리를) 동결한",
+     "level": 2
+    },
+    {
+     "text": "marginal",
+     "meaning": "미미한",
+     "level": 3
+    },
+    {
+     "text": "regional",
+     "meaning": "(아시아) 지역의",
+     "level": 2
+    },
+    {
+     "text": "tech-led",
+     "meaning": "기술주가 이끈",
+     "level": 3
+    },
+    {
+     "text": "employee",
+     "meaning": "직원",
+     "level": 1
+    },
+    {
+     "text": "investment",
+     "meaning": "투자",
+     "level": 2
+    },
+    {
+     "text": "vanish",
+     "meaning": "사라지다",
+     "level": 3
+    },
+    {
+     "text": "boom",
+     "meaning": "(반도체) 호황",
+     "level": 2
+    },
+    {
+     "text": "profitability",
+     "meaning": "수익성",
+     "level": 3
+    },
+    {
+     "text": "massive",
+     "meaning": "막대한, 대규모의",
+     "level": 3
+    },
+    {
+     "text": "pandemic",
+     "meaning": "팬데믹, 감염병 대유행",
+     "level": 2
+    },
+    {
+     "text": "workforce",
+     "meaning": "(반도체) 인력, 노동력",
+     "level": 3
+    },
+    {
+     "text": "repayment",
+     "meaning": "(대출) 상환",
+     "level": 3
+    },
+    {
+     "text": "stock-market",
+     "meaning": "주식시장의",
+     "level": 2
+    },
+    {
+     "text": "swings",
+     "meaning": "(주가) 등락, 변동",
+     "level": 3
+    },
+    {
+     "text": "acknowledged",
+     "meaning": "인정했다",
+     "level": 2
+    },
+    {
+     "text": "burden",
+     "meaning": "부담",
+     "level": 2
+    },
+    {
+     "text": "borrower",
+     "meaning": "대출자, 돈 빌린 사람",
+     "level": 2
+    },
+    {
+     "text": "economist",
+     "meaning": "경제학자, 이코노미스트",
+     "level": 2
+    },
+    {
+     "text": "excessive",
+     "meaning": "지나친",
+     "level": 3
     }
    ],
    "views": [
@@ -3299,6 +4334,296 @@
      "text": "stability",
      "meaning": "안정",
      "level": 2
+    },
+    {
+     "text": "carmakers",
+     "meaning": "자동차 제조사들",
+     "level": 2
+    },
+    {
+     "text": "automaker",
+     "meaning": "자동차 회사",
+     "level": 2
+    },
+    {
+     "text": "observers",
+     "meaning": "(업계) 관측통들",
+     "level": 2
+    },
+    {
+     "text": "management",
+     "meaning": "경영",
+     "level": 2
+    },
+    {
+     "text": "strengthening",
+     "meaning": "강화하면서",
+     "level": 2
+    },
+    {
+     "text": "global",
+     "meaning": "세계적인",
+     "level": 1
+    },
+    {
+     "text": "tougher",
+     "meaning": "더 강해진, 더 가혹한",
+     "level": 2
+    },
+    {
+     "text": "competition",
+     "meaning": "경쟁",
+     "level": 2
+    },
+    {
+     "text": "protectionist",
+     "meaning": "보호무역주의의",
+     "level": 4
+    },
+    {
+     "text": "appointments",
+     "meaning": "인사, 임명",
+     "level": 3
+    },
+    {
+     "text": "competitiveness",
+     "meaning": "경쟁력",
+     "level": 3
+    },
+    {
+     "text": "extensive",
+     "meaning": "폭넓은",
+     "level": 3
+    },
+    {
+     "text": "efficiency",
+     "meaning": "효율성",
+     "level": 3
+    },
+    {
+     "text": "optimize",
+     "meaning": "최적화하다",
+     "level": 3
+    },
+    {
+     "text": "portfolio",
+     "meaning": "(사업) 포트폴리오",
+     "level": 3
+    },
+    {
+     "text": "bolster",
+     "meaning": "강화하다, 보강하다",
+     "level": 3
+    },
+    {
+     "text": "automotive",
+     "meaning": "자동차의",
+     "level": 3
+    },
+    {
+     "text": "division",
+     "meaning": "(구매) 부문",
+     "level": 2
+    },
+    {
+     "text": "production",
+     "meaning": "생산",
+     "level": 1
+    },
+    {
+     "text": "expanding",
+     "meaning": "확대하는",
+     "level": 2
+    },
+    {
+     "text": "architecture",
+     "meaning": "(건축) 설계, 건축 부문",
+     "level": 3
+    },
+    {
+     "text": "oversaw",
+     "meaning": "총괄했다, 감독했다",
+     "level": 3
+    },
+    {
+     "text": "expansion",
+     "meaning": "(사업) 확장",
+     "level": 3
+    },
+    {
+     "text": "industrial",
+     "meaning": "산업용의",
+     "level": 2
+    },
+    {
+     "text": "pursuing",
+     "meaning": "추진하는",
+     "level": 2
+    },
+    {
+     "text": "construction",
+     "meaning": "건설",
+     "level": 2
+    },
+    {
+     "text": "advisory",
+     "meaning": "(건설) 자문",
+     "level": 4
+    },
+    {
+     "text": "specialist",
+     "meaning": "전문가",
+     "level": 2
+    },
+    {
+     "text": "software-defined",
+     "meaning": "소프트웨어 중심의",
+     "level": 4
+    },
+    {
+     "text": "development",
+     "meaning": "개발",
+     "level": 1
+    },
+    {
+     "text": "controllers",
+     "meaning": "(차량) 제어기",
+     "level": 3
+    },
+    {
+     "text": "capabilities",
+     "meaning": "(기술) 역량",
+     "level": 3
+    },
+    {
+     "text": "Kefico",
+     "meaning": "현대케피코(현대차 부품 계열사)",
+     "level": 3
+    },
+    {
+     "text": "manufacturing",
+     "meaning": "제조",
+     "level": 2
+    },
+    {
+     "text": "retain",
+     "meaning": "유임시키다",
+     "level": 3
+    },
+    {
+     "text": "bid",
+     "meaning": "(안정을 꾀한) 시도",
+     "level": 3
+    },
+    {
+     "text": "amid",
+     "meaning": "~가운데",
+     "level": 3
+    },
+    {
+     "text": "escalating",
+     "meaning": "커지고 있는",
+     "level": 3
+    },
+    {
+     "text": "pressure",
+     "meaning": "압박, 부담",
+     "level": 2
+    },
+    {
+     "text": "fell",
+     "meaning": "떨어졌다, 감소했다",
+     "level": 1
+    },
+    {
+     "text": "newly",
+     "meaning": "새로",
+     "level": 1
+    },
+    {
+     "text": "combined",
+     "meaning": "합친, 합산한",
+     "level": 2
+    },
+    {
+     "text": "surge",
+     "meaning": "(전기차) 급증",
+     "level": 3
+    },
+    {
+     "text": "Shanghai-built",
+     "meaning": "상하이에서 생산된",
+     "level": 3
+    },
+    {
+     "text": "Overseas",
+     "meaning": "해외에서는",
+     "level": 2
+    },
+    {
+     "text": "pivoted",
+     "meaning": "방향을 틀었다",
+     "level": 4
+    },
+    {
+     "text": "converted",
+     "meaning": "(생산 라인이) 전환되고",
+     "level": 3
+    },
+    {
+     "text": "ramping",
+     "meaning": "(생산을) 늘리는",
+     "level": 4
+    },
+    {
+     "text": "exposed",
+     "meaning": "(위험에) 노출된",
+     "level": 3
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "impose",
+     "meaning": "(조치를) 부과하다",
+     "level": 3
+    },
+    {
+     "text": "imports",
+     "meaning": "수입(량)",
+     "level": 2
+    },
+    {
+     "text": "locally",
+     "meaning": "현지에서",
+     "level": 3
+    },
+    {
+     "text": "Sportage",
+     "meaning": "스포티지(기아 SUV)",
+     "level": 2
+    },
+    {
+     "text": "Korea-built",
+     "meaning": "한국에서 생산된",
+     "level": 3
+    },
+    {
+     "text": "Santa Fe",
+     "meaning": "싼타페(현대차 SUV)",
+     "level": 2
+    },
+    {
+     "text": "Niro",
+     "meaning": "니로(기아 SUV)",
+     "level": 2
+    },
+    {
+     "text": "strict",
+     "meaning": "엄격한",
+     "level": 2
     }
    ],
    "views": [
@@ -3935,6 +5260,246 @@
     {
      "text": "career exploration",
      "meaning": "진로 탐색",
+     "level": 2
+    },
+    {
+     "text": "approved",
+     "meaning": "승인했다",
+     "level": 2
+    },
+    {
+     "text": "increasingly",
+     "meaning": "점점 더",
+     "level": 2
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 2
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 2
+    },
+    {
+     "text": "foundation's",
+     "meaning": "재단의",
+     "level": 2
+    },
+    {
+     "text": "initiative",
+     "meaning": "(지원) 사업, 이니셔티브",
+     "level": 3
+    },
+    {
+     "text": "institution's",
+     "meaning": "(각) 기관의",
+     "level": 3
+    },
+    {
+     "text": "implementation",
+     "meaning": "(계획의) 실행, 이행",
+     "level": 3
+    },
+    {
+     "text": "institutions",
+     "meaning": "(교육) 기관들",
+     "level": 2
+    },
+    {
+     "text": "endowment's",
+     "meaning": "(기금) 재단의",
+     "level": 4
+    },
+    {
+     "text": "significant",
+     "meaning": "중대한",
+     "level": 2
+    },
+    {
+     "text": "weaken",
+     "meaning": "약화하다",
+     "level": 3
+    },
+    {
+     "text": "affiliated",
+     "meaning": "소속된, 제휴된",
+     "level": 3
+    },
+    {
+     "text": "academic",
+     "meaning": "학문의, 학업의",
+     "level": 2
+    },
+    {
+     "text": "innovation",
+     "meaning": "혁신",
+     "level": 2
+    },
+    {
+     "text": "workforce",
+     "meaning": "(직업) 인력",
+     "level": 3
+    },
+    {
+     "text": "readiness",
+     "meaning": "준비 태세",
+     "level": 3
+    },
+    {
+     "text": "ethical",
+     "meaning": "윤리적인",
+     "level": 3
+    },
+    {
+     "text": "critically",
+     "meaning": "비판적으로",
+     "level": 3
+    },
+    {
+     "text": "availability",
+     "meaning": "(이용) 가능성",
+     "level": 3
+    },
+    {
+     "text": "partnerships",
+     "meaning": "협력(관계)",
+     "level": 2
+    },
+    {
+     "text": "employers",
+     "meaning": "고용주, 기업",
+     "level": 2
+    },
+    {
+     "text": "accessibility",
+     "meaning": "(디지털) 접근성",
+     "level": 3
+    },
+    {
+     "text": "infrastructure",
+     "meaning": "(기술) 기반 시설",
+     "level": 3
+    },
+    {
+     "text": "scholarships",
+     "meaning": "장학금",
+     "level": 2
+    },
+    {
+     "text": "integrity",
+     "meaning": "(학문적) 진실성, 정직성",
+     "level": 3
+    },
+    {
+     "text": "judgment",
+     "meaning": "판단력",
+     "level": 2
+    },
+    {
+     "text": "effectively",
+     "meaning": "효과적으로",
+     "level": 2
+    },
+    {
+     "text": "gathered",
+     "meaning": "모았다",
+     "level": 2
+    },
+    {
+     "text": "input",
+     "meaning": "(의견) 수렴, 의견",
+     "level": 2
+    },
+    {
+     "text": "foundational",
+     "meaning": "기초가 되는",
+     "level": 4
+    },
+    {
+     "text": "evaluation",
+     "meaning": "평가",
+     "level": 2
+    },
+    {
+     "text": "convinced",
+     "meaning": "확신하게 했다",
+     "level": 2
+    },
+    {
+     "text": "adopt",
+     "meaning": "도입하다",
+     "level": 2
+    },
+    {
+     "text": "broadly",
+     "meaning": "폭넓게",
+     "level": 2
+    },
+    {
+     "text": "regard",
+     "meaning": "(~로) 여기다, 간주하다",
+     "level": 3
+    },
+    {
+     "text": "educational",
+     "meaning": "교육적인",
+     "level": 2
+    },
+    {
+     "text": "consequences",
+     "meaning": "(부정적) 결과, 영향",
+     "level": 3
+    },
+    {
+     "text": "summed",
+     "meaning": "(~로) 요약했다",
+     "level": 3
+    },
+    {
+     "text": "laundry",
+     "meaning": "빨래",
+     "level": 1
+    },
+    {
+     "text": "dishes",
+     "meaning": "설거지, 접시",
+     "level": 1
+    },
+    {
+     "text": "Elsewhere",
+     "meaning": "다른 곳에서는",
+     "level": 3
+    },
+    {
+     "text": "adapt",
+     "meaning": "적응하다, 맞추다",
+     "level": 3
+    },
+    {
+     "text": "university-wide",
+     "meaning": "대학 전체의",
+     "level": 3
+    },
+    {
+     "text": "involving",
+     "meaning": "~을 포함하는, 수반하는",
+     "level": 3
+    },
+    {
+     "text": "renovated",
+     "meaning": "개조된",
+     "level": 3
+    },
+    {
+     "text": "revised",
+     "meaning": "개정된",
+     "level": 3
+    },
+    {
+     "text": "operations",
+     "meaning": "(대학) 운영",
      "level": 2
     }
    ],
@@ -4630,6 +6195,226 @@
      "text": "consumer prices",
      "meaning": "소비자물가",
      "level": 2
+    },
+    {
+     "text": "slightly",
+     "meaning": "약간, 소폭",
+     "level": 2
+    },
+    {
+     "text": "renewed",
+     "meaning": "다시 커진, 새로워진",
+     "level": 3
+    },
+    {
+     "text": "climbing",
+     "meaning": "(지수가) 오르며",
+     "level": 2
+    },
+    {
+     "text": "analyst",
+     "meaning": "애널리스트, 분석가",
+     "level": 2
+    },
+    {
+     "text": "sensitive",
+     "meaning": "민감한",
+     "level": 2
+    },
+    {
+     "text": "surrounding",
+     "meaning": "~을 둘러싼",
+     "level": 3
+    },
+    {
+     "text": "brutal",
+     "meaning": "혹독한, 최악의",
+     "level": 3
+    },
+    {
+     "text": "attributed",
+     "meaning": "~의 탓으로 돌렸다",
+     "level": 3
+    },
+    {
+     "text": "revived",
+     "meaning": "되살렸다",
+     "level": 3
+    },
+    {
+     "text": "assessing",
+     "meaning": "평가하고 있는",
+     "level": 3
+    },
+    {
+     "text": "impose",
+     "meaning": "(관세를) 부과하다",
+     "level": 3
+    },
+    {
+     "text": "servers",
+     "meaning": "서버(AI 데이터센터용)",
+     "level": 2
+    },
+    {
+     "text": "optical",
+     "meaning": "광(光)의",
+     "level": 3
+    },
+    {
+     "text": "communications",
+     "meaning": "통신",
+     "level": 2
+    },
+    {
+     "text": "grids",
+     "meaning": "전력망",
+     "level": 3
+    },
+    {
+     "text": "composite",
+     "meaning": "종합(지수)",
+     "level": 3
+    },
+    {
+     "text": "moderate",
+     "meaning": "보통 수준의, 무난한",
+     "level": 2
+    },
+    {
+     "text": "outnumbering",
+     "meaning": "~보다 수가 많은",
+     "level": 3
+    },
+    {
+     "text": "Foreigners",
+     "meaning": "외국인 투자자",
+     "level": 2
+    },
+    {
+     "text": "respectively",
+     "meaning": "각각",
+     "level": 2
+    },
+    {
+     "text": "rival",
+     "meaning": "경쟁 업체",
+     "level": 2
+    },
+    {
+     "text": "equipment",
+     "meaning": "장비",
+     "level": 2
+    },
+    {
+     "text": "inversely",
+     "meaning": "반대로, 거꾸로",
+     "level": 3
+    },
+    {
+     "text": "signals",
+     "meaning": "신호",
+     "level": 2
+    },
+    {
+     "text": "strength",
+     "meaning": "강세, 힘",
+     "level": 2
+    },
+    {
+     "text": "caution",
+     "meaning": "신중함, 경계",
+     "level": 2
+    },
+    {
+     "text": "steady",
+     "meaning": "꾸준한",
+     "level": 2
+    },
+    {
+     "text": "sharply",
+     "meaning": "대폭, 급격히",
+     "level": 2
+    },
+    {
+     "text": "upgraded",
+     "meaning": "상향 조정했다",
+     "level": 3
+    },
+    {
+     "text": "citing",
+     "meaning": "~을 근거로 들며",
+     "level": 3
+    },
+    {
+     "text": "inflation",
+     "meaning": "물가 상승률, 인플레이션",
+     "level": 2
+    },
+    {
+     "text": "Governor",
+     "meaning": "(한국은행) 총재",
+     "level": 2
+    },
+    {
+     "text": "resumed",
+     "meaning": "재개했다",
+     "level": 3
+    },
+    {
+     "text": "economic",
+     "meaning": "경제의",
+     "level": 1
+    },
+    {
+     "text": "swings",
+     "meaning": "(시장의) 등락, 출렁임",
+     "level": 3
+    },
+    {
+     "text": "financial",
+     "meaning": "금융의",
+     "level": 2
+    },
+    {
+     "text": "investment",
+     "meaning": "투자",
+     "level": 2
+    },
+    {
+     "text": "amid",
+     "meaning": "~가 이어지는 가운데",
+     "level": 3
+    },
+    {
+     "text": "profitability",
+     "meaning": "수익성",
+     "level": 3
+    },
+    {
+     "text": "massive",
+     "meaning": "막대한",
+     "level": 2
+    },
+    {
+     "text": "stance",
+     "meaning": "(통화정책) 기조",
+     "level": 3
+    },
+    {
+     "text": "economist",
+     "meaning": "이코노미스트, 경제학자",
+     "level": 2
+    },
+    {
+     "text": "consumption",
+     "meaning": "소비",
+     "level": 2
+    },
+    {
+     "text": "boom",
+     "meaning": "호황, 붐",
+     "level": 2
     }
    ],
    "views": [
@@ -5170,6 +6955,171 @@
      "text": "named",
      "meaning": "임명된",
      "level": 1
+    },
+    {
+     "text": "folded",
+     "meaning": "(조직을) 통합했다",
+     "level": 3
+    },
+    {
+     "text": "development",
+     "meaning": "개발",
+     "level": 1
+    },
+    {
+     "text": "operations",
+     "meaning": "사업, 조직(운영)",
+     "level": 2
+    },
+    {
+     "text": "supervision",
+     "meaning": "감독, 관리",
+     "level": 3
+    },
+    {
+     "text": "organizational",
+     "meaning": "조직의",
+     "level": 3
+    },
+    {
+     "text": "enlarged",
+     "meaning": "확대했다",
+     "level": 3
+    },
+    {
+     "text": "chip",
+     "meaning": "반도체 칩",
+     "level": 2
+    },
+    {
+     "text": "bolster",
+     "meaning": "강화하다",
+     "level": 3
+    },
+    {
+     "text": "position",
+     "meaning": "입지, 위치",
+     "level": 2
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 2
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 2
+    },
+    {
+     "text": "appointments",
+     "meaning": "인사, 임명",
+     "level": 3
+    },
+    {
+     "text": "previously",
+     "meaning": "이전에는",
+     "level": 2
+    },
+    {
+     "text": "directly",
+     "meaning": "직접",
+     "level": 2
+    },
+    {
+     "text": "eliminated",
+     "meaning": "폐지되고 있는",
+     "level": 3
+    },
+    {
+     "text": "competitive",
+     "meaning": "경쟁력 있는",
+     "level": 3
+    },
+    {
+     "text": "strength",
+     "meaning": "강점",
+     "level": 2
+    },
+    {
+     "text": "sixth-generation",
+     "meaning": "6세대(HBM)의",
+     "level": 3
+    },
+    {
+     "text": "semiconductor",
+     "meaning": "반도체",
+     "level": 2
+    },
+    {
+     "text": "global",
+     "meaning": "글로벌한, 세계적인",
+     "level": 1
+    },
+    {
+     "text": "chipmakers",
+     "meaning": "반도체 제조사들",
+     "level": 2
+    },
+    {
+     "text": "strengthen",
+     "meaning": "강화하다",
+     "level": 2
+    },
+    {
+     "text": "Separately",
+     "meaning": "별도로",
+     "level": 2
+    },
+    {
+     "text": "manufacturing",
+     "meaning": "제조",
+     "level": 2
+    },
+    {
+     "text": "infrastructure",
+     "meaning": "인프라, 기반 시설",
+     "level": 3
+    },
+    {
+     "text": "organization",
+     "meaning": "조직",
+     "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "leadership",
+     "meaning": "경영진, 리더십",
+     "level": 2
+    },
+    {
+     "text": "reshuffle",
+     "meaning": "인사 개편",
+     "level": 3
+    },
+    {
+     "text": "announced",
+     "meaning": "발표한",
+     "level": 2
+    },
+    {
+     "text": "cited",
+     "meaning": "인용한",
+     "level": 3
+    },
+    {
+     "text": "concurrent",
+     "meaning": "겸직의, 동시에 맡은",
+     "level": 4
+    },
+    {
+     "text": "widen",
+     "meaning": "넓히다",
+     "level": 2
     }
    ],
    "views": [
@@ -5949,6 +7899,331 @@
      "text": "set aside",
      "meaning": "(문제를) 제쳐 두다",
      "level": 3
+    },
+    {
+     "text": "computing",
+     "meaning": "컴퓨팅, 연산",
+     "level": 2
+    },
+    {
+     "text": "solar",
+     "meaning": "태양광의",
+     "level": 2
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 2
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 2
+    },
+    {
+     "text": "FCC",
+     "meaning": "미국 연방통신위원회(FCC)",
+     "level": 3
+    },
+    {
+     "text": "appointed",
+     "meaning": "임명된",
+     "level": 2
+    },
+    {
+     "text": "bold",
+     "meaning": "대담한",
+     "level": 3
+    },
+    {
+     "text": "frontier",
+     "meaning": "미개척 영역, 새 지평",
+     "level": 3
+    },
+    {
+     "text": "infrastructure",
+     "meaning": "인프라",
+     "level": 3
+    },
+    {
+     "text": "leadership",
+     "meaning": "리더십, 주도권",
+     "level": 2
+    },
+    {
+     "text": "asset",
+     "meaning": "자산",
+     "level": 3
+    },
+    {
+     "text": "booming",
+     "meaning": "호황인",
+     "level": 3
+    },
+    {
+     "text": "humanity",
+     "meaning": "인류",
+     "level": 2
+    },
+    {
+     "text": "hypothetical",
+     "meaning": "가상의, 가설적인",
+     "level": 4
+    },
+    {
+     "text": "proposed",
+     "meaning": "제안한",
+     "level": 3
+    },
+    {
+     "text": "astronomer",
+     "meaning": "천문학자",
+     "level": 3
+    },
+    {
+     "text": "harness",
+     "meaning": "(에너지를) 활용하다",
+     "level": 4
+    },
+    {
+     "text": "unclear",
+     "meaning": "불분명한",
+     "level": 2
+    },
+    {
+     "text": "altitudes",
+     "meaning": "고도",
+     "level": 3
+    },
+    {
+     "text": "kilometers",
+     "meaning": "킬로미터",
+     "level": 1
+    },
+    {
+     "text": "laser",
+     "meaning": "레이저",
+     "level": 2
+    },
+    {
+     "text": "chips",
+     "meaning": "반도체 칩",
+     "level": 2
+    },
+    {
+     "text": "upcoming",
+     "meaning": "다가오는, 곧 나올",
+     "level": 2
+    },
+    {
+     "text": "communications",
+     "meaning": "통신",
+     "level": 2
+    },
+    {
+     "text": "deferred",
+     "meaning": "보류했다",
+     "level": 4
+    },
+    {
+     "text": "sufficient",
+     "meaning": "충분한",
+     "level": 3
+    },
+    {
+     "text": "craft",
+     "meaning": "우주선, 비행체",
+     "level": 3
+    },
+    {
+     "text": "cautioned",
+     "meaning": "경고했다",
+     "level": 3
+    },
+    {
+     "text": "orbital",
+     "meaning": "궤도상의",
+     "level": 3
+    },
+    {
+     "text": "rely",
+     "meaning": "의존하다",
+     "level": 2
+    },
+    {
+     "text": "Carr",
+     "meaning": "브렌던 카(FCC 위원장)",
+     "level": 3
+    },
+    {
+     "text": "competitors",
+     "meaning": "경쟁사들",
+     "level": 2
+    },
+    {
+     "text": "praised",
+     "meaning": "칭찬했다",
+     "level": 2
+    },
+    {
+     "text": "rocket",
+     "meaning": "로켓",
+     "level": 2
+    },
+    {
+     "text": "pursuing",
+     "meaning": "추진하고 있는",
+     "level": 3
+    },
+    {
+     "text": "server",
+     "meaning": "서버",
+     "level": 2
+    },
+    {
+     "text": "startup",
+     "meaning": "스타트업",
+     "level": 2
+    },
+    {
+     "text": "aboard",
+     "meaning": "(우주선에) 탑재된",
+     "level": 3
+    },
+    {
+     "text": "Proponents",
+     "meaning": "옹호론자들",
+     "level": 4
+    },
+    {
+     "text": "efficiency",
+     "meaning": "효율",
+     "level": 3
+    },
+    {
+     "text": "ease",
+     "meaning": "용이함, 쉬움",
+     "level": 3
+    },
+    {
+     "text": "enormous",
+     "meaning": "막대한",
+     "level": 3
+    },
+    {
+     "text": "resistance",
+     "meaning": "저항, 반대",
+     "level": 3
+    },
+    {
+     "text": "tougher",
+     "meaning": "더 엄격한",
+     "level": 3
+    },
+    {
+     "text": "regulation",
+     "meaning": "규제",
+     "level": 3
+    },
+    {
+     "text": "construction",
+     "meaning": "건설",
+     "level": 2
+    },
+    {
+     "text": "interference",
+     "meaning": "(전파·관측) 간섭",
+     "level": 4
+    },
+    {
+     "text": "environmental",
+     "meaning": "환경의",
+     "level": 3
+    },
+    {
+     "text": "consistent",
+     "meaning": "부합하는, 일치하는",
+     "level": 3
+    },
+    {
+     "text": "astronomical",
+     "meaning": "천문학의",
+     "level": 3
+    },
+    {
+     "text": "shine",
+     "meaning": "빛나다",
+     "level": 2
+    },
+    {
+     "text": "undermine",
+     "meaning": "훼손하다",
+     "level": 4
+    },
+    {
+     "text": "investment",
+     "meaning": "투자",
+     "level": 2
+    },
+    {
+     "text": "million-satellite",
+     "meaning": "위성 100만 기 규모의",
+     "level": 3
+    },
+    {
+     "text": "radiating",
+     "meaning": "(열을) 방출하는",
+     "level": 4
+    },
+    {
+     "text": "vacuum",
+     "meaning": "진공",
+     "level": 3
+    },
+    {
+     "text": "warning",
+     "meaning": "경고하는",
+     "level": 2
+    },
+    {
+     "text": "collisions",
+     "meaning": "충돌",
+     "level": 3
+    },
+    {
+     "text": "cited",
+     "meaning": "인용한",
+     "level": 3
+    },
+    {
+     "text": "hardware",
+     "meaning": "하드웨어, 장비",
+     "level": 2
+    },
+    {
+     "text": "radiation",
+     "meaning": "방사선",
+     "level": 3
+    },
+    {
+     "text": "orbit-bound",
+     "meaning": "궤도로 향하는",
+     "level": 4
+    },
+    {
+     "text": "accused",
+     "meaning": "비난받은",
+     "level": 3
+    },
+    {
+     "text": "denies",
+     "meaning": "부인하다",
+     "level": 3
+    },
+    {
+     "text": "disposing",
+     "meaning": "폐기하는",
+     "level": 4
     }
    ],
    "views": [
@@ -6694,6 +8969,131 @@
      "text": "dominated",
      "meaning": "휩쓸었다",
      "level": 2
+    },
+    {
+     "text": "Director",
+     "meaning": "감독",
+     "level": 2
+    },
+    {
+     "text": "ceremony",
+     "meaning": "시상식",
+     "level": 2
+    },
+    {
+     "text": "villagers",
+     "meaning": "마을 주민들",
+     "level": 2
+    },
+    {
+     "text": "coastal",
+     "meaning": "해안의",
+     "level": 3
+    },
+    {
+     "text": "Hopo",
+     "meaning": "호포(영화 속 바닷가 마을)",
+     "level": 3
+    },
+    {
+     "text": "encountering",
+     "meaning": "맞닥뜨리는",
+     "level": 3
+    },
+    {
+     "text": "mysterious",
+     "meaning": "정체불명의, 신비한",
+     "level": 2
+    },
+    {
+     "text": "beings",
+     "meaning": "존재들",
+     "level": 3
+    },
+    {
+     "text": "working-class",
+     "meaning": "노동자 계층의",
+     "level": 3
+    },
+    {
+     "text": "wealthy",
+     "meaning": "부유한",
+     "level": 2
+    },
+    {
+     "text": "documentary",
+     "meaning": "다큐멘터리",
+     "level": 2
+    },
+    {
+     "text": "co-star",
+     "meaning": "함께 출연한 배우",
+     "level": 3
+    },
+    {
+     "text": "co-writer",
+     "meaning": "공동 각본가",
+     "level": 3
+    },
+    {
+     "text": "Sul",
+     "meaning": "설경구(배우)",
+     "level": 3
+    },
+    {
+     "text": "reunited",
+     "meaning": "다시 손잡은",
+     "level": 3
+    },
+    {
+     "text": "performance",
+     "meaning": "연기, 공연",
+     "level": 2
+    },
+    {
+     "text": "veteran",
+     "meaning": "경력 많은, 베테랑",
+     "level": 3
+    },
+    {
+     "text": "navigating",
+     "meaning": "헤쳐 나가는",
+     "level": 3
+    },
+    {
+     "text": "Seo Young-chul",
+     "meaning": "서영철(영화 속 악당 인물)",
+     "level": 3
+    },
+    {
+     "text": "villain",
+     "meaning": "악당",
+     "level": 3
+    },
+    {
+     "text": "contribution",
+     "meaning": "기여",
+     "level": 3
+    },
+    {
+     "text": "cinema",
+     "meaning": "영화계",
+     "level": 2
+    },
+    {
+     "text": "technical",
+     "meaning": "기술적인",
+     "level": 3
+    },
+    {
+     "text": "annually",
+     "meaning": "매년",
+     "level": 3
+    },
+    {
+     "text": "Lee Joo-in",
+     "meaning": "이주인(영화 속 인물)",
+     "level": 3
     }
    ],
    "views": [
@@ -7278,6 +9678,311 @@
      "text": "synced",
      "meaning": "동기화했다",
      "level": 3
+    },
+    {
+     "text": "reportedly",
+     "meaning": "전해진 바로는",
+     "level": 3
+    },
+    {
+     "text": "negotiating",
+     "meaning": "협상 중인",
+     "level": 3
+    },
+    {
+     "text": "directly",
+     "meaning": "직접",
+     "level": 2
+    },
+    {
+     "text": "reversal",
+     "meaning": "번복, 뒤집기",
+     "level": 3
+    },
+    {
+     "text": "citing",
+     "meaning": "~을 인용해",
+     "level": 3
+    },
+    {
+     "text": "unresolved",
+     "meaning": "해결되지 않은",
+     "level": 3
+    },
+    {
+     "text": "agreement",
+     "meaning": "합의",
+     "level": 2
+    },
+    {
+     "text": "Decoder",
+     "meaning": "디코더(AI 전문 매체 The Decoder)",
+     "level": 3
+    },
+    {
+     "text": "depends",
+     "meaning": "의존하다",
+     "level": 2
+    },
+    {
+     "text": "weaken",
+     "meaning": "약화시키다",
+     "level": 3
+    },
+    {
+     "text": "consumers",
+     "meaning": "소비자들",
+     "level": 2
+    },
+    {
+     "text": "convenient",
+     "meaning": "편리한",
+     "level": 2
+    },
+    {
+     "text": "retailer",
+     "meaning": "소매업체",
+     "level": 3
+    },
+    {
+     "text": "mature",
+     "meaning": "성숙해지다",
+     "level": 3
+    },
+    {
+     "text": "frustrated",
+     "meaning": "불만에 찬",
+     "level": 3
+    },
+    {
+     "text": "unhappy",
+     "meaning": "불만스러운",
+     "level": 2
+    },
+    {
+     "text": "commercial",
+     "meaning": "상업적인",
+     "level": 3
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "organize",
+     "meaning": "정리하다",
+     "level": 3
+    },
+    {
+     "text": "advertisers",
+     "meaning": "광고주",
+     "level": 3
+    },
+    {
+     "text": "Sephora",
+     "meaning": "세포라(화장품 소매업체)",
+     "level": 3
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 2
+    },
+    {
+     "text": "browse",
+     "meaning": "둘러보다, 검색하다",
+     "level": 3
+    },
+    {
+     "text": "arrangement",
+     "meaning": "제휴, 합의",
+     "level": 3
+    },
+    {
+     "text": "highlights",
+     "meaning": "부각하다",
+     "level": 3
+    },
+    {
+     "text": "cart",
+     "meaning": "장바구니",
+     "level": 2
+    },
+    {
+     "text": "approval",
+     "meaning": "승인",
+     "level": 2
+    },
+    {
+     "text": "review",
+     "meaning": "검토하다",
+     "level": 2
+    },
+    {
+     "text": "delete",
+     "meaning": "삭제하다",
+     "level": 2
+    },
+    {
+     "text": "developers",
+     "meaning": "개발자들",
+     "level": 2
+    },
+    {
+     "text": "separately",
+     "meaning": "별도로",
+     "level": 2
+    },
+    {
+     "text": "published",
+     "meaning": "공개된",
+     "level": 2
+    },
+    {
+     "text": "undo",
+     "meaning": "되돌리다",
+     "level": 2
+    },
+    {
+     "text": "privacy",
+     "meaning": "개인정보 보호, 사생활",
+     "level": 2
+    },
+    {
+     "text": "summarizing",
+     "meaning": "요약하며",
+     "level": 3
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 2
+    },
+    {
+     "text": "sensitive",
+     "meaning": "민감한",
+     "level": 2
+    },
+    {
+     "text": "staffer",
+     "meaning": "직원",
+     "level": 3
+    },
+    {
+     "text": "premium",
+     "meaning": "보험료",
+     "level": 3
+    },
+    {
+     "text": "insurance",
+     "meaning": "보험",
+     "level": 2
+    },
+    {
+     "text": "spokesperson",
+     "meaning": "대변인",
+     "level": 3
+    },
+    {
+     "text": "isolated",
+     "meaning": "단발성의, 고립된",
+     "level": 3
+    },
+    {
+     "text": "response",
+     "meaning": "반응, 대응",
+     "level": 2
+    },
+    {
+     "text": "engage",
+     "meaning": "(사용자와) 소통하다",
+     "level": 3
+    },
+    {
+     "text": "invented",
+     "meaning": "지어낸",
+     "level": 3
+    },
+    {
+     "text": "database",
+     "meaning": "데이터베이스",
+     "level": 2
+    },
+    {
+     "text": "attributed",
+     "meaning": "~의 탓으로 돌렸다",
+     "level": 3
+    },
+    {
+     "text": "bug",
+     "meaning": "버그, 오류",
+     "level": 2
+    },
+    {
+     "text": "instruction",
+     "meaning": "지시",
+     "level": 3
+    },
+    {
+     "text": "awkward",
+     "meaning": "어색한, 서투른",
+     "level": 3
+    },
+    {
+     "text": "clumsy",
+     "meaning": "서툰, 어설픈",
+     "level": 3
+    },
+    {
+     "text": "permission",
+     "meaning": "허락",
+     "level": 2
+    },
+    {
+     "text": "loosened",
+     "meaning": "완화된",
+     "level": 3
+    },
+    {
+     "text": "apparently",
+     "meaning": "겉보기에, 아마도",
+     "level": 3
+    },
+    {
+     "text": "unaware",
+     "meaning": "알지 못하는",
+     "level": 3
+    },
+    {
+     "text": "restriction",
+     "meaning": "제한",
+     "level": 3
+    },
+    {
+     "text": "data-security",
+     "meaning": "데이터 보안",
+     "level": 3
+    },
+    {
+     "text": "regulator",
+     "meaning": "규제 당국",
+     "level": 3
+    },
+    {
+     "text": "ensure",
+     "meaning": "보장하다",
+     "level": 3
+    },
+    {
+     "text": "urged",
+     "meaning": "촉구했다",
+     "level": 3
+    },
+    {
+     "text": "cautious",
+     "meaning": "신중한",
+     "level": 3
     }
    ],
    "views": [
@@ -7829,6 +10534,346 @@
      "text": "positioning",
      "meaning": "입장 잡기",
      "level": 3
+    },
+    {
+     "text": "publicly",
+     "meaning": "공개적으로",
+     "level": 2
+    },
+    {
+     "text": "rejected",
+     "meaning": "일축했다, 거부했다",
+     "level": 3
+    },
+    {
+     "text": "notion",
+     "meaning": "생각, 통념",
+     "level": 3
+    },
+    {
+     "text": "humanity",
+     "meaning": "인류",
+     "level": 2
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 2
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 2
+    },
+    {
+     "text": "lengthy",
+     "meaning": "긴, 장문의",
+     "level": 3
+    },
+    {
+     "text": "curing",
+     "meaning": "(병을) 치료하는",
+     "level": 2
+    },
+    {
+     "text": "outlet",
+     "meaning": "언론사, 매체",
+     "level": 3
+    },
+    {
+     "text": "employees",
+     "meaning": "직원들",
+     "level": 2
+    },
+    {
+     "text": "safely",
+     "meaning": "안전하게",
+     "level": 2
+    },
+    {
+     "text": "countered",
+     "meaning": "반박했다",
+     "level": 3
+    },
+    {
+     "text": "governed",
+     "meaning": "통치되는, 관리되는",
+     "level": 3
+    },
+    {
+     "text": "hesitated",
+     "meaning": "주저했다",
+     "level": 3
+    },
+    {
+     "text": "self-determination",
+     "meaning": "자기결정권",
+     "level": 4
+    },
+    {
+     "text": "sacrificed",
+     "meaning": "희생되는",
+     "level": 3
+    },
+    {
+     "text": "efficiency",
+     "meaning": "효율",
+     "level": 3
+    },
+    {
+     "text": "critics",
+     "meaning": "비판론자들",
+     "level": 3
+    },
+    {
+     "text": "global",
+     "meaning": "전 세계적인",
+     "level": 2
+    },
+    {
+     "text": "desirable",
+     "meaning": "바람직한",
+     "level": 3
+    },
+    {
+     "text": "downsides",
+     "meaning": "단점",
+     "level": 3
+    },
+    {
+     "text": "disruption",
+     "meaning": "혼란, 교란",
+     "level": 3
+    },
+    {
+     "text": "engaged",
+     "meaning": "깊이 몰두한",
+     "level": 3
+    },
+    {
+     "text": "inevitably",
+     "meaning": "불가피하게",
+     "level": 3
+    },
+    {
+     "text": "successive",
+     "meaning": "연이은",
+     "level": 3
+    },
+    {
+     "text": "meaningful",
+     "meaning": "의미 있는",
+     "level": 3
+    },
+    {
+     "text": "TechCrunch",
+     "meaning": "테크크런치(IT 전문 매체)",
+     "level": 3
+    },
+    {
+     "text": "groundwork",
+     "meaning": "기반, 밑작업",
+     "level": 4
+    },
+    {
+     "text": "independent",
+     "meaning": "독립적인",
+     "level": 2
+    },
+    {
+     "text": "assessment",
+     "meaning": "평가",
+     "level": 3
+    },
+    {
+     "text": "published",
+     "meaning": "발표된",
+     "level": 2
+    },
+    {
+     "text": "nonprofit",
+     "meaning": "비영리 단체",
+     "level": 3
+    },
+    {
+     "text": "filings",
+     "meaning": "(규제 당국) 제출 서류",
+     "level": 4
+    },
+    {
+     "text": "generation",
+     "meaning": "세대",
+     "level": 2
+    },
+    {
+     "text": "increasingly",
+     "meaning": "점점 더",
+     "level": 3
+    },
+    {
+     "text": "reliant",
+     "meaning": "의존하는",
+     "level": 3
+    },
+    {
+     "text": "deepens",
+     "meaning": "깊어지게 하다",
+     "level": 3
+    },
+    {
+     "text": "behave",
+     "meaning": "(AI가) 작동하다, 행동하다",
+     "level": 2
+    },
+    {
+     "text": "evaluated",
+     "meaning": "평가되는",
+     "level": 3
+    },
+    {
+     "text": "amid",
+     "meaning": "~와 맞물려",
+     "level": 3
+    },
+    {
+     "text": "burst",
+     "meaning": "분출, 쏟아짐",
+     "level": 3
+    },
+    {
+     "text": "commentary",
+     "meaning": "논평",
+     "level": 3
+    },
+    {
+     "text": "ensure",
+     "meaning": "보장하다",
+     "level": 3
+    },
+    {
+     "text": "essay",
+     "meaning": "에세이, 글",
+     "level": 2
+    },
+    {
+     "text": "citing",
+     "meaning": "~을 인용해",
+     "level": 3
+    },
+    {
+     "text": "employee",
+     "meaning": "직원",
+     "level": 2
+    },
+    {
+     "text": "mathematics",
+     "meaning": "수학",
+     "level": 2
+    },
+    {
+     "text": "minimal",
+     "meaning": "최소한의",
+     "level": 3
+    },
+    {
+     "text": "dismissed",
+     "meaning": "일축했다",
+     "level": 3
+    },
+    {
+     "text": "commercial",
+     "meaning": "상업적인",
+     "level": 3
+    },
+    {
+     "text": "differ",
+     "meaning": "다르다",
+     "level": 2
+    },
+    {
+     "text": "materially",
+     "meaning": "실질적으로",
+     "level": 4
+    },
+    {
+     "text": "automate",
+     "meaning": "자동화하다",
+     "level": 3
+    },
+    {
+     "text": "safeguards",
+     "meaning": "안전장치",
+     "level": 3
+    },
+    {
+     "text": "autonomous",
+     "meaning": "자율적인",
+     "level": 3
+    },
+    {
+     "text": "dispute",
+     "meaning": "분쟁",
+     "level": 3
+    },
+    {
+     "text": "persuaded",
+     "meaning": "설득된",
+     "level": 3
+    },
+    {
+     "text": "advocates",
+     "meaning": "주장하다, 옹호하다",
+     "level": 3
+    },
+    {
+     "text": "pausing",
+     "meaning": "중단하는",
+     "level": 3
+    },
+    {
+     "text": "development",
+     "meaning": "개발",
+     "level": 1
+    },
+    {
+     "text": "consciously",
+     "meaning": "의식적으로",
+     "level": 3
+    },
+    {
+     "text": "pressure",
+     "meaning": "압력",
+     "level": 2
+    },
+    {
+     "text": "researchers",
+     "meaning": "연구원들",
+     "level": 2
+    },
+    {
+     "text": "warning",
+     "meaning": "경고하는",
+     "level": 2
+    },
+    {
+     "text": "capabilities",
+     "meaning": "능력",
+     "level": 3
+    },
+    {
+     "text": "indefinite",
+     "meaning": "무기한의",
+     "level": 4
+    },
+    {
+     "text": "international",
+     "meaning": "국제적인",
+     "level": 2
+    },
+    {
+     "text": "sharpening",
+     "meaning": "(논란을) 키우는, 날카롭게 하는",
+     "level": 3
     }
    ],
    "views": [
@@ -8301,6 +11346,316 @@
      "text": "New Delhi",
      "meaning": "뉴델리",
      "level": 0
+    },
+    {
+     "text": "long-awaited",
+     "meaning": "오래 기다려 온",
+     "level": 2
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 1
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 1
+    },
+    {
+     "text": "regulation",
+     "meaning": "규제",
+     "level": 2
+    },
+    {
+     "text": "Chariot-1",
+     "meaning": "차리엇-1(인도 AI 모델 이름)",
+     "level": 3
+    },
+    {
+     "text": "groundwork",
+     "meaning": "기초 작업, 토대",
+     "level": 3
+    },
+    {
+     "text": "disclose",
+     "meaning": "공개하다",
+     "level": 3
+    },
+    {
+     "text": "propose",
+     "meaning": "제안하다",
+     "level": 2
+    },
+    {
+     "text": "feedback",
+     "meaning": "의견, 피드백",
+     "level": 2
+    },
+    {
+     "text": "weigh",
+     "meaning": "저울질하다, 따져 보다",
+     "level": 3
+    },
+    {
+     "text": "framework",
+     "meaning": "틀, 체계",
+     "level": 3
+    },
+    {
+     "text": "publish",
+     "meaning": "발표하다, 공개하다",
+     "level": 2
+    },
+    {
+     "text": "regulating",
+     "meaning": "규제하는",
+     "level": 2
+    },
+    {
+     "text": "remarks",
+     "meaning": "발언",
+     "level": 2
+    },
+    {
+     "text": "debut",
+     "meaning": "첫선, 공개",
+     "level": 3
+    },
+    {
+     "text": "folds",
+     "meaning": "하나로 합치다",
+     "level": 3
+    },
+    {
+     "text": "generation",
+     "meaning": "생성",
+     "level": 2
+    },
+    {
+     "text": "automatic",
+     "meaning": "자동의",
+     "level": 2
+    },
+    {
+     "text": "specialised",
+     "meaning": "전문화된",
+     "level": 3
+    },
+    {
+     "text": "scripts",
+     "meaning": "문자 체계",
+     "level": 3
+    },
+    {
+     "text": "dubbed",
+     "meaning": "~라고 불리는",
+     "level": 3
+    },
+    {
+     "text": "yields",
+     "meaning": "만들어 내다",
+     "level": 3
+    },
+    {
+     "text": "accuracy",
+     "meaning": "정확도",
+     "level": 2
+    },
+    {
+     "text": "praised",
+     "meaning": "칭찬했다",
+     "level": 2
+    },
+    {
+     "text": "waded",
+     "meaning": "뛰어들었다",
+     "level": 4
+    },
+    {
+     "text": "startup",
+     "meaning": "스타트업",
+     "level": 2
+    },
+    {
+     "text": "interface",
+     "meaning": "인터페이스",
+     "level": 2
+    },
+    {
+     "text": "computing",
+     "meaning": "컴퓨팅, 연산 자원",
+     "level": 2
+    },
+    {
+     "text": "infrastructure",
+     "meaning": "기반 시설",
+     "level": 3
+    },
+    {
+     "text": "beside",
+     "meaning": "~ 옆에",
+     "level": 2
+    },
+    {
+     "text": "prompting",
+     "meaning": "~하게 만들며",
+     "level": 3
+    },
+    {
+     "text": "misuse",
+     "meaning": "오용",
+     "level": 3
+    },
+    {
+     "text": "startups",
+     "meaning": "스타트업들",
+     "level": 2
+    },
+    {
+     "text": "combine",
+     "meaning": "결합하다",
+     "level": 2
+    },
+    {
+     "text": "internally",
+     "meaning": "내부적으로",
+     "level": 3
+    },
+    {
+     "text": "ensure",
+     "meaning": "보장하다",
+     "level": 2
+    },
+    {
+     "text": "leak",
+     "meaning": "유출",
+     "level": 3
+    },
+    {
+     "text": "signalled",
+     "meaning": "시사했다",
+     "level": 3
+    },
+    {
+     "text": "emphasis",
+     "meaning": "강조점, 중점",
+     "level": 3
+    },
+    {
+     "text": "chips",
+     "meaning": "반도체 칩",
+     "level": 2
+    },
+    {
+     "text": "significant",
+     "meaning": "상당한",
+     "level": 2
+    },
+    {
+     "text": "restrictions",
+     "meaning": "제한, 규제",
+     "level": 2
+    },
+    {
+     "text": "relied",
+     "meaning": "의존했다",
+     "level": 3
+    },
+    {
+     "text": "effective",
+     "meaning": "시행되는",
+     "level": 3
+    },
+    {
+     "text": "exporters",
+     "meaning": "수출업체",
+     "level": 3
+    },
+    {
+     "text": "recognised",
+     "meaning": "인정받았다",
+     "level": 3
+    },
+    {
+     "text": "initiative",
+     "meaning": "구상, 계획",
+     "level": 3
+    },
+    {
+     "text": "semiconductors",
+     "meaning": "반도체",
+     "level": 3
+    },
+    {
+     "text": "portal",
+     "meaning": "포털(온라인 창구)",
+     "level": 3
+    },
+    {
+     "text": "programme",
+     "meaning": "프로그램, 사업",
+     "level": 2
+    },
+    {
+     "text": "exports",
+     "meaning": "수출",
+     "level": 2
+    },
+    {
+     "text": "citing",
+     "meaning": "인용하며",
+     "level": 3
+    },
+    {
+     "text": "smartphone",
+     "meaning": "스마트폰",
+     "level": 1
+    },
+    {
+     "text": "home-grown",
+     "meaning": "자국산의, 토종의",
+     "level": 3
+    },
+    {
+     "text": "accountability",
+     "meaning": "책임성",
+     "level": 4
+    },
+    {
+     "text": "developers",
+     "meaning": "개발자들",
+     "level": 2
+    },
+    {
+     "text": "Chariot",
+     "meaning": "차리엇(인도 AI 기업)",
+     "level": 3
+    },
+    {
+     "text": "Storyboard",
+     "meaning": "스토리보드(인도 매체)",
+     "level": 4
+    },
+    {
+     "text": "Sarvam",
+     "meaning": "사르밤(인도 AI 스타트업)",
+     "level": 3
+    },
+    {
+     "text": "Krishnan",
+     "meaning": "S. 크리슈난(인도 IT 차관급 인사)",
+     "level": 3
+    },
+    {
+     "text": "Sarvam's",
+     "meaning": "사르밤(인도 AI 기업)의",
+     "level": 3
+    },
+    {
+     "text": "Async Text-to-Speech",
+     "meaning": "에이싱크 음성합성(TTS)",
+     "level": 3
     }
    ],
    "views": [
@@ -9107,6 +12462,226 @@
      "text": "win",
      "meaning": "승리",
      "level": 0
+    },
+    {
+     "text": "accuse",
+     "meaning": "비난하다, 몰아세우다",
+     "level": 3
+    },
+    {
+     "text": "sailed",
+     "meaning": "(기회가) 지나갔다",
+     "level": 3
+    },
+    {
+     "text": "takedown",
+     "meaning": "맹공격, 깎아내리기",
+     "level": 4
+    },
+    {
+     "text": "turmoil",
+     "meaning": "혼란, 소동",
+     "level": 3
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 2
+    },
+    {
+     "text": "countered",
+     "meaning": "맞받아 반박했다",
+     "level": 3
+    },
+    {
+     "text": "allegations",
+     "meaning": "(근거 없는) 주장, 의혹",
+     "level": 3
+    },
+    {
+     "text": "reference",
+     "meaning": "언급, 빗댄 말",
+     "level": 3
+    },
+    {
+     "text": "skips",
+     "meaning": "건너뛰다",
+     "level": 2
+    },
+    {
+     "text": "traced",
+     "meaning": "거슬러 올라가다",
+     "level": 4
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 2
+    },
+    {
+     "text": "privately",
+     "meaning": "사적으로, 비공개로",
+     "level": 3
+    },
+    {
+     "text": "front-office",
+     "meaning": "구단 프런트(경영진)의",
+     "level": 4
+    },
+    {
+     "text": "rupture",
+     "meaning": "파열, 결별 사태",
+     "level": 4
+    },
+    {
+     "text": "dispute",
+     "meaning": "분쟁, 갈등",
+     "level": 3
+    },
+    {
+     "text": "compromise",
+     "meaning": "타협안",
+     "level": 3
+    },
+    {
+     "text": "throughout",
+     "meaning": "~ 내내",
+     "level": 3
+    },
+    {
+     "text": "staffer",
+     "meaning": "직원, 스태프",
+     "level": 3
+    },
+    {
+     "text": "recalled",
+     "meaning": "회상했다",
+     "level": 3
+    },
+    {
+     "text": "complaining",
+     "meaning": "불평하는",
+     "level": 2
+    },
+    {
+     "text": "acknowledged",
+     "meaning": "인정했다",
+     "level": 3
+    },
+    {
+     "text": "embarrassing",
+     "meaning": "창피한",
+     "level": 3
+    },
+    {
+     "text": "differed",
+     "meaning": "달랐다",
+     "level": 3
+    },
+    {
+     "text": "insisted",
+     "meaning": "강하게 주장했다",
+     "level": 3
+    },
+    {
+     "text": "ownership",
+     "meaning": "구단주 측",
+     "level": 3
+    },
+    {
+     "text": "management",
+     "meaning": "경영진",
+     "level": 2
+    },
+    {
+     "text": "denying",
+     "meaning": "부인하며",
+     "level": 3
+    },
+    {
+     "text": "grudge",
+     "meaning": "원한, 앙심",
+     "level": 4
+    },
+    {
+     "text": "urged",
+     "meaning": "강하게 권했다",
+     "level": 3
+    },
+    {
+     "text": "retire",
+     "meaning": "은퇴하다",
+     "level": 2
+    },
+    {
+     "text": "praised",
+     "meaning": "칭찬했다",
+     "level": 2
+    },
+    {
+     "text": "reunion",
+     "meaning": "재결합",
+     "level": 3
+    },
+    {
+     "text": "soured",
+     "meaning": "틀어졌다, 나빠졌다",
+     "level": 4
+    },
+    {
+     "text": "amid",
+     "meaning": "~ 속에서",
+     "level": 3
+    },
+    {
+     "text": "two-game",
+     "meaning": "2경기 연속의",
+     "level": 3
+    },
+    {
+     "text": "financial",
+     "meaning": "재정적인",
+     "level": 2
+    },
+    {
+     "text": "fallout",
+     "meaning": "후폭풍, 여파",
+     "level": 4
+    },
+    {
+     "text": "owe",
+     "meaning": "빚지고 있다",
+     "level": 2
+    },
+    {
+     "text": "salary",
+     "meaning": "연봉",
+     "level": 2
+    },
+    {
+     "text": "pursue",
+     "meaning": "(계약 등을) 추구하다, 요구하다",
+     "level": 3
+    },
+    {
+     "text": "detrimental",
+     "meaning": "해로운",
+     "level": 4
+    },
+    {
+     "text": "touchdowns",
+     "meaning": "터치다운(득점)",
+     "level": 2
+    },
+    {
+     "text": "scorched",
+     "meaning": "초토화한, 격렬한",
+     "level": 4
+    },
+    {
+     "text": "organization",
+     "meaning": "구단, 조직",
+     "level": 2
     }
    ],
    "views": [
@@ -9965,6 +13540,526 @@
      "text": "energy",
      "meaning": "에너지",
      "level": 1
+    },
+    {
+     "text": "summit",
+     "meaning": "정상회의",
+     "level": 2
+    },
+    {
+     "text": "proposed",
+     "meaning": "제안한",
+     "level": 2
+    },
+    {
+     "text": "agreement",
+     "meaning": "합의",
+     "level": 2
+    },
+    {
+     "text": "United Nations",
+     "meaning": "유엔(UN)",
+     "level": 1
+    },
+    {
+     "text": "omission",
+     "meaning": "누락, 빠짐",
+     "level": 4
+    },
+    {
+     "text": "coalition",
+     "meaning": "연합, 연대",
+     "level": 3
+    },
+    {
+     "text": "endorse",
+     "meaning": "지지하다, 승인하다",
+     "level": 3
+    },
+    {
+     "text": "adopting",
+     "meaning": "채택하는",
+     "level": 3
+    },
+    {
+     "text": "formally",
+     "meaning": "공식적으로",
+     "level": 3
+    },
+    {
+     "text": "explicit",
+     "meaning": "명시적인",
+     "level": 3
+    },
+    {
+     "text": "exporters",
+     "meaning": "수출국",
+     "level": 3
+    },
+    {
+     "text": "reference",
+     "meaning": "언급",
+     "level": 3
+    },
+    {
+     "text": "fraught",
+     "meaning": "긴장이 팽팽한",
+     "level": 4
+    },
+    {
+     "text": "compromise",
+     "meaning": "타협안",
+     "level": 3
+    },
+    {
+     "text": "provoked",
+     "meaning": "불러일으켰다",
+     "level": 3
+    },
+    {
+     "text": "dispute",
+     "meaning": "분쟁, 논란",
+     "level": 3
+    },
+    {
+     "text": "official",
+     "meaning": "공식적인",
+     "level": 2
+    },
+    {
+     "text": "disappoint",
+     "meaning": "실망시키다",
+     "level": 2
+    },
+    {
+     "text": "desperate",
+     "meaning": "절박한",
+     "level": 3
+    },
+    {
+     "text": "phrase",
+     "meaning": "문구",
+     "level": 2
+    },
+    {
+     "text": "negotiations",
+     "meaning": "협상",
+     "level": 2
+    },
+    {
+     "text": "complicated",
+     "meaning": "복잡한",
+     "level": 2
+    },
+    {
+     "text": "geopolitical",
+     "meaning": "지정학적인",
+     "level": 4
+    },
+    {
+     "text": "Critics",
+     "meaning": "비판하는 쪽",
+     "level": 3
+    },
+    {
+     "text": "delegate",
+     "meaning": "대표단원",
+     "level": 3
+    },
+    {
+     "text": "shortages",
+     "meaning": "부족 사태",
+     "level": 3
+    },
+    {
+     "text": "poverty",
+     "meaning": "빈곤",
+     "level": 2
+    },
+    {
+     "text": "contributed",
+     "meaning": "기여했다",
+     "level": 3
+    },
+    {
+     "text": "rejected",
+     "meaning": "거부된",
+     "level": 2
+    },
+    {
+     "text": "implementation",
+     "meaning": "이행",
+     "level": 3
+    },
+    {
+     "text": "pathway",
+     "meaning": "경로, 방안",
+     "level": 3
+    },
+    {
+     "text": "tripling",
+     "meaning": "3배로 늘리기",
+     "level": 3
+    },
+    {
+     "text": "wealthy",
+     "meaning": "부유한",
+     "level": 2
+    },
+    {
+     "text": "failing",
+     "meaning": "제대로 못 하는",
+     "level": 2
+    },
+    {
+     "text": "transform",
+     "meaning": "바꾸다",
+     "level": 3
+    },
+    {
+     "text": "drowning",
+     "meaning": "물에 잠기는, 허덕이는",
+     "level": 3
+    },
+    {
+     "text": "provider",
+     "meaning": "공급국",
+     "level": 3
+    },
+    {
+     "text": "beforehand",
+     "meaning": "사전에",
+     "level": 3
+    },
+    {
+     "text": "commissioner",
+     "meaning": "(EU) 집행위원",
+     "level": 3
+    },
+    {
+     "text": "commitments",
+     "meaning": "약속, 공약",
+     "level": 3
+    },
+    {
+     "text": "directly",
+     "meaning": "직접",
+     "level": 2
+    },
+    {
+     "text": "accused",
+     "meaning": "비난했다",
+     "level": 3
+    },
+    {
+     "text": "colonial",
+     "meaning": "식민지(식)의",
+     "level": 3
+    },
+    {
+     "text": "labour",
+     "meaning": "노동력",
+     "level": 3
+    },
+    {
+     "text": "banner",
+     "meaning": "기치, 명분",
+     "level": 4
+    },
+    {
+     "text": "merely",
+     "meaning": "단지",
+     "level": 3
+    },
+    {
+     "text": "re-announced",
+     "meaning": "(이미 한 약속을) 다시 발표한",
+     "level": 4
+    },
+    {
+     "text": "notable",
+     "meaning": "주목할 만한",
+     "level": 3
+    },
+    {
+     "text": "formal",
+     "meaning": "공식적인",
+     "level": 2
+    },
+    {
+     "text": "initiative",
+     "meaning": "구상, 계획",
+     "level": 3
+    },
+    {
+     "text": "conference",
+     "meaning": "회의",
+     "level": 2
+    },
+    {
+     "text": "dismissed",
+     "meaning": "일축했다",
+     "level": 3
+    },
+    {
+     "text": "restatements",
+     "meaning": "재탕, 다시 말하기",
+     "level": 4
+    },
+    {
+     "text": "inadequate",
+     "meaning": "불충분한",
+     "level": 3
+    },
+    {
+     "text": "unusually",
+     "meaning": "이례적으로",
+     "level": 3
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 2
+    },
+    {
+     "text": "exceed",
+     "meaning": "넘어서다",
+     "level": 3
+    },
+    {
+     "text": "short-lived",
+     "meaning": "일시적인",
+     "level": 3
+    },
+    {
+     "text": "urged",
+     "meaning": "촉구했다",
+     "level": 3
+    },
+    {
+     "text": "gigaton",
+     "meaning": "기가톤(10억 톤)",
+     "level": 4
+    },
+    {
+     "text": "unproven",
+     "meaning": "검증되지 않은",
+     "level": 3
+    },
+    {
+     "text": "technical",
+     "meaning": "기술적인, 실무적인",
+     "level": 3
+    },
+    {
+     "text": "conclusions",
+     "meaning": "결론",
+     "level": 2
+    },
+    {
+     "text": "utmost",
+     "meaning": "최대한의",
+     "level": 4
+    },
+    {
+     "text": "increment",
+     "meaning": "증가분",
+     "level": 4
+    },
+    {
+     "text": "tension",
+     "meaning": "긴장",
+     "level": 2
+    },
+    {
+     "text": "inform",
+     "meaning": "알리다, 근거를 제공하다",
+     "level": 3
+    },
+    {
+     "text": "researchers",
+     "meaning": "연구자들",
+     "level": 2
+    },
+    {
+     "text": "anonymous",
+     "meaning": "익명의",
+     "level": 3
+    },
+    {
+     "text": "equity",
+     "meaning": "형평성",
+     "level": 4
+    },
+    {
+     "text": "assessment",
+     "meaning": "평가",
+     "level": 3
+    },
+    {
+     "text": "misrepresented",
+     "meaning": "왜곡했다",
+     "level": 4
+    },
+    {
+     "text": "estimates",
+     "meaning": "추정치",
+     "level": 3
+    },
+    {
+     "text": "imports",
+     "meaning": "수입",
+     "level": 2
+    },
+    {
+     "text": "framework",
+     "meaning": "틀, 체계",
+     "level": 3
+    },
+    {
+     "text": "global",
+     "meaning": "세계적인",
+     "level": 2
+    },
+    {
+     "text": "adapt",
+     "meaning": "적응하다",
+     "level": 2
+    },
+    {
+     "text": "agenda",
+     "meaning": "의제",
+     "level": 3
+    },
+    {
+     "text": "negotiating",
+     "meaning": "협상하는",
+     "level": 2
+    },
+    {
+     "text": "dedicated",
+     "meaning": "전담의",
+     "level": 3
+    },
+    {
+     "text": "unresolved",
+     "meaning": "해결되지 않은",
+     "level": 3
+    },
+    {
+     "text": "restore",
+     "meaning": "회복하다",
+     "level": 3
+    },
+    {
+     "text": "rebuild",
+     "meaning": "재건하다",
+     "level": 3
+    },
+    {
+     "text": "mobilize",
+     "meaning": "동원하다",
+     "level": 3
+    },
+    {
+     "text": "collective",
+     "meaning": "공동의",
+     "level": 3
+    },
+    {
+     "text": "failure",
+     "meaning": "실패",
+     "level": 2
+    },
+    {
+     "text": "divided",
+     "meaning": "분열된",
+     "level": 2
+    },
+    {
+     "text": "diplomacy",
+     "meaning": "외교",
+     "level": 3
+    },
+    {
+     "text": "broker",
+     "meaning": "중재하다",
+     "level": 4
+    },
+    {
+     "text": "international",
+     "meaning": "국제적인",
+     "level": 2
+    },
+    {
+     "text": "declaration",
+     "meaning": "선언",
+     "level": 3
+    },
+    {
+     "text": "production",
+     "meaning": "생산",
+     "level": 2
+    },
+    {
+     "text": "refined",
+     "meaning": "정제된",
+     "level": 3
+    },
+    {
+     "text": "petroleum",
+     "meaning": "석유",
+     "level": 3
+    },
+    {
+     "text": "Analysts",
+     "meaning": "분석가들",
+     "level": 3
+    },
+    {
+     "text": "disruption",
+     "meaning": "차질, 혼란",
+     "level": 3
+    },
+    {
+     "text": "homegrown",
+     "meaning": "자국산의",
+     "level": 3
+    },
+    {
+     "text": "solar",
+     "meaning": "태양광의",
+     "level": 2
+    },
+    {
+     "text": "competitive",
+     "meaning": "경쟁력 있는",
+     "level": 3
+    },
+    {
+     "text": "concluded",
+     "meaning": "결론지었다",
+     "level": 3
+    },
+    {
+     "text": "persuading",
+     "meaning": "설득하는",
+     "level": 3
+    },
+    {
+     "text": "compel",
+     "meaning": "강요하다",
+     "level": 4
+    },
+    {
+     "text": "IPCC",
+     "meaning": "기후변화에 관한 정부간 협의체(IPCC)",
+     "level": 3
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
     }
    ],
    "views": [
@@ -10657,6 +14752,231 @@
      "text": "Ivor Novello",
      "meaning": "아이버 노벨로",
      "level": 3
+    },
+    {
+     "text": "Guitarist",
+     "meaning": "기타리스트",
+     "level": 2
+    },
+    {
+     "text": "searing",
+     "meaning": "강렬한, 불타는 듯한",
+     "level": 4
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 2
+    },
+    {
+     "text": "courageous",
+     "meaning": "용감한",
+     "level": 3
+    },
+    {
+     "text": "surrounded",
+     "meaning": "둘러싸인",
+     "level": 2
+    },
+    {
+     "text": "grandfather",
+     "meaning": "할아버지",
+     "level": 1
+    },
+    {
+     "text": "publicly",
+     "meaning": "공개적으로",
+     "level": 3
+    },
+    {
+     "text": "massive",
+     "meaning": "엄청난",
+     "level": 2
+    },
+    {
+     "text": "Sir",
+     "meaning": "경(영국 작위 호칭)",
+     "level": 2
+    },
+    {
+     "text": "recalled",
+     "meaning": "회상했다",
+     "level": 3
+    },
+    {
+     "text": "outrageous",
+     "meaning": "터무니없이 재미있는",
+     "level": 4
+    },
+    {
+     "text": "genius",
+     "meaning": "천재",
+     "level": 2
+    },
+    {
+     "text": "drums",
+     "meaning": "드럼",
+     "level": 1
+    },
+    {
+     "text": "inspired",
+     "meaning": "영감을 받은",
+     "level": 2
+    },
+    {
+     "text": "sci-fi",
+     "meaning": "공상과학의",
+     "level": 2
+    },
+    {
+     "text": "related",
+     "meaning": "친척인",
+     "level": 2
+    },
+    {
+     "text": "debut",
+     "meaning": "데뷔",
+     "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "international",
+     "meaning": "국제적인",
+     "level": 2
+    },
+    {
+     "text": "airy",
+     "meaning": "가볍고 산뜻한",
+     "level": 4
+    },
+    {
+     "text": "critic",
+     "meaning": "평론가",
+     "level": 3
+    },
+    {
+     "text": "integral",
+     "meaning": "필수적인",
+     "level": 4
+    },
+    {
+     "text": "blend",
+     "meaning": "섞다, 조합하다",
+     "level": 3
+    },
+    {
+     "text": "disco",
+     "meaning": "디스코(음악 장르)",
+     "level": 2
+    },
+    {
+     "text": "rhythms",
+     "meaning": "리듬",
+     "level": 2
+    },
+    {
+     "text": "audible",
+     "meaning": "들리는",
+     "level": 3
+    },
+    {
+     "text": "conservative",
+     "meaning": "보수적인",
+     "level": 3
+    },
+    {
+     "text": "hint",
+     "meaning": "암시, 조금",
+     "level": 3
+    },
+    {
+     "text": "amid",
+     "meaning": "~ 속에서",
+     "level": 3
+    },
+    {
+     "text": "bassist",
+     "meaning": "베이스 기타리스트",
+     "level": 3
+    },
+    {
+     "text": "Tensions",
+     "meaning": "갈등, 긴장",
+     "level": 3
+    },
+    {
+     "text": "James Bond",
+     "meaning": "제임스 본드(영화 007 주인공)",
+     "level": 2
+    },
+    {
+     "text": "venue",
+     "meaning": "공연장, 행사장",
+     "level": 3
+    },
+    {
+     "text": "acknowledged",
+     "meaning": "인정했다",
+     "level": 3
+    },
+    {
+     "text": "habit",
+     "meaning": "습관, 중독",
+     "level": 3
+    },
+    {
+     "text": "differ",
+     "meaning": "엇갈리다",
+     "level": 3
+    },
+    {
+     "text": "exited",
+     "meaning": "떠났다",
+     "level": 3
+    },
+    {
+     "text": "rejoined",
+     "meaning": "다시 합류했다",
+     "level": 3
+    },
+    {
+     "text": "classic",
+     "meaning": "전성기의, 고전적인",
+     "level": 3
+    },
+    {
+     "text": "published",
+     "meaning": "출간했다",
+     "level": 2
+    },
+    {
+     "text": "forged",
+     "meaning": "빚어낸, 만들어진",
+     "level": 4
+    },
+    {
+     "text": "contributed",
+     "meaning": "참여했다",
+     "level": 3
+    },
+    {
+     "text": "Halloween-themed",
+     "meaning": "핼러윈을 주제로 한",
+     "level": 3
+    },
+    {
+     "text": "collaboration",
+     "meaning": "협업",
+     "level": 3
+    },
+    {
+     "text": "Albie",
+     "meaning": "앨비(손자 이름)",
+     "level": 2
     }
    ],
    "views": [
@@ -11361,6 +15681,226 @@
     {
      "text": "lower",
      "meaning": "낮게",
+     "level": 1
+    },
+    {
+     "text": "priority",
+     "meaning": "최우선 사항",
+     "level": 2
+    },
+    {
+     "text": "repeatedly",
+     "meaning": "여러 번, 거듭",
+     "level": 3
+    },
+    {
+     "text": "conference",
+     "meaning": "기자회견",
+     "level": 2
+    },
+    {
+     "text": "officials",
+     "meaning": "관계자들",
+     "level": 2
+    },
+    {
+     "text": "organizers",
+     "meaning": "주최 측",
+     "level": 3
+    },
+    {
+     "text": "recalled",
+     "meaning": "상기시켰다",
+     "level": 3
+    },
+    {
+     "text": "parade",
+     "meaning": "퍼레이드",
+     "level": 2
+    },
+    {
+     "text": "employees",
+     "meaning": "직원들",
+     "level": 2
+    },
+    {
+     "text": "citing",
+     "meaning": "(수치를) 들며",
+     "level": 3
+    },
+    {
+     "text": "mph",
+     "meaning": "시속 마일",
+     "level": 2
+    },
+    {
+     "text": "inconveniences",
+     "meaning": "불편",
+     "level": 3
+    },
+    {
+     "text": "spectacular",
+     "meaning": "화려한",
+     "level": 3
+    },
+    {
+     "text": "declared",
+     "meaning": "선포했다",
+     "level": 3
+    },
+    {
+     "text": "Forecasts",
+     "meaning": "예보",
+     "level": 2
+    },
+    {
+     "text": "differed",
+     "meaning": "달랐다",
+     "level": 3
+    },
+    {
+     "text": "hazardous",
+     "meaning": "위험한",
+     "level": 4
+    },
+    {
+     "text": "threatened",
+     "meaning": "~할 우려가 있었다",
+     "level": 3
+    },
+    {
+     "text": "exceed",
+     "meaning": "초과하다",
+     "level": 3
+    },
+    {
+     "text": "north-easterly",
+     "meaning": "북동쪽에서 부는",
+     "level": 4
+    },
+    {
+     "text": "coastal",
+     "meaning": "해안의",
+     "level": 3
+    },
+    {
+     "text": "flooding",
+     "meaning": "침수",
+     "level": 3
+    },
+    {
+     "text": "injuring",
+     "meaning": "다치게 하며",
+     "level": 3
+    },
+    {
+     "text": "whom",
+     "meaning": "그중 한 명",
+     "level": 3
+    },
+    {
+     "text": "fell",
+     "meaning": "(상태에) 빠졌다",
+     "level": 2
+    },
+    {
+     "text": "interruption",
+     "meaning": "중단",
+     "level": 4
+    },
+    {
+     "text": "rubber",
+     "meaning": "고무",
+     "level": 2
+    },
+    {
+     "text": "diverted",
+     "meaning": "전용되었다",
+     "level": 4
+    },
+    {
+     "text": "organized",
+     "meaning": "조직한, 주최한",
+     "level": 3
+    },
+    {
+     "text": "operation",
+     "meaning": "작업, 대규모 작전",
+     "level": 3
+    },
+    {
+     "text": "Coss",
+     "meaning": "윌 코스(메이시스 총괄 프로듀서)",
+     "level": 3
+    },
+    {
+     "text": "deflated",
+     "meaning": "바람을 뺐다",
+     "level": 3
+    },
+    {
+     "text": "re-inflated",
+     "meaning": "다시 부풀린",
+     "level": 4
+    },
+    {
+     "text": "compressing",
+     "meaning": "압축하는",
+     "level": 4
+    },
+    {
+     "text": "weeks-long",
+     "meaning": "몇 주에 걸친",
+     "level": 3
+    },
+    {
+     "text": "preparation",
+     "meaning": "준비",
+     "level": 2
+    },
+    {
+     "text": "banana",
+     "meaning": "바나나",
+     "level": 1
+    },
+    {
+     "text": "expanded",
+     "meaning": "확대될",
+     "level": 3
+    },
+    {
+     "text": "torn",
+     "meaning": "찢어진",
+     "level": 2
+    },
+    {
+     "text": "performers",
+     "meaning": "공연자들",
+     "level": 2
+    },
+    {
+     "text": "unclear",
+     "meaning": "불분명한",
+     "level": 3
+    },
+    {
+     "text": "nominee",
+     "meaning": "후보",
+     "level": 3
+    },
+    {
+     "text": "slated",
+     "meaning": "예정된",
+     "level": 4
+    },
+    {
+     "text": "adjusting",
+     "meaning": "조정하며",
+     "level": 3
+    },
+    {
+     "text": "noon",
+     "meaning": "정오",
      "level": 1
     }
    ],
@@ -12242,6 +16782,351 @@
      "text": "plants",
      "meaning": "공장",
      "level": 1
+    },
+    {
+     "text": "proposed",
+     "meaning": "제안했다, 예고했다",
+     "level": 2
+    },
+    {
+     "text": "global",
+     "meaning": "세계적인",
+     "level": 2
+    },
+    {
+     "text": "tensions",
+     "meaning": "긴장",
+     "level": 2
+    },
+    {
+     "text": "investigations",
+     "meaning": "조사",
+     "level": 3
+    },
+    {
+     "text": "relating",
+     "meaning": "~와 관련된",
+     "level": 3
+    },
+    {
+     "text": "production",
+     "meaning": "생산",
+     "level": 2
+    },
+    {
+     "text": "manufacturing",
+     "meaning": "제조업",
+     "level": 3
+    },
+    {
+     "text": "unreasonable",
+     "meaning": "불합리한",
+     "level": 3
+    },
+    {
+     "text": "burden",
+     "meaning": "부담을 주다",
+     "level": 3
+    },
+    {
+     "text": "restrict",
+     "meaning": "제한하다",
+     "level": 3
+    },
+    {
+     "text": "administration",
+     "meaning": "(미국) 행정부",
+     "level": 3
+    },
+    {
+     "text": "setbacks",
+     "meaning": "좌절, 차질",
+     "level": 3
+    },
+    {
+     "text": "agenda",
+     "meaning": "구상, 정책 과제",
+     "level": 3
+    },
+    {
+     "text": "improperly",
+     "meaning": "부적절하게",
+     "level": 4
+    },
+    {
+     "text": "broadly",
+     "meaning": "광범위하게",
+     "level": 3
+    },
+    {
+     "text": "curb",
+     "meaning": "제한하다",
+     "level": 4
+    },
+    {
+     "text": "country-specific",
+     "meaning": "국가별로 맞춘",
+     "level": 4
+    },
+    {
+     "text": "USTR",
+     "meaning": "미국 무역대표부(USTR)",
+     "level": 3
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 2
+    },
+    {
+     "text": "lawsuit",
+     "meaning": "소송",
+     "level": 3
+    },
+    {
+     "text": "awaiting",
+     "meaning": "기다리고 있는",
+     "level": 3
+    },
+    {
+     "text": "official",
+     "meaning": "관리",
+     "level": 2
+    },
+    {
+     "text": "threatened",
+     "meaning": "위협했다",
+     "level": 3
+    },
+    {
+     "text": "spokesperson",
+     "meaning": "대변인",
+     "level": 3
+    },
+    {
+     "text": "resolved",
+     "meaning": "해결되다",
+     "level": 3
+    },
+    {
+     "text": "consultation",
+     "meaning": "협의",
+     "level": 3
+    },
+    {
+     "text": "summit",
+     "meaning": "정상회담",
+     "level": 2
+    },
+    {
+     "text": "informed",
+     "meaning": "통보받았다",
+     "level": 3
+    },
+    {
+     "text": "proposal",
+     "meaning": "제안안",
+     "level": 3
+    },
+    {
+     "text": "ongoing",
+     "meaning": "진행 중인",
+     "level": 3
+    },
+    {
+     "text": "commitments",
+     "meaning": "약속, 공약",
+     "level": 3
+    },
+    {
+     "text": "bilateral",
+     "meaning": "양자 간의",
+     "level": 4
+    },
+    {
+     "text": "investment",
+     "meaning": "투자",
+     "level": 2
+    },
+    {
+     "text": "levy",
+     "meaning": "부과금, 관세",
+     "level": 4
+    },
+    {
+     "text": "combined",
+     "meaning": "합산한",
+     "level": 3
+    },
+    {
+     "text": "stems",
+     "meaning": "비롯되다",
+     "level": 4
+    },
+    {
+     "text": "agreement",
+     "meaning": "합의",
+     "level": 2
+    },
+    {
+     "text": "pledge",
+     "meaning": "약속",
+     "level": 3
+    },
+    {
+     "text": "invest",
+     "meaning": "투자하다",
+     "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "nonetheless",
+     "meaning": "그럼에도",
+     "level": 3
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 2
+    },
+    {
+     "text": "citing",
+     "meaning": "(이유로) 들며",
+     "level": 3
+    },
+    {
+     "text": "triple",
+     "meaning": "3배",
+     "level": 3
+    },
+    {
+     "text": "persistent",
+     "meaning": "지속적인",
+     "level": 3
+    },
+    {
+     "text": "surpluses",
+     "meaning": "흑자",
+     "level": 4
+    },
+    {
+     "text": "automobiles",
+     "meaning": "자동차",
+     "level": 2
+    },
+    {
+     "text": "preferential",
+     "meaning": "우대의",
+     "level": 4
+    },
+    {
+     "text": "lending",
+     "meaning": "대출",
+     "level": 3
+    },
+    {
+     "text": "regulations",
+     "meaning": "규제",
+     "level": 3
+    },
+    {
+     "text": "predicted",
+     "meaning": "예측했다",
+     "level": 3
+    },
+    {
+     "text": "chip",
+     "meaning": "반도체",
+     "level": 2
+    },
+    {
+     "text": "robust",
+     "meaning": "탄탄한",
+     "level": 4
+    },
+    {
+     "text": "exports",
+     "meaning": "수출",
+     "level": 2
+    },
+    {
+     "text": "Chang Sang-sik",
+     "meaning": "장상식(한국무역협회 인사)",
+     "level": 3
+    },
+    {
+     "text": "consulting",
+     "meaning": "협의하는",
+     "level": 3
+    },
+    {
+     "text": "triggering",
+     "meaning": "촉발하는",
+     "level": 4
+    },
+    {
+     "text": "adopted",
+     "meaning": "채택했다",
+     "level": 3
+    },
+    {
+     "text": "industrial",
+     "meaning": "산업의",
+     "level": 3
+    },
+    {
+     "text": "Senator",
+     "meaning": "상원의원",
+     "level": 2
+    },
+    {
+     "text": "solution",
+     "meaning": "해법",
+     "level": 2
+    },
+    {
+     "text": "reconstruct",
+     "meaning": "되살리다, 재구성하다",
+     "level": 4
+    },
+    {
+     "text": "expense",
+     "meaning": "희생, 대가",
+     "level": 4
+    },
+    {
+     "text": "dictate",
+     "meaning": "좌지우지하다",
+     "level": 4
+    },
+    {
+     "text": "alienating",
+     "meaning": "멀어지게 하며",
+     "level": 4
+    },
+    {
+     "text": "allies",
+     "meaning": "동맹국",
+     "level": 3
+    },
+    {
+     "text": "estimates",
+     "meaning": "추산한다",
+     "level": 3
+    },
+    {
+     "text": "Separately",
+     "meaning": "별도로",
+     "level": 3
+    },
+    {
+     "text": "imposing",
+     "meaning": "부과하는",
+     "level": 3
     }
    ],
    "views": [
@@ -12828,6 +17713,321 @@
      "text": "lifted",
      "meaning": "풀었다",
      "level": 1
+    },
+    {
+     "text": "operation",
+     "meaning": "작전, 폭파 작업",
+     "level": 2
+    },
+    {
+     "text": "officials",
+     "meaning": "당국자들",
+     "level": 1
+    },
+    {
+     "text": "alarm",
+     "meaning": "경보, 불안",
+     "level": 2
+    },
+    {
+     "text": "blast",
+     "meaning": "폭발",
+     "level": 2
+    },
+    {
+     "text": "compound",
+     "meaning": "화합물",
+     "level": 2
+    },
+    {
+     "text": "drifting",
+     "meaning": "떠내려가며",
+     "level": 2
+    },
+    {
+     "text": "secondary",
+     "meaning": "2차적인",
+     "level": 2
+    },
+    {
+     "text": "infrastructure",
+     "meaning": "기반 시설",
+     "level": 3
+    },
+    {
+     "text": "sensitive",
+     "meaning": "민감한, 폭발하기 쉬운",
+     "level": 2
+    },
+    {
+     "text": "ammunition",
+     "meaning": "탄약",
+     "level": 2
+    },
+    {
+     "text": "storage",
+     "meaning": "보관",
+     "level": 2
+    },
+    {
+     "text": "degraded",
+     "meaning": "변질된",
+     "level": 3
+    },
+    {
+     "text": "prone",
+     "meaning": "~하기 쉬운",
+     "level": 3
+    },
+    {
+     "text": "movement",
+     "meaning": "이동, 운반",
+     "level": 2
+    },
+    {
+     "text": "inspection",
+     "meaning": "점검",
+     "level": 2
+    },
+    {
+     "text": "significant",
+     "meaning": "상당한",
+     "level": 2
+    },
+    {
+     "text": "toxic",
+     "meaning": "유독한",
+     "level": 2
+    },
+    {
+     "text": "barriers",
+     "meaning": "방벽",
+     "level": 2
+    },
+    {
+     "text": "flooded",
+     "meaning": "(물·거품으로) 채운",
+     "level": 2
+    },
+    {
+     "text": "gallon",
+     "meaning": "갤런(약 3.8리터)",
+     "level": 2
+    },
+    {
+     "text": "beside",
+     "meaning": "~ 옆에",
+     "level": 1
+    },
+    {
+     "text": "Residents",
+     "meaning": "주민들",
+     "level": 2
+    },
+    {
+     "text": "encouraged",
+     "meaning": "권고받았다",
+     "level": 2
+    },
+    {
+     "text": "voluntarily",
+     "meaning": "자발적으로",
+     "level": 2
+    },
+    {
+     "text": "cone-shaped",
+     "meaning": "원뿔 모양의",
+     "level": 2
+    },
+    {
+     "text": "extending",
+     "meaning": "뻗어 있는",
+     "level": 2
+    },
+    {
+     "text": "advised",
+     "meaning": "권고받았다",
+     "level": 2
+    },
+    {
+     "text": "indoors",
+     "meaning": "실내에",
+     "level": 2
+    },
+    {
+     "text": "Displaced",
+     "meaning": "대피한",
+     "level": 3
+    },
+    {
+     "text": "projections",
+     "meaning": "예측치",
+     "level": 3
+    },
+    {
+     "text": "environmental",
+     "meaning": "환경 단체의, 환경의",
+     "level": 2
+    },
+    {
+     "text": "sued",
+     "meaning": "소송을 냈다",
+     "level": 2
+    },
+    {
+     "text": "inadequate",
+     "meaning": "불충분한",
+     "level": 3
+    },
+    {
+     "text": "acknowledging",
+     "meaning": "인정하면서",
+     "level": 3
+    },
+    {
+     "text": "concluding",
+     "meaning": "결론 내리며",
+     "level": 3
+    },
+    {
+     "text": "uncontrolled",
+     "meaning": "통제되지 않은",
+     "level": 3
+    },
+    {
+     "text": "harmful",
+     "meaning": "해로운",
+     "level": 2
+    },
+    {
+     "text": "proceed",
+     "meaning": "진행하다",
+     "level": 2
+    },
+    {
+     "text": "favorable",
+     "meaning": "유리한, 우호적인",
+     "level": 2
+    },
+    {
+     "text": "approval",
+     "meaning": "승인",
+     "level": 2
+    },
+    {
+     "text": "elect",
+     "meaning": "당선인",
+     "level": 3
+    },
+    {
+     "text": "weigh",
+     "meaning": "저울질하다, 따져 보다",
+     "level": 3
+    },
+    {
+     "text": "forecast",
+     "meaning": "(날씨) 예보",
+     "level": 2
+    },
+    {
+     "text": "detected",
+     "meaning": "검출된",
+     "level": 2
+    },
+    {
+     "text": "readings",
+     "meaning": "측정값",
+     "level": 2
+    },
+    {
+     "text": "airborne",
+     "meaning": "공기 중에 떠다니는",
+     "level": 3
+    },
+    {
+     "text": "absolutely",
+     "meaning": "절대적으로",
+     "level": 2
+    },
+    {
+     "text": "exceeded",
+     "meaning": "넘어섰다",
+     "level": 2
+    },
+    {
+     "text": "expectations",
+     "meaning": "기대",
+     "level": 2
+    },
+    {
+     "text": "well-contained",
+     "meaning": "잘 통제된",
+     "level": 2
+    },
+    {
+     "text": "relieved",
+     "meaning": "안도한",
+     "level": 2
+    },
+    {
+     "text": "reactions",
+     "meaning": "반응",
+     "level": 2
+    },
+    {
+     "text": "rumble",
+     "meaning": "우르릉하는 소리",
+     "level": 3
+    },
+    {
+     "text": "o'clock",
+     "meaning": "~시 정각",
+     "level": 1
+    },
+    {
+     "text": "organizer",
+     "meaning": "조직자, 주최자",
+     "level": 2
+    },
+    {
+     "text": "opposed",
+     "meaning": "반대하는",
+     "level": 2
+    },
+    {
+     "text": "official",
+     "meaning": "공무원, 관리",
+     "level": 2
+    },
+    {
+     "text": "transparency",
+     "meaning": "투명성, 정보 공개",
+     "level": 3
+    },
+    {
+     "text": "lead-up",
+     "meaning": "(사건에 이르는) 사전 과정",
+     "level": 3
+    },
+    {
+     "text": "chaotic",
+     "meaning": "혼란스러운",
+     "level": 2
+    },
+    {
+     "text": "Administrator",
+     "meaning": "청장",
+     "level": 3
+    },
+    {
+     "text": "exposure",
+     "meaning": "노출",
+     "level": 2
+    },
+    {
+     "text": "vulnerable",
+     "meaning": "취약한",
+     "level": 3
     }
    ],
    "views": [
@@ -13311,6 +18511,236 @@
      "text": "subscribers",
      "meaning": "구독자",
      "level": 2
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 1
+    },
+    {
+     "text": "entirely",
+     "meaning": "전적으로",
+     "level": 2
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 1
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 1
+    },
+    {
+     "text": "divert",
+     "meaning": "(수익 등을) 빼돌리다",
+     "level": 3
+    },
+    {
+     "text": "confuse",
+     "meaning": "혼동시키다",
+     "level": 2
+    },
+    {
+     "text": "rejected",
+     "meaning": "거부된",
+     "level": 2
+    },
+    {
+     "text": "submission's",
+     "meaning": "제출물의",
+     "level": 3
+    },
+    {
+     "text": "solely",
+     "meaning": "오로지",
+     "level": 3
+    },
+    {
+     "text": "estimates",
+     "meaning": "추산한다",
+     "level": 2
+    },
+    {
+     "text": "assistance",
+     "meaning": "도움",
+     "level": 2
+    },
+    {
+     "text": "dramatically",
+     "meaning": "급격히",
+     "level": 3
+    },
+    {
+     "text": "distributed",
+     "meaning": "유통된, 배급된",
+     "level": 3
+    },
+    {
+     "text": "identified",
+     "meaning": "확인된",
+     "level": 2
+    },
+    {
+     "text": "wholly",
+     "meaning": "전부",
+     "level": 3
+    },
+    {
+     "text": "AI-made",
+     "meaning": "AI가 만든",
+     "level": 2
+    },
+    {
+     "text": "removal",
+     "meaning": "삭제",
+     "level": 2
+    },
+    {
+     "text": "conceded",
+     "meaning": "인정했다",
+     "level": 3
+    },
+    {
+     "text": "listeners",
+     "meaning": "청취자",
+     "level": 2
+    },
+    {
+     "text": "authentic",
+     "meaning": "진짜의",
+     "level": 3
+    },
+    {
+     "text": "drastic",
+     "meaning": "과감한, 극단적인",
+     "level": 3
+    },
+    {
+     "text": "higher-fidelity",
+     "meaning": "더 고음질의",
+     "level": 3
+    },
+    {
+     "text": "strictest",
+     "meaning": "가장 엄격한",
+     "level": 2
+    },
+    {
+     "text": "substantially",
+     "meaning": "상당 부분",
+     "level": 3
+    },
+    {
+     "text": "rely",
+     "meaning": "의존하다",
+     "level": 2
+    },
+    {
+     "text": "recommendations",
+     "meaning": "추천 목록",
+     "level": 2
+    },
+    {
+     "text": "filter",
+     "meaning": "걸러내다",
+     "level": 2
+    },
+    {
+     "text": "detector",
+     "meaning": "탐지기",
+     "level": 3
+    },
+    {
+     "text": "combine",
+     "meaning": "결합하다",
+     "level": 2
+    },
+    {
+     "text": "detection",
+     "meaning": "탐지",
+     "level": 3
+    },
+    {
+     "text": "detects",
+     "meaning": "탐지하다",
+     "level": 3
+    },
+    {
+     "text": "lean",
+     "meaning": "의존하다",
+     "level": 3
+    },
+    {
+     "text": "embeds",
+     "meaning": "심어 넣는다",
+     "level": 3
+    },
+    {
+     "text": "outlet",
+     "meaning": "매체, 언론사",
+     "level": 3
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 2
+    },
+    {
+     "text": "locally",
+     "meaning": "(기기에서) 직접",
+     "level": 3
+    },
+    {
+     "text": "providers",
+     "meaning": "제공 업체",
+     "level": 2
+    },
+    {
+     "text": "skip",
+     "meaning": "건너뛰다",
+     "level": 2
+    },
+    {
+     "text": "slip",
+     "meaning": "빠져나가다",
+     "level": 3
+    },
+    {
+     "text": "broader",
+     "meaning": "더 넓은",
+     "level": 2
+    },
+    {
+     "text": "verifying",
+     "meaning": "검증하는",
+     "level": 3
+    },
+    {
+     "text": "weighs",
+     "meaning": "저울질하다",
+     "level": 3
+    },
+    {
+     "text": "monetization",
+     "meaning": "수익화",
+     "level": 4
+    },
+    {
+     "text": "revenue",
+     "meaning": "수익",
+     "level": 3
+    },
+    {
+     "text": "ensure",
+     "meaning": "보장하다",
+     "level": 2
+    },
+    {
+     "text": "impersonator",
+     "meaning": "사칭하는 사람",
+     "level": 4
     }
    ],
    "views": [
@@ -13890,6 +19320,226 @@
      "text": "Kang Kum-sil",
      "meaning": "강금실(국정원장 후보자)",
      "level": 3
+    },
+    {
+     "text": "steadily",
+     "meaning": "꾸준히",
+     "level": 3
+    },
+    {
+     "text": "hurry",
+     "meaning": "서두르다",
+     "level": 2
+    },
+    {
+     "text": "Peninsula",
+     "meaning": "(한반도) 반도",
+     "level": 2
+    },
+    {
+     "text": "utmost",
+     "meaning": "최대한의",
+     "level": 3
+    },
+    {
+     "text": "relations",
+     "meaning": "관계",
+     "level": 2
+    },
+    {
+     "text": "communication",
+     "meaning": "소통",
+     "level": 2
+    },
+    {
+     "text": "lower-key",
+     "meaning": "조용한, 저강도의",
+     "level": 3
+    },
+    {
+     "text": "solutions",
+     "meaning": "해법",
+     "level": 2
+    },
+    {
+     "text": "pursuing",
+     "meaning": "추진하며",
+     "level": 3
+    },
+    {
+     "text": "dialogue",
+     "meaning": "대화",
+     "level": 2
+    },
+    {
+     "text": "easing",
+     "meaning": "완화하는",
+     "level": 3
+    },
+    {
+     "text": "international",
+     "meaning": "국제적인",
+     "level": 2
+    },
+    {
+     "text": "cooperation",
+     "meaning": "협력",
+     "level": 2
+    },
+    {
+     "text": "resolving",
+     "meaning": "해결하는",
+     "level": 3
+    },
+    {
+     "text": "diplomatic",
+     "meaning": "외교적인",
+     "level": 3
+    },
+    {
+     "text": "strength",
+     "meaning": "힘, 역량",
+     "level": 2
+    },
+    {
+     "text": "controversial",
+     "meaning": "논란이 된",
+     "level": 3
+    },
+    {
+     "text": "adjust",
+     "meaning": "조정하다",
+     "level": 3
+    },
+    {
+     "text": "findings",
+     "meaning": "조사 결과",
+     "level": 3
+    },
+    {
+     "text": "critics",
+     "meaning": "비판론자들",
+     "level": 3
+    },
+    {
+     "text": "effectively",
+     "meaning": "사실상",
+     "level": 3
+    },
+    {
+     "text": "Framework",
+     "meaning": "기본(법)",
+     "level": 3
+    },
+    {
+     "text": "three-term",
+     "meaning": "3선의",
+     "level": 3
+    },
+    {
+     "text": "expertise",
+     "meaning": "전문성",
+     "level": 3
+    },
+    {
+     "text": "North Korea-related",
+     "meaning": "북한 관련",
+     "level": 1
+    },
+    {
+     "text": "researcher",
+     "meaning": "연구원",
+     "level": 2
+    },
+    {
+     "text": "adviser",
+     "meaning": "자문위원, 보좌관",
+     "level": 3
+    },
+    {
+     "text": "presidential",
+     "meaning": "대통령의",
+     "level": 2
+    },
+    {
+     "text": "coordination",
+     "meaning": "조율",
+     "level": 3
+    },
+    {
+     "text": "director",
+     "meaning": "(조직의) 장, 국장",
+     "level": 2
+    },
+    {
+     "text": "spokesman",
+     "meaning": "대변인",
+     "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
+    },
+    {
+     "text": "directly",
+     "meaning": "직접적으로",
+     "level": 2
+    },
+    {
+     "text": "nominations",
+     "meaning": "지명, 인선",
+     "level": 3
+    },
+    {
+     "text": "amid",
+     "meaning": "~ 속에서",
+     "level": 3
+    },
+    {
+     "text": "bilateral",
+     "meaning": "양자 간의",
+     "level": 3
+    },
+    {
+     "text": "disclosed",
+     "meaning": "공개했다",
+     "level": 3
+    },
+    {
+     "text": "reportedly",
+     "meaning": "보도에 따르면",
+     "level": 3
+    },
+    {
+     "text": "prompted",
+     "meaning": "촉발했다",
+     "level": 3
+    },
+    {
+     "text": "restrict",
+     "meaning": "제한하다",
+     "level": 3
+    },
+    {
+     "text": "parliamentary",
+     "meaning": "국회의",
+     "level": 3
+    },
+    {
+     "text": "confirmation",
+     "meaning": "(인사) 인준",
+     "level": 3
+    },
+    {
+     "text": "hearings",
+     "meaning": "청문회",
+     "level": 3
+    },
+    {
+     "text": "formally",
+     "meaning": "공식적으로",
+     "level": 3
     }
    ],
    "views": [
@@ -14374,6 +20024,131 @@
      "text": "rights",
      "meaning": "권리",
      "level": 1
+    },
+    {
+     "text": "imposing",
+     "meaning": "부과하는",
+     "level": 3
+    },
+    {
+     "text": "foreigners",
+     "meaning": "외국인",
+     "level": 2
+    },
+    {
+     "text": "violates",
+     "meaning": "위반한다",
+     "level": 3
+    },
+    {
+     "text": "lawmakers",
+     "meaning": "국회의원들",
+     "level": 2
+    },
+    {
+     "text": "endanger",
+     "meaning": "위태롭게 하다",
+     "level": 3
+    },
+    {
+     "text": "presidential",
+     "meaning": "대통령 선거의",
+     "level": 2
+    },
+    {
+     "text": "election",
+     "meaning": "선거",
+     "level": 2
+    },
+    {
+     "text": "discrimination",
+     "meaning": "차별",
+     "level": 3
+    },
+    {
+     "text": "residents",
+     "meaning": "거주자",
+     "level": 2
+    },
+    {
+     "text": "complaint",
+     "meaning": "(헌법소원) 청구",
+     "level": 3
+    },
+    {
+     "text": "permitted",
+     "meaning": "허용된",
+     "level": 3
+    },
+    {
+     "text": "intact",
+     "meaning": "그대로인",
+     "level": 3
+    },
+    {
+     "text": "Violators",
+     "meaning": "위반자",
+     "level": 3
+    },
+    {
+     "text": "constitutional",
+     "meaning": "헌법상의",
+     "level": 3
+    },
+    {
+     "text": "alike",
+     "meaning": "똑같이",
+     "level": 3
+    },
+    {
+     "text": "define",
+     "meaning": "규정하다",
+     "level": 3
+    },
+    {
+     "text": "restrict",
+     "meaning": "제한하다",
+     "level": 3
+    },
+    {
+     "text": "regulate",
+     "meaning": "규율하다",
+     "level": 3
+    },
+    {
+     "text": "generally",
+     "meaning": "대체로",
+     "level": 2
+    },
+    {
+     "text": "prohibited",
+     "meaning": "금지된",
+     "level": 3
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 0
+    },
+    {
+     "text": "immigration-law",
+     "meaning": "출입국관리법상의",
+     "level": 3
+    },
+    {
+     "text": "broadly",
+     "meaning": "포괄적으로",
+     "level": 3
+    },
+    {
+     "text": "principle",
+     "meaning": "원칙",
+     "level": 3
+    },
+    {
+     "text": "revision",
+     "meaning": "개정",
+     "level": 3
     }
    ],
    "views": [
@@ -14873,6 +20648,126 @@
      "text": "returns",
      "meaning": "환원·수익",
      "level": 1
+    },
+    {
+     "text": "bid",
+     "meaning": "시도, 목적",
+     "level": 3
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 1
+    },
+    {
+     "text": "holdings",
+     "meaning": "보유분",
+     "level": 3
+    },
+    {
+     "text": "estimate",
+     "meaning": "추정치",
+     "level": 3
+    },
+    {
+     "text": "payment",
+     "meaning": "지급",
+     "level": 2
+    },
+    {
+     "text": "shareholders",
+     "meaning": "주주",
+     "level": 3
+    },
+    {
+     "text": "approved",
+     "meaning": "승인된",
+     "level": 2
+    },
+    {
+     "text": "acquired",
+     "meaning": "취득한",
+     "level": 3
+    },
+    {
+     "text": "scope",
+     "meaning": "범위",
+     "level": 3
+    },
+    {
+     "text": "reduction",
+     "meaning": "감소",
+     "level": 3
+    },
+    {
+     "text": "strengthening",
+     "meaning": "강화하는",
+     "level": 3
+    },
+    {
+     "text": "shareholder",
+     "meaning": "주주",
+     "level": 3
+    },
+    {
+     "text": "restore",
+     "meaning": "회복하다",
+     "level": 3
+    },
+    {
+     "text": "outlet",
+     "meaning": "매체",
+     "level": 3
+    },
+    {
+     "text": "emphasized",
+     "meaning": "강조했다",
+     "level": 2
+    },
+    {
+     "text": "manufacturing",
+     "meaning": "제조",
+     "level": 2
+    },
+    {
+     "text": "capabilities",
+     "meaning": "역량",
+     "level": 3
+    },
+    {
+     "text": "expanding",
+     "meaning": "확대하는",
+     "level": 2
+    },
+    {
+     "text": "pursuing",
+     "meaning": "추진하는",
+     "level": 3
+    },
+    {
+     "text": "investing",
+     "meaning": "투자하는",
+     "level": 2
+    },
+    {
+     "text": "exceed",
+     "meaning": "넘어서다",
+     "level": 2
+    },
+    {
+     "text": "shareholder-return",
+     "meaning": "주주 환원",
+     "level": 3
+    },
+    {
+     "text": "depending",
+     "meaning": "~에 따라",
+     "level": 2
+    },
+    {
+     "text": "consultations",
+     "meaning": "협의",
+     "level": 3
     }
    ],
    "views": [
@@ -15341,6 +21236,201 @@
      "text": "sources",
      "meaning": "소득의 종류",
      "level": 1
+    },
+    {
+     "text": "July-to-September",
+     "meaning": "7~9월의",
+     "level": 2
+    },
+    {
+     "text": "wiping",
+     "meaning": "지워 없애며",
+     "level": 3
+    },
+    {
+     "text": "earnings",
+     "meaning": "수익",
+     "level": 3
+    },
+    {
+     "text": "Park Sun-ok",
+     "meaning": "박선옥(정부 소득 통계 담당 관계자)",
+     "level": 0
+    },
+    {
+     "text": "official",
+     "meaning": "관계자",
+     "level": 2
+    },
+    {
+     "text": "overseeing",
+     "meaning": "총괄하는",
+     "level": 3
+    },
+    {
+     "text": "expenditure",
+     "meaning": "지출",
+     "level": 3
+    },
+    {
+     "text": "cited",
+     "meaning": "(이유로) 들었다",
+     "level": 3
+    },
+    {
+     "text": "swings",
+     "meaning": "변동",
+     "level": 3
+    },
+    {
+     "text": "inflated",
+     "meaning": "부풀려진",
+     "level": 3
+    },
+    {
+     "text": "allowances",
+     "meaning": "수당",
+     "level": 3
+    },
+    {
+     "text": "dividends",
+     "meaning": "배당금",
+     "level": 3
+    },
+    {
+     "text": "consumption",
+     "meaning": "소비",
+     "level": 3
+    },
+    {
+     "text": "climbed",
+     "meaning": "올랐다",
+     "level": 2
+    },
+    {
+     "text": "adjusted",
+     "meaning": "조정한",
+     "level": 3
+    },
+    {
+     "text": "transportation",
+     "meaning": "교통",
+     "level": 2
+    },
+    {
+     "text": "extended",
+     "meaning": "연장했다",
+     "level": 3
+    },
+    {
+     "text": "subsidies",
+     "meaning": "보조금",
+     "level": 3
+    },
+    {
+     "text": "clothing",
+     "meaning": "의류",
+     "level": 2
+    },
+    {
+     "text": "footwear",
+     "meaning": "신발류",
+     "level": 3
+    },
+    {
+     "text": "leaves",
+     "meaning": "(가계에서) 빠져나가다",
+     "level": 3
+    },
+    {
+     "text": "regardless",
+     "meaning": "상관없이",
+     "level": 3
+    },
+    {
+     "text": "lifestyle",
+     "meaning": "생활 방식",
+     "level": 2
+    },
+    {
+     "text": "surplus",
+     "meaning": "여유 자금, 흑자",
+     "level": 3
+    },
+    {
+     "text": "shrank",
+     "meaning": "줄었다",
+     "level": 2
+    },
+    {
+     "text": "percentage",
+     "meaning": "퍼센트포인트",
+     "level": 3
+    },
+    {
+     "text": "squeeze",
+     "meaning": "압박",
+     "level": 3
+    },
+    {
+     "text": "earners",
+     "meaning": "소득자",
+     "level": 3
+    },
+    {
+     "text": "jobless",
+     "meaning": "무직의",
+     "level": 3
+    },
+    {
+     "text": "ratio",
+     "meaning": "비율",
+     "level": 3
+    },
+    {
+     "text": "widened",
+     "meaning": "벌어졌다",
+     "level": 3
+    },
+    {
+     "text": "worsening",
+     "meaning": "악화",
+     "level": 3
+    },
+    {
+     "text": "exceeds",
+     "meaning": "넘어선다",
+     "level": 2
+    },
+    {
+     "text": "stabilize",
+     "meaning": "안정시키다",
+     "level": 3
+    },
+    {
+     "text": "ease",
+     "meaning": "완화하다",
+     "level": 3
+    },
+    {
+     "text": "strengthen",
+     "meaning": "강화하다",
+     "level": 3
+    },
+    {
+     "text": "livelihood",
+     "meaning": "생계",
+     "level": 3
+    },
+    {
+     "text": "financial",
+     "meaning": "재정의, 금융의",
+     "level": 3
+    },
+    {
+     "text": "middle-income",
+     "meaning": "중산층의",
+     "level": 3
     }
    ],
    "views": [
@@ -15741,6 +21831,96 @@
      "text": "record",
      "meaning": "전적",
      "level": 1
+    },
+    {
+     "text": "recovers",
+     "meaning": "회복 중이다",
+     "level": 2
+    },
+    {
+     "text": "knee",
+     "meaning": "무릎",
+     "level": 1
+    },
+    {
+     "text": "tournament",
+     "meaning": "(테니스) 대회",
+     "level": 1
+    },
+    {
+     "text": "Sinner",
+     "meaning": "신네르(이탈리아 테니스 선수)",
+     "level": 1
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 1
+    },
+    {
+     "text": "operation",
+     "meaning": "수술",
+     "level": 2
+    },
+    {
+     "text": "strip",
+     "meaning": "(조직의) 띠",
+     "level": 2
+    },
+    {
+     "text": "tissue",
+     "meaning": "(신체) 조직",
+     "level": 2
+    },
+    {
+     "text": "absence",
+     "meaning": "결장, 불참",
+     "level": 2
+    },
+    {
+     "text": "hard-court",
+     "meaning": "하드코트(경기장 바닥) 시즌의",
+     "level": 2
+    },
+    {
+     "text": "tournaments",
+     "meaning": "대회들",
+     "level": 1
+    },
+    {
+     "text": "comeback",
+     "meaning": "복귀",
+     "level": 2
+    },
+    {
+     "text": "appearance",
+     "meaning": "(대회) 출전",
+     "level": 2
+    },
+    {
+     "text": "seven-time",
+     "meaning": "일곱 차례 우승한",
+     "level": 2
+    },
+    {
+     "text": "tennis",
+     "meaning": "테니스",
+     "level": 1
+    },
+    {
+     "text": "deprives",
+     "meaning": "~에서 앗아간다",
+     "level": 3
+    },
+    {
+     "text": "defined",
+     "meaning": "규정해 온, 특징지어 온",
+     "level": 3
+    },
+    {
+     "text": "signal",
+     "meaning": "(복귀) 신호, 소식",
+     "level": 2
     }
    ],
    "views": [
@@ -16183,6 +22363,146 @@
     {
      "text": "charm",
      "meaning": "(운이 따르는) 행운의 숫자",
+     "level": 2
+    },
+    {
+     "text": "restricting",
+     "meaning": "제한하는",
+     "level": 3
+    },
+    {
+     "text": "rejected",
+     "meaning": "(판결이) 물리친",
+     "level": 2
+    },
+    {
+     "text": "denied",
+     "meaning": "거부당할",
+     "level": 2
+    },
+    {
+     "text": "citizenship",
+     "meaning": "시민권",
+     "level": 2
+    },
+    {
+     "text": "enforcing",
+     "meaning": "시행하는",
+     "level": 3
+    },
+    {
+     "text": "administration's",
+     "meaning": "(트럼프) 행정부의",
+     "level": 2
+    },
+    {
+     "text": "hardline",
+     "meaning": "강경한",
+     "level": 3
+    },
+    {
+     "text": "immigration",
+     "meaning": "이민",
+     "level": 2
+    },
+    {
+     "text": "enforce",
+     "meaning": "시행하다",
+     "level": 3
+    },
+    {
+     "text": "concluding",
+     "meaning": "결론 내리며",
+     "level": 3
+    },
+    {
+     "text": "violated",
+     "meaning": "위반했다",
+     "level": 2
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "jurisdiction",
+     "meaning": "관할권",
+     "level": 3
+    },
+    {
+     "text": "afterward",
+     "meaning": "그 직후에",
+     "level": 2
+    },
+    {
+     "text": "automatic",
+     "meaning": "자동적인",
+     "level": 2
+    },
+    {
+     "text": "international",
+     "meaning": "국제의",
+     "level": 1
+    },
+    {
+     "text": "organizations",
+     "meaning": "국제기구들",
+     "level": 2
+    },
+    {
+     "text": "handful",
+     "meaning": "극소수",
+     "level": 3
+    },
+    {
+     "text": "embraced",
+     "meaning": "받아들였다",
+     "level": 3
+    },
+    {
+     "text": "regardless",
+     "meaning": "~와 상관없이",
+     "level": 2
+    },
+    {
+     "text": "practically",
+     "meaning": "사실상",
+     "level": 3
+    },
+    {
+     "text": "appointee",
+     "meaning": "(대통령이) 임명한 사람",
+     "level": 3
+    },
+    {
+     "text": "agenda",
+     "meaning": "정책 의제",
+     "level": 2
+    },
+    {
+     "text": "insisted",
+     "meaning": "주장했다",
+     "level": 2
+    },
+    {
+     "text": "spokesperson",
+     "meaning": "대변인",
+     "level": 2
+    },
+    {
+     "text": "consistent",
+     "meaning": "부합하는",
+     "level": 3
+    },
+    {
+     "text": "unfair",
+     "meaning": "부당한",
+     "level": 2
+    },
+    {
+     "text": "adjustments",
+     "meaning": "조정, 수정",
      "level": 2
     }
    ],
@@ -16637,6 +22957,106 @@
      "text": "stage",
      "meaning": "무대",
      "level": 1
+    },
+    {
+     "text": "41st",
+     "meaning": "41번째(서수)",
+     "level": 1
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 1
+    },
+    {
+     "text": "consideration",
+     "meaning": "심사 대상",
+     "level": 2
+    },
+    {
+     "text": "outdoor",
+     "meaning": "야외의",
+     "level": 1
+    },
+    {
+     "text": "LEMONADE",
+     "meaning": "레모네이드(에스파 곡명)",
+     "level": 1
+    },
+    {
+     "text": "SWIM",
+     "meaning": "스윔(BTS 곡명)",
+     "level": 1
+    },
+    {
+     "text": "REDRED",
+     "meaning": "레드레드(코르티스 곡명)",
+     "level": 1
+    },
+    {
+     "text": "BANG",
+     "meaning": "뱅뱅(아이브 곡명 BANG BANG의 일부)",
+     "level": 1
+    },
+    {
+     "text": "Paradise of Rumors",
+     "meaning": "파라다이스 오브 루머스(AKMU 곡명)",
+     "level": 1
+    },
+    {
+     "text": "Rumors",
+     "meaning": "소문(곡명 일부)",
+     "level": 1
+    },
+    {
+     "text": "Serenade",
+     "meaning": "세레나데(곡명 Heavy Serenade의 일부)",
+     "level": 2
+    },
+    {
+     "text": "Borrow",
+     "meaning": "빌리다(곡명 일부)",
+     "level": 1
+    },
+    {
+     "text": "RUDE",
+     "meaning": "루드(하츠투하츠 곡명)",
+     "level": 1
+    },
+    {
+     "text": "likewise",
+     "meaning": "마찬가지로",
+     "level": 3
+    },
+    {
+     "text": "GREENGREEN",
+     "meaning": "그린그린(코르티스 앨범명)",
+     "level": 1
+    },
+    {
+     "text": "REVIVE",
+     "meaning": "리바이브(아이브 앨범명 일부)",
+     "level": 1
+    },
+    {
+     "text": "II",
+     "meaning": "투(라이즈 곡명)",
+     "level": 1
+    },
+    {
+     "text": "nominated",
+     "meaning": "후보에 오른",
+     "level": 2
+    },
+    {
+     "text": "headline",
+     "meaning": "(기사) 제목",
+     "level": 2
+    },
+    {
+     "text": "performers",
+     "meaning": "출연진, 공연자",
+     "level": 2
     }
    ],
    "views": [
@@ -17146,6 +23566,266 @@
      "text": "amplified",
      "meaning": "증폭된",
      "level": 3
+    },
+    {
+     "text": "Record-high",
+     "meaning": "사상 최고 수준의",
+     "level": 2
+    },
+    {
+     "text": "surged",
+     "meaning": "급격히 밀려들었다",
+     "level": 3
+    },
+    {
+     "text": "knocking",
+     "meaning": "(~을) 쳐서 무너뜨리며",
+     "level": 3
+    },
+    {
+     "text": "landmark",
+     "meaning": "명소가 된, 상징적인",
+     "level": 3
+    },
+    {
+     "text": "coincided",
+     "meaning": "겹쳤다",
+     "level": 3
+    },
+    {
+     "text": "predicted",
+     "meaning": "예측된",
+     "level": 2
+    },
+    {
+     "text": "forecasters",
+     "meaning": "기상 예보관",
+     "level": 3
+    },
+    {
+     "text": "respectively",
+     "meaning": "각각",
+     "level": 3
+    },
+    {
+     "text": "slammed",
+     "meaning": "세게 내던져졌다",
+     "level": 3
+    },
+    {
+     "text": "battered",
+     "meaning": "세차게 두드렸다",
+     "level": 3
+    },
+    {
+     "text": "outlets",
+     "meaning": "언론사들",
+     "level": 3
+    },
+    {
+     "text": "structural",
+     "meaning": "구조적인",
+     "level": 3
+    },
+    {
+     "text": "fell",
+     "meaning": "무너져 내렸다",
+     "level": 2
+    },
+    {
+     "text": "Taco Bell",
+     "meaning": "타코벨(미국 패스트푸드 체인)",
+     "level": 1
+    },
+    {
+     "text": "Guardian",
+     "meaning": "가디언(영국 신문)",
+     "level": 1
+    },
+    {
+     "text": "San Mateo",
+     "meaning": "샌머테이오(캘리포니아 카운티)",
+     "level": 1
+    },
+    {
+     "text": "Supervisor",
+     "meaning": "(카운티) 감독위원",
+     "level": 3
+    },
+    {
+     "text": "unprecedented",
+     "meaning": "전례 없는",
+     "level": 3
+    },
+    {
+     "text": "strength",
+     "meaning": "강도, 세기",
+     "level": 2
+    },
+    {
+     "text": "significant",
+     "meaning": "중요한",
+     "level": 2
+    },
+    {
+     "text": "sunny",
+     "meaning": "맑은",
+     "level": 1
+    },
+    {
+     "text": "Elsewhere",
+     "meaning": "다른 곳에서는",
+     "level": 3
+    },
+    {
+     "text": "uneven",
+     "meaning": "고르지 않은",
+     "level": 3
+    },
+    {
+     "text": "aggressive",
+     "meaning": "적극적인",
+     "level": 3
+    },
+    {
+     "text": "preparation",
+     "meaning": "대비",
+     "level": 2
+    },
+    {
+     "text": "homeowners",
+     "meaning": "주택 소유자들",
+     "level": 2
+    },
+    {
+     "text": "stretch",
+     "meaning": "(해안) 구간",
+     "level": 3
+    },
+    {
+     "text": "briefly",
+     "meaning": "잠시",
+     "level": 2
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 2
+    },
+    {
+     "text": "minimal",
+     "meaning": "미미한",
+     "level": 3
+    },
+    {
+     "text": "international",
+     "meaning": "국제의",
+     "level": 1
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 1
+    },
+    {
+     "text": "noon",
+     "meaning": "정오",
+     "level": 2
+    },
+    {
+     "text": "operations",
+     "meaning": "(공항) 운영",
+     "level": 2
+    },
+    {
+     "text": "airlines",
+     "meaning": "항공사들",
+     "level": 2
+    },
+    {
+     "text": "travelers",
+     "meaning": "여행객들",
+     "level": 2
+    },
+    {
+     "text": "equipment",
+     "meaning": "장비",
+     "level": 2
+    },
+    {
+     "text": "conference",
+     "meaning": "기자회견",
+     "level": 2
+    },
+    {
+     "text": "preview",
+     "meaning": "미리 보기, 예고편",
+     "level": 2
+    },
+    {
+     "text": "urged",
+     "meaning": "촉구했다",
+     "level": 3
+    },
+    {
+     "text": "officials",
+     "meaning": "관리들",
+     "level": 2
+    },
+    {
+     "text": "underlying",
+     "meaning": "근본적인",
+     "level": 3
+    },
+    {
+     "text": "lingering",
+     "meaning": "남아 있는",
+     "level": 3
+    },
+    {
+     "text": "massive",
+     "meaning": "거대한",
+     "level": 2
+    },
+    {
+     "text": "outcome",
+     "meaning": "결과",
+     "level": 2
+    },
+    {
+     "text": "Stormy",
+     "meaning": "폭풍우 몰아치는",
+     "level": 2
+    },
+    {
+     "text": "threatened",
+     "meaning": "위협했다",
+     "level": 2
+    },
+    {
+     "text": "continent",
+     "meaning": "대륙",
+     "level": 2
+    },
+    {
+     "text": "forecast",
+     "meaning": "예보된",
+     "level": 2
+    },
+    {
+     "text": "postponed",
+     "meaning": "연기했다",
+     "level": 2
+    },
+    {
+     "text": "Thanksgiving Day Parade",
+     "meaning": "추수감사절 퍼레이드(메이시스)",
+     "level": 1
+    },
+    {
+     "text": "Vancouver",
+     "meaning": "밴쿠버(캐나다 도시)",
+     "level": 1
     }
    ],
    "views": [
@@ -17634,6 +24314,156 @@
      "text": "short",
      "meaning": "부족한",
      "level": 1
+    },
+    {
+     "text": "prospect",
+     "meaning": "가능성, 전망",
+     "level": 3
+    },
+    {
+     "text": "disruptions",
+     "meaning": "차질, 운행 중단",
+     "level": 3
+    },
+    {
+     "text": "complaints",
+     "meaning": "민원",
+     "level": 2
+    },
+    {
+     "text": "strictly",
+     "meaning": "엄격히",
+     "level": 2
+    },
+    {
+     "text": "manual",
+     "meaning": "수동 조작 설명서, 매뉴얼",
+     "level": 3
+    },
+    {
+     "text": "improvements",
+     "meaning": "개선",
+     "level": 2
+    },
+    {
+     "text": "employee",
+     "meaning": "직원",
+     "level": 1
+    },
+    {
+     "text": "threatened",
+     "meaning": "위협했다, 예고했다",
+     "level": 2
+    },
+    {
+     "text": "subway",
+     "meaning": "지하철",
+     "level": 1
+    },
+    {
+     "text": "cancellations",
+     "meaning": "운행 취소",
+     "level": 3
+    },
+    {
+     "text": "official",
+     "meaning": "관계자",
+     "level": 2
+    },
+    {
+     "text": "prolonged",
+     "meaning": "장기화된",
+     "level": 3
+    },
+    {
+     "text": "operations",
+     "meaning": "(열차) 운행",
+     "level": 2
+    },
+    {
+     "text": "minimize",
+     "meaning": "최소화하다",
+     "level": 3
+    },
+    {
+     "text": "inconvenience",
+     "meaning": "불편",
+     "level": 3
+    },
+    {
+     "text": "endless",
+     "meaning": "끝없는",
+     "level": 2
+    },
+    {
+     "text": "suspensions",
+     "meaning": "운행 중단",
+     "level": 3
+    },
+    {
+     "text": "inadequate",
+     "meaning": "부족한",
+     "level": 3
+    },
+    {
+     "text": "restored",
+     "meaning": "복구되다",
+     "level": 3
+    },
+    {
+     "text": "dispute",
+     "meaning": "분쟁, 노사 갈등",
+     "level": 3
+    },
+    {
+     "text": "agreements",
+     "meaning": "합의",
+     "level": 2
+    },
+    {
+     "text": "management",
+     "meaning": "사측, 경영진",
+     "level": 2
+    },
+    {
+     "text": "eliminate",
+     "meaning": "없애다, 감축하다",
+     "level": 3
+    },
+    {
+     "text": "employees",
+     "meaning": "직원들",
+     "level": 1
+    },
+    {
+     "text": "citing",
+     "meaning": "(이유로) 들며",
+     "level": 3
+    },
+    {
+     "text": "financial",
+     "meaning": "재정적인",
+     "level": 2
+    },
+    {
+     "text": "burden",
+     "meaning": "부담",
+     "level": 2
+    },
+    {
+     "text": "efficiency",
+     "meaning": "효율",
+     "level": 3
+    },
+    {
+     "text": "Kim Jeong-seop",
+     "meaning": "김정섭(서울교통공사 제1노조 위원장)",
+     "level": 1
+    },
+    {
+     "text": "ensure",
+     "meaning": "보장하다",
+     "level": 3
     }
    ],
    "views": [
@@ -18143,6 +24973,246 @@
      "text": "front",
      "meaning": "(다툼의) 한 갈래",
      "level": 2
+    },
+    {
+     "text": "newly",
+     "meaning": "새로",
+     "level": 2
+    },
+    {
+     "text": "elected",
+     "meaning": "선출된",
+     "level": 2
+    },
+    {
+     "text": "failures",
+     "meaning": "실패, 허점",
+     "level": 2
+    },
+    {
+     "text": "unprecedented",
+     "meaning": "전례 없는",
+     "level": 3
+    },
+    {
+     "text": "opposed",
+     "meaning": "반대해 왔다",
+     "level": 2
+    },
+    {
+     "text": "lawmaker",
+     "meaning": "국회의원",
+     "level": 2
+    },
+    {
+     "text": "centrist",
+     "meaning": "중도파",
+     "level": 3
+    },
+    {
+     "text": "commission",
+     "meaning": "위원회",
+     "level": 3
+    },
+    {
+     "text": "publish",
+     "meaning": "발표하다",
+     "level": 2
+    },
+    {
+     "text": "creation",
+     "meaning": "설립",
+     "level": 2
+    },
+    {
+     "text": "deadliest",
+     "meaning": "가장 치명적인",
+     "level": 3
+    },
+    {
+     "text": "pledged",
+     "meaning": "공약했다",
+     "level": 3
+    },
+    {
+     "text": "independent",
+     "meaning": "독립적인",
+     "level": 2
+    },
+    {
+     "text": "investigative",
+     "meaning": "조사의",
+     "level": 3
+    },
+    {
+     "text": "rejected",
+     "meaning": "거부했다",
+     "level": 2
+    },
+    {
+     "text": "proposed",
+     "meaning": "제안했다",
+     "level": 2
+    },
+    {
+     "text": "appointed",
+     "meaning": "임명했다",
+     "level": 2
+    },
+    {
+     "text": "inquiry",
+     "meaning": "진상 조사",
+     "level": 3
+    },
+    {
+     "text": "legislation",
+     "meaning": "입법, 법안",
+     "level": 3
+    },
+    {
+     "text": "essential",
+     "meaning": "필수적인",
+     "level": 2
+    },
+    {
+     "text": "uncovering",
+     "meaning": "밝혀내는",
+     "level": 3
+    },
+    {
+     "text": "submitted",
+     "meaning": "제출했다",
+     "level": 2
+    },
+    {
+     "text": "countered",
+     "meaning": "맞받아쳤다",
+     "level": 3
+    },
+    {
+     "text": "investigate",
+     "meaning": "조사하다",
+     "level": 2
+    },
+    {
+     "text": "brave",
+     "meaning": "용감한",
+     "level": 2
+    },
+    {
+     "text": "principle",
+     "meaning": "(원칙적으로) 이론상",
+     "level": 3
+    },
+    {
+     "text": "outcome",
+     "meaning": "결과",
+     "level": 2
+    },
+    {
+     "text": "election",
+     "meaning": "선거",
+     "level": 1
+    },
+    {
+     "text": "formally",
+     "meaning": "공식적으로",
+     "level": 3
+    },
+    {
+     "text": "citing",
+     "meaning": "(이유로) 들며",
+     "level": 3
+    },
+    {
+     "text": "alleged",
+     "meaning": "주장된, 의혹의",
+     "level": 3
+    },
+    {
+     "text": "violations",
+     "meaning": "위반",
+     "level": 3
+    },
+    {
+     "text": "unity",
+     "meaning": "통합, 단결",
+     "level": 3
+    },
+    {
+     "text": "relentless",
+     "meaning": "끈질긴",
+     "level": 3
+    },
+    {
+     "text": "democratic",
+     "meaning": "민주적인",
+     "level": 2
+    },
+    {
+     "text": "feasible",
+     "meaning": "실현 가능한",
+     "level": 3
+    },
+    {
+     "text": "apparent",
+     "meaning": "뚜렷한",
+     "level": 3
+    },
+    {
+     "text": "minority",
+     "meaning": "소수 집단",
+     "level": 2
+    },
+    {
+     "text": "halted",
+     "meaning": "중단했다",
+     "level": 3
+    },
+    {
+     "text": "negotiations",
+     "meaning": "협상",
+     "level": 2
+    },
+    {
+     "text": "observers",
+     "meaning": "관측통",
+     "level": 3
+    },
+    {
+     "text": "extension",
+     "meaning": "연장",
+     "level": 2
+    },
+    {
+     "text": "relying",
+     "meaning": "의존하는",
+     "level": 3
+    },
+    {
+     "text": "position",
+     "meaning": "(의장) 직책",
+     "level": 2
+    },
+    {
+     "text": "intends",
+     "meaning": "~할 작정이다",
+     "level": 2
+    },
+    {
+     "text": "vowed",
+     "meaning": "맹세했다",
+     "level": 3
+    },
+    {
+     "text": "adopted",
+     "meaning": "채택된",
+     "level": 2
+    },
+    {
+     "text": "coalition",
+     "meaning": "연립정부",
+     "level": 3
     }
    ],
    "views": [
@@ -18556,6 +25626,106 @@
      "text": "Air Force",
      "meaning": "공군",
      "level": 1
+    },
+    {
+     "text": "missiles",
+     "meaning": "미사일",
+     "level": 1
+    },
+    {
+     "text": "fighter",
+     "meaning": "전투기(의)",
+     "level": 2
+    },
+    {
+     "text": "jets",
+     "meaning": "(제트) 전투기",
+     "level": 2
+    },
+    {
+     "text": "kilometer",
+     "meaning": "킬로미터",
+     "level": 1
+    },
+    {
+     "text": "boundary",
+     "meaning": "(영공의) 경계선",
+     "level": 2
+    },
+    {
+     "text": "involved",
+     "meaning": "관련된",
+     "level": 2
+    },
+    {
+     "text": "response",
+     "meaning": "대응",
+     "level": 2
+    },
+    {
+     "text": "residents",
+     "meaning": "주민",
+     "level": 2
+    },
+    {
+     "text": "reacted",
+     "meaning": "반응했다, 대응했다",
+     "level": 2
+    },
+    {
+     "text": "diplomatic",
+     "meaning": "외교적인",
+     "level": 2
+    },
+    {
+     "text": "summoning",
+     "meaning": "(대사를) 불러 항의함, 초치",
+     "level": 3
+    },
+    {
+     "text": "ambassador",
+     "meaning": "대사",
+     "level": 2
+    },
+    {
+     "text": "headquarters",
+     "meaning": "본부, 청사",
+     "level": 2
+    },
+    {
+     "text": "minister-counselor-level",
+     "meaning": "공사참사관급의",
+     "level": 3
+    },
+    {
+     "text": "diplomat",
+     "meaning": "외교관",
+     "level": 2
+    },
+    {
+     "text": "officials",
+     "meaning": "당국자들",
+     "level": 2
+    },
+    {
+     "text": "formal",
+     "meaning": "공식적인",
+     "level": 2
+    },
+    {
+     "text": "consultation",
+     "meaning": "협의",
+     "level": 3
+    },
+    {
+     "text": "identification",
+     "meaning": "식별",
+     "level": 3
+    },
+    {
+     "text": "identify",
+     "meaning": "(신원을) 식별하다",
+     "level": 3
     }
    ],
    "views": [
@@ -18925,6 +26095,56 @@
     {
      "text": "violation",
      "meaning": "위반",
+     "level": 3
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 1
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 1
+    },
+    {
+     "text": "formal",
+     "meaning": "정식의",
+     "level": 2
+    },
+    {
+     "text": "investigation",
+     "meaning": "조사",
+     "level": 2
+    },
+    {
+     "text": "submitted",
+     "meaning": "제출된",
+     "level": 2
+    },
+    {
+     "text": "commission",
+     "meaning": "위원회(공정위)",
+     "level": 2
+    },
+    {
+     "text": "uncertainty",
+     "meaning": "불확실성",
+     "level": 3
+    },
+    {
+     "text": "differ",
+     "meaning": "서로 다르다",
+     "level": 2
+    },
+    {
+     "text": "estimated",
+     "meaning": "추산했다",
+     "level": 3
+    },
+    {
+     "text": "calculated",
+     "meaning": "산정된",
      "level": 3
     }
    ],
@@ -19419,6 +26639,151 @@
     {
      "text": "persisted",
      "meaning": "이어졌다",
+     "level": 3
+    },
+    {
+     "text": "17th Cavalry Regiment",
+     "meaning": "제17기병연대",
+     "level": 3
+    },
+    {
+     "text": "United States",
+     "meaning": "미국",
+     "level": 1
+    },
+    {
+     "text": "kilometers",
+     "meaning": "킬로미터",
+     "level": 1
+    },
+    {
+     "text": "confirmation",
+     "meaning": "확인",
+     "level": 2
+    },
+    {
+     "text": "amid",
+     "meaning": "~가 이어지는 가운데",
+     "level": 3
+    },
+    {
+     "text": "broader",
+     "meaning": "더 폭넓은",
+     "level": 2
+    },
+    {
+     "text": "posed",
+     "meaning": "(위협을) 제기한",
+     "level": 3
+    },
+    {
+     "text": "capabilities",
+     "meaning": "(군사) 능력",
+     "level": 3
+    },
+    {
+     "text": "requirements",
+     "meaning": "요구 사항, 소요",
+     "level": 3
+    },
+    {
+     "text": "peninsula",
+     "meaning": "(한)반도",
+     "level": 2
+    },
+    {
+     "text": "official",
+     "meaning": "관계자",
+     "level": 2
+    },
+    {
+     "text": "separately",
+     "meaning": "별도로",
+     "level": 2
+    },
+    {
+     "text": "adjustments",
+     "meaning": "조정",
+     "level": 3
+    },
+    {
+     "text": "ongoing",
+     "meaning": "진행 중인",
+     "level": 2
+    },
+    {
+     "text": "modernization",
+     "meaning": "현대화",
+     "level": 3
+    },
+    {
+     "text": "strengthen",
+     "meaning": "강화하다",
+     "level": 2
+    },
+    {
+     "text": "capability",
+     "meaning": "능력",
+     "level": 2
+    },
+    {
+     "text": "operations",
+     "meaning": "활동, 작전",
+     "level": 2
+    },
+    {
+     "text": "fate",
+     "meaning": "운명, 향방",
+     "level": 3
+    },
+    {
+     "text": "regards",
+     "meaning": "~로 여기다",
+     "level": 2
+    },
+    {
+     "text": "initiative",
+     "meaning": "계획, 구상",
+     "level": 3
+    },
+    {
+     "text": "assets",
+     "meaning": "(군사) 전력, 자산",
+     "level": 3
+    },
+    {
+     "text": "reinforce",
+     "meaning": "보강하다",
+     "level": 3
+    },
+    {
+     "text": "increasingly",
+     "meaning": "점점 더",
+     "level": 2
+    },
+    {
+     "text": "personnel",
+     "meaning": "인원, 병력",
+     "level": 3
+    },
+    {
+     "text": "helicopters",
+     "meaning": "헬기",
+     "level": 2
+    },
+    {
+     "text": "unclear",
+     "meaning": "불분명한",
+     "level": 2
+    },
+    {
+     "text": "stability",
+     "meaning": "안정성",
+     "level": 2
+    },
+    {
+     "text": "enhance",
+     "meaning": "높이다, 강화하다",
      "level": 3
     }
    ],
@@ -19929,6 +27294,36 @@
      "text": "Braves",
      "meaning": "브레이브스(애틀랜타 야구팀)",
      "level": 1
+    },
+    {
+     "text": "signing",
+     "meaning": "영입 계약",
+     "level": 2
+    },
+    {
+     "text": "slipped",
+     "meaning": "미끄러졌다",
+     "level": 2
+    },
+    {
+     "text": "fell",
+     "meaning": "넘어졌다",
+     "level": 1
+    },
+    {
+     "text": "tearing",
+     "meaning": "(힘줄이) 찢어지는",
+     "level": 3
+    },
+    {
+     "text": "proven",
+     "meaning": "~임을 입증한",
+     "level": 3
+    },
+    {
+     "text": "position",
+     "meaning": "포지션, 수비 위치",
+     "level": 1
     }
    ],
    "views": [
@@ -20377,6 +27772,256 @@
      "text": "Denmark",
      "meaning": "덴마크",
      "level": 1
+    },
+    {
+     "text": "maritime",
+     "meaning": "해상의",
+     "level": 3
+    },
+    {
+     "text": "ashore",
+     "meaning": "해안으로, 뭍에",
+     "level": 3
+    },
+    {
+     "text": "vessels",
+     "meaning": "선박",
+     "level": 2
+    },
+    {
+     "text": "escorted",
+     "meaning": "호위했다",
+     "level": 3
+    },
+    {
+     "text": "citing",
+     "meaning": "인용하며",
+     "level": 3
+    },
+    {
+     "text": "arrivals",
+     "meaning": "도착한 사람들",
+     "level": 3
+    },
+    {
+     "text": "4-day-old",
+     "meaning": "생후 4일된",
+     "level": 2
+    },
+    {
+     "text": "day-old",
+     "meaning": "~일 된",
+     "level": 2
+    },
+    {
+     "text": "regional",
+     "meaning": "지역의",
+     "level": 2
+    },
+    {
+     "text": "historic",
+     "meaning": "역사적인",
+     "level": 2
+    },
+    {
+     "text": "amid",
+     "meaning": "~ 속에서, 가운데",
+     "level": 3
+    },
+    {
+     "text": "migration",
+     "meaning": "이주",
+     "level": 2
+    },
+    {
+     "text": "pressure",
+     "meaning": "압박",
+     "level": 2
+    },
+    {
+     "text": "urgent",
+     "meaning": "긴급한",
+     "level": 2
+    },
+    {
+     "text": "response",
+     "meaning": "대응",
+     "level": 2
+    },
+    {
+     "text": "Departures",
+     "meaning": "(아프리카) 출발",
+     "level": 2
+    },
+    {
+     "text": "seasonal",
+     "meaning": "계절에 따른",
+     "level": 3
+    },
+    {
+     "text": "favorable",
+     "meaning": "유리한, 좋은",
+     "level": 3
+    },
+    {
+     "text": "sailing",
+     "meaning": "항해",
+     "level": 2
+    },
+    {
+     "text": "aboard",
+     "meaning": "승선한",
+     "level": 3
+    },
+    {
+     "text": "curb",
+     "meaning": "억제하다",
+     "level": 3
+    },
+    {
+     "text": "Canaries",
+     "meaning": "카나리아 제도",
+     "level": 2
+    },
+    {
+     "text": "kilometers",
+     "meaning": "킬로미터",
+     "level": 1
+    },
+    {
+     "text": "deadliest",
+     "meaning": "가장 치명적인",
+     "level": 3
+    },
+    {
+     "text": "crossings",
+     "meaning": "(바다) 횡단",
+     "level": 3
+    },
+    {
+     "text": "organize",
+     "meaning": "조직하다",
+     "level": 2
+    },
+    {
+     "text": "dehydration",
+     "meaning": "탈수",
+     "level": 3
+    },
+    {
+     "text": "population",
+     "meaning": "인구",
+     "level": 2
+    },
+    {
+     "text": "exhausted",
+     "meaning": "기진맥진한",
+     "level": 3
+    },
+    {
+     "text": "broadly",
+     "meaning": "대체로",
+     "level": 3
+    },
+    {
+     "text": "satisfied",
+     "meaning": "만족한",
+     "level": 2
+    },
+    {
+     "text": "mainland",
+     "meaning": "(스페인) 본토",
+     "level": 3
+    },
+    {
+     "text": "weigh",
+     "meaning": "영향을 미치다",
+     "level": 3
+    },
+    {
+     "text": "heavily",
+     "meaning": "크게",
+     "level": 2
+    },
+    {
+     "text": "voters",
+     "meaning": "유권자",
+     "level": 2
+    },
+    {
+     "text": "conservative",
+     "meaning": "보수 성향의",
+     "level": 2
+    },
+    {
+     "text": "expelling",
+     "meaning": "추방하는 것",
+     "level": 3
+    },
+    {
+     "text": "govern",
+     "meaning": "통치하다",
+     "level": 3
+    },
+    {
+     "text": "criticism",
+     "meaning": "비판",
+     "level": 2
+    },
+    {
+     "text": "opposition",
+     "meaning": "야당",
+     "level": 2
+    },
+    {
+     "text": "stance",
+     "meaning": "입장",
+     "level": 3
+    },
+    {
+     "text": "denounced",
+     "meaning": "규탄했다",
+     "level": 3
+    },
+    {
+     "text": "discourse",
+     "meaning": "담론",
+     "level": 4
+    },
+    {
+     "text": "best-ever",
+     "meaning": "사상 최고의",
+     "level": 3
+    },
+    {
+     "text": "prosecuted",
+     "meaning": "기소되다",
+     "level": 3
+    },
+    {
+     "text": "prompted",
+     "meaning": "촉발한",
+     "level": 3
+    },
+    {
+     "text": "tighten",
+     "meaning": "강화하다",
+     "level": 3
+    },
+    {
+     "text": "extend",
+     "meaning": "연장하다, 확대하다",
+     "level": 2
+    },
+    {
+     "text": "warned",
+     "meaning": "경고했다",
+     "level": 2
+    },
+    {
+     "text": "exploiting",
+     "meaning": "착취하는 것",
+     "level": 3
     }
    ],
    "views": [
@@ -20843,6 +28488,151 @@
      "text": "high school",
      "meaning": "고등학교",
      "level": 0
+    },
+    {
+     "text": "escalating",
+     "meaning": "확대하는",
+     "level": 3
+    },
+    {
+     "text": "investigation",
+     "meaning": "수사",
+     "level": 2
+    },
+    {
+     "text": "allegations",
+     "meaning": "의혹",
+     "level": 3
+    },
+    {
+     "text": "cheated",
+     "meaning": "부정행위를 했다",
+     "level": 2
+    },
+    {
+     "text": "artificial",
+     "meaning": "인공의",
+     "level": 1
+    },
+    {
+     "text": "intelligence",
+     "meaning": "지능",
+     "level": 1
+    },
+    {
+     "text": "investigators",
+     "meaning": "수사관들",
+     "level": 3
+    },
+    {
+     "text": "dental",
+     "meaning": "치과의",
+     "level": 2
+    },
+    {
+     "text": "Gwanak-gu",
+     "meaning": "관악구(서울 자치구)",
+     "level": 2
+    },
+    {
+     "text": "Gangbuk-gu",
+     "meaning": "강북구(서울 자치구)",
+     "level": 2
+    },
+    {
+     "text": "disclose",
+     "meaning": "공개하다",
+     "level": 3
+    },
+    {
+     "text": "amid",
+     "meaning": "~ 속에서, 가운데",
+     "level": 3
+    },
+    {
+     "text": "suspicions",
+     "meaning": "의혹",
+     "level": 3
+    },
+    {
+     "text": "accusing",
+     "meaning": "고발하는",
+     "level": 3
+    },
+    {
+     "text": "initially",
+     "meaning": "처음에는",
+     "level": 2
+    },
+    {
+     "text": "sufficient",
+     "meaning": "충분한",
+     "level": 3
+    },
+    {
+     "text": "certified",
+     "meaning": "공인된",
+     "level": 3
+    },
+    {
+     "text": "enforce",
+     "meaning": "시행하다",
+     "level": 3
+    },
+    {
+     "text": "entrance",
+     "meaning": "입학",
+     "level": 2
+    },
+    {
+     "text": "controversy",
+     "meaning": "논란",
+     "level": 2
+    },
+    {
+     "text": "widened",
+     "meaning": "확대됐다",
+     "level": 2
+    },
+    {
+     "text": "announced",
+     "meaning": "발표했다",
+     "level": 2
+    },
+    {
+     "text": "opposition",
+     "meaning": "야당",
+     "level": 2
+    },
+    {
+     "text": "fold",
+     "meaning": "~배",
+     "level": 3
+    },
+    {
+     "text": "legislation",
+     "meaning": "법령, 법규",
+     "level": 3
+    },
+    {
+     "text": "unusually",
+     "meaning": "이례적으로",
+     "level": 3
+    },
+    {
+     "text": "urgency",
+     "meaning": "시급함",
+     "level": 3
+    },
+    {
+     "text": "compromised",
+     "meaning": "훼손했다",
+     "level": 3
+    },
+    {
+     "text": "examinations",
+     "meaning": "시험",
+     "level": 2
     }
    ],
    "views": [
