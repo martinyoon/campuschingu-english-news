@@ -58053,5 +58053,1140 @@
   "meaning": "품었다, 숨겨 주었다",
   "level": 3,
   "added": "2026-11-27-pm"
+ },
+ "mackenzie": {
+  "meaning": "맥켄지(케냐 사이비 교주 폴 맥켄지)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "alp": {
+  "meaning": "알푀게(수학자 레벤트 알푀게)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "huawei": {
+  "meaning": "화웨이(중국 통신·반도체 기업)",
+  "level": 0,
+  "added": "2026-11-28-am"
+ },
+ "ono": {
+  "meaning": "오노(수학 교수 켄 오노)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "cult": {
+  "meaning": "사이비 종교 집단, 컬트",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "ssds": {
+  "meaning": "SSD(반도체 저장장치) 여럿",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "asperti": {
+  "meaning": "아스페르티(컴퓨터과학 교수 안드레아 아스페르티)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "demonetize": {
+  "meaning": "수익화를 막다, 수익 창출을 중단시키다",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "forthcoming": {
+  "meaning": "(자금 등이) 나올 예정인, 제공되는",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "hearn": {
+  "meaning": "에디 헌(복싱 프로모터, 매치룸 대표)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "kononuchenko": {
+  "meaning": "코노누첸코(기후 회의 러시아 대표 세르게이)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "million-line": {
+  "meaning": "수백만 줄 규모의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "mombasa": {
+  "meaning": "몸바사(케냐 해안 도시)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "nvl": {
+  "meaning": "NVL(엔비디아 서버 랙 이름 NVL72의 일부)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "persistence": {
+  "meaning": "끈질김, 지속성",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "promoter": {
+  "meaning": "(경기) 흥행 기획자, 프로모터",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "re-entries": {
+  "meaning": "(우주선·위성의) 대기권 재진입들",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "roald": {
+  "meaning": "로알드(노르웨이 항공사 노르세 CEO)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "saha": {
+  "meaning": "사하(런던 퀸메리대 수학 교수 아비셰크 사하)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "shakahola": {
+  "meaning": "샤카홀라(케냐 숲 지명, 집단 아사 사건 현장)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "shuoyao": {
+  "meaning": "상하이 슈오야오(GPU 랙을 담보로 대출한 중국 회사)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "sybiha": {
+  "meaning": "시비하(우크라이나 외무장관 안드리 시비하)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "tyson": {
+  "meaning": "타이슨 퓨리(영국 헤비급 복서)",
+  "level": 0,
+  "added": "2026-11-28-am"
+ },
+ "aaronson": {
+  "meaning": "아론슨(미 텍사스대 교수 스콧 아론슨, 전 오픈AI 연구원)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "abhishek": {
+  "meaning": "아비셰크(런던 퀸메리대 교수 아비셰크 사하)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "adolf": {
+  "meaning": "아돌프(독일 독재자 아돌프 히틀러)",
+  "level": 0,
+  "added": "2026-11-28-am"
+ },
+ "aercap": {
+  "meaning": "에어캡(항공기 리스 회사)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "ai-or-nothing": {
+  "meaning": "AI를 쓰든지 아예 안 쓰든지 양자택일의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "airbaltic": {
+  "meaning": "에어발틱(라트비아 항공사)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "all-british": {
+  "meaning": "영국인끼리 맞붙는, 영국 선수만의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "anti-diffusion": {
+  "meaning": "(기술) 확산 방지용의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "antipiracy": {
+  "meaning": "해적 방지, 해적 퇴치",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "arendal": {
+  "meaning": "아렌달(노르웨이 남부 도시)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "asa": {
+  "meaning": "ASA(노르웨이 상장 주식회사 표시)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "atim": {
+  "meaning": "아팀(우간다 환경장관 베아트리스 아팀 아니와르)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "back-four": {
+  "meaning": "4백(수비수 네 명을 두는 축구 포메이션)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "back-three": {
+  "meaning": "3백(수비수 세 명을 두는 축구 포메이션)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "badr": {
+  "meaning": "바드르(오만 외무장관 바드르 알부사이디 이름)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "badua": {
+  "meaning": "바두아(하와이 마칭밴드 지휘자 리키 바두아)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "basemen": {
+  "meaning": "(야구) 루수들, 내야수들",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "bathwater": {
+  "meaning": "구정물, 목욕물(버리는 것에 비유)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "battery-swapping": {
+  "meaning": "배터리 교환식의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "beatrice": {
+  "meaning": "베아트리스(우간다 환경장관 베아트리스 아팀 아니와르)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "bipolar": {
+  "meaning": "조울증, 양극성 장애",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "boc": {
+  "meaning": "BOC 항공(항공기 리스 회사)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "break-in": {
+  "meaning": "침입, 해킹으로 뚫고 들어감",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "brutally": {
+  "meaning": "잔혹하게",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "budgetary": {
+  "meaning": "예산의, 예산상의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "busaidi": {
+  "meaning": "부사이디(오만 외무장관 바드르 알부사이디)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "charcoal": {
+  "meaning": "숯",
+  "level": 1,
+  "added": "2026-11-28-am"
+ },
+ "christiana": {
+  "meaning": "크리스티아나(전 유엔 기후협상 수장 크리스티아나 피게레스)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "climate-heating": {
+  "meaning": "기후를 가열하는, 온난화를 일으키는",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "commercial-scale": {
+  "meaning": "상업 규모의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "concurrently": {
+  "meaning": "동시에",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "counterclaims": {
+  "meaning": "반소, 맞고소 주장",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "counterexample": {
+  "meaning": "반례",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "countersues": {
+  "meaning": "맞소송을 제기하다",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "criticising": {
+  "meaning": "비판하는",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "cruelty": {
+  "meaning": "학대, 잔혹 행위",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "cult-related": {
+  "meaning": "사이비 종교 집단과 관련된",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "de-escalation": {
+  "meaning": "긴장 완화",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "degradation": {
+  "meaning": "성능 저하, 열화",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "dispatcher": {
+  "meaning": "작업을 배분하는 배차 프로그램, 디스패처",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "eurythmics": {
+  "meaning": "유리스믹스(영국 팝 듀오)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "expressly": {
+  "meaning": "명시적으로",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "extended-range": {
+  "meaning": "주행거리 연장형의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "family-oriented": {
+  "meaning": "가족 중심의, 가족용의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "fended": {
+  "meaning": "막아 냈다(fend off의 과거형)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "figueres": {
+  "meaning": "피게레스(전 유엔 기후협상 수장 크리스티아나 피게레스)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "finlay": {
+  "meaning": "핀레이(가디언 팟캐스트 진행자 매들린 핀레이)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "five-time": {
+  "meaning": "다섯 차례 우승한",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "francesco": {
+  "meaning": "프란체스코(싱크탱크 비전의 프란체스코 그릴로)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "fundraiser": {
+  "meaning": "모금 행사, 모금 활동",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "gasoline-powered": {
+  "meaning": "휘발유로 달리는",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "geometry": {
+  "meaning": "기하학",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "grillo": {
+  "meaning": "그릴로(싱크탱크 비전의 프란체스코 그릴로)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "guyana": {
+  "meaning": "가이아나(남미 국가, 1978년 집단 자살 사건 현장)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "hawaii": {
+  "meaning": "하와이(미국의 섬 주)",
+  "level": 0,
+  "added": "2026-11-28-am"
+ },
+ "herefordshire": {
+  "meaning": "헤리퍼드셔(영국 잉글랜드 서부 주)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "hitler": {
+  "meaning": "히틀러(독일 나치 독재자)",
+  "level": 0,
+  "added": "2026-11-28-am"
+ },
+ "hugh": {
+  "meaning": "휴(버밍엄대 휴 루이스 교수)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "i-dle": {
+  "meaning": "아이들(한국 걸그룹 (여자)아이들)",
+  "level": 0,
+  "added": "2026-11-28-am"
+ },
+ "ilbo": {
+  "meaning": "일보(신문 이름에 붙는 말, 조선일보)",
+  "level": 0,
+  "added": "2026-11-28-am"
+ },
+ "instantaneously": {
+  "meaning": "즉각, 순식간에",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "intelligence-driven": {
+  "meaning": "인공지능이 이끄는",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "ithuku": {
+  "meaning": "이투쿠(몸바사 법원 판사 알렉스 이투쿠)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "jeopardize": {
+  "meaning": "위태롭게 하다",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "jony": {
+  "meaning": "조니(애플 전 디자이너 조니 아이브)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "kaminski": {
+  "meaning": "카민스키(드파르디외의 변호사 다비드올리비에 카민스키)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "kemp": {
+  "meaning": "켐프(스팬다우 발레 멤버 게리 켐프)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "kleinman": {
+  "meaning": "클라인먼(BBC 기술 편집자 조이 클라인먼)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "koa": {
+  "meaning": "코아(하와이 마칭밴드 이름 나 코아 알리이)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "koh": {
+  "meaning": "고(전 통일연구원장 고유환)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "korean-made": {
+  "meaning": "한국에서 만든",
+  "level": 1,
+  "added": "2026-11-28-am"
+ },
+ "legendary": {
+  "meaning": "전설적인",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "lesser": {
+  "meaning": "더 적은, 덜한",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "lessors": {
+  "meaning": "임대인들, 리스 회사들",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "levent": {
+  "meaning": "레벤트(수학자 레벤트 알푀게)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "lina": {
+  "meaning": "리나(전 미 연방거래위원장 리나 칸)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "londoner": {
+  "meaning": "런던 사람",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "lower-cost": {
+  "meaning": "비용이 더 낮은",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "lvaro": {
+  "meaning": "알바로(수학자 알바로 로사노로블레도)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "magistrate": {
+  "meaning": "(하급) 치안판사",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "marchenko": {
+  "meaning": "마르첸코(주한 러시아 무관 니콜라이 마르첸코)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "massacre": {
+  "meaning": "대학살",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "massacres": {
+  "meaning": "대학살들",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "matchroom": {
+  "meaning": "매치룸(복싱 프로모션 회사)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "maweu": {
+  "meaning": "마웨우(맥켄지의 아내 로다 뭄부아 마웨우)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "medically": {
+  "meaning": "의학적으로",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "meduza": {
+  "meaning": "메두자(러시아 망명 언론)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "meredith": {
+  "meaning": "메러디스(시그널 대표 메러디스 휘태커)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "mikie": {
+  "meaning": "미키(뉴저지 주지사 미키 셰릴)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "minister-counselor": {
+  "meaning": "공사급(대사 아래 외교관 직급)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "mir": {
+  "meaning": "미르(전자프런티어재단 로리 미르)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "misappropriated": {
+  "meaning": "유용했다, 부정하게 가로챘다",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "miserable": {
+  "meaning": "비참한, 끔찍한",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "model-agnostic": {
+  "meaning": "특정 AI 모델에 얽매이지 않는",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "month-old": {
+  "meaning": "한 달 된",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "mook": {
+  "meaning": "문성묵(국가전략연구원 소속 인사)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "mumbua": {
+  "meaning": "뭄부아(맥켄지의 아내 로다 뭄부아 마웨우)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "nand-based": {
+  "meaning": "낸드플래시 기반의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "newborns": {
+  "meaning": "신생아들",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "nikolai": {
+  "meaning": "니콜라이(주한 러시아 무관 니콜라이 마르첸코)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "norfolk": {
+  "meaning": "노퍽(미국 버지니아주 항구 도시)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "np": {
+  "meaning": "NP(P≠NP 난제에 나오는 계산 복잡도 부류)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "nrk": {
+  "meaning": "NRK(노르웨이 공영방송)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "odni": {
+  "meaning": "ODNI(미 국가정보국장실)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "off-the-ball": {
+  "meaning": "공 없는 상황에서의(축구)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "optionally": {
+  "meaning": "선택적으로",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "ornaments": {
+  "meaning": "장신구, 장식품",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "outvoted": {
+  "meaning": "표결에서 진",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "overland": {
+  "meaning": "육로로",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "passive": {
+  "meaning": "소극적인, 수동적인",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "payne": {
+  "meaning": "페인(영국 금융행위감독청 콜린 페인)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "pearland": {
+  "meaning": "피어랜드(미국 텍사스주 도시)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "petabytes": {
+  "meaning": "페타바이트(데이터 단위, 1000조 바이트급)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "pi": {
+  "meaning": "Pi(AI 코딩 에이전트 도구 이름)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "portray": {
+  "meaning": "연기하다, 묘사하다",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "principia": {
+  "meaning": "프린키피아(AI 수학 플랫폼 이름 일부)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "quantum-ai": {
+  "meaning": "양자 컴퓨팅과 AI를 합친",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "quasi-riemann": {
+  "meaning": "준 리만(약한 형태의 리만 가설)",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "re-entry": {
+  "meaning": "(우주선의) 대기권 재진입",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "reengage": {
+  "meaning": "다시 관여하다, 재개하다",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "remarkably": {
+  "meaning": "놀랄 만큼",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "repetitive": {
+  "meaning": "반복적인",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "repurposed": {
+  "meaning": "용도를 바꿔 쓴",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "retrain": {
+  "meaning": "재교육하다",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "rhoda": {
+  "meaning": "로다(맥켄지의 아내 로다 뭄부아 마웨우)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "rickey": {
+  "meaning": "리키(하와이 마칭밴드 지휘자 리키 바두아)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "runner-up": {
+  "meaning": "준우승자, 2등",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "ruto": {
+  "meaning": "루토(케냐 대통령 윌리엄 루토)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "sadness": {
+  "meaning": "슬픔",
+  "level": 1,
+  "added": "2026-11-28-am"
+ },
+ "schizophrenic": {
+  "meaning": "조현병 환자의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "school-provided": {
+  "meaning": "학교가 제공한",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "scouts": {
+  "meaning": "(선수) 스카우트들",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "sectoral": {
+  "meaning": "부문별의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "self-styled": {
+  "meaning": "스스로 그렇게 칭하는",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "sherrill": {
+  "meaning": "셰릴(뉴저지 주지사 미키 셰릴)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "simultaneously": {
+  "meaning": "동시에",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "sincere": {
+  "meaning": "진심 어린",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "sinful": {
+  "meaning": "죄가 되는, 죄 많은",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "slashed": {
+  "meaning": "대폭 줄였다",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "soyeon": {
+  "meaning": "소연(i-dle 멤버, 한국 가수)",
+  "level": 0,
+  "added": "2026-11-28-am"
+ },
+ "space-based": {
+  "meaning": "우주에 기반을 둔",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "sseldorf": {
+  "meaning": "뒤셀도르프(독일 도시)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "storm-related": {
+  "meaning": "폭풍과 관련된",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "summarised": {
+  "meaning": "요약된",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "sun-synchronous": {
+  "meaning": "태양동기(항상 같은 태양 각도를 유지하는 궤도)",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "swappable": {
+  "meaning": "교체할 수 있는",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "sylvain": {
+  "meaning": "실뱅(북한이 추방한 스위스 사무소장 실뱅 아스티에)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "synced": {
+  "meaning": "동기화했다",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "tactician": {
+  "meaning": "전술가(감독)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "tanzanian": {
+  "meaning": "탄자니아의",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "tempo": {
+  "meaning": "(활동의) 속도, 템포",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "theater-integrated": {
+  "meaning": "전구(전장 구역) 통합형의",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "then-president-elect": {
+  "meaning": "당시 대통령 당선인이던",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "thiele": {
+  "meaning": "티엘(일리노이주 교육감 행크 티엘)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "ticms": {
+  "meaning": "TICMS(미 공군의 전구 통합 전투 군수품 시스템)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "tirico": {
+  "meaning": "티리코(미국 방송인 마이크 티리코)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "tracy": {
+  "meaning": "트레이시(전 구글 직원 트레이시 피조)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "trillion-won": {
+  "meaning": "조 원 규모의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "turkiye-brokered": {
+  "meaning": "튀르키예가 중재한",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "unchastened": {
+  "meaning": "혼나고도 반성하지 않은",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "unclassified": {
+  "meaning": "기밀이 아닌",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "uncritically": {
+  "meaning": "비판 없이",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "undercard": {
+  "meaning": "메인 경기 앞의 하위 경기들",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "understandable": {
+  "meaning": "이해할 수 있는",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "unintentionally": {
+  "meaning": "뜻하지 않게",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "university-provided": {
+  "meaning": "대학이 제공하는",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "unknowingly": {
+  "meaning": "모르고",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "unmanageably": {
+  "meaning": "감당할 수 없을 만큼",
+  "level": 4,
+  "added": "2026-11-28-am"
+ },
+ "up-to-date": {
+  "meaning": "최신의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "uploaders": {
+  "meaning": "업로드하는 사람들",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "vikander": {
+  "meaning": "비칸데르(스웨덴 배우 알리시아 비칸데르)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "volets": {
+  "meaning": "볼레(프랑스어 '덧창', 영화 제목 Les Volets Verts)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "volunteer-led": {
+  "meaning": "자원봉사자가 이끄는",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "waist-high": {
+  "meaning": "허리 높이의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "walkthrough": {
+  "meaning": "(경기 전) 가벼운 동작 확인 연습",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "wba": {
+  "meaning": "WBA(세계복싱협회)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "wladimir": {
+  "meaning": "블라디미르(전 헤비급 챔피언 블라디미르 클리치코)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "working-class": {
+  "meaning": "노동자 계층의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "wssc": {
+  "meaning": "WSSC(미국 메릴랜드 상수도 공사 WSSC 워터)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "xin": {
+  "meaning": "신(수학자 신 장)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "zero-emission": {
+  "meaning": "배출가스가 없는",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "zhuoyu": {
+  "meaning": "줘위(현대차 중국팀이 쓰는 자율주행 보조 시스템)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "zoe": {
+  "meaning": "조이(BBC 기술 편집자 조이 클라인먼)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "zombie": {
+  "meaning": "좀비",
+  "level": 1,
+  "added": "2026-11-28-am"
+ },
+ "milani": {
+  "meaning": "밀라니(유럽우주국 소형 위성 이름)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "carnelli": {
+  "meaning": "카르넬리(헤라 임무 책임자 이안 카르넬리)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "cubesat": {
+  "meaning": "큐브샛(초소형 인공위성)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "cubesats": {
+  "meaning": "큐브샛들(초소형 인공위성)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "earth-based": {
+  "meaning": "지구에 기반한, 지상의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "higher-resolution": {
+  "meaning": "더 높은 해상도의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "juventas": {
+  "meaning": "유벤타스(유럽우주국 소형 위성 이름)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "kathleen": {
+  "meaning": "캐슬린(애넌버그 센터 소장 이름)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "margherita": {
+  "meaning": "마르게리타(타이박 위성 담당자 마르게리타 카르디)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "measles-infected": {
+  "meaning": "홍역에 감염된",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "naomi": {
+  "meaning": "나오미(툴루즈대 행성과학자 나오미 머독)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "naturkunde": {
+  "meaning": "자연사(독일어 · 베를린 자연사 박물관 이름의 일부)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "redirection": {
+  "meaning": "방향 바꾸기, 경로 변경",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "sciencedaily": {
+  "meaning": "사이언스데일리(과학 뉴스 사이트)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "shoebox-sized": {
+  "meaning": "신발 상자만 한 크기의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "ssrs": {
+  "meaning": "SSRS(미국 여론조사 기관)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "stadium-size": {
+  "meaning": "경기장만 한 크기의",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "toulouse": {
+  "meaning": "툴루즈(프랑스 도시)",
+  "level": 3,
+  "added": "2026-11-28-am"
+ },
+ "two-dose": {
+  "meaning": "2회 접종의, 두 번 맞는",
+  "level": 2,
+  "added": "2026-11-28-am"
+ },
+ "tyvak": {
+  "meaning": "타이박(미국 우주 기업)",
+  "level": 3,
+  "added": "2026-11-28-am"
  }
 }
