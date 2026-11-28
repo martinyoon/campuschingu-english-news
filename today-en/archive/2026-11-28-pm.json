@@ -1,0 +1,2356 @@
+{
+ "edition": "2026-11-28-pm",
+ "publishedAt": "2026-11-28T09:22:06+00:00",
+ "issues": [
+  {
+   "key": "2026-11-28-pm-1",
+   "topic": "경제",
+   "title": "GS Breaks Ground on AI Data Center in Donghae, Gangwon, With President Lee in Attendance",
+   "titleKo": "강원 동해에서 GS AI 데이터센터 착공, 이재명 대통령도 착공식 참석",
+   "summary": "GS Group on the 28th began the first phase of a 1.2GW AI data center in Donghae, Gangwon Province. President Lee Jae Myung attended the groundbreaking ceremony and said the government would mobilize all its capabilities in the AI race.",
+   "why": "Local youth hiring and university-linked courses are being pursued together, which is useful for college students thinking about careers in AI infrastructure.",
+   "paragraphs": [
+    {
+     "en": "GS Group held a groundbreaking ceremony for an AI data center on the 28th at the Bukpyeong Second General Industrial Complex in Donghae, Gangwon Special Self-Governing Province. More than 270 people attended, including President Lee Jae Myung, GS Group Chairman Huh Tae-soo, Gangwon Gov. Woo Sang-ho and Deputy Prime Minister and Science Minister Bae Kyung-hoon. It is the first case among the government's announced mega projects in which a gigawatt-class AI data center has actually started construction.",
+     "ko": "GS그룹은 28일 강원특별자치도 동해시 북평제2일반산업단지에서 AI 데이터센터 착공식을 열었다. 이재명 대통령, 허태수 GS그룹 회장, 우상호 강원도지사, 배경훈 부총리 겸 과학기술정보통신부 장관 등 270여 명이 참석했다. 정부가 발표한 메가프로젝트 가운데 기가와트급 AI 데이터센터가 실제로 첫 공사에 들어간 사례다.",
+     "sents": [
+      {
+       "en": "GS Group held a groundbreaking ceremony for an AI data center on the 28th at the Bukpyeong Second General Industrial Complex in Donghae, Gangwon Special Self-Governing Province.",
+       "ko": "GS그룹은 28일 강원특별자치도 동해시 북평제2일반산업단지에서 AI 데이터센터 착공식을 열었다."
+      },
+      {
+       "en": "More than 270 people attended, including President Lee Jae Myung, GS Group Chairman Huh Tae-soo, Gangwon Gov. Woo Sang-ho and Deputy Prime Minister and Science Minister Bae Kyung-hoon.",
+       "ko": "이재명 대통령, 허태수 GS그룹 회장, 우상호 강원도지사, 배경훈 부총리 겸 과학기술정보통신부 장관 등 270여 명이 참석했다."
+      },
+      {
+       "en": "It is the first case among the government's announced mega projects in which a gigawatt-class AI data center has actually started construction.",
+       "ko": "정부가 발표한 메가프로젝트 가운데 기가와트급 AI 데이터센터가 실제로 첫 공사에 들어간 사례다."
+      }
+     ]
+    },
+    {
+     "en": "The groundbreaking covers the first phase of the plan GS unveiled at a government public report meeting in June, which totals 2.4GW and up to 120 trillion won. The first phase is 1.2GW, and construction begins with a 100MW-class facility. GS aims to complete it in stages from 2028, with the first phase finished and fully operating in 2029. The company reportedly chose the site because of the east coast's abundant power generation and the possibility of adopting seawater cooling.",
+     "ko": "이번 착공은 지난 6월 정부 국민보고회에서 GS가 밝힌 총 2.4GW, 최대 120조 원 규모 계획 중 1단계에 해당한다. 1단계는 1.2GW 규모이며, 그중 100MW급 시설부터 짓기 시작한다. GS는 2028년부터 순차적으로 완공해 2029년 1단계 준공과 본격 가동을 목표로 하고 있다. 동해안의 풍부한 전력 생산 기반과 해수 냉각 방식 도입 가능성을 고려해 이 부지를 골랐다고 한다.",
+     "sents": [
+      {
+       "en": "The groundbreaking covers the first phase of the plan GS unveiled at a government public report meeting in June, which totals 2.4GW and up to 120 trillion won.",
+       "ko": "이번 착공은 지난 6월 정부 국민보고회에서 GS가 밝힌 총 2.4GW, 최대 120조 원 규모 계획 중 1단계에 해당한다."
+      },
+      {
+       "en": "The first phase is 1.2GW, and construction begins with a 100MW-class facility.",
+       "ko": "1단계는 1.2GW 규모이며, 그중 100MW급 시설부터 짓기 시작한다."
+      },
+      {
+       "en": "GS aims to complete it in stages from 2028, with the first phase finished and fully operating in 2029.",
+       "ko": "GS는 2028년부터 순차적으로 완공해 2029년 1단계 준공과 본격 가동을 목표로 하고 있다."
+      },
+      {
+       "en": "The company reportedly chose the site because of the east coast's abundant power generation and the possibility of adopting seawater cooling.",
+       "ko": "동해안의 풍부한 전력 생산 기반과 해수 냉각 방식 도입 가능성을 고려해 이 부지를 골랐다고 한다."
+      }
+     ]
+    },
+    {
+     "en": "After signing a business agreement with GS and Donghae City in July, Gangwon Province supported licensing procedures such as a power grid impact assessment and building permits. GS plans to hire a certain share of its construction and operating workers from local residents. It also plans to pursue specialized data center courses with universities in the province, including Kangwon National University, Hallym University and Catholic Kwandong University, so that they lead to jobs for local young people. The province projects that direct and indirect operating staff will number from several hundred to about 1,000 after completion.",
+     "ko": "강원도는 지난 7월 GS, 동해시와 업무협약을 맺은 뒤 전력계통영향평가와 건축허가 같은 인허가 절차를 지원했다. GS는 건설 인력과 운영 인력 가운데 일정 비율을 지역 주민으로 채용할 계획이다. 강원대, 한림대, 가톨릭관동대 등 도내 대학과 연계해 데이터센터 전문 교육과정도 추진해 지역 청년의 취업으로 이어지게 한다는 구상이다. 강원도는 준공 뒤 직간접 운영 인력이 수백 명에서 1천여 명에 이를 것으로 내다봤다.",
+     "sents": [
+      {
+       "en": "After signing a business agreement with GS and Donghae City in July, Gangwon Province supported licensing procedures such as a power grid impact assessment and building permits.",
+       "ko": "강원도는 지난 7월 GS, 동해시와 업무협약을 맺은 뒤 전력계통영향평가와 건축허가 같은 인허가 절차를 지원했다."
+      },
+      {
+       "en": "GS plans to hire a certain share of its construction and operating workers from local residents.",
+       "ko": "GS는 건설 인력과 운영 인력 가운데 일정 비율을 지역 주민으로 채용할 계획이다."
+      },
+      {
+       "en": "It also plans to pursue specialized data center courses with universities in the province, including Kangwon National University, Hallym University and Catholic Kwandong University, so that they lead to jobs for local young people.",
+       "ko": "강원대, 한림대, 가톨릭관동대 등 도내 대학과 연계해 데이터센터 전문 교육과정도 추진해 지역 청년의 취업으로 이어지게 한다는 구상이다."
+      },
+      {
+       "en": "The province projects that direct and indirect operating staff will number from several hundred to about 1,000 after completion.",
+       "ko": "강원도는 준공 뒤 직간접 운영 인력이 수백 명에서 1천여 명에 이를 것으로 내다봤다."
+      }
+     ]
+    },
+    {
+     "en": "In his congratulatory speech, Lee said the world is competing at the national level through AI technology and that the government would mobilize all its capabilities. He also said the Gangwon AI data center would be a catalyst for preemptive investment by global companies. Huh said he would do his best to make Donghae a landmark that people visit to see the future of the AI industry. After the event, the president also toured data center cooling technologies from Korean companies including LS Electric, LG Electronics and SDT.",
+     "ko": "이 대통령은 축사에서 세계가 AI 기술로 국가 단위의 경쟁을 벌이고 있다며, 정부가 모든 역량을 동원하겠다고 말했다. 또 강원 AI 데이터센터가 글로벌 기업의 선제적 투자를 이끄는 마중물이 될 것이라고 했다. 허태수 회장은 동해가 AI 산업의 미래를 보러 오는 명소가 되도록 최선을 다하겠다고 밝혔다. 대통령은 행사 뒤 LS일렉트릭, LG전자, SDT 등 국내 기업의 데이터센터 냉각 관련 기술도 둘러봤다.",
+     "sents": [
+      {
+       "en": "In his congratulatory speech, Lee said the world is competing at the national level through AI technology and that the government would mobilize all its capabilities.",
+       "ko": "이 대통령은 축사에서 세계가 AI 기술로 국가 단위의 경쟁을 벌이고 있다며, 정부가 모든 역량을 동원하겠다고 말했다."
+      },
+      {
+       "en": "He also said the Gangwon AI data center would be a catalyst for preemptive investment by global companies.",
+       "ko": "또 강원 AI 데이터센터가 글로벌 기업의 선제적 투자를 이끄는 마중물이 될 것이라고 했다."
+      },
+      {
+       "en": "Huh said he would do his best to make Donghae a landmark that people visit to see the future of the AI industry.",
+       "ko": "허태수 회장은 동해가 AI 산업의 미래를 보러 오는 명소가 되도록 최선을 다하겠다고 밝혔다."
+      },
+      {
+       "en": "After the event, the president also toured data center cooling technologies from Korean companies including LS Electric, LG Electronics and SDT.",
+       "ko": "대통령은 행사 뒤 LS일렉트릭, LG전자, SDT 등 국내 기업의 데이터센터 냉각 관련 기술도 둘러봤다."
+      }
+     ]
+    },
+    {
+     "en": "The government has completed the advance notice of legislation for the subordinate regulations of the special act on promoting the AI data center industry, which takes effect in March next year. The regulations set the exemption range from the power grid impact assessment for data centers outside the capital region at 50MW and lay the basis for designating AI data center special zones. Gangwon Province plans to attract more data centers to Chuncheon, Wonju, Gangneung and Samcheok, using Donghae as a model.",
+     "ko": "정부는 내년 3월 시행되는 AI 데이터센터 산업 진흥 특별법의 하위법령 입법예고를 마쳤다. 비수도권 데이터센터의 전력계통영향평가 면제 범위를 50MW로 정하고 AI 데이터센터 특구 지정 근거를 마련하는 내용이다. 강원도는 동해를 모델로 춘천, 원주, 강릉, 삼척 등에도 데이터센터를 더 유치하겠다는 계획이다.",
+     "sents": [
+      {
+       "en": "The government has completed the advance notice of legislation for the subordinate regulations of the special act on promoting the AI data center industry, which takes effect in March next year.",
+       "ko": "정부는 내년 3월 시행되는 AI 데이터센터 산업 진흥 특별법의 하위법령 입법예고를 마쳤다."
+      },
+      {
+       "en": "The regulations set the exemption range from the power grid impact assessment for data centers outside the capital region at 50MW and lay the basis for designating AI data center special zones.",
+       "ko": "비수도권 데이터센터의 전력계통영향평가 면제 범위를 50MW로 정하고 AI 데이터센터 특구 지정 근거를 마련하는 내용이다."
+      },
+      {
+       "en": "Gangwon Province plans to attract more data centers to Chuncheon, Wonju, Gangneung and Samcheok, using Donghae as a model.",
+       "ko": "강원도는 동해를 모델로 춘천, 원주, 강릉, 삼척 등에도 데이터센터를 더 유치하겠다는 계획이다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "groundbreaking ceremony",
+     "meaning": "착공식",
+     "level": 3
+    },
+    {
+     "text": "mega projects",
+     "meaning": "메가프로젝트",
+     "level": 2
+    },
+    {
+     "text": "gigawatt-class",
+     "meaning": "기가와트급",
+     "level": 3
+    },
+    {
+     "text": "seawater cooling",
+     "meaning": "해수 냉각",
+     "level": 3
+    },
+    {
+     "text": "business agreement",
+     "meaning": "업무협약",
+     "level": 2
+    },
+    {
+     "text": "licensing procedures",
+     "meaning": "인허가 절차",
+     "level": 4
+    },
+    {
+     "text": "power grid impact assessment",
+     "meaning": "전력계통영향평가",
+     "level": 4
+    },
+    {
+     "text": "building permits",
+     "meaning": "건축허가",
+     "level": 2
+    },
+    {
+     "text": "in stages",
+     "meaning": "단계적으로",
+     "level": 2
+    },
+    {
+     "text": "congratulatory speech",
+     "meaning": "축사",
+     "level": 3
+    },
+    {
+     "text": "mobilize",
+     "meaning": "동원하다",
+     "level": 3
+    },
+    {
+     "text": "catalyst",
+     "meaning": "마중물, 촉매",
+     "level": 3
+    },
+    {
+     "text": "preemptive investment",
+     "meaning": "선제적 투자",
+     "level": 3
+    },
+    {
+     "text": "subordinate regulations",
+     "meaning": "하위법령",
+     "level": 4
+    },
+    {
+     "text": "advance notice of legislation",
+     "meaning": "입법예고",
+     "level": 4
+    },
+    {
+     "text": "exemption",
+     "meaning": "면제",
+     "level": 3
+    },
+    {
+     "text": "special zones",
+     "meaning": "특구",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "연합뉴스",
+     "title": "李대통령, 강원도 AIDC 착공식 참석…\"아시아 최대규모 인프라\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261128025151001",
+     "publishedAt": "2026-11-28T15:17:01+09:00"
+    },
+    {
+     "name": "SBS",
+     "title": "이 대통령, 강원 AIDC 착공식 참석…\"아시아 최대 규모 인프라\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867923",
+     "publishedAt": "2026-11-28T16:03:00+09:00"
+    },
+    {
+     "name": "한겨레",
+     "title": "이 대통령 “AI 경쟁서 한 걸음 앞서야 선도국가…모든 역량 동원할 것”",
+     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1289529.html"
+    },
+    {
+     "name": "매일경제",
+     "title": "GS 동해에 기가와트급 AIDC 착공",
+     "url": "https://www.mk.co.kr/news/business/12220680",
+     "publishedAt": "2026-11-28T12:27:56+09:00"
+    },
+    {
+     "name": "한국경제",
+     "title": "李대통령 \"동해 AI 데이터센터, 글로벌 투자 마중물 될 것\"",
+     "url": "https://www.hankyung.com/article/2026112860947",
+     "publishedAt": "2026-11-28T15:26:02+09:00"
+    },
+    {
+     "name": "지디넷코리아",
+     "title": "GS 동해 AI데이터센터 첫삽...메가프로젝트 첫 GW급 착공",
+     "url": "https://zdnet.co.kr/view/?no=20261128143956",
+     "publishedAt": "2026-11-28T14:39:56+09:00"
+    },
+    {
+     "name": "연합뉴스",
+     "title": "아시아 최대 규모 동해 GS AI데이터센터 첫 삽…최대 120조원",
+     "url": "https://www.yna.co.kr/view/AKR20261128029800062",
+     "publishedAt": "2026-11-28T12:03:02+09:00"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-2",
+   "topic": "교육·대학",
+   "title": "To Stop AI Cheating, Universities Bring Metal Detectors and Disposable Gowns to Essay Exams",
+   "titleKo": "AI 커닝 막자, 대학 논술장에 금속탐지기와 일회용 가운 등장",
+   "summary": "At essay exams at Pusan National University and Kyungpook National University on the 28th, metal detector checks, disposable gowns and button stickers were used to prevent cheating with AI devices. Stronger measures, including radio-wave detectors, were also applied for the first time at national health care licensing exams the same day.",
+   "why": "College students preparing for early-admission essay exams or licensing tests should check banned items and dress rules in advance to avoid penalties.",
+   "paragraphs": [
+    {
+     "en": "On the 28th, Pusan National University and Kyungpook National University held essay exams for the 2027 academic year's early admissions round. They enforced tight security measures to prevent cheating with artificial intelligence (AI). The same day, the Ministry of Health and Welfare applied strengthened measures against cheating for the first time to national exams for health care professionals.",
+     "ko": "28일 부산대학교와 경북대학교가 2027학년도 수시모집 논술고사를 치렀다. 두 대학은 인공지능(AI)을 이용한 부정행위를 막기 위해 강도 높은 보안 조치를 시행했다. 같은 날 보건복지부는 보건의료인 국가시험에도 강화된 부정행위 관리 대책을 처음으로 적용했다.",
+     "sents": [
+      {
+       "en": "On the 28th, Pusan National University and Kyungpook National University held essay exams for the 2027 academic year's early admissions round.",
+       "ko": "28일 부산대학교와 경북대학교가 2027학년도 수시모집 논술고사를 치렀다."
+      },
+      {
+       "en": "They enforced tight security measures to prevent cheating with artificial intelligence (AI).",
+       "ko": "두 대학은 인공지능(AI)을 이용한 부정행위를 막기 위해 강도 높은 보안 조치를 시행했다."
+      },
+      {
+       "en": "The same day, the Ministry of Health and Welfare applied strengthened measures against cheating for the first time to national exams for health care professionals.",
+       "ko": "같은 날 보건복지부는 보건의료인 국가시험에도 강화된 부정행위 관리 대책을 처음으로 적용했다."
+      }
+     ]
+    },
+    {
+     "en": "A total of 10,291 students applied for Pusan National University's essay exam, including 6,078 in natural sciences and 4,213 in humanities and social sciences. Examinees could not bring any electronic devices, including mobile phones and smart glasses. They also could not wear accessories such as necklaces, clothes with buttons or zippers, hats or hoodies. On entering the exam rooms, they had their belongings checked with metal detectors and put on disposable gowns handed out by the school. Belongings left in the hallway underwent a separate radio-wave detection check, and restrooms were inspected before and after the exam.",
+     "ko": "부산대 논술에는 자연 계열 6천78명, 인문·사회 계열 4천213명 등 모두 1만291명이 지원했다. 수험생은 휴대전화와 스마트 안경 등 모든 전자 기기를 가져갈 수 없었다. 목걸이 같은 장신구와 단추·지퍼가 달린 옷, 모자, 후드티도 입을 수 없었다. 고사실에 들어갈 때는 금속탐지기로 소지품을 검사받고 학교가 나눠 준 일회용 가운을 입었다. 복도에 둔 소지품은 별도의 전파 탐지 검사를 받았고, 시험 전후로 화장실도 점검했다.",
+     "sents": [
+      {
+       "en": "A total of 10,291 students applied for Pusan National University's essay exam, including 6,078 in natural sciences and 4,213 in humanities and social sciences.",
+       "ko": "부산대 논술에는 자연 계열 6천78명, 인문·사회 계열 4천213명 등 모두 1만291명이 지원했다."
+      },
+      {
+       "en": "Examinees could not bring any electronic devices, including mobile phones and smart glasses.",
+       "ko": "수험생은 휴대전화와 스마트 안경 등 모든 전자 기기를 가져갈 수 없었다."
+      },
+      {
+       "en": "They also could not wear accessories such as necklaces, clothes with buttons or zippers, hats or hoodies.",
+       "ko": "목걸이 같은 장신구와 단추·지퍼가 달린 옷, 모자, 후드티도 입을 수 없었다."
+      },
+      {
+       "en": "On entering the exam rooms, they had their belongings checked with metal detectors and put on disposable gowns handed out by the school.",
+       "ko": "고사실에 들어갈 때는 금속탐지기로 소지품을 검사받고 학교가 나눠 준 일회용 가운을 입었다."
+      },
+      {
+       "en": "Belongings left in the hallway underwent a separate radio-wave detection check, and restrooms were inspected before and after the exam.",
+       "ko": "복도에 둔 소지품은 별도의 전파 탐지 검사를 받았고, 시험 전후로 화장실도 점검했다."
+      }
+     ]
+    },
+    {
+     "en": "Kyungpook National University's essay exam (AAT) drew 11,301 applicants for 550 spots, a competition ratio of 20.55 to 1. The university ran metal detector checks on all examinees, had them attach stickers to clothing buttons, and handed out ballpoint pens, mechanical pencils and erasers all at once on site. The university explained that licensing exam management has been put on alert after this year's top passer of the certified tax accountant exam admitted to cheating with an AI smart device. Examinees found with banned devices or refusing inspection will be treated as cheaters and have the exam invalidated.",
+     "ko": "경북대 논술(AAT)은 550명 모집에 1만1천301명이 지원해 경쟁률이 20.55대 1이었다. 경북대는 모든 수험생에게 금속탐지기 검사를 하고, 옷 단추에는 스티커를 붙이게 했으며, 볼펜과 샤프, 지우개는 현장에서 한꺼번에 나눠 줬다. 대학 측은 올해 세무사 시험 수석 합격자가 AI 스마트 기기를 이용한 부정행위를 시인한 일로 자격시험 관리에 비상이 걸렸다고 설명했다. 금지 기기를 갖고 있다가 적발되거나 검사에 응하지 않으면 부정행위로 보고 해당 고사를 무효로 처리하기로 했다.",
+     "sents": [
+      {
+       "en": "Kyungpook National University's essay exam (AAT) drew 11,301 applicants for 550 spots, a competition ratio of 20.55 to 1.",
+       "ko": "경북대 논술(AAT)은 550명 모집에 1만1천301명이 지원해 경쟁률이 20.55대 1이었다."
+      },
+      {
+       "en": "The university ran metal detector checks on all examinees, had them attach stickers to clothing buttons, and handed out ballpoint pens, mechanical pencils and erasers all at once on site.",
+       "ko": "경북대는 모든 수험생에게 금속탐지기 검사를 하고, 옷 단추에는 스티커를 붙이게 했으며, 볼펜과 샤프, 지우개는 현장에서 한꺼번에 나눠 줬다."
+      },
+      {
+       "en": "The university explained that licensing exam management has been put on alert after this year's top passer of the certified tax accountant exam admitted to cheating with an AI smart device.",
+       "ko": "대학 측은 올해 세무사 시험 수석 합격자가 AI 스마트 기기를 이용한 부정행위를 시인한 일로 자격시험 관리에 비상이 걸렸다고 설명했다."
+      },
+      {
+       "en": "Examinees found with banned devices or refusing inspection will be treated as cheaters and have the exam invalidated.",
+       "ko": "금지 기기를 갖고 있다가 적발되거나 검사에 응하지 않으면 부정행위로 보고 해당 고사를 무효로 처리하기로 했다."
+      }
+     ]
+    },
+    {
+     "en": "Reactions from examinees and parents were mixed. One examinee said the thorough belongings check was not inconvenient, but another said they worried that such measures alone might not stop all cheating with AI devices. Pusan National University said it had announced the security details in advance and would treat failure to comply as cheating.",
+     "ko": "수험생과 학부모의 반응은 엇갈렸다. 한 수험생은 소지품 검사가 철저했어도 불편하지 않았다고 했지만, 다른 수험생은 이런 조치만으로 AI 기기를 이용한 부정행위를 모두 막을 수 있을지 걱정된다고 했다. 부산대는 보안 조치의 세부 내용을 미리 안내했고 따르지 않으면 부정행위로 간주한다고 밝혔다.",
+     "sents": [
+      {
+       "en": "Reactions from examinees and parents were mixed.",
+       "ko": "수험생과 학부모의 반응은 엇갈렸다."
+      },
+      {
+       "en": "One examinee said the thorough belongings check was not inconvenient, but another said they worried that such measures alone might not stop all cheating with AI devices.",
+       "ko": "한 수험생은 소지품 검사가 철저했어도 불편하지 않았다고 했지만, 다른 수험생은 이런 조치만으로 AI 기기를 이용한 부정행위를 모두 막을 수 있을지 걱정된다고 했다."
+      },
+      {
+       "en": "Pusan National University said it had announced the security details in advance and would treat failure to comply as cheating.",
+       "ko": "부산대는 보안 조치의 세부 내용을 미리 안내했고 따르지 않으면 부정행위로 간주한다고 밝혔다."
+      }
+     ]
+    },
+    {
+     "en": "Health and Welfare Minister Jung Eun-kyung visited a dental technician national exam site at Yongsan Railway High School in Seoul that day to check how the measures were being carried out. At the four exams, taken by about 4,000 people at 23 sites in nine cities and provinces nationwide, all electronic devices were collected and radio-wave detectors were operated. A new procedure of randomly calling phones to confirm whether devices had been handed in was also added. Gown-type full-body covers will be applied first to computer-based tests (CBT) because of a supply shortage. The ministry said it would also prepare for the national exams for doctors, Korean medicine doctors and nurses early next year. The first successful applicants for Pusan National University's essay exam will be announced on the 18th of next month.",
+     "ko": "복지부 정은경 장관은 이날 서울 용산철도고등학교의 치과기공사 국가시험장을 찾아 대책 이행 상황을 살폈다. 전국 9개 시·도 23개 시험장에서 4천여 명이 응시한 4종 시험에서 전자기기를 모두 거두고 전파탐지기를 운용했다. 무작위로 전화를 걸어 기기 제출 여부를 확인하는 절차도 새로 생겼다. 가운형 전신 가리개는 물량 부족으로 컴퓨터 기반 시험(CBT)부터 먼저 적용한다. 복지부는 내년 초 의사·한의사·간호사 국가시험에도 대비하겠다고 했다. 부산대 논술 최초 합격자는 다음 달 18일에 발표된다.",
+     "sents": [
+      {
+       "en": "Health and Welfare Minister Jung Eun-kyung visited a dental technician national exam site at Yongsan Railway High School in Seoul that day to check how the measures were being carried out.",
+       "ko": "복지부 정은경 장관은 이날 서울 용산철도고등학교의 치과기공사 국가시험장을 찾아 대책 이행 상황을 살폈다."
+      },
+      {
+       "en": "At the four exams, taken by about 4,000 people at 23 sites in nine cities and provinces nationwide, all electronic devices were collected and radio-wave detectors were operated.",
+       "ko": "전국 9개 시·도 23개 시험장에서 4천여 명이 응시한 4종 시험에서 전자기기를 모두 거두고 전파탐지기를 운용했다."
+      },
+      {
+       "en": "A new procedure of randomly calling phones to confirm whether devices had been handed in was also added.",
+       "ko": "무작위로 전화를 걸어 기기 제출 여부를 확인하는 절차도 새로 생겼다."
+      },
+      {
+       "en": "Gown-type full-body covers will be applied first to computer-based tests (CBT) because of a supply shortage.",
+       "ko": "가운형 전신 가리개는 물량 부족으로 컴퓨터 기반 시험(CBT)부터 먼저 적용한다."
+      },
+      {
+       "en": "The ministry said it would also prepare for the national exams for doctors, Korean medicine doctors and nurses early next year.",
+       "ko": "복지부는 내년 초 의사·한의사·간호사 국가시험에도 대비하겠다고 했다."
+      },
+      {
+       "en": "The first successful applicants for Pusan National University's essay exam will be announced on the 18th of next month.",
+       "ko": "부산대 논술 최초 합격자는 다음 달 18일에 발표된다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "essay exam",
+     "meaning": "논술고사",
+     "level": 1
+    },
+    {
+     "text": "early admissions",
+     "meaning": "수시모집",
+     "level": 2
+    },
+    {
+     "text": "cheating",
+     "meaning": "부정행위, 커닝",
+     "level": 1
+    },
+    {
+     "text": "metal detectors",
+     "meaning": "금속탐지기",
+     "level": 2
+    },
+    {
+     "text": "disposable gowns",
+     "meaning": "일회용 가운",
+     "level": 2
+    },
+    {
+     "text": "accessories",
+     "meaning": "장신구",
+     "level": 2
+    },
+    {
+     "text": "examinees",
+     "meaning": "수험생",
+     "level": 2
+    },
+    {
+     "text": "radio-wave detection",
+     "meaning": "전파 탐지",
+     "level": 3
+    },
+    {
+     "text": "competition ratio",
+     "meaning": "경쟁률",
+     "level": 2
+    },
+    {
+     "text": "admitted",
+     "meaning": "시인했다",
+     "level": 2
+    },
+    {
+     "text": "banned devices",
+     "meaning": "금지 기기",
+     "level": 2
+    },
+    {
+     "text": "invalidated",
+     "meaning": "무효 처리된",
+     "level": 3
+    },
+    {
+     "text": "comply",
+     "meaning": "따르다, 준수하다",
+     "level": 3
+    },
+    {
+     "text": "radio-wave detectors",
+     "meaning": "전파탐지기",
+     "level": 3
+    },
+    {
+     "text": "supply shortage",
+     "meaning": "물량 부족",
+     "level": 3
+    },
+    {
+     "text": "computer-based tests",
+     "meaning": "컴퓨터 기반 시험",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "연합뉴스",
+     "title": "부산대 수시 논술 1만291명 지원…일회용 가운·금속탐지기 동원",
+     "url": "https://www.yna.co.kr/view/AKR20261128040800051",
+     "publishedAt": "2026-11-28T16:56:12+09:00"
+    },
+    {
+     "name": "한겨레",
+     "title": "정은경, ‘AI 부정행위 대책’ 첫 적용 보건의료 국가시험 현장 점검",
+     "url": "https://www.hani.co.kr/arti/society/rights/1289525.html"
+    },
+    {
+     "name": "매일경제",
+     "title": "“후드티도 단추도 벗어라”…‘AI 커닝’ 막으려 금속탐지기 뜬 대학 논술장",
+     "url": "https://www.mk.co.kr/news/society/12220729",
+     "publishedAt": "2026-11-28T17:15:48+09:00"
+    },
+    {
+     "name": "연합뉴스",
+     "title": "[르포] 가운 입고 치른 부산대 논술…수험생도 학부모도 '긴장'",
+     "url": "https://www.yna.co.kr/view/AKR20261128025600051",
+     "publishedAt": "2026-11-28T10:49:23+09:00"
+    },
+    {
+     "name": "연합뉴스",
+     "title": "\"오해 싫어 단추 없는 옷\"…AI부정행위 우려 속 경북대 논술고사",
+     "url": "https://www.yna.co.kr/view/AKR20261128023300053",
+     "publishedAt": "2026-11-28T10:05:33+09:00"
+    },
+    {
+     "name": "매일경제",
+     "title": "AI 부정행위 확산에 국가시험서 전신가리개까지 등장",
+     "url": "https://www.mk.co.kr/news/society/12220693",
+     "publishedAt": "2026-11-28T14:28:29+09:00"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-3",
+   "topic": "일자리",
+   "title": "POSCO Labor and Management Settle Wage Talks After Five Months, With 65% of Union Members in Favor",
+   "titleKo": "포스코 노사 임금교섭 5개월여 만에 타결, 조합원 65% 찬성",
+   "summary": "POSCO's labor and management finalized this year's wage talks on the 28th after a vote of all union members approved the tentative agreement. The deal passed with 65.01% in favor and includes a 2.6% base pay increase and incentive payments.",
+   "why": "As the wage outcome at a leading Korean manufacturer, it helps college students considering jobs in the steel industry gauge pay levels.",
+   "paragraphs": [
+    {
+     "en": "POSCO's wage negotiations for this year have concluded. The POSCO Labor Union, the main bargaining union and an affiliate of the Korean Metal Workers' Federation of the Federation of Korean Trade Unions, put the tentative agreement to a vote of all its members on the 28th. A majority voted in favor, and the deal passed.",
+     "ko": "포스코 노사의 올해 임금 교섭이 마무리됐다. 대표 교섭노조인 한국노총 금속노련 포스코노동조합이 28일 잠정 합의안을 놓고 전체 조합원 투표를 했다. 과반이 찬성해 가결됐다.",
+     "sents": [
+      {
+       "en": "POSCO's wage negotiations for this year have concluded.",
+       "ko": "포스코 노사의 올해 임금 교섭이 마무리됐다."
+      },
+      {
+       "en": "The POSCO Labor Union, the main bargaining union and an affiliate of the Korean Metal Workers' Federation of the Federation of Korean Trade Unions, put the tentative agreement to a vote of all its members on the 28th.",
+       "ko": "대표 교섭노조인 한국노총 금속노련 포스코노동조합이 28일 잠정 합의안을 놓고 전체 조합원 투표를 했다."
+      },
+      {
+       "en": "A majority voted in favor, and the deal passed.",
+       "ko": "과반이 찬성해 가결됐다."
+      }
+     ]
+    },
+    {
+     "en": "A total of 65.01% (5,936 votes) voted in favor and 34.99% (3,195 votes) voted against. Labor and management began talks on June 16, and the process ran on for more than five months. The new agreement passed 21 days after the first tentative agreement was voted down in a union member vote on the 7th of this month.",
+     "ko": "찬성은 65.01%(5천936표), 반대는 34.99%(3천195표)였다. 노사는 6월 16일 교섭을 시작해 5개월여를 끌었다. 이달 7일 조합원 투표에서 첫 잠정 합의안이 부결된 지 21일 만에 다시 합의안이 통과된 것이다.",
+     "sents": [
+      {
+       "en": "A total of 65.01% (5,936 votes) voted in favor and 34.99% (3,195 votes) voted against.",
+       "ko": "찬성은 65.01%(5천936표), 반대는 34.99%(3천195표)였다."
+      },
+      {
+       "en": "Labor and management began talks on June 16, and the process ran on for more than five months.",
+       "ko": "노사는 6월 16일 교섭을 시작해 5개월여를 끌었다."
+      },
+      {
+       "en": "The new agreement passed 21 days after the first tentative agreement was voted down in a union member vote on the 7th of this month.",
+       "ko": "이달 7일 조합원 투표에서 첫 잠정 합의안이 부결된 지 21일 만에 다시 합의안이 통과된 것이다."
+      }
+     ]
+    },
+    {
+     "en": "The agreement includes a 2.6% increase in base pay. It also provides a 3.5 million won goal-achievement incentive, a 2.2 million won settlement celebration and labor-management harmony bonus, and 500,000 won in local gift certificates. Compared with the first agreement, the incentive rose by 200,000 won, medical expense support improved, and a special adjustment payment of 600,000 won was newly added.",
+     "ko": "이번 합의안에는 기본임금 2.6% 인상이 담겼다. 목표달성 격려금 350만 원, 타결축하·노사화합장려금 220만 원, 지역사랑상품권 50만 원도 지급한다. 첫 합의안보다 격려금이 20만 원 늘고 의료비 지원이 개선됐으며, 특별조정분 60만 원이 새로 들어갔다.",
+     "sents": [
+      {
+       "en": "The agreement includes a 2.6% increase in base pay.",
+       "ko": "이번 합의안에는 기본임금 2.6% 인상이 담겼다."
+      },
+      {
+       "en": "It also provides a 3.5 million won goal-achievement incentive, a 2.2 million won settlement celebration and labor-management harmony bonus, and 500,000 won in local gift certificates.",
+       "ko": "목표달성 격려금 350만 원, 타결축하·노사화합장려금 220만 원, 지역사랑상품권 50만 원도 지급한다."
+      },
+      {
+       "en": "Compared with the first agreement, the incentive rose by 200,000 won, medical expense support improved, and a special adjustment payment of 600,000 won was newly added.",
+       "ko": "첫 합의안보다 격려금이 20만 원 늘고 의료비 지원이 개선됐으며, 특별조정분 60만 원이 새로 들어갔다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "wage negotiations",
+     "meaning": "임금교섭",
+     "level": 3
+    },
+    {
+     "text": "bargaining union",
+     "meaning": "교섭노조",
+     "level": 4
+    },
+    {
+     "text": "tentative agreement",
+     "meaning": "잠정 합의안",
+     "level": 3
+    },
+    {
+     "text": "majority",
+     "meaning": "과반",
+     "level": 2
+    },
+    {
+     "text": "in favor",
+     "meaning": "찬성하여",
+     "level": 2
+    },
+    {
+     "text": "labor and management",
+     "meaning": "노사",
+     "level": 3
+    },
+    {
+     "text": "voted down",
+     "meaning": "부결됐다",
+     "level": 3
+    },
+    {
+     "text": "base pay",
+     "meaning": "기본임금",
+     "level": 2
+    },
+    {
+     "text": "incentive",
+     "meaning": "격려금",
+     "level": 3
+    },
+    {
+     "text": "settlement",
+     "meaning": "타결",
+     "level": 3
+    },
+    {
+     "text": "gift certificates",
+     "meaning": "상품권",
+     "level": 2
+    },
+    {
+     "text": "medical expense",
+     "meaning": "의료비",
+     "level": 2
+    },
+    {
+     "text": "adjustment payment",
+     "meaning": "조정분",
+     "level": 3
+    },
+    {
+     "text": "affiliate",
+     "meaning": "산하 조직",
+     "level": 3
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%ED%8F%AC%EC%8A%A4%EC%BD%94_%ED%8F%AC%ED%95%AD.jpg/1280px-%ED%8F%AC%EC%8A%A4%EC%BD%94_%ED%8F%AC%ED%95%AD.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%ED%8F%AC%EC%8A%A4%EC%BD%94_%ED%8F%AC%ED%95%AD.jpg",
+    "author": "Aatu Dorochenko",
+    "license": "CC BY-SA 4.0"
+   },
+   "sources": [
+    {
+     "name": "연합뉴스",
+     "title": "포스코 노사 임금교섭 진통 끝에 최종 타결…노조원 65% 찬성",
+     "url": "https://www.yna.co.kr/view/AKR20261128041800053",
+     "publishedAt": "2026-11-28T17:10:49+09:00"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-4",
+   "topic": "생활",
+   "title": "Cheaper Than Korea: Mounjaro Buying Trips to Japan's Tsushima Island Surge",
+   "titleKo": "한국보다 싸다며 대마도로 향하는 마운자로 구매 원정이 늘었다",
+   "summary": "Since the government allowed obesity drugs prescribed overseas to be brought into Korea, the number of Koreans traveling to Japan's Tsushima Island to buy Mounjaro has risen sharply. In Japan, the drug is managed at a national health insurance price, so it costs far less than in Korea.",
+   "why": "College students who want to use obesity drugs would do well to know why prices differ and what time and money overseas purchases involve.",
+   "paragraphs": [
+    {
+     "en": "Since the 12th, when the government began allowing obesity drugs formally prescribed overseas to be brought into Korea, the number of Koreans heading to Japan's Tsushima Island (Daemado) to buy Mounjaro has surged. The trend of traveling to cheaper Japan has even produced a coinage, \"sushijaro,\" a blend of sushi and Mounjaro.",
+     "ko": "정부가 지난 12일부터 해외에서 정식 처방받은 비만치료제를 국내로 가져오는 것을 허용한 뒤, 일본 쓰시마섬(대마도)으로 마운자로를 사러 가는 한국인이 급증하고 있다. 값이 싼 일본으로 원정을 가는 흐름을 두고 '스시자로(스시와 마운자로)'라는 말까지 생겼다.",
+     "sents": [
+      {
+       "en": "Since the 12th, when the government began allowing obesity drugs formally prescribed overseas to be brought into Korea, the number of Koreans heading to Japan's Tsushima Island (Daemado) to buy Mounjaro has surged.",
+       "ko": "정부가 지난 12일부터 해외에서 정식 처방받은 비만치료제를 국내로 가져오는 것을 허용한 뒤, 일본 쓰시마섬(대마도)으로 마운자로를 사러 가는 한국인이 급증하고 있다."
+      },
+      {
+       "en": "The trend of traveling to cheaper Japan has even produced a coinage, \"sushijaro,\" a blend of sushi and Mounjaro.",
+       "ko": "값이 싼 일본으로 원정을 가는 흐름을 두고 '스시자로(스시와 마운자로)'라는 말까지 생겼다."
+      }
+     ]
+    },
+    {
+     "en": "Japan's Fuji News Network (FNN) reported on the scene in Tsushima on the 26th. Koreans who had arrived by boat from Busan Port lined up in front of a courier company office. That is because medicine is delivered to the office if people have an online consultation at a Japanese hospital in advance. It is a one-and-a-half-hour boat ride from Busan, so day trips are possible, and day-trip boat tickets to Tsushima are sold out through the 23rd of next month.",
+     "ko": "일본 후지뉴스네트워크(FNN)가 지난 26일 쓰시마 현지 모습을 전했다. 부산항에서 배로 들어온 한국인들이 택배업체 영업소 앞에 줄을 섰다. 일본 병원에서 미리 온라인 진료를 받아 두면 약이 이 영업소로 배송되기 때문이다. 부산에서 배로 1시간 반 거리라 당일치기가 가능하고, 대마도행 당일치기 배편은 다음 달 23일까지 매진됐다.",
+     "sents": [
+      {
+       "en": "Japan's Fuji News Network (FNN) reported on the scene in Tsushima on the 26th.",
+       "ko": "일본 후지뉴스네트워크(FNN)가 지난 26일 쓰시마 현지 모습을 전했다."
+      },
+      {
+       "en": "Koreans who had arrived by boat from Busan Port lined up in front of a courier company office.",
+       "ko": "부산항에서 배로 들어온 한국인들이 택배업체 영업소 앞에 줄을 섰다."
+      },
+      {
+       "en": "That is because medicine is delivered to the office if people have an online consultation at a Japanese hospital in advance.",
+       "ko": "일본 병원에서 미리 온라인 진료를 받아 두면 약이 이 영업소로 배송되기 때문이다."
+      },
+      {
+       "en": "It is a one-and-a-half-hour boat ride from Busan, so day trips are possible, and day-trip boat tickets to Tsushima are sold out through the 23rd of next month.",
+       "ko": "부산에서 배로 1시간 반 거리라 당일치기가 가능하고, 대마도행 당일치기 배편은 다음 달 23일까지 매진됐다."
+      }
+     ]
+    },
+    {
+     "en": "The price gap is large. Four weeks of the lowest dose, 2.5mg, costs around 300,000 won in Korea but 100,000 to 150,000 won in Japan, depending on the medical institution. One buyer featured by the Hankyoreh calculated that two months of the 7.5mg dose cost 550,000 won, even including transport and lodging. In Korea, it is a non-reimbursed item and the government does not set its sale price. In Japan, it is listed under national health insurance as a diabetes treatment and its price is managed, so the gap reportedly reaches up to three to five times.",
+     "ko": "가격 차이는 크다. 최저 용량인 2.5㎎ 4주분은 국내에서 30만 원 안팎이지만 일본에서는 의료기관에 따라 10만~15만 원 수준이다. 한겨레가 소개한 한 구매자는 교통비와 숙박비까지 합쳐도 7.5㎎ 두 달치에 55만 원이 든다고 계산했다. 한국에서는 비급여인 데다 정부가 판매가를 정하지 않는다. 일본은 당뇨병 치료제로 건강보험에 등재돼 약가를 관리하며, 그래서 최대 3~5배 차이가 난다고 한다.",
+     "sents": [
+      {
+       "en": "The price gap is large.",
+       "ko": "가격 차이는 크다."
+      },
+      {
+       "en": "Four weeks of the lowest dose, 2.5mg, costs around 300,000 won in Korea but 100,000 to 150,000 won in Japan, depending on the medical institution.",
+       "ko": "최저 용량인 2.5㎎ 4주분은 국내에서 30만 원 안팎이지만 일본에서는 의료기관에 따라 10만~15만 원 수준이다."
+      },
+      {
+       "en": "One buyer featured by the Hankyoreh calculated that two months of the 7.5mg dose cost 550,000 won, even including transport and lodging.",
+       "ko": "한겨레가 소개한 한 구매자는 교통비와 숙박비까지 합쳐도 7.5㎎ 두 달치에 55만 원이 든다고 계산했다."
+      },
+      {
+       "en": "In Korea, it is a non-reimbursed item and the government does not set its sale price.",
+       "ko": "한국에서는 비급여인 데다 정부가 판매가를 정하지 않는다."
+      },
+      {
+       "en": "In Japan, it is listed under national health insurance as a diabetes treatment and its price is managed, so the gap reportedly reaches up to three to five times.",
+       "ko": "일본은 당뇨병 치료제로 건강보험에 등재돼 약가를 관리하며, 그래서 최대 3~5배 차이가 난다고 한다."
+      }
+     ]
+    },
+    {
+     "en": "Japan sets a standard processing period of 60 days or less from approval of a new drug to listing under national health insurance, and Mounjaro was listed in March 2023. After sales surged, Japan cut the insurance price by 25% in August. In Korea, the maker, Lilly Korea, has applied for coverage as a diabetes treatment, and the Health Insurance Review and Assessment Service is reviewing the request. Until then, the maker sets the price.",
+     "ko": "일본은 신약 허가부터 건강보험 등재까지 표준 처리 기간을 60일 이내로 두고 있고, 마운자로는 2023년 3월 등재됐다. 판매액이 급증하자 지난 8월 보험 약가를 25% 내렸다. 한국에서는 제조사 한국릴리가 당뇨병 치료 목적으로 급여를 신청해 건강보험심사평가원이 검토 중이다. 그 전까지는 제조사가 가격을 정한다.",
+     "sents": [
+      {
+       "en": "Japan sets a standard processing period of 60 days or less from approval of a new drug to listing under national health insurance, and Mounjaro was listed in March 2023.",
+       "ko": "일본은 신약 허가부터 건강보험 등재까지 표준 처리 기간을 60일 이내로 두고 있고, 마운자로는 2023년 3월 등재됐다."
+      },
+      {
+       "en": "After sales surged, Japan cut the insurance price by 25% in August.",
+       "ko": "판매액이 급증하자 지난 8월 보험 약가를 25% 내렸다."
+      },
+      {
+       "en": "In Korea, the maker, Lilly Korea, has applied for coverage as a diabetes treatment, and the Health Insurance Review and Assessment Service is reviewing the request.",
+       "ko": "한국에서는 제조사 한국릴리가 당뇨병 치료 목적으로 급여를 신청해 건강보험심사평가원이 검토 중이다."
+      },
+      {
+       "en": "Until then, the maker sets the price.",
+       "ko": "그 전까지는 제조사가 가격을 정한다."
+      }
+     ]
+    },
+    {
+     "en": "Concerns have also been raised locally. FNN reported that some Tsushima residents complained that hundreds of people arriving at once raised worries about garbage. An official at Korea's Ministry of Health and Welfare said that once the drug is listed under national health insurance, the insurance price could act as a reference point and lower non-reimbursed prices. A pharmacist argued that the government should strengthen drug price adjustment.",
+     "ko": "현지에서는 우려도 나온다. 쓰시마 주민들 사이에서는 수백 명이 한꺼번에 오면서 쓰레기 문제가 걱정된다는 불만이 나왔다고 FNN이 전했다. 한국 복지부 관계자는 건강보험에 등재되면 보험 약가가 기준점 효과를 내 비급여 가격을 낮출 수 있다고 봤다. 한 약사는 정부가 약값 조정을 강화해야 한다고 주장했다.",
+     "sents": [
+      {
+       "en": "Concerns have also been raised locally.",
+       "ko": "현지에서는 우려도 나온다."
+      },
+      {
+       "en": "FNN reported that some Tsushima residents complained that hundreds of people arriving at once raised worries about garbage.",
+       "ko": "쓰시마 주민들 사이에서는 수백 명이 한꺼번에 오면서 쓰레기 문제가 걱정된다는 불만이 나왔다고 FNN이 전했다."
+      },
+      {
+       "en": "An official at Korea's Ministry of Health and Welfare said that once the drug is listed under national health insurance, the insurance price could act as a reference point and lower non-reimbursed prices.",
+       "ko": "한국 복지부 관계자는 건강보험에 등재되면 보험 약가가 기준점 효과를 내 비급여 가격을 낮출 수 있다고 봤다."
+      },
+      {
+       "en": "A pharmacist argued that the government should strengthen drug price adjustment.",
+       "ko": "한 약사는 정부가 약값 조정을 강화해야 한다고 주장했다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "obesity drugs",
+     "meaning": "비만치료제",
+     "level": 2
+    },
+    {
+     "text": "prescribed",
+     "meaning": "처방받은",
+     "level": 2
+    },
+    {
+     "text": "surged",
+     "meaning": "급증했다",
+     "level": 3
+    },
+    {
+     "text": "courier",
+     "meaning": "택배",
+     "level": 3
+    },
+    {
+     "text": "consultation",
+     "meaning": "진료, 상담",
+     "level": 3
+    },
+    {
+     "text": "day trips",
+     "meaning": "당일치기",
+     "level": 2
+    },
+    {
+     "text": "price gap",
+     "meaning": "가격 차이",
+     "level": 2
+    },
+    {
+     "text": "dose",
+     "meaning": "용량",
+     "level": 2
+    },
+    {
+     "text": "lodging",
+     "meaning": "숙박",
+     "level": 3
+    },
+    {
+     "text": "non-reimbursed",
+     "meaning": "비급여의",
+     "level": 4
+    },
+    {
+     "text": "sale price",
+     "meaning": "판매가",
+     "level": 2
+    },
+    {
+     "text": "listed under",
+     "meaning": "~에 등재된",
+     "level": 3
+    },
+    {
+     "text": "diabetes",
+     "meaning": "당뇨병",
+     "level": 2
+    },
+    {
+     "text": "processing period",
+     "meaning": "처리 기간",
+     "level": 3
+    },
+    {
+     "text": "reference point",
+     "meaning": "기준점",
+     "level": 3
+    },
+    {
+     "text": "health insurance",
+     "meaning": "건강보험",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "연합뉴스",
+     "title": "\"韓보다 싸다\"…日 대마도 몰려간 '마운자로 원정대'",
+     "url": "https://www.yna.co.kr/view/AKR20261128035000073",
+     "publishedAt": "2026-11-28T15:08:02+09:00"
+    },
+    {
+     "name": "한겨레",
+     "title": "대마도 배편까지 동낸 ‘반값 마운자로’…한·일 약값 차이의 비밀",
+     "url": "https://www.hani.co.kr/arti/society/health/1289515.html"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-5",
+   "topic": "국제",
+   "title": "Lukashenko Questions Putin's Territorial Logic by Asking Whether Russia Belongs to Mongolia",
+   "titleKo": "루카셴코, 푸틴의 우크라이나 영유권 논리에 '러시아는 몽골 땅이냐'고 반문",
+   "summary": "Belarusian President Lukashenko asked in an interview with a French magazine whether Russia would have to be handed to Mongolia if Putin's logic of historical territorial claims were followed. Overall, however, he kept up his support for Russia.",
+   "why": "To understand the war in Ukraine and the course of negotiations, it helps to also look at what the leader of Russia's closest neighbor and ally says.",
+   "paragraphs": [
+    {
+     "en": "Belarusian President Lukashenko, considered the closest ally of Russian President Putin, has cast a rare doubt on Putin's territorial claims. He asked whether Russia would have to give land to Mongolia if the logic that Ukraine was historically Russian land were followed.",
+     "ko": "푸틴 러시아 대통령의 가장 가까운 동맹으로 꼽히는 루카셴코 벨라루스 대통령이 푸틴의 영토 주장에 드물게 의문을 던졌다. 우크라이나가 역사적으로 러시아 땅이었다는 논리를 따르면 러시아는 몽골에 땅을 내줘야 하느냐고 되물었다.",
+     "sents": [
+      {
+       "en": "Belarusian President Lukashenko, considered the closest ally of Russian President Putin, has cast a rare doubt on Putin's territorial claims.",
+       "ko": "푸틴 러시아 대통령의 가장 가까운 동맹으로 꼽히는 루카셴코 벨라루스 대통령이 푸틴의 영토 주장에 드물게 의문을 던졌다."
+      },
+      {
+       "en": "He asked whether Russia would have to give land to Mongolia if the logic that Ukraine was historically Russian land were followed.",
+       "ko": "우크라이나가 역사적으로 러시아 땅이었다는 논리를 따르면 러시아는 몽골에 땅을 내줘야 하느냐고 되물었다."
+      }
+     ]
+    },
+    {
+     "en": "According to a CNN report on the 27th local time, the remark came in an interview that the French weekly Le Point released on the 25th. Lukashenko said that going further back in history, Russian land was once the land of the Mongol-Tatars.",
+     "ko": "CNN 보도(현지시간 27일)에 따르면 이 말은 프랑스 주간지 르 푸앵이 25일 공개한 인터뷰에 나왔다. 루카셴코 대통령은 역사를 더 거슬러 올라가면 러시아 땅도 한때 몽골-타타르의 땅이었다고 말했다.",
+     "sents": [
+      {
+       "en": "According to a CNN report on the 27th local time, the remark came in an interview that the French weekly Le Point released on the 25th.",
+       "ko": "CNN 보도(현지시간 27일)에 따르면 이 말은 프랑스 주간지 르 푸앵이 25일 공개한 인터뷰에 나왔다."
+      },
+      {
+       "en": "Lukashenko said that going further back in history, Russian land was once the land of the Mongol-Tatars.",
+       "ko": "루카셴코 대통령은 역사를 더 거슬러 올라가면 러시아 땅도 한때 몽골-타타르의 땅이었다고 말했다."
+      }
+     ]
+    },
+    {
+     "en": "Putin has argued that the two countries are historically one, pointing out that Kyiv was the center of ancient Rus in the medieval period. Experts have criticized this as a distortion of history.",
+     "ko": "푸틴 대통령은 키이우가 중세 고대 루스의 중심이었다는 점을 들어 두 나라가 역사적으로 하나라고 주장해 왔다. 전문가들은 이를 역사 왜곡이라고 비판해 왔다.",
+     "sents": [
+      {
+       "en": "Putin has argued that the two countries are historically one, pointing out that Kyiv was the center of ancient Rus in the medieval period.",
+       "ko": "푸틴 대통령은 키이우가 중세 고대 루스의 중심이었다는 점을 들어 두 나라가 역사적으로 하나라고 주장해 왔다."
+      },
+      {
+       "en": "Experts have criticized this as a distortion of history.",
+       "ko": "전문가들은 이를 역사 왜곡이라고 비판해 왔다."
+      }
+     ]
+    },
+    {
+     "en": "Lukashenko predicted that Putin would try to take all of Donbas. However, he drew a line at the demand to roll NATO's borders back to 1997 levels, calling it the maximum figure floated at the start of negotiations. He said the two sides must ultimately sit down together. He added that Putin must also know the weakness of the territorial argument.",
+     "ko": "루카셴코 대통령은 푸틴이 돈바스 전역을 차지하려 할 것이라고 봤다. 하지만 나토 경계를 1997년 수준으로 되돌리라는 요구는 협상 초반에 부르는 최대치라고 선을 그었다. 결국 양측이 마주 앉아야 한다고 말했다. 푸틴도 영유권 논리의 약점을 알 것이라고 덧붙였다.",
+     "sents": [
+      {
+       "en": "Lukashenko predicted that Putin would try to take all of Donbas.",
+       "ko": "루카셴코 대통령은 푸틴이 돈바스 전역을 차지하려 할 것이라고 봤다."
+      },
+      {
+       "en": "However, he drew a line at the demand to roll NATO's borders back to 1997 levels, calling it the maximum figure floated at the start of negotiations.",
+       "ko": "하지만 나토 경계를 1997년 수준으로 되돌리라는 요구는 협상 초반에 부르는 최대치라고 선을 그었다."
+      },
+      {
+       "en": "He said the two sides must ultimately sit down together.",
+       "ko": "결국 양측이 마주 앉아야 한다고 말했다."
+      },
+      {
+       "en": "He added that Putin must also know the weakness of the territorial argument.",
+       "ko": "푸틴도 영유권 논리의 약점을 알 것이라고 덧붙였다."
+      }
+     ]
+    },
+    {
+     "en": "CNN pointed out that the interview contained many inaccuracies and that Lukashenko stood on Russia's side overall. He repeated the Russian claim that Ukraine bears responsibility for the war and also boasted of his friendship with Putin.",
+     "ko": "CNN은 이 인터뷰에 부정확한 내용이 많았고 루카셴코 대통령이 전반적으로 러시아 편에 서 있었다고 짚었다. 그는 전쟁의 책임이 우크라이나에 있다는 러시아 측 주장을 되풀이했고, 푸틴과의 친분도 자랑했다.",
+     "sents": [
+      {
+       "en": "CNN pointed out that the interview contained many inaccuracies and that Lukashenko stood on Russia's side overall.",
+       "ko": "CNN은 이 인터뷰에 부정확한 내용이 많았고 루카셴코 대통령이 전반적으로 러시아 편에 서 있었다고 짚었다."
+      },
+      {
+       "en": "He repeated the Russian claim that Ukraine bears responsibility for the war and also boasted of his friendship with Putin.",
+       "ko": "그는 전쟁의 책임이 우크라이나에 있다는 러시아 측 주장을 되풀이했고, 푸틴과의 친분도 자랑했다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "closest ally",
+     "meaning": "가장 가까운 동맹",
+     "level": 2
+    },
+    {
+     "text": "cast a rare doubt",
+     "meaning": "드물게 의문을 던지다",
+     "level": 3
+    },
+    {
+     "text": "territorial claims",
+     "meaning": "영토 주장",
+     "level": 3
+    },
+    {
+     "text": "historically",
+     "meaning": "역사적으로",
+     "level": 2
+    },
+    {
+     "text": "medieval",
+     "meaning": "중세의",
+     "level": 3
+    },
+    {
+     "text": "distortion",
+     "meaning": "왜곡",
+     "level": 3
+    },
+    {
+     "text": "roll NATO's borders back",
+     "meaning": "나토 경계를 되돌리다",
+     "level": 3
+    },
+    {
+     "text": "maximum figure",
+     "meaning": "최대치",
+     "level": 2
+    },
+    {
+     "text": "negotiations",
+     "meaning": "협상",
+     "level": 2
+    },
+    {
+     "text": "weakness",
+     "meaning": "약점",
+     "level": 1
+    },
+    {
+     "text": "inaccuracies",
+     "meaning": "부정확한 내용",
+     "level": 3
+    },
+    {
+     "text": "boasted",
+     "meaning": "자랑했다",
+     "level": 3
+    },
+    {
+     "text": "bears responsibility",
+     "meaning": "책임이 있다",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "연합뉴스",
+     "title": "루카셴코, 푸틴에 이례적 반론…\"그 논리면 러시아는 몽골땅?\"",
+     "url": "https://www.yna.co.kr/view/AKR20261128029100009",
+     "publishedAt": "2026-11-28T12:29:00+09:00"
+    },
+    {
+     "name": "SBS",
+     "title": "푸틴의 영토 논리에 최측근도 의문…\"그럼 러시아는 몽골 땅?\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867930",
+     "publishedAt": "2026-11-28T16:44:00+09:00"
+    },
+    {
+     "name": "한국경제",
+     "title": "\"그럼 러시아는 몽골 땅이냐\"…푸틴 최측근 '돌발 발언'",
+     "url": "https://www.hankyung.com/article/2026112860147",
+     "publishedAt": "2026-11-28T13:11:49+09:00"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-6",
+   "topic": "사회",
+   "title": "Police Arrest 52 Including Clinic Heads Over 8,400 Fake Plastic Surgery Reviews Posted Through Hacked Accounts",
+   "titleKo": "해킹 계정으로 성형 후기 8400건 조작, 병원장 등 52명 검거",
+   "summary": "The Seoul Metropolitan Police Agency arrested 52 people, including officials at plastic surgery clinics and advertising firms, who fabricated surgery reviews using hacked portal accounts. President Lee Jae Myung said on X on the 28th that he would respond sternly to such crimes.",
+   "why": "Many college students choose clinics based on surgery reviews, and this case shows that fake reviews staged to look as if real patients wrote them may exist.",
+   "paragraphs": [
+    {
+     "en": "President Lee Jae Myung said on X on the morning of the 28th that he would respond sternly to the plastic surgery review manipulation case, sharing a news report on the police investigation. He said he was appalled that hacked accounts were bought and reviews were staged to look as if real patients had written them. He also called it a serious illegal act that exploited personal information to deceive the public and make unjust profits.",
+     "ko": "이재명 대통령은 28일 오전 엑스(X)에 경찰 수사 결과를 다룬 보도를 공유하며 성형 후기 조작 사건에 엄정하게 대응하겠다고 밝혔다. 대통령은 해킹된 계정을 사서 실제 환자처럼 후기를 꾸몄다는 점에 기가 막힌다고 했다. 또 개인정보를 악용해 국민을 속이고 부당한 이익을 챙긴 중대한 불법행위라고 지적했다.",
+     "sents": [
+      {
+       "en": "President Lee Jae Myung said on X on the morning of the 28th that he would respond sternly to the plastic surgery review manipulation case, sharing a news report on the police investigation.",
+       "ko": "이재명 대통령은 28일 오전 엑스(X)에 경찰 수사 결과를 다룬 보도를 공유하며 성형 후기 조작 사건에 엄정하게 대응하겠다고 밝혔다."
+      },
+      {
+       "en": "He said he was appalled that hacked accounts were bought and reviews were staged to look as if real patients had written them.",
+       "ko": "대통령은 해킹된 계정을 사서 실제 환자처럼 후기를 꾸몄다는 점에 기가 막힌다고 했다."
+      },
+      {
+       "en": "He also called it a serious illegal act that exploited personal information to deceive the public and make unjust profits.",
+       "ko": "또 개인정보를 악용해 국민을 속이고 부당한 이익을 챙긴 중대한 불법행위라고 지적했다."
+      }
+     ]
+    },
+    {
+     "en": "The cyber investigation unit of the Seoul Metropolitan Police Agency said it arrested 52 people, including officials at four plastic surgery clinics and three advertising firms and members of an account-selling ring. They face charges of violating the Information and Communications Network Act, obstruction of business involving computers and violating the Medical Service Act. Two members of the account-selling ring were referred to prosecutors in custody. They are suspected of buying about 800 domestic portal accounts from August 2021 to July this year and posting more than 8,400 false reviews and comments on plastic surgery cafes and beauty and medical information platforms.",
+     "ko": "서울경찰청 사이버수사과는 성형외과 4곳과 광고업체 3곳 관계자, 계정 판매 조직원 등 52명을 검거했다고 밝혔다. 정보통신망법 위반, 컴퓨터등장애업무방해, 의료법 위반 등의 혐의다. 계정 판매 조직원 2명은 구속 송치됐다. 이들은 2021년 8월부터 올해 7월까지 국내 포털 계정 800여 개를 사들여 성형 카페와 미용·의료 정보 플랫폼에 허위 후기와 댓글 8400여 건을 올린 혐의를 받는다.",
+     "sents": [
+      {
+       "en": "The cyber investigation unit of the Seoul Metropolitan Police Agency said it arrested 52 people, including officials at four plastic surgery clinics and three advertising firms and members of an account-selling ring.",
+       "ko": "서울경찰청 사이버수사과는 성형외과 4곳과 광고업체 3곳 관계자, 계정 판매 조직원 등 52명을 검거했다고 밝혔다."
+      },
+      {
+       "en": "They face charges of violating the Information and Communications Network Act, obstruction of business involving computers and violating the Medical Service Act.",
+       "ko": "정보통신망법 위반, 컴퓨터등장애업무방해, 의료법 위반 등의 혐의다."
+      },
+      {
+       "en": "Two members of the account-selling ring were referred to prosecutors in custody.",
+       "ko": "계정 판매 조직원 2명은 구속 송치됐다."
+      },
+      {
+       "en": "They are suspected of buying about 800 domestic portal accounts from August 2021 to July this year and posting more than 8,400 false reviews and comments on plastic surgery cafes and beauty and medical information platforms.",
+       "ko": "이들은 2021년 8월부터 올해 7월까지 국내 포털 계정 800여 개를 사들여 성형 카페와 미용·의료 정보 플랫폼에 허위 후기와 댓글 8400여 건을 올린 혐의를 받는다."
+      }
+     ]
+    },
+    {
+     "en": "Their methods were also revealed. Clinics entrusted fake reviews to advertising agencies, and some even set up their own advertising firms with dozens of employees. Using surgery information and photos that the clinics handed over, the agencies wrote posts that looked as if real patients had written them. Overseas hacking groups sold the accounts through messenger apps, and most were in women's names. Real-name accounts were bought for about 30,000 won each and non-real-name accounts for about 10,000 won, while clinics paid 40,000 won per review and 500,000 won for 100 comments.",
+     "ko": "수법도 드러났다. 병원들은 광고대행사에 가짜 후기를 맡기거나 직원이 수십 명인 광고업체를 직접 차리기도 했다. 대행사는 병원이 넘긴 환자의 수술 정보와 사진으로 실제 환자가 쓴 듯한 글을 만들었다. 계정은 해외 해킹조직이 메신저로 팔았고 대부분 여성 명의였다. 실명 계정은 개당 3만 원, 비실명 계정은 1만 원가량에 샀고, 병원은 후기 한 건에 4만 원, 댓글 100개에 50만 원을 냈다.",
+     "sents": [
+      {
+       "en": "Their methods were also revealed.",
+       "ko": "수법도 드러났다."
+      },
+      {
+       "en": "Clinics entrusted fake reviews to advertising agencies, and some even set up their own advertising firms with dozens of employees.",
+       "ko": "병원들은 광고대행사에 가짜 후기를 맡기거나 직원이 수십 명인 광고업체를 직접 차리기도 했다."
+      },
+      {
+       "en": "Using surgery information and photos that the clinics handed over, the agencies wrote posts that looked as if real patients had written them.",
+       "ko": "대행사는 병원이 넘긴 환자의 수술 정보와 사진으로 실제 환자가 쓴 듯한 글을 만들었다."
+      },
+      {
+       "en": "Overseas hacking groups sold the accounts through messenger apps, and most were in women's names.",
+       "ko": "계정은 해외 해킹조직이 메신저로 팔았고 대부분 여성 명의였다."
+      },
+      {
+       "en": "Real-name accounts were bought for about 30,000 won each and non-real-name accounts for about 10,000 won, while clinics paid 40,000 won per review and 500,000 won for 100 comments.",
+       "ko": "실명 계정은 개당 3만 원, 비실명 계정은 1만 원가량에 샀고, 병원은 후기 한 건에 4만 원, 댓글 100개에 50만 원을 냈다."
+      }
+     ]
+    },
+    {
+     "en": "Police learned last December, while investigating an account hacking case, that plastic surgery reviews had been posted under victims' names. They then traced bank accounts and caught two members who had sent payments to the hacking group. Police also secured a preservation order on 200 million won in criminal proceeds before indictment. They asked portal sites and others to delete and block the false posts. Lee thanked the police cyber investigators, saying they had worked hard to uncover the truth through a persistent investigation.",
+     "ko": "경찰은 지난해 12월 계정 해킹 사건을 수사하다가 피해자 이름으로 성형외과 후기가 올라온 사실을 알게 됐다. 이후 계좌를 추적해 해킹조직에 대금을 보낸 조직원 2명을 붙잡았다. 범죄수익금 2억 원을 기소 전에 추징보전했다. 포털사이트 등에는 허위 게시물 삭제와 차단도 요청했다. 이 대통령은 끈질긴 수사로 실체를 밝힌 경찰 사이버수사대에 수고 많았다고 전했다.",
+     "sents": [
+      {
+       "en": "Police learned last December, while investigating an account hacking case, that plastic surgery reviews had been posted under victims' names.",
+       "ko": "경찰은 지난해 12월 계정 해킹 사건을 수사하다가 피해자 이름으로 성형외과 후기가 올라온 사실을 알게 됐다."
+      },
+      {
+       "en": "They then traced bank accounts and caught two members who had sent payments to the hacking group.",
+       "ko": "이후 계좌를 추적해 해킹조직에 대금을 보낸 조직원 2명을 붙잡았다."
+      },
+      {
+       "en": "Police also secured a preservation order on 200 million won in criminal proceeds before indictment.",
+       "ko": "범죄수익금 2억 원을 기소 전에 추징보전했다."
+      },
+      {
+       "en": "They asked portal sites and others to delete and block the false posts.",
+       "ko": "포털사이트 등에는 허위 게시물 삭제와 차단도 요청했다."
+      },
+      {
+       "en": "Lee thanked the police cyber investigators, saying they had worked hard to uncover the truth through a persistent investigation.",
+       "ko": "이 대통령은 끈질긴 수사로 실체를 밝힌 경찰 사이버수사대에 수고 많았다고 전했다."
+      }
+     ]
+    },
+    {
+     "en": "Police have requested an Interpol red notice for the head of the account-selling operation. They plan to widen the investigation to see whether more clinics and advertising firms manipulated reviews in the same way.",
+     "ko": "경찰은 계정 판매 총책에 대해 인터폴 적색수배를 요청했다. 같은 수법으로 후기를 조작한 병원과 광고업체가 더 있는지도 수사를 넓힐 방침이다.",
+     "sents": [
+      {
+       "en": "Police have requested an Interpol red notice for the head of the account-selling operation.",
+       "ko": "경찰은 계정 판매 총책에 대해 인터폴 적색수배를 요청했다."
+      },
+      {
+       "en": "They plan to widen the investigation to see whether more clinics and advertising firms manipulated reviews in the same way.",
+       "ko": "같은 수법으로 후기를 조작한 병원과 광고업체가 더 있는지도 수사를 넓힐 방침이다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "respond sternly",
+     "meaning": "엄정하게 대응하다",
+     "level": 3
+    },
+    {
+     "text": "manipulation",
+     "meaning": "조작",
+     "level": 3
+    },
+    {
+     "text": "appalled",
+     "meaning": "기가 막힌, 경악한",
+     "level": 3
+    },
+    {
+     "text": "unjust profits",
+     "meaning": "부당한 이익",
+     "level": 3
+    },
+    {
+     "text": "account-selling ring",
+     "meaning": "계정 판매 조직",
+     "level": 3
+    },
+    {
+     "text": "referred to prosecutors",
+     "meaning": "검찰에 송치되다",
+     "level": 4
+    },
+    {
+     "text": "in custody",
+     "meaning": "구속된 상태로",
+     "level": 3
+    },
+    {
+     "text": "suspected of",
+     "meaning": "~혐의를 받는",
+     "level": 3
+    },
+    {
+     "text": "hacking group",
+     "meaning": "해킹조직",
+     "level": 2
+    },
+    {
+     "text": "traced",
+     "meaning": "추적했다",
+     "level": 2
+    },
+    {
+     "text": "criminal proceeds",
+     "meaning": "범죄수익금",
+     "level": 4
+    },
+    {
+     "text": "preservation order",
+     "meaning": "보전 조치(추징보전)",
+     "level": 4
+    },
+    {
+     "text": "persistent",
+     "meaning": "끈질긴",
+     "level": 3
+    },
+    {
+     "text": "red notice",
+     "meaning": "적색수배",
+     "level": 4
+    },
+    {
+     "text": "widen the investigation",
+     "meaning": "수사를 확대하다",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "경향신문",
+     "title": "이 대통령 “국민 기만 범죄, 기가 막힌다”···성형후기 조작 병원장들 검거에 “경찰 수고 많으셨다”",
+     "url": "https://www.khan.co.kr/article/202611281107001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "publishedAt": "2026-11-28T11:07:00+09:00"
+    },
+    {
+     "name": "매일경제",
+     "title": "환자가 쓴 줄 알았던 성형 후기에 이 대통령 “국민 기만해 돈 버는 범죄 엄정 대응”",
+     "url": "https://www.mk.co.kr/news/society/12220718",
+     "publishedAt": "2026-11-28T16:21:39+09:00"
+    },
+    {
+     "name": "한국경제",
+     "title": "\"기가 막힌다\"…가짜 성형 후기에 李 대통령 '엄정 대응'",
+     "url": "https://www.hankyung.com/article/2026112859797",
+     "publishedAt": "2026-11-28T11:31:31+09:00"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-7",
+   "topic": "교육·대학",
+   "title": "Low Birth Rate Narrows Path to Elementary Teaching Jobs, Deepening Career Worries for Education Students",
+   "titleKo": "저출생에 좁아진 초등교사 임용문, 진로 고민 깊어지는 교대생들",
+   "summary": "As the school-age population shrinks, hiring of elementary teachers is also shrinking, and education college students and prospective teachers are rethinking their careers. The Ministry of Education said that even if it cuts the number of hires, it planned for the year-to-year change not to be large.",
+   "why": "This is not only a story for education and teachers college students; those in other majors whose job prospects are affected by the falling school-age population cannot treat it as someone else's problem.",
+   "paragraphs": [
+    {
+     "en": "The Hankyoreh reported that as the low birth rate shrinks the school-age population and teacher hiring is cut, more prospective elementary teachers are turning to other careers or working as fixed-term teachers while preparing to retake the appointment exam. Jung, 27, who graduated from Gyeongin National University of Education, said that despite considering other jobs, it was hard to explore other fields because a university of education is a special-purpose university. Two years after graduating, Jung is working as a fixed-term teacher at an elementary school in Incheon while preparing for the appointment exam.",
+     "ko": "저출생으로 학령인구가 줄면서 교사 임용 규모가 축소되자, 다른 진로로 눈을 돌리거나 기간제 교사로 일하며 임용시험을 다시 준비하는 예비 초등교사가 늘고 있다고 한겨레가 전했다. 경인교대를 졸업한 정 모(27) 씨는 다른 직업을 생각해 봤지만 교대가 특수목적 대학이라 다른 직종을 알아보기 어려웠다고 한다. 결국 졸업 2년 만에 인천의 한 초등학교에서 기간제 교사로 일하며 임용시험을 준비하고 있다.",
+     "sents": [
+      {
+       "en": "The Hankyoreh reported that as the low birth rate shrinks the school-age population and teacher hiring is cut, more prospective elementary teachers are turning to other careers or working as fixed-term teachers while preparing to retake the appointment exam.",
+       "ko": "저출생으로 학령인구가 줄면서 교사 임용 규모가 축소되자, 다른 진로로 눈을 돌리거나 기간제 교사로 일하며 임용시험을 다시 준비하는 예비 초등교사가 늘고 있다고 한겨레가 전했다."
+      },
+      {
+       "en": "Jung, 27, who graduated from Gyeongin National University of Education, said that despite considering other jobs, it was hard to explore other fields because a university of education is a special-purpose university.",
+       "ko": "경인교대를 졸업한 정 모(27) 씨는 다른 직업을 생각해 봤지만 교대가 특수목적 대학이라 다른 직종을 알아보기 어려웠다고 한다."
+      },
+      {
+       "en": "Two years after graduating, Jung is working as a fixed-term teacher at an elementary school in Incheon while preparing for the appointment exam.",
+       "ko": "결국 졸업 2년 만에 인천의 한 초등학교에서 기간제 교사로 일하며 임용시험을 준비하고 있다."
+      }
+     ]
+    },
+    {
+     "en": "Lee, 23, who took a leave of absence from the elementary education department of a comprehensive university, is looking for a job at an education-related foundation instead of taking the exam. Lee said that the low birth rate and the crisis in teachers' authority, represented by the Seoi Elementary School case, have led more people to look for careers other than teaching. Lee also said many people re-sit the college entrance exam while enrolled to get into medical, dental or Korean medicine schools, or prepare for the Law School Admission Test (LEET) or the Grade 5 civil service exam. Kang, 26, who graduated from Seoul National University of Education, said that even though the school selects about 300 students every year, elementary teacher hiring in Seoul stays in the low hundreds annually.",
+     "ko": "종합대학 초등교육과를 휴학한 이 모(23) 씨는 임용시험 대신 교육 관련 재단 취업을 알아보고 있다. 이 씨는 저출생과 서이초 사건으로 대표되는 교권 위기를 계기로 교사 외 진로를 찾는 사람이 늘었다고 말했다. 의대, 치의대, 한의대 진학을 위한 반수나 법학적성시험(LEET), 5급 공개경쟁채용시험을 준비하는 경우도 많다고 했다. 서울교대를 졸업한 강 모(26) 씨는 서울교대가 매년 300명가량을 뽑아도 서울 지역 초등교사 임용은 연간 100명대에 그친다고 했다.",
+     "sents": [
+      {
+       "en": "Lee, 23, who took a leave of absence from the elementary education department of a comprehensive university, is looking for a job at an education-related foundation instead of taking the exam.",
+       "ko": "종합대학 초등교육과를 휴학한 이 모(23) 씨는 임용시험 대신 교육 관련 재단 취업을 알아보고 있다."
+      },
+      {
+       "en": "Lee said that the low birth rate and the crisis in teachers' authority, represented by the Seoi Elementary School case, have led more people to look for careers other than teaching.",
+       "ko": "이 씨는 저출생과 서이초 사건으로 대표되는 교권 위기를 계기로 교사 외 진로를 찾는 사람이 늘었다고 말했다."
+      },
+      {
+       "en": "Lee also said many people re-sit the college entrance exam while enrolled to get into medical, dental or Korean medicine schools, or prepare for the Law School Admission Test (LEET) or the Grade 5 civil service exam.",
+       "ko": "의대, 치의대, 한의대 진학을 위한 반수나 법학적성시험(LEET), 5급 공개경쟁채용시험을 준비하는 경우도 많다고 했다."
+      },
+      {
+       "en": "Kang, 26, who graduated from Seoul National University of Education, said that even though the school selects about 300 students every year, elementary teacher hiring in Seoul stays in the low hundreds annually.",
+       "ko": "서울교대를 졸업한 강 모(26) 씨는 서울교대가 매년 300명가량을 뽑아도 서울 지역 초등교사 임용은 연간 100명대에 그친다고 했다."
+      }
+     ]
+    },
+    {
+     "en": "The Ministry of Education announced a mid- to long-term teacher supply plan that gradually reduces new public elementary and secondary school teachers over the next five years. New elementary teachers will fall to 2,700-2,900 in 2027, 2,600-2,900 in 2028 and 2,500-2,800 in each of 2029 and 2030. In September, the ministry set next year's elementary teacher hiring at 2,821, which is 292 fewer than this year. The main test-takers for the 2027 academic-year exam are those with student numbers 21 to 23, and hiring was 3,864, 3,455 and 3,561, respectively, when they entered university. Compared with those figures, next year's hiring is down by nearly 1,000.",
+     "ko": "교육부는 향후 5년간 공립 초·중등학교 신규 교사 수를 단계적으로 줄이는 중장기 교원 수급 방향을 발표했다. 신규 초등교사는 2027년 2700~2900명, 2028년 2600~2900명, 2029년과 2030년에는 각각 2500~2800명 수준으로 줄어든다. 지난 9월에는 내년 초등교사 임용 인원을 올해보다 292명 적은 2821명으로 확정했다. 2027학년도 임용시험의 주 응시층인 21~23학번이 입학할 때의 채용 규모는 각각 3864명, 3455명, 3561명이었다. 이와 비교하면 1000명 가까이 줄었다.",
+     "sents": [
+      {
+       "en": "The Ministry of Education announced a mid- to long-term teacher supply plan that gradually reduces new public elementary and secondary school teachers over the next five years.",
+       "ko": "교육부는 향후 5년간 공립 초·중등학교 신규 교사 수를 단계적으로 줄이는 중장기 교원 수급 방향을 발표했다."
+      },
+      {
+       "en": "New elementary teachers will fall to 2,700-2,900 in 2027, 2,600-2,900 in 2028 and 2,500-2,800 in each of 2029 and 2030.",
+       "ko": "신규 초등교사는 2027년 2700~2900명, 2028년 2600~2900명, 2029년과 2030년에는 각각 2500~2800명 수준으로 줄어든다."
+      },
+      {
+       "en": "In September, the ministry set next year's elementary teacher hiring at 2,821, which is 292 fewer than this year.",
+       "ko": "지난 9월에는 내년 초등교사 임용 인원을 올해보다 292명 적은 2821명으로 확정했다."
+      },
+      {
+       "en": "The main test-takers for the 2027 academic-year exam are those with student numbers 21 to 23, and hiring was 3,864, 3,455 and 3,561, respectively, when they entered university.",
+       "ko": "2027학년도 임용시험의 주 응시층인 21~23학번이 입학할 때의 채용 규모는 각각 3864명, 3455명, 3561명이었다."
+      },
+      {
+       "en": "Compared with those figures, next year's hiring is down by nearly 1,000.",
+       "ko": "이와 비교하면 1000명 가까이 줄었다."
+      }
+     ]
+    },
+    {
+     "en": "Concern is also growing that fixed-term teacher jobs could shrink. In August, the ministry unveiled a reform that scraps the system linking local education grants to domestic tax revenue after 55 years and instead reflects nominal growth and changes in the school-age population. The concern arises because the grants are the source of funds for fixed-term teachers' pay. Prospective and current teachers argue that the decline in the school-age population should not be tied directly to cutting teachers, and should instead be used as a chance to reduce class sizes and teaching hours per teacher. Park Hye-sung, head of the National Fixed-Term Teachers Union, also said it should be taken as an occasion to raise the quality of public education.",
+     "ko": "기간제 교사 일자리도 줄 수 있다는 우려가 나온다. 교육부가 지난 8월 지방교육재정교부금의 내국세 연동제를 55년 만에 폐지하고 경상성장률과 학령인구 변화를 반영하는 개편안을 내놨다. 교부금이 기간제 교사 인건비 재원이기 때문이다. 예비·현직 교사들은 학령인구 감소를 곧바로 교원 감축으로 잇지 말고, 학급당 학생 수와 교사 1인당 수업 시수를 줄이는 기회로 삼아야 한다고 주장한다. 박혜성 전국기간제교사노동조합 위원장도 공교육의 질을 높이는 계기로 삼아야 한다고 했다.",
+     "sents": [
+      {
+       "en": "Concern is also growing that fixed-term teacher jobs could shrink.",
+       "ko": "기간제 교사 일자리도 줄 수 있다는 우려가 나온다."
+      },
+      {
+       "en": "In August, the ministry unveiled a reform that scraps the system linking local education grants to domestic tax revenue after 55 years and instead reflects nominal growth and changes in the school-age population.",
+       "ko": "교육부가 지난 8월 지방교육재정교부금의 내국세 연동제를 55년 만에 폐지하고 경상성장률과 학령인구 변화를 반영하는 개편안을 내놨다."
+      },
+      {
+       "en": "The concern arises because the grants are the source of funds for fixed-term teachers' pay.",
+       "ko": "교부금이 기간제 교사 인건비 재원이기 때문이다."
+      },
+      {
+       "en": "Prospective and current teachers argue that the decline in the school-age population should not be tied directly to cutting teachers, and should instead be used as a chance to reduce class sizes and teaching hours per teacher.",
+       "ko": "예비·현직 교사들은 학령인구 감소를 곧바로 교원 감축으로 잇지 말고, 학급당 학생 수와 교사 1인당 수업 시수를 줄이는 기회로 삼아야 한다고 주장한다."
+      },
+      {
+       "en": "Park Hye-sung, head of the National Fixed-Term Teachers Union, also said it should be taken as an occasion to raise the quality of public education.",
+       "ko": "박혜성 전국기간제교사노동조합 위원장도 공교육의 질을 높이는 계기로 삼아야 한다고 했다."
+      }
+     ]
+    },
+    {
+     "en": "Jang Se-eun, head of the ministry's teacher policy division, explained that the ministry announced the mid- to long-term supply plan last summer so that prospective teachers could foresee their future. Jang said that even if hiring is reduced over the long term, the plan keeps year-to-year changes from being large, and that the number of hires in each city and province is set every year by considering factors such as the number of retirees. The 2027 academic-year appointment exam runs from this month through January next year.",
+     "ko": "교육부 장세은 교원정책과장은 예비 교원들이 앞날을 예측할 수 있도록 지난여름 중장기 교원 수급 방향을 미리 발표했다고 설명했다. 장기적으로 선발 인원을 줄이더라도 매년 변동 폭이 크지 않게 계획했고, 시·도별 선발 인원은 매년 퇴직자 규모 등을 고려해 정한다고 밝혔다. 2027학년도 임용시험은 이달부터 내년 1월까지 치러진다.",
+     "sents": [
+      {
+       "en": "Jang Se-eun, head of the ministry's teacher policy division, explained that the ministry announced the mid- to long-term supply plan last summer so that prospective teachers could foresee their future.",
+       "ko": "교육부 장세은 교원정책과장은 예비 교원들이 앞날을 예측할 수 있도록 지난여름 중장기 교원 수급 방향을 미리 발표했다고 설명했다."
+      },
+      {
+       "en": "Jang said that even if hiring is reduced over the long term, the plan keeps year-to-year changes from being large, and that the number of hires in each city and province is set every year by considering factors such as the number of retirees.",
+       "ko": "장기적으로 선발 인원을 줄이더라도 매년 변동 폭이 크지 않게 계획했고, 시·도별 선발 인원은 매년 퇴직자 규모 등을 고려해 정한다고 밝혔다."
+      },
+      {
+       "en": "The 2027 academic-year appointment exam runs from this month through January next year.",
+       "ko": "2027학년도 임용시험은 이달부터 내년 1월까지 치러진다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "school-age population",
+     "meaning": "학령인구",
+     "level": 3
+    },
+    {
+     "text": "low birth rate",
+     "meaning": "저출생",
+     "level": 2
+    },
+    {
+     "text": "appointment exam",
+     "meaning": "임용시험",
+     "level": 3
+    },
+    {
+     "text": "fixed-term teacher",
+     "meaning": "기간제 교사",
+     "level": 3
+    },
+    {
+     "text": "special-purpose",
+     "meaning": "특수 목적의",
+     "level": 3
+    },
+    {
+     "text": "leave of absence",
+     "meaning": "휴학",
+     "level": 2
+    },
+    {
+     "text": "crisis in teachers' authority",
+     "meaning": "교권 위기",
+     "level": 3
+    },
+    {
+     "text": "gradually",
+     "meaning": "단계적으로",
+     "level": 2
+    },
+    {
+     "text": "student numbers",
+     "meaning": "입학 연도 집단(학번)",
+     "level": 3
+    },
+    {
+     "text": "scraps",
+     "meaning": "폐지하다",
+     "level": 3
+    },
+    {
+     "text": "nominal growth",
+     "meaning": "경상성장률(명목 성장)",
+     "level": 4
+    },
+    {
+     "text": "source of funds",
+     "meaning": "재원",
+     "level": 3
+    },
+    {
+     "text": "class sizes",
+     "meaning": "학급당 학생 수",
+     "level": 3
+    },
+    {
+     "text": "retirees",
+     "meaning": "퇴직자",
+     "level": 2
+    },
+    {
+     "text": "foresee",
+     "meaning": "예측하다",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "한겨레",
+     "title": "저출생에 좁아진 초등교사의 길…“진로 틀어야 할지” 교대생들 막막",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1289528.html"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-8",
+   "topic": "스포츠",
+   "title": "Short Track Star Choi Min-jeong Wins Fourth Straight World Tour Gold in Women's 1,000m in Shanghai",
+   "titleKo": "쇼트트랙 최민정, 상하이에서 여자 1,000m 4개 대회 연속 금메달",
+   "summary": "Choi Min-jeong won the women's 1,000m final at the fourth World Tour event in Shanghai on the 28th with a time of 1:30.981. It is her fourth straight gold in the event to open the season, and Kim Gil-li took bronze.",
+   "why": "This is the final season of a leading athlete who will give up her national team emblem after this season, which should catch the eye of college students interested in sports.",
+   "paragraphs": [
+    {
+     "en": "Short track national team member Choi Min-jeong (Seongnam City Hall) won gold in the women's 1,000m at the fourth leg of the 2026-2027 ISU Short Track World Tour at the Oriental Sports Center in Shanghai, China, on the 28th. Her final time of 1:30.981 beat runner-up Xandra Velzeboer of the Netherlands (1:31.115) by 0.134 seconds.",
+     "ko": "쇼트트랙 국가대표 최민정(성남시청)이 28일 중국 상하이 오리엔탈 스포츠센터에서 열린 2026-2027 ISU 쇼트트랙 월드투어 4차 대회 여자 1,000m에서 금메달을 땄다. 결승 기록은 1분30초981로, 2위 산드라 펠제부르(네덜란드, 1분31초115)를 0.134초 차로 앞섰다.",
+     "sents": [
+      {
+       "en": "Short track national team member Choi Min-jeong (Seongnam City Hall) won gold in the women's 1,000m at the fourth leg of the 2026-2027 ISU Short Track World Tour at the Oriental Sports Center in Shanghai, China, on the 28th.",
+       "ko": "쇼트트랙 국가대표 최민정(성남시청)이 28일 중국 상하이 오리엔탈 스포츠센터에서 열린 2026-2027 ISU 쇼트트랙 월드투어 4차 대회 여자 1,000m에서 금메달을 땄다."
+      },
+      {
+       "en": "Her final time of 1:30.981 beat runner-up Xandra Velzeboer of the Netherlands (1:31.115) by 0.134 seconds.",
+       "ko": "결승 기록은 1분30초981로, 2위 산드라 펠제부르(네덜란드, 1분31초115)를 0.134초 차로 앞섰다."
+      }
+     ]
+    },
+    {
+     "en": "Choi swept the event at the first and second legs in Vancouver and Montreal, Canada, and the third leg in Seoul, before winning the fourth leg in Shanghai. Over 16 races across the four meets, from heats to finals, she never once gave up first place.",
+     "ko": "최민정은 캐나다 밴쿠버와 몬트리올의 1, 2차 대회, 서울 3차 대회에 이어 상하이 4차 대회까지 이 종목을 모두 휩쓸었다. 네 대회에서 예선부터 결승까지 16번 달리는 동안 단 한 번도 1위를 내주지 않았다.",
+     "sents": [
+      {
+       "en": "Choi swept the event at the first and second legs in Vancouver and Montreal, Canada, and the third leg in Seoul, before winning the fourth leg in Shanghai.",
+       "ko": "최민정은 캐나다 밴쿠버와 몬트리올의 1, 2차 대회, 서울 3차 대회에 이어 상하이 4차 대회까지 이 종목을 모두 휩쓸었다."
+      },
+      {
+       "en": "Over 16 races across the four meets, from heats to finals, she never once gave up first place.",
+       "ko": "네 대회에서 예선부터 결승까지 16번 달리는 동안 단 한 번도 1위를 내주지 않았다."
+      }
+     ]
+    },
+    {
+     "en": "The final had a tough stretch. Choi led from the second lap but dropped to third with three laps left. She immediately covered one lap in 8.850 seconds to move into second, then passed Velzeboer before the last lap to take first.",
+     "ko": "결승은 고비가 있었다. 최민정은 두 바퀴째부터 앞서 달렸지만 세 바퀴를 남기고 3위로 처졌다. 곧바로 한 바퀴를 8초850에 끊어 2위가 됐고, 마지막 바퀴를 앞두고 펠제부르를 추월해 1위로 들어왔다.",
+     "sents": [
+      {
+       "en": "The final had a tough stretch.",
+       "ko": "결승은 고비가 있었다."
+      },
+      {
+       "en": "Choi led from the second lap but dropped to third with three laps left.",
+       "ko": "최민정은 두 바퀴째부터 앞서 달렸지만 세 바퀴를 남기고 3위로 처졌다."
+      },
+      {
+       "en": "She immediately covered one lap in 8.850 seconds to move into second, then passed Velzeboer before the last lap to take first.",
+       "ko": "곧바로 한 바퀴를 8초850에 끊어 2위가 됐고, 마지막 바퀴를 앞두고 펠제부르를 추월해 1위로 들어왔다."
+      }
+     ]
+    },
+    {
+     "en": "Kim Gil-li (Seongnam City Hall), who also competed in the final, began the last lap at the back of the six skaters, passed three of them and took bronze in 1:31.246. In the men's 500m, Kim Tae-sung (Hwaseong City Hall) finished fourth in 43.522 seconds. South Korea finished second in its heat of the mixed 2,000m relay semifinals in 2:38.941 and will go for a medal in the final on the 29th.",
+     "ko": "함께 나온 김길리(성남시청)는 마지막 한 바퀴를 6명 중 맨 뒤에서 시작해 세 명을 제치고 1분31초246으로 동메달을 땄다. 남자 500m에서는 김태성(화성시청)이 43초522로 4위에 올랐다. 한국은 혼성 2,000m 계주 준결승에서 2분38초941로 조 2위를 해 29일 결승에서 메달에 도전한다.",
+     "sents": [
+      {
+       "en": "Kim Gil-li (Seongnam City Hall), who also competed in the final, began the last lap at the back of the six skaters, passed three of them and took bronze in 1:31.246.",
+       "ko": "함께 나온 김길리(성남시청)는 마지막 한 바퀴를 6명 중 맨 뒤에서 시작해 세 명을 제치고 1분31초246으로 동메달을 땄다."
+      },
+      {
+       "en": "In the men's 500m, Kim Tae-sung (Hwaseong City Hall) finished fourth in 43.522 seconds.",
+       "ko": "남자 500m에서는 김태성(화성시청)이 43초522로 4위에 올랐다."
+      },
+      {
+       "en": "South Korea finished second in its heat of the mixed 2,000m relay semifinals in 2:38.941 and will go for a medal in the final on the 29th.",
+       "ko": "한국은 혼성 2,000m 계주 준결승에서 2분38초941로 조 2위를 해 29일 결승에서 메달에 도전한다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "national team",
+     "meaning": "국가대표팀",
+     "level": 1
+    },
+    {
+     "text": "runner-up",
+     "meaning": "준우승자(2위)",
+     "level": 2
+    },
+    {
+     "text": "swept",
+     "meaning": "휩쓸었다",
+     "level": 3
+    },
+    {
+     "text": "heats",
+     "meaning": "예선",
+     "level": 3
+    },
+    {
+     "text": "never once gave up",
+     "meaning": "한 번도 내주지 않았다",
+     "level": 2
+    },
+    {
+     "text": "tough stretch",
+     "meaning": "고비",
+     "level": 2
+    },
+    {
+     "text": "dropped to third",
+     "meaning": "3위로 처졌다",
+     "level": 2
+    },
+    {
+     "text": "passed",
+     "meaning": "추월했다",
+     "level": 1
+    },
+    {
+     "text": "last lap",
+     "meaning": "마지막 바퀴",
+     "level": 1
+    },
+    {
+     "text": "bronze",
+     "meaning": "동메달",
+     "level": 1
+    },
+    {
+     "text": "semifinals",
+     "meaning": "준결승",
+     "level": 2
+    },
+    {
+     "text": "relay",
+     "meaning": "계주",
+     "level": 2
+    },
+    {
+     "text": "leg",
+     "meaning": "(대회의) 한 차전",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "연합뉴스",
+     "title": "쇼트트랙 최민정, 여자 1,000ｍ 4개 대회 연속 금메달",
+     "url": "https://www.yna.co.kr/view/AKR20261128041200007",
+     "publishedAt": "2026-11-28T16:58:45+09:00"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-9",
+   "topic": "사회",
+   "title": "Rally at Seoul's Bosingak Demands Rape Law Be Rewritten Around Consent",
+   "titleKo": "서울 보신각 앞 집회, 동의 여부 중심으로 강간죄 요건 개정 요구",
+   "summary": "Women's groups and others rallied in front of Bosingak in Seoul's Jongno District on the 28th, demanding that the legal definition of rape focus on the victim's consent rather than on assault or intimidation. The articles carry no opposing view or official position from the government or the National Assembly.",
+   "why": "Debate over how sexual violence is judged bears directly on college students' everyday safety and their understanding of the law.",
+   "paragraphs": [
+    {
+     "en": "On the 28th at 1 p.m., women's groups and civil society organizations held a rally in front of Bosingak in Jongno District, Seoul, calling for an amendment to the rape law. Yonhap News Agency reported that the Korean Womenworkers Association, the Korea Sexual Violence Relief Center and the Korea Women's Associations United took part. The Hankyoreh reported that the Joint Committee for Amending the Rape Law and Lawyers for a Democratic Society held the event, titled “2026 March to End Violence Against Women: Agree to Amend the Rape Law.” The event was held to mark the World Week to Eliminate Violence Against Women. About 600 participants chanted slogans such as “No consent means rape” and marched from Bosingak toward Gwanghwamun before returning to Bosingak.",
+     "ko": "28일 오후 1시 서울 종로구 보신각 앞에서 여성단체와 시민사회단체가 강간죄 개정을 요구하는 집회를 열었다. 연합뉴스는 한국여성노동자회, 한국성폭력상담소, 한국여성단체연합 등이 참여했다고 전했다. 한겨레는 강간죄개정을위한연대회의와 민주사회를 위한 변호사모임 등이 ‘2026 여성폭력추방행진–강간죄 개정에 동의하라’ 행사를 열었다고 보도했다. 행사는 세계 여성폭력 추방주간을 맞아 열렸다. 참가자 600여 명은 ‘동의 없으면 강간이다’ 등의 구호를 외치며 보신각에서 광화문 방향으로 행진한 뒤 보신각으로 돌아왔다.",
+     "sents": [
+      {
+       "en": "On the 28th at 1 p.m., women's groups and civil society organizations held a rally in front of Bosingak in Jongno District, Seoul, calling for an amendment to the rape law.",
+       "ko": "28일 오후 1시 서울 종로구 보신각 앞에서 여성단체와 시민사회단체가 강간죄 개정을 요구하는 집회를 열었다."
+      },
+      {
+       "en": "Yonhap News Agency reported that the Korean Womenworkers Association, the Korea Sexual Violence Relief Center and the Korea Women's Associations United took part.",
+       "ko": "연합뉴스는 한국여성노동자회, 한국성폭력상담소, 한국여성단체연합 등이 참여했다고 전했다."
+      },
+      {
+       "en": "The Hankyoreh reported that the Joint Committee for Amending the Rape Law and Lawyers for a Democratic Society held the event, titled “2026 March to End Violence Against Women: Agree to Amend the Rape Law.”",
+       "ko": "한겨레는 강간죄개정을위한연대회의와 민주사회를 위한 변호사모임 등이 ‘2026 여성폭력추방행진–강간죄 개정에 동의하라’ 행사를 열었다고 보도했다."
+      },
+      {
+       "en": "The event was held to mark the World Week to Eliminate Violence Against Women.",
+       "ko": "행사는 세계 여성폭력 추방주간을 맞아 열렸다."
+      },
+      {
+       "en": "About 600 participants chanted slogans such as “No consent means rape” and marched from Bosingak toward Gwanghwamun before returning to Bosingak.",
+       "ko": "참가자 600여 명은 ‘동의 없으면 강간이다’ 등의 구호를 외치며 보신각에서 광화문 방향으로 행진한 뒤 보신각으로 돌아왔다."
+      }
+     ]
+    },
+    {
+     "en": "At issue are the conditions under which rape is established. The organizers argued that because the current Criminal Act requires “assault or intimidation,” an act is recognized as rape only when the victim resisted a physical threat. They said the elements of the crime should therefore be changed to turn on whether the victim consented. Critics also said perpetrators often use coercion or deception instead of assault or intimidation, yet the law examines only whether the victim resisted, shifting responsibility onto the victim.",
+     "ko": "쟁점은 강간죄가 성립하는 조건이다. 집회 측은 현행 형법이 ‘폭행 또는 협박’을 요건으로 하기 때문에 피해자가 물리적 위협에 맞서 저항한 경우에야 강간으로 인정된다고 주장했다. 그래서 피해자의 동의 여부를 기준으로 삼도록 구성 요건을 고쳐야 한다고 했다. 가해자가 폭행·협박 대신 강요나 속임수를 쓰는 일도 많은데, 법이 피해자의 저항 여부만 따져 책임을 피해자에게 돌린다는 비판도 나왔다.",
+     "sents": [
+      {
+       "en": "At issue are the conditions under which rape is established.",
+       "ko": "쟁점은 강간죄가 성립하는 조건이다."
+      },
+      {
+       "en": "The organizers argued that because the current Criminal Act requires “assault or intimidation,” an act is recognized as rape only when the victim resisted a physical threat.",
+       "ko": "집회 측은 현행 형법이 ‘폭행 또는 협박’을 요건으로 하기 때문에 피해자가 물리적 위협에 맞서 저항한 경우에야 강간으로 인정된다고 주장했다."
+      },
+      {
+       "en": "They said the elements of the crime should therefore be changed to turn on whether the victim consented.",
+       "ko": "그래서 피해자의 동의 여부를 기준으로 삼도록 구성 요건을 고쳐야 한다고 했다."
+      },
+      {
+       "en": "Critics also said perpetrators often use coercion or deception instead of assault or intimidation, yet the law examines only whether the victim resisted, shifting responsibility onto the victim.",
+       "ko": "가해자가 폭행·협박 대신 강요나 속임수를 쓰는 일도 많은데, 법이 피해자의 저항 여부만 따져 책임을 피해자에게 돌린다는 비판도 나왔다."
+      }
+     ]
+    },
+    {
+     "en": "Participants presented three legislative tasks. The first is to change the requirement for rape from “assault or intimidation” to “sexual consent.” The second is a full overhaul of the Domestic Violence Punishment Act so that it covers violence in intimate relationships. The third is to remove the provision punishing women in prostitution from the Act on the Punishment of Prostitution and to strengthen the responsibility of those who buy, broker or exploit sex. Speakers on stage included women who survived sex crimes, a human rights activist for women with disabilities and a university student. Some said discussion of amending the rape law has stalled even in the 22nd National Assembly.",
+     "ko": "집회 참가자들은 입법 과제를 세 가지 제시했다. 첫째는 강간죄 요건을 ‘폭행·협박’에서 ‘성적 동의’ 여부로 바꾸는 것이다. 둘째는 친밀한 관계에서 일어나는 폭력까지 포괄하도록 가정폭력처벌법을 전면 개정하는 것이다. 셋째는 성매매처벌법에서 성매매 여성 처벌 조항을 없애고 성구매·알선·착취자의 책임을 강화하는 것이다. 무대에서는 성범죄 피해 여성, 장애여성 인권 활동가, 대학생 등이 발언했다. 22대 국회에서도 강간죄 개정 논의가 제자리걸음이라는 말이 나왔다.",
+     "sents": [
+      {
+       "en": "Participants presented three legislative tasks.",
+       "ko": "집회 참가자들은 입법 과제를 세 가지 제시했다."
+      },
+      {
+       "en": "The first is to change the requirement for rape from “assault or intimidation” to “sexual consent.”",
+       "ko": "첫째는 강간죄 요건을 ‘폭행·협박’에서 ‘성적 동의’ 여부로 바꾸는 것이다."
+      },
+      {
+       "en": "The second is a full overhaul of the Domestic Violence Punishment Act so that it covers violence in intimate relationships.",
+       "ko": "둘째는 친밀한 관계에서 일어나는 폭력까지 포괄하도록 가정폭력처벌법을 전면 개정하는 것이다."
+      },
+      {
+       "en": "The third is to remove the provision punishing women in prostitution from the Act on the Punishment of Prostitution and to strengthen the responsibility of those who buy, broker or exploit sex.",
+       "ko": "셋째는 성매매처벌법에서 성매매 여성 처벌 조항을 없애고 성구매·알선·착취자의 책임을 강화하는 것이다."
+      },
+      {
+       "en": "Speakers on stage included women who survived sex crimes, a human rights activist for women with disabilities and a university student.",
+       "ko": "무대에서는 성범죄 피해 여성, 장애여성 인권 활동가, 대학생 등이 발언했다."
+      },
+      {
+       "en": "Some said discussion of amending the rape law has stalled even in the 22nd National Assembly.",
+       "ko": "22대 국회에서도 강간죄 개정 논의가 제자리걸음이라는 말이 나왔다."
+      }
+     ]
+    },
+    {
+     "en": "The two articles reviewed do not include the views of those who oppose the amendment or urge caution, nor any official response from the government or the National Assembly. This report therefore focuses on the claims and demands made by the rally participants. According to the articles, several other rallies were also held in downtown Seoul that day, including one opposing the relocation of public institutions to the provinces.",
+     "ko": "이번에 읽은 두 기사에는 개정에 반대하거나 신중론을 편 쪽의 입장, 그리고 정부와 국회의 공식 답변이 담겨 있지 않다. 그래서 이 글은 집회 참가자들이 내세운 주장과 요구를 중심으로 정리했다. 기사에 따르면 이날 서울 도심에서는 이 밖에도 공공기관 지방 이전 반대 집회 등 여러 집회가 열렸다.",
+     "sents": [
+      {
+       "en": "The two articles reviewed do not include the views of those who oppose the amendment or urge caution, nor any official response from the government or the National Assembly.",
+       "ko": "이번에 읽은 두 기사에는 개정에 반대하거나 신중론을 편 쪽의 입장, 그리고 정부와 국회의 공식 답변이 담겨 있지 않다."
+      },
+      {
+       "en": "This report therefore focuses on the claims and demands made by the rally participants.",
+       "ko": "그래서 이 글은 집회 참가자들이 내세운 주장과 요구를 중심으로 정리했다."
+      },
+      {
+       "en": "According to the articles, several other rallies were also held in downtown Seoul that day, including one opposing the relocation of public institutions to the provinces.",
+       "ko": "기사에 따르면 이날 서울 도심에서는 이 밖에도 공공기관 지방 이전 반대 집회 등 여러 집회가 열렸다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "rally",
+     "meaning": "집회",
+     "level": 2
+    },
+    {
+     "text": "amendment",
+     "meaning": "개정, 수정",
+     "level": 3
+    },
+    {
+     "text": "civil society",
+     "meaning": "시민사회",
+     "level": 3
+    },
+    {
+     "text": "intimidation",
+     "meaning": "협박",
+     "level": 3
+    },
+    {
+     "text": "consent",
+     "meaning": "동의",
+     "level": 3
+    },
+    {
+     "text": "resisted",
+     "meaning": "저항했다",
+     "level": 2
+    },
+    {
+     "text": "perpetrators",
+     "meaning": "가해자",
+     "level": 3
+    },
+    {
+     "text": "coercion",
+     "meaning": "강요",
+     "level": 3
+    },
+    {
+     "text": "deception",
+     "meaning": "속임수, 기만",
+     "level": 3
+    },
+    {
+     "text": "legislative",
+     "meaning": "입법의",
+     "level": 3
+    },
+    {
+     "text": "provision",
+     "meaning": "(법률) 조항",
+     "level": 3
+    },
+    {
+     "text": "stalled",
+     "meaning": "정체되다",
+     "level": 3
+    },
+    {
+     "text": "overhaul",
+     "meaning": "전면 개편",
+     "level": 3
+    },
+    {
+     "text": "intimate",
+     "meaning": "친밀한",
+     "level": 2
+    },
+    {
+     "text": "relocation",
+     "meaning": "이전",
+     "level": 3
+    },
+    {
+     "text": "chanted",
+     "meaning": "구호를 외쳤다",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "연합뉴스",
+     "title": "도심 곳곳 집회…\"강간죄 요건 개정\"·\"공공기관 이전 반대\"",
+     "url": "https://www.yna.co.kr/view/AKR20261128039600004",
+     "publishedAt": "2026-11-28T16:36:26+09:00"
+    },
+    {
+     "name": "한겨레",
+     "title": "“성적 동의 없으면 강간이다”…서울 도심 채운 ‘강간죄 개정’ 요구 목소리 [포토]",
+     "url": "https://www.hani.co.kr/arti/society/women/1289534.html"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-10",
+   "topic": "국제",
+   "title": "Japan's Ruling Party Weighs Raising the Age That Defines Seniors From 65 to 70 or 75",
+   "titleKo": "일본 자민당, 고령자 기준 65세에서 70·75세로 올리는 안 검토",
+   "summary": "Japan's ruling Liberal Democratic Party's population strategy headquarters has proposed considering raising the definition of elderly from the current 65 and over to 70 or 75. The aim is to secure labor, but the change could stir controversy because it would affect social security such as pensions.",
+   "why": "Aging and labor shortages are problems South Korea also faces, so Japan's debate offers a reference point for when today's college students will work and receive pensions.",
+   "paragraphs": [
+    {
+     "en": "Japan's ruling Liberal Democratic Party has put forward a proposal to consider raising the standard for who counts as elderly above the current “65 and over.” The aim is to secure workers as the population shrinks.",
+     "ko": "일본 집권 자민당이 고령자의 기준을 지금의 ‘65세 이상’보다 높이는 방안을 검토하자는 제언을 내놨다. 인구가 줄어드는 상황에서 일할 사람을 확보하려는 취지다.",
+     "sents": [
+      {
+       "en": "Japan's ruling Liberal Democratic Party has put forward a proposal to consider raising the standard for who counts as elderly above the current “65 and over.”",
+       "ko": "일본 집권 자민당이 고령자의 기준을 지금의 ‘65세 이상’보다 높이는 방안을 검토하자는 제언을 내놨다."
+      },
+      {
+       "en": "The aim is to secure workers as the population shrinks.",
+       "ko": "인구가 줄어드는 상황에서 일할 사람을 확보하려는 취지다."
+      }
+     ]
+    },
+    {
+     "en": "According to a report by the Asahi Shimbun, the party's population strategy headquarters compiled a proposal at a meeting on the 27th saying that raising the elderly threshold to “70 or 75” should be considered. The proposal rests on the view that a falling population is unavoidable for the time being, even if the decline in the birth rate is slowed. It says the economy and society must therefore be reshaped to cope with many challenges.",
+     "ko": "아사히신문 보도에 따르면 자민당 인구전략본부는 27일 회의에서 고령자 기준을 ‘70세, 75세로 올리는 것을 검토’해야 한다는 인구 전략 제언안을 정리했다. 출산율 하락을 늦추더라도 당분간 인구 감소는 불가피하다는 인식이 깔려 있다. 그래서 여러 과제를 감당할 수 있는 경제사회로 바꿔야 한다는 것이다.",
+     "sents": [
+      {
+       "en": "According to a report by the Asahi Shimbun, the party's population strategy headquarters compiled a proposal at a meeting on the 27th saying that raising the elderly threshold to “70 or 75” should be considered.",
+       "ko": "아사히신문 보도에 따르면 자민당 인구전략본부는 27일 회의에서 고령자 기준을 ‘70세, 75세로 올리는 것을 검토’해야 한다는 인구 전략 제언안을 정리했다."
+      },
+      {
+       "en": "The proposal rests on the view that a falling population is unavoidable for the time being, even if the decline in the birth rate is slowed.",
+       "ko": "출산율 하락을 늦추더라도 당분간 인구 감소는 불가피하다는 인식이 깔려 있다."
+      },
+      {
+       "en": "It says the economy and society must therefore be reshaped to cope with many challenges.",
+       "ko": "그래서 여러 과제를 감당할 수 있는 경제사회로 바꿔야 한다는 것이다."
+      }
+     ]
+    },
+    {
+     "en": "As a key task, it put forward a society in which people stay active and healthy for longer without being bound by age. Along with the elderly threshold, it said the range of the working-age population, now set at “15 to 64,” should also be examined for expansion.",
+     "ko": "중점 과제로는 나이에 얽매이지 않고 건강하게 오래 활동하는 사회를 내세웠다. 고령자 기준과 함께 ‘15~64세’로 정해진 생산연령 인구의 범위를 넓히는 것도 따져 봐야 한다고 했다.",
+     "sents": [
+      {
+       "en": "As a key task, it put forward a society in which people stay active and healthy for longer without being bound by age.",
+       "ko": "중점 과제로는 나이에 얽매이지 않고 건강하게 오래 활동하는 사회를 내세웠다."
+      },
+      {
+       "en": "Along with the elderly threshold, it said the range of the working-age population, now set at “15 to 64,” should also be examined for expansion.",
+       "ko": "고령자 기준과 함께 ‘15~64세’로 정해진 생산연령 인구의 범위를 넓히는 것도 따져 봐야 한다고 했다."
+      }
+     ]
+    },
+    {
+     "en": "The Asahi expected that raising the threshold would affect social security such as pensions and become controversial. The proposal also says foreign workers should not be admitted without limits but kept at the level needed to sustain economic and social activity. It adds that this should be distinguished from immigration policy aimed at making up for population decline.",
+     "ko": "아사히는 기준을 올리면 연금 같은 사회보장에 영향이 가 논란이 될 것으로 봤다. 외국인 노동자는 제한 없이 받지 말고 경제·사회 활동 유지에 필요한 수준으로 두어야 한다는 내용도 담겼다. 이는 인구 감소를 메우는 이민 정책과는 구분해야 한다는 것이다.",
+     "sents": [
+      {
+       "en": "The Asahi expected that raising the threshold would affect social security such as pensions and become controversial.",
+       "ko": "아사히는 기준을 올리면 연금 같은 사회보장에 영향이 가 논란이 될 것으로 봤다."
+      },
+      {
+       "en": "The proposal also says foreign workers should not be admitted without limits but kept at the level needed to sustain economic and social activity.",
+       "ko": "외국인 노동자는 제한 없이 받지 말고 경제·사회 활동 유지에 필요한 수준으로 두어야 한다는 내용도 담겼다."
+      },
+      {
+       "en": "It adds that this should be distinguished from immigration policy aimed at making up for population decline.",
+       "ko": "이는 인구 감소를 메우는 이민 정책과는 구분해야 한다는 것이다."
+      }
+     ]
+    },
+    {
+     "en": "The party plans to submit the proposal soon to Prime Minister Sanae Takaichi and have it reflected in the “comprehensive population strategy” that the government is drawing up by the end of the year.",
+     "ko": "자민당은 곧 다카이치 사나에 총리에게 제언을 전달하고, 정부가 연말까지 마련하는 ‘인구종합전략’에 반영되도록 할 계획이다.",
+     "sents": [
+      {
+       "en": "The party plans to submit the proposal soon to Prime Minister Sanae Takaichi and have it reflected in the “comprehensive population strategy” that the government is drawing up by the end of the year.",
+       "ko": "자민당은 곧 다카이치 사나에 총리에게 제언을 전달하고, 정부가 연말까지 마련하는 ‘인구종합전략’에 반영되도록 할 계획이다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "ruling",
+     "meaning": "집권 중인",
+     "level": 2
+    },
+    {
+     "text": "proposal",
+     "meaning": "제안, 제언",
+     "level": 2
+    },
+    {
+     "text": "elderly",
+     "meaning": "고령의, 노인",
+     "level": 2
+    },
+    {
+     "text": "secure",
+     "meaning": "확보하다",
+     "level": 2
+    },
+    {
+     "text": "shrinks",
+     "meaning": "줄어들다",
+     "level": 2
+    },
+    {
+     "text": "threshold",
+     "meaning": "기준선, 문턱",
+     "level": 3
+    },
+    {
+     "text": "birth rate",
+     "meaning": "출산율",
+     "level": 1
+    },
+    {
+     "text": "unavoidable",
+     "meaning": "피할 수 없는",
+     "level": 3
+    },
+    {
+     "text": "reshaped",
+     "meaning": "재편되다",
+     "level": 3
+    },
+    {
+     "text": "working-age",
+     "meaning": "생산연령의",
+     "level": 3
+    },
+    {
+     "text": "social security",
+     "meaning": "사회보장",
+     "level": 3
+    },
+    {
+     "text": "pensions",
+     "meaning": "연금",
+     "level": 2
+    },
+    {
+     "text": "controversial",
+     "meaning": "논란이 되는",
+     "level": 3
+    },
+    {
+     "text": "foreign workers",
+     "meaning": "외국인 노동자",
+     "level": 2
+    },
+    {
+     "text": "immigration",
+     "meaning": "이민",
+     "level": 3
+    },
+    {
+     "text": "comprehensive",
+     "meaning": "종합적인",
+     "level": 3
+    }
+   ],
+   "sources": [
+    {
+     "name": "연합뉴스",
+     "title": "日자민당 \"고령자 기준 '65세→70·75세' 상향 검토\"",
+     "url": "https://www.yna.co.kr/view/AKR20261128033500073",
+     "publishedAt": "2026-11-28T14:17:07+09:00"
+    },
+    {
+     "name": "SBS",
+     "title": "일본 집권당 \"고령자 기준 '65세→70·75세'로 상향 검토\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867951",
+     "publishedAt": "2026-11-28T16:51:00+09:00"
+    },
+    {
+     "name": "매일경제",
+     "title": "고령자 기준 65세→70·75세 상향 검토하겠다는 이 나라",
+     "url": "https://www.mk.co.kr/news/world/12220713",
+     "publishedAt": "2026-11-28T16:04:36+09:00"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-11",
+   "topic": "사회",
+   "title": "Young Residents at Seodaemun Forum Cite Lack of Contract Information and Heavy Rent and Fees",
+   "titleKo": "서대문구 청년 간담회, 계약 정보 부족과 월세·관리비 부담 쏟아져",
+   "summary": "Seoul's Seodaemun District held a housing forum on the 26th with six young people at a youth housing complex in Changcheon-dong. The participants named a lack of contract information and the burdens of rent, interest on deposit loans and maintenance fees as their biggest difficulties.",
+   "why": "It tells college students planning to live on their own to look closely at the contract process and at maintenance fees on top of rent.",
+   "paragraphs": [
+    {
+     "en": "Seoul's Seodaemun District held a “Youth Log-in” forum on the 26th in the community room of a youth housing complex in Changcheon-dong. Six young people, including participants in a housing education program and residents of the youth housing, attended. They discussed housing problems with Seodaemun District head Park Un-gi and Lee Jeong-mi, chief executive of LH Housing Welfare Information.",
+     "ko": "서울 서대문구가 26일 창천동 청년주택 커뮤니티실에서 ‘청년로그인’ 간담회를 열었다. 주거교육 참여자와 청년주택 입주자 등 청년 6명이 참석했다. 박운기 서대문구청장, 이정미 LH주거복지정보 대표이사 등과 주거 문제를 이야기했다.",
+     "sents": [
+      {
+       "en": "Seoul's Seodaemun District held a “Youth Log-in” forum on the 26th in the community room of a youth housing complex in Changcheon-dong.",
+       "ko": "서울 서대문구가 26일 창천동 청년주택 커뮤니티실에서 ‘청년로그인’ 간담회를 열었다."
+      },
+      {
+       "en": "Six young people, including participants in a housing education program and residents of the youth housing, attended.",
+       "ko": "주거교육 참여자와 청년주택 입주자 등 청년 6명이 참석했다."
+      },
+      {
+       "en": "They discussed housing problems with Seodaemun District head Park Un-gi and Lee Jeong-mi, chief executive of LH Housing Welfare Information.",
+       "ko": "박운기 서대문구청장, 이정미 LH주거복지정보 대표이사 등과 주거 문제를 이야기했다."
+      }
+     ]
+    },
+    {
+     "en": "The biggest difficulty the young people cited in the contract process was a lack of information. They also pointed to a real estate brokerage environment in which people end up signing contracts without sufficient explanation. Kim Ga-won, secretary general of Minsnail Union, said education alone has limits for young people and that government oversight is needed to ensure brokers provide information transparently.",
+     "ko": "청년들이 계약 과정에서 가장 큰 어려움으로 꼽은 것은 정보 부족이었다. 충분한 설명 없이 계약을 맺게 되는 공인중개 환경도 지적됐다. 김가원 민달팽이유니온 사무처장은 청년이 교육을 받는 것만으로는 한계가 있고, 중개사가 정보를 투명하게 제공하도록 행정의 관리·감독이 필요하다고 말했다.",
+     "sents": [
+      {
+       "en": "The biggest difficulty the young people cited in the contract process was a lack of information.",
+       "ko": "청년들이 계약 과정에서 가장 큰 어려움으로 꼽은 것은 정보 부족이었다."
+      },
+      {
+       "en": "They also pointed to a real estate brokerage environment in which people end up signing contracts without sufficient explanation.",
+       "ko": "충분한 설명 없이 계약을 맺게 되는 공인중개 환경도 지적됐다."
+      },
+      {
+       "en": "Kim Ga-won, secretary general of Minsnail Union, said education alone has limits for young people and that government oversight is needed to ensure brokers provide information transparently.",
+       "ko": "김가원 민달팽이유니온 사무처장은 청년이 교육을 받는 것만으로는 한계가 있고, 중개사가 정보를 투명하게 제공하도록 행정의 관리·감독이 필요하다고 말했다."
+      }
+     ]
+    },
+    {
+     "en": "The burden of housing costs was also heavy. The young people said not only rent and deposits but also the interest on loans taken out to raise the deposit, and maintenance fees, were hard to bear. Youth Progressive Party legislator Lee Hye-ji said a survey of the Ewha Womans University and Sinchon area found a case with monthly rent of 300,000 won and maintenance fees of 380,000 won. Some landlords reportedly raise maintenance fees instead of rent to avoid oversight of lease contracts.",
+     "ko": "주거비 부담도 컸다. 청년들은 월세와 보증금은 물론, 보증금을 마련하려고 낸 대출의 이자와 관리비까지 부담스럽다고 했다. 이혜지 청년진보당 의원은 이화여대·신촌 일대를 조사해 보니 월세 30만 원에 관리비 38만 원인 사례가 있었다고 소개했다. 집주인이 임대차계약 관리·감독을 피하려고 월세 대신 관리비를 올리는 경우도 있다고 한다.",
+     "sents": [
+      {
+       "en": "The burden of housing costs was also heavy.",
+       "ko": "주거비 부담도 컸다."
+      },
+      {
+       "en": "The young people said not only rent and deposits but also the interest on loans taken out to raise the deposit, and maintenance fees, were hard to bear.",
+       "ko": "청년들은 월세와 보증금은 물론, 보증금을 마련하려고 낸 대출의 이자와 관리비까지 부담스럽다고 했다."
+      },
+      {
+       "en": "Youth Progressive Party legislator Lee Hye-ji said a survey of the Ewha Womans University and Sinchon area found a case with monthly rent of 300,000 won and maintenance fees of 380,000 won.",
+       "ko": "이혜지 청년진보당 의원은 이화여대·신촌 일대를 조사해 보니 월세 30만 원에 관리비 38만 원인 사례가 있었다고 소개했다."
+      },
+      {
+       "en": "Some landlords reportedly raise maintenance fees instead of rent to avoid oversight of lease contracts.",
+       "ko": "집주인이 임대차계약 관리·감독을 피하려고 월세 대신 관리비를 올리는 경우도 있다고 한다."
+      }
+     ]
+    },
+    {
+     "en": "Proposals for livelihood support also came up. One young person who had never done minor home repairs wanted related training, while another asked for the loan of illegal camera detection devices or housing safety inspections. There was also a call to extend the hours for free lending of household tools at neighborhood community centers into the later evening.",
+     "ko": "생활 지원 제안도 나왔다. 집수리 같은 간단한 보수를 해본 적이 없다는 청년은 관련 교육을 원했고, 다른 청년은 불법 카메라 탐지 기기 대여나 주거 안전 진단을 요청했다. 동 주민센터의 생활공구 무료 대여 시간을 늦게까지 늘려 달라는 의견도 있었다.",
+     "sents": [
+      {
+       "en": "Proposals for livelihood support also came up.",
+       "ko": "생활 지원 제안도 나왔다."
+      },
+      {
+       "en": "One young person who had never done minor home repairs wanted related training, while another asked for the loan of illegal camera detection devices or housing safety inspections.",
+       "ko": "집수리 같은 간단한 보수를 해본 적이 없다는 청년은 관련 교육을 원했고, 다른 청년은 불법 카메라 탐지 기기 대여나 주거 안전 진단을 요청했다."
+      },
+      {
+       "en": "There was also a call to extend the hours for free lending of household tools at neighborhood community centers into the later evening.",
+       "ko": "동 주민센터의 생활공구 무료 대여 시간을 늦게까지 늘려 달라는 의견도 있었다."
+      }
+     ]
+    },
+    {
+     "en": "Park said illegal camera detection and home repair training could be supported with only a little attention. He said he would pursue what can be done right away and also make proposals to the National Assembly and the Seoul Metropolitan Government. On the same day, Seodaemun District and LH Housing Welfare Information signed a memorandum of understanding to jointly provide housing counseling, education programs and capacity-building training for public officials.",
+     "ko": "박운기 구청장은 불법 카메라 탐지와 집수리 교육은 조금만 관심을 가지면 지원할 수 있겠다고 했다. 바로 할 수 있는 것은 추진하고 국회와 서울시에도 제안하겠다고 밝혔다. 서대문구와 LH주거복지정보는 이날 업무협약을 맺고 주거 상담과 교육 프로그램, 공무원 역량 강화 교육 등을 함께 하기로 했다.",
+     "sents": [
+      {
+       "en": "Park said illegal camera detection and home repair training could be supported with only a little attention.",
+       "ko": "박운기 구청장은 불법 카메라 탐지와 집수리 교육은 조금만 관심을 가지면 지원할 수 있겠다고 했다."
+      },
+      {
+       "en": "He said he would pursue what can be done right away and also make proposals to the National Assembly and the Seoul Metropolitan Government.",
+       "ko": "바로 할 수 있는 것은 추진하고 국회와 서울시에도 제안하겠다고 밝혔다."
+      },
+      {
+       "en": "On the same day, Seodaemun District and LH Housing Welfare Information signed a memorandum of understanding to jointly provide housing counseling, education programs and capacity-building training for public officials.",
+       "ko": "서대문구와 LH주거복지정보는 이날 업무협약을 맺고 주거 상담과 교육 프로그램, 공무원 역량 강화 교육 등을 함께 하기로 했다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "forum",
+     "meaning": "간담회, 토론회",
+     "level": 2
+    },
+    {
+     "text": "community room",
+     "meaning": "(공동주택) 커뮤니티실",
+     "level": 1
+    },
+    {
+     "text": "brokerage",
+     "meaning": "중개(업)",
+     "level": 3
+    },
+    {
+     "text": "sufficient",
+     "meaning": "충분한",
+     "level": 2
+    },
+    {
+     "text": "oversight",
+     "meaning": "관리·감독",
+     "level": 3
+    },
+    {
+     "text": "transparently",
+     "meaning": "투명하게",
+     "level": 3
+    },
+    {
+     "text": "burden",
+     "meaning": "부담",
+     "level": 2
+    },
+    {
+     "text": "deposits",
+     "meaning": "보증금",
+     "level": 3
+    },
+    {
+     "text": "maintenance fees",
+     "meaning": "관리비",
+     "level": 3
+    },
+    {
+     "text": "landlords",
+     "meaning": "집주인",
+     "level": 2
+    },
+    {
+     "text": "lease",
+     "meaning": "임대차(계약)",
+     "level": 3
+    },
+    {
+     "text": "livelihood",
+     "meaning": "생활, 생계",
+     "level": 3
+    },
+    {
+     "text": "repairs",
+     "meaning": "수리, 보수",
+     "level": 2
+    },
+    {
+     "text": "detection",
+     "meaning": "탐지",
+     "level": 3
+    },
+    {
+     "text": "memorandum of understanding",
+     "meaning": "업무협약(MOU)",
+     "level": 4
+    },
+    {
+     "text": "capacity-building",
+     "meaning": "역량 강화",
+     "level": 4
+    }
+   ],
+   "sources": [
+    {
+     "name": "경향신문",
+     "title": "독립도, 계약도, 살림도 모두 처음···청년들 “계약부터 주거비까지 부담 덜고 싶어요”",
+     "url": "https://www.khan.co.kr/article/202611280600051/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+     "publishedAt": "2026-11-28T06:00:05+09:00"
+    }
+   ]
+  },
+  {
+   "key": "2026-11-28-pm-12",
+   "topic": "교육·대학",
+   "title": "Yonsei University Unveils “Human-Centered AI Campus” Vision With 130 Billion Won Over Eight Years",
+   "titleKo": "연세대, 8년간 1300억 원 들여 ‘사람 중심 AI 캠퍼스’ 비전 선포",
+   "summary": "Yonsei University held a ceremony on the 27th at its Sinchon Campus to announce a human-centered AI campus vision and said it would invest at least 130 billion won over eight years starting in 2026. Starting with the 2028 academic year, all incoming students will be required to take an AI-related liberal arts course.",
+   "why": "Making AI a required liberal arts subject and expanding the AI convergence major could affect course choices for current students and prospective freshmen.",
+   "paragraphs": [
+    {
+     "en": "Yonsei University held a “Human-Centered AI Campus Vision Declaration Ceremony” on the morning of the 27th in the Baekyang Nuri Grand Ballroom at its Sinchon Campus. As AI changes how knowledge is delivered and assessed, the event set out the direction and plans for an AI transition across education, research and administration.",
+     "ko": "연세대학교가 27일 오전 신촌캠퍼스 백양누리 그랜드볼룸에서 ‘사람 중심 AI 캠퍼스 비전 선포식’을 열었다. AI 발전으로 지식 전달과 평가 방식이 달라지는 가운데 교육·연구·행정 전반의 AI 전환 방향과 계획을 내놓는 자리였다.",
+     "sents": [
+      {
+       "en": "Yonsei University held a “Human-Centered AI Campus Vision Declaration Ceremony” on the morning of the 27th in the Baekyang Nuri Grand Ballroom at its Sinchon Campus.",
+       "ko": "연세대학교가 27일 오전 신촌캠퍼스 백양누리 그랜드볼룸에서 ‘사람 중심 AI 캠퍼스 비전 선포식’을 열었다."
+      },
+      {
+       "en": "As AI changes how knowledge is delivered and assessed, the event set out the direction and plans for an AI transition across education, research and administration.",
+       "ko": "AI 발전으로 지식 전달과 평가 방식이 달라지는 가운데 교육·연구·행정 전반의 AI 전환 방향과 계획을 내놓는 자리였다."
+      }
+     ]
+    },
+    {
+     "en": "President Yoon Dong-sub declared “Truth That Sets Free, Intellect That Serves” as the campus's new vision for the AI era. The idea is to raise people who do not simply accept the answers AI gives but ask questions and verify them for themselves. Yonsei plans to invest at least 130 billion won over eight years from 2026 for this purpose.",
+     "ko": "윤동섭 총장은 ‘자유케 하는 진리, 섬기는 지성’을 AI 시대의 새 캠퍼스 비전으로 선포했다. AI가 준 답을 그대로 받아들이지 않고 스스로 질문하고 검증하는 인재를 기르겠다는 구상이다. 연세대는 이를 위해 2026년부터 8년간 1300억 원 이상을 투입할 예정이다.",
+     "sents": [
+      {
+       "en": "President Yoon Dong-sub declared “Truth That Sets Free, Intellect That Serves” as the campus's new vision for the AI era.",
+       "ko": "윤동섭 총장은 ‘자유케 하는 진리, 섬기는 지성’을 AI 시대의 새 캠퍼스 비전으로 선포했다."
+      },
+      {
+       "en": "The idea is to raise people who do not simply accept the answers AI gives but ask questions and verify them for themselves.",
+       "ko": "AI가 준 답을 그대로 받아들이지 않고 스스로 질문하고 검증하는 인재를 기르겠다는 구상이다."
+      },
+      {
+       "en": "Yonsei plans to invest at least 130 billion won over eight years from 2026 for this purpose.",
+       "ko": "연세대는 이를 위해 2026년부터 8년간 1300억 원 이상을 투입할 예정이다."
+      }
+     ]
+    },
+    {
+     "en": "In education, the university will open a liberal arts course, “Artificial Intelligence and Modern Society,” in the 2027 academic year and make it required for all incoming students starting in 2028. The course will be linked to the “AI Convergence Advanced Major,” in which 60 majors take part and cumulative enrollment is about 17,000. It will also be tied to common graduate-level education and a multi-large-language-model platform for the entire student body.",
+     "ko": "교육에서는 2027학년도에 교양 과목 ‘인공지능과 현대사회’를 열고, 2028학년도부터 모든 신입생의 필수 교양으로 지정한다. 60개 전공이 참여하고 누적 수강생이 1만 7000여 명인 ‘AI융합심화전공’과 연계한다. 대학원 공통 교육, 전교생용 다중 거대언어모델 플랫폼도 연계한다.",
+     "sents": [
+      {
+       "en": "In education, the university will open a liberal arts course, “Artificial Intelligence and Modern Society,” in the 2027 academic year and make it required for all incoming students starting in 2028.",
+       "ko": "교육에서는 2027학년도에 교양 과목 ‘인공지능과 현대사회’를 열고, 2028학년도부터 모든 신입생의 필수 교양으로 지정한다."
+      },
+      {
+       "en": "The course will be linked to the “AI Convergence Advanced Major,” in which 60 majors take part and cumulative enrollment is about 17,000.",
+       "ko": "60개 전공이 참여하고 누적 수강생이 1만 7000여 명인 ‘AI융합심화전공’과 연계한다."
+      },
+      {
+       "en": "It will also be tied to common graduate-level education and a multi-large-language-model platform for the entire student body.",
+       "ko": "대학원 공통 교육, 전교생용 다중 거대언어모델 플랫폼도 연계한다."
+      }
+     ]
+    },
+    {
+     "en": "In research, the AI Innovation Institute, which marks its first anniversary, has selected 87 research projects and is conducting convergence research, and it has built a cooperation network of 23 institutions at home and abroad. In the Graduate School of AI, 44.8 percent of courses will be offered jointly with other majors, and AI data centers will be placed at six hubs on the Sinchon Campus. In administration, the university plans to build an intelligent university management system by 2029 that uses performance forecasting and simulation.",
+     "ko": "연구에서는 출범 1주년을 맞은 AI혁신연구원이 연구 과제 87건을 선정해 융합 연구를 하고 있고, 국내외 23개 기관과 협력망을 꾸렸다. AI대학원 교과목의 44.8%는 다른 전공과 교차 개설하고, 신촌캠퍼스 6개 거점에 AI 데이터센터를 두기로 했다. 행정에서는 2029년까지 성과 예측과 시뮬레이션을 활용하는 지능형 대학경영 체계를 만들 계획이다.",
+     "sents": [
+      {
+       "en": "In research, the AI Innovation Institute, which marks its first anniversary, has selected 87 research projects and is conducting convergence research, and it has built a cooperation network of 23 institutions at home and abroad.",
+       "ko": "연구에서는 출범 1주년을 맞은 AI혁신연구원이 연구 과제 87건을 선정해 융합 연구를 하고 있고, 국내외 23개 기관과 협력망을 꾸렸다."
+      },
+      {
+       "en": "In the Graduate School of AI, 44.8 percent of courses will be offered jointly with other majors, and AI data centers will be placed at six hubs on the Sinchon Campus.",
+       "ko": "AI대학원 교과목의 44.8%는 다른 전공과 교차 개설하고, 신촌캠퍼스 6개 거점에 AI 데이터센터를 두기로 했다."
+      },
+      {
+       "en": "In administration, the university plans to build an intelligent university management system by 2029 that uses performance forecasting and simulation.",
+       "ko": "행정에서는 2029년까지 성과 예측과 시뮬레이션을 활용하는 지능형 대학경영 체계를 만들 계획이다."
+      }
+     ]
+    },
+    {
+     "en": "Yoon said knowledge can be obtained anywhere, but the experience of facing one another, making judgments together and taking responsibility is possible only on campus. After the ceremony, an international conference marking the institute's first anniversary was held under the theme “AI and the Future of Work.”",
+     "ko": "윤 총장은 지식은 어디서든 얻을 수 있지만 사람이 마주하고 함께 판단하고 책임지는 경험은 캠퍼스에서만 가능하다고 말했다. 선포식에 이어 AI혁신연구원 1주년 기념 국제 콘퍼런스가 ‘AI와 일의 미래’를 주제로 열렸다.",
+     "sents": [
+      {
+       "en": "Yoon said knowledge can be obtained anywhere, but the experience of facing one another, making judgments together and taking responsibility is possible only on campus.",
+       "ko": "윤 총장은 지식은 어디서든 얻을 수 있지만 사람이 마주하고 함께 판단하고 책임지는 경험은 캠퍼스에서만 가능하다고 말했다."
+      },
+      {
+       "en": "After the ceremony, an international conference marking the institute's first anniversary was held under the theme “AI and the Future of Work.”",
+       "ko": "선포식에 이어 AI혁신연구원 1주년 기념 국제 콘퍼런스가 ‘AI와 일의 미래’를 주제로 열렸다."
+      }
+     ]
+    }
+   ],
+   "glosses": [
+    {
+     "text": "assessed",
+     "meaning": "평가되다",
+     "level": 3
+    },
+    {
+     "text": "transition",
+     "meaning": "전환",
+     "level": 3
+    },
+    {
+     "text": "administration",
+     "meaning": "행정",
+     "level": 3
+    },
+    {
+     "text": "verify",
+     "meaning": "검증하다",
+     "level": 3
+    },
+    {
+     "text": "liberal arts",
+     "meaning": "교양(학문)",
+     "level": 2
+    },
+    {
+     "text": "academic year",
+     "meaning": "학년도",
+     "level": 2
+    },
+    {
+     "text": "incoming students",
+     "meaning": "신입생",
+     "level": 2
+    },
+    {
+     "text": "convergence",
+     "meaning": "융합",
+     "level": 3
+    },
+    {
+     "text": "cumulative",
+     "meaning": "누적의",
+     "level": 4
+    },
+    {
+     "text": "enrollment",
+     "meaning": "수강·등록 인원",
+     "level": 3
+    },
+    {
+     "text": "platform",
+     "meaning": "플랫폼",
+     "level": 2
+    },
+    {
+     "text": "cooperation network",
+     "meaning": "협력망",
+     "level": 2
+    },
+    {
+     "text": "hubs",
+     "meaning": "거점",
+     "level": 3
+    },
+    {
+     "text": "forecasting",
+     "meaning": "예측",
+     "level": 3
+    },
+    {
+     "text": "simulation",
+     "meaning": "시뮬레이션",
+     "level": 3
+    },
+    {
+     "text": "anniversary",
+     "meaning": "기념일, 주년",
+     "level": 2
+    }
+   ],
+   "sources": [
+    {
+     "name": "한국대학신문",
+     "title": "연세대, ‘사람 중심 AI 캠퍼스’ 비전 선포… 8년간 1300억 원 투입",
+     "url": "https://news.unn.net/news/articleView.html?idxno=601611",
+     "publishedAt": "2026-11-27T14:26:05+09:00"
+    }
+   ]
+  }
+ ]
+}
