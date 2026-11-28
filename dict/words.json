@@ -60103,5 +60103,935 @@
     "meaning": "아치스(1960년대 미국 만화 밴드)",
     "level": 3,
     "added": "2026-11-28-pm"
+  },
+  "cannabis": {
+    "meaning": "대마",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "psilocybin": {
+    "meaning": "실로시빈(환각 버섯 성분)",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "hyrox": {
+    "meaning": "하이록스(달리기와 근력 운동 결합 피트니스 대회)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "quintile": {
+    "meaning": "5분위",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "kostiantynivka": {
+    "meaning": "코스티안티니우카(우크라이나 도시)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "shrek": {
+    "meaning": "슈렉(애니메이션 영화 주인공)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "gim": {
+    "meaning": "김(한국 해초 식품)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "moka": {
+    "meaning": "모카(아일릿 멤버)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "pledis": {
+    "meaning": "플레디스(한국 연예기획사)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "narwhal": {
+    "meaning": "일각고래",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "pfhpa": {
+    "meaning": "PFHpA(과불화화합물의 한 종류)",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "sakana": {
+    "meaning": "사카나(일본 AI 기업)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "yale": {
+    "meaning": "예일(미국 대학)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "dosan": {
+    "meaning": "도산(서울 강남 지역)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "embo": {
+    "meaning": "엠보(로봇 스타트업)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "leatherback": {
+    "meaning": "장수거북",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "sawara": {
+    "meaning": "사와라(일본 AI 모델 이름)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "usc": {
+    "meaning": "남가주대(USC, 미국 대학)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "expectancy": {
+    "meaning": "기대 수명, 기대치",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "jihyo": {
+    "meaning": "지효(트와이스 멤버)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "low-enriched": {
+    "meaning": "저농축의",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "mid-range": {
+    "meaning": "중간 범위의, 중간대의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "milky": {
+    "meaning": "우윳빛의, 은하수의",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "nayeon": {
+    "meaning": "나연(트와이스 멤버)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "recompose": {
+    "meaning": "다시 구성하다, 재구성하다",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "sds": {
+    "meaning": "삼성SDS(한국 IT 기업)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "statistically": {
+    "meaning": "통계적으로",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "apgujeong": {
+    "meaning": "압구정(서울 강남 지역)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "basil": {
+    "meaning": "바질(허브)",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "calorie": {
+    "meaning": "칼로리, 열량",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "cementum": {
+    "meaning": "백악질(치아 뿌리 겉 조직)",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "flanker": {
+    "meaning": "플랭커(럭비 포지션)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "hatchling": {
+    "meaning": "갓 부화한 새끼",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "iata": {
+    "meaning": "국제항공운송협회(IATA)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "infancy": {
+    "meaning": "유아기, 초기",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "instantly": {
+    "meaning": "즉시, 곧바로",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "noema": {
+    "meaning": "노에마(프랑스 전파망원경 관측소)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "nu'est": {
+    "meaning": "뉴이스트(한국 보이그룹)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "plainly": {
+    "meaning": "분명히, 솔직하게",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "preindustrial": {
+    "meaning": "산업화 이전의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "pro-opposition": {
+    "meaning": "야당 지지의, 친야권의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "psychoactive": {
+    "meaning": "향정신성의",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "quarter-final": {
+    "meaning": "8강전, 준준결승",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "reservist": {
+    "meaning": "예비군",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "rumour": {
+    "meaning": "소문, 루머",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "slayer": {
+    "meaning": "죽이는 사람, 퇴치자",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "sleeper": {
+    "meaning": "잠자는 사람",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "supermassive": {
+    "meaning": "초대질량의",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "susceptibility": {
+    "meaning": "민감성, 감수성",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "swamp": {
+    "meaning": "쇄도하다, 늪",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "synchrotron": {
+    "meaning": "싱크로트론(입자가속기)",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "titanium": {
+    "meaning": "티타늄",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "ultra-faint": {
+    "meaning": "극히 희미한",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "unredacted": {
+    "meaning": "삭제되지 않은, 원문 그대로의",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "wien": {
+    "meaning": "빈(오스트리아 수도)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "academically": {
+    "meaning": "학문적으로, 학업 면에서",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "adipose": {
+    "meaning": "지방의, 지방 조직",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "delizz": {
+    "meaning": "델리즈(NASA 선정 딸기 품종)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "blazar": {
+    "meaning": "블레이자(강한 제트를 내는 활동은하핵)",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "brandenburg": {
+    "meaning": "브란덴부르크(독일 주)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "cerebral": {
+    "meaning": "뇌의, 대뇌의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "co-first": {
+    "meaning": "공동 제1의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "computationally": {
+    "meaning": "계산상으로, 컴퓨터로",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "cpj": {
+    "meaning": "언론인보호위원회(CPJ)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "crossfit": {
+    "meaning": "크로스핏(고강도 운동)",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "dasan": {
+    "meaning": "다산(서울 120 다산콜센터)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "dentin": {
+    "meaning": "상아질",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "deusto": {
+    "meaning": "데우스토 대학교(스페인)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "distinction": {
+    "meaning": "차이, 구별",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "donkey": {
+    "meaning": "당나귀, 동키(슈렉의 캐릭터)",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "druzhkivka": {
+    "meaning": "드루지키우카(우크라이나 도시)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "ecuadorian": {
+    "meaning": "에콰도르의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "eht": {
+    "meaning": "사건 지평선 망원경(EHT)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "emissions-trading": {
+    "meaning": "배출권 거래의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "encouragement": {
+    "meaning": "격려, 고무",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "endeavor": {
+    "meaning": "노력, 시도",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "enlicitide": {
+    "meaning": "엔리시타이드(먹는 콜레스테롤 약)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "erdogan": {
+    "meaning": "에르도안(튀르키예 대통령)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "evida": {
+    "meaning": "이비다(스페인 대학 연구 그룹)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "fellowship": {
+    "meaning": "전문의 수련 과정, 동료애",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "finnair": {
+    "meaning": "핀에어(핀란드 항공사)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "first-quarter": {
+    "meaning": "1분기의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "food-related": {
+    "meaning": "식품 관련",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "galleria": {
+    "meaning": "갤러리아(백화점)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "gchq": {
+    "meaning": "영국 정보통신본부(GCHQ)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "gllit": {
+    "meaning": "글릿(걸그룹 팬덤 이름)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "gulen": {
+    "meaning": "귈렌(튀르키예 종교 지도자)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "halo": {
+    "meaning": "후광, 은하 헤일로",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "helix": {
+    "meaning": "나선",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "helinox": {
+    "meaning": "헬리녹스(캠핑 용품 회사)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "herb": {
+    "meaning": "허브, 약초",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "hfe": {
+    "meaning": "인류의 첫 시험(HFE)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "hongseong": {
+    "meaning": "홍성(충남 지역)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "imaginative": {
+    "meaning": "상상력이 풍부한",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "imd": {
+    "meaning": "국제경영개발대학원(IMD)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "informatics": {
+    "meaning": "정보학",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "institutet": {
+    "meaning": "연구소(스웨덴어)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "intestine": {
+    "meaning": "창자, 장",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "izna": {
+    "meaning": "이즈나(걸그룹)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "karolinska": {
+    "meaning": "카롤린스카(스웨덴 의대 연구소)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "keyveatz": {
+    "meaning": "키베츠(K팝 그룹)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "keyvitup": {
+    "meaning": "키빗업(K팝 그룹)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "kiiras": {
+    "meaning": "키라스(K팝 그룹)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "kimetsu": {
+    "meaning": "귀멸(귀멸의 칼날)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "klm": {
+    "meaning": "KLM(네덜란드 항공사)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "laist": {
+    "meaning": "라이스트(로스앤젤레스 뉴스 매체)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "launderer": {
+    "meaning": "돈세탁범",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "lausd": {
+    "meaning": "로스앤젤레스 통합교육구(LAUSD)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "ldl": {
+    "meaning": "저밀도 지단백질(LDL), 나쁜 콜레스테롤",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "lesser-known": {
+    "meaning": "덜 알려진",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "letting": {
+    "meaning": "임대, 세놓기",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "lipfendra": {
+    "meaning": "립펜드라(먹는 콜레스테롤 약)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "little-known": {
+    "meaning": "잘 알려지지 않은",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "long-time": {
+    "meaning": "오랜, 오래된",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "low-quality": {
+    "meaning": "질 낮은",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "macrophage": {
+    "meaning": "대식세포",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "madrs": {
+    "meaning": "몽고메리-오스베리 우울증 평가척도(MADRS)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "manga": {
+    "meaning": "만화(일본 만화)",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "measurable": {
+    "meaning": "측정할 수 있는, 뚜렷한",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "mineralize": {
+    "meaning": "광물화하다, 석회화하다",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "monumental": {
+    "meaning": "기념비적인, 거대한",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "mythology": {
+    "meaning": "신화",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "non-profit": {
+    "meaning": "비영리의, 비영리 단체",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "noticeable": {
+    "meaning": "눈에 띄는, 뚜렷한",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "offender": {
+    "meaning": "가해자, 범죄자",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "onchain": {
+    "meaning": "블록체인상의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "org": {
+    "meaning": "기관, 단체(.org 주소)",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "pfna": {
+    "meaning": "PFNA(과불화화합물 PFAS의 한 종류)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "phys": {
+    "meaning": "피지닷오알지(Phys.org, 과학 뉴스 사이트)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "positively": {
+    "meaning": "긍정적으로",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "precipitation": {
+    "meaning": "강수량, 강수",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "pretrained": {
+    "meaning": "사전 학습된",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "psychiatric": {
+    "meaning": "정신과의, 정신 질환의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "quantum-mechanical": {
+    "meaning": "양자역학의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "refuge": {
+    "meaning": "피난처, 안식처",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "relativistic": {
+    "meaning": "상대론적인",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "risk-based": {
+    "meaning": "위험 기반의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "ryanair": {
+    "meaning": "라이언에어(아일랜드 저가 항공사)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "saddle": {
+    "meaning": "부담을 지우다, 안장",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "sagittarius": {
+    "meaning": "궁수자리(우리 은하 중심의 사지타리우스 A*)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "scholarly": {
+    "meaning": "학술적인",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "scythians": {
+    "meaning": "스키타이인(고대 유목민)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "severely": {
+    "meaning": "심하게, 심각하게",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "socialism": {
+    "meaning": "사회주의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "sought-after": {
+    "meaning": "인기 있는, 수요가 많은",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "spectroscopy": {
+    "meaning": "분광학",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "spicy": {
+    "meaning": "매운",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "stand-in": {
+    "meaning": "대체용의, 대역",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "straightforward": {
+    "meaning": "간단한, 솔직한",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "subparsec": {
+    "meaning": "1파섹 미만의(천문 거리 단위)",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "synaptic": {
+    "meaning": "시냅스의",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "texture": {
+    "meaning": "질감, 식감",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "three-dimensional": {
+    "meaning": "3차원의, 입체의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "throne": {
+    "meaning": "왕좌",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "timeframe": {
+    "meaning": "기간, 시한",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "tomography": {
+    "meaning": "단층 촬영",
+    "level": 4,
+    "added": "2026-11-29-am"
+  },
+  "tract": {
+    "meaning": "관, 소화관",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "turbulence": {
+    "meaning": "혼란, 난기류",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "underwear": {
+    "meaning": "속옷",
+    "level": 1,
+    "added": "2026-11-29-am"
+  },
+  "uninterrupted": {
+    "meaning": "중단 없는",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "usgs": {
+    "meaning": "미국지질조사국(USGS)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "vehemently": {
+    "meaning": "격렬하게, 강하게",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "verish": {
+    "meaning": "베리시(한국 속옷 브랜드)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "wade": {
+    "meaning": "헤치며 나아가다, 힘겹게 해내다",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "weverse": {
+    "meaning": "위버스(팬 소통 플랫폼)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "work-life": {
+    "meaning": "일과 삶의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "working-age": {
+    "meaning": "노동 가능 연령의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "yaiba": {
+    "meaning": "귀멸의 칼날(일본 애니메이션 제목 일부)",
+    "level": 0,
+    "added": "2026-11-29-am"
+  },
+  "a-barrel": {
+    "meaning": "배럴당의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "abl": {
+    "meaning": "ABL바이오(한국 바이오 회사)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "above-average": {
+    "meaning": "평균 이상의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "academius": {
+    "meaning": "아카데미우스(의대생 면접 정리 플랫폼)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "accrual": {
+    "meaning": "누적, 발생",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "acrisure": {
+    "meaning": "애크리슈어(미국 피츠버그 경기장 후원사)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "aeci": {
+    "meaning": "AECI(앤스로픽의 AI 능력 지수)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "agder": {
+    "meaning": "아그데르(노르웨이 남부 지방)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "air-quality": {
+    "meaning": "대기질의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "akp": {
+    "meaning": "정의개발당(AKP, 튀르키예 집권당)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "all-cash": {
+    "meaning": "전액 현금의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "all-cause": {
+    "meaning": "모든 원인의",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "all-round": {
+    "meaning": "다재다능한, 만능의",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "re-emerge": {
+    "meaning": "다시 나타나다",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "republish": {
+    "meaning": "다시 게재하다",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "redaction": {
+    "meaning": "삭제 부분, 편집(검열)",
+    "level": 3,
+    "added": "2026-11-29-am"
+  },
+  "pigment": {
+    "meaning": "색소",
+    "level": 2,
+    "added": "2026-11-29-am"
+  },
+  "semi-finalist": {
+    "meaning": "준결승 진출자",
+    "level": 2,
+    "added": "2026-11-29-am"
   }
 }
